@@ -660,7 +660,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Resurgent | m1s3ry | v.1.0.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/718-Resurgent.vpk) | [repo](https://tristan-harris.itch.io/resurgent) |
 | RetroArch | Libretro Team | Nightly | 464.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/186-186.vpk) | [repo](https://github.com/libretro/retroarch) |
 | Retroarch Bubble Builder | AntHJ | v.1.0 | 5.6 MB | [download](https://github.com/AntHJ/Retroarch-Bubble-Builder/releases/download/v1.0/Retroarch.Bubble.Builder.vpk) | [repo](https://github.com/AntHJ/Retroarch-Bubble-Builder/releases) |
-| RetroFlow Launcher | jimbob4000 & VitaHEX games | v.8.2.0 | 13.1 MB | [download](https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.2.0/RetroFlow_v8.2.0.vpk) | [repo](https://github.com/jimbob4000/RetroFlow-Launcher) |
+| RetroFlow Launcher | jimbob4000 & VitaHEX games | v.8.3.0 | 13.1 MB | [download](https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.3.0/RetroFlow_v8.3.0.vpk) | [repo](https://github.com/jimbob4000/RetroFlow-Launcher) |
 | RetroLivearea | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/380-RetroLivearea.vpk) | [repo](https://github.com/Rinnegatamante/RetroLivearea) |
 | ReversMe | TheFloW | v.1.1 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/181-ReversMe.vpk) | [repo](https://drive.google.com/file/d/0B8d0Wy4mDFrGM0k0YW9Xd01qS2M/view) |
 | RigelEngine Vita | Rinnegatamante | v.1.0 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/988-duke2.vpk) | [repo](https://github.com/Rinnegatamante/RigelEngine) |
@@ -762,7 +762,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Spaghetti Kart Vita | Rinnegatamante | v.1.1 | 7.4 MB | [download](https://github.com/Rinnegatamante/SpaghettiKart/releases/download/v.1.1/spaghetti.vpk) | [repo](https://github.com/Rinnegatamante/SpaghettiKart) |
 | Speedrun Vita | FantaHourglass | v.1.1 | 99.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/464-Speedrun_Vita.vpk) | — |
 | Spelunky Classic HD Vita | SiulPop | v.1.0 | 7.3 MB | [download](https://github.com/SiulPop/Spelunky.Classic.HD.VITA./releases/download/speunky.vita/Spelunky-Classic.VPK) | [repo](https://github.com/SiulPop/Spelunky.Classic.HD.VITA.) |
-| Spiced Miku Vu | null & EK720 & SonicMastr | v.1.6 | 4.3 MB | [download](https://github.com/FuzionCD/MikuVU/releases/download/v1.6/MikuVU_1.6.vpk) | [repo](https://github.com/EK720/MikuVU) |
+| Spiced Miku Vu | null & EK720 & SonicMastr | v.1.6.1 | 4.2 MB | [download](https://github.com/FuzionCD/MikuVU/releases/download/v1.6.1/SpicedMikuVU_1.6.1.vpk) | [repo](https://github.com/EK720/MikuVU) |
 | SpiderVita | LeeStorm | v.1.2 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/142-SpiderVita.vpk) | [repo](http://www.psx-place.com/resources/spidervita.245/) |
 | Sqrxz 3 | Retroguru Team | v.1.05r | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/614-SQRXZ0003.vpk) | [repo](https://www.sqrxz.de/sqrxz-3/) |
 | Sqrxz 4 | Retroguru Team | v.1.02 | 0.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/615-SQRXZ0004.vpk) | [repo](https://www.sqrxz.de/sqrxz-4/) |
@@ -956,7 +956,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | vitaQuakeII | Rinnegatamante | v.2.4 | 5.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/278-vitaQuakeII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeII) |
 | vitaQuakeIII | Rinnegatamante | v.1.3 | 4.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/375-vitaQuakeIII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeIII) |
 | VitaRebootShutdown | McCallum99 | v.1.08 | 0.2 MB | [download](https://github.com/McCallum99/PSVitaRebootShutdown/releases/download/v1.08/VitaRebootShutdown.vpk) | [repo](https://github.com/McCallum99/PSVitaRebootShutdown) |
-| VitaRPS5 | Claude AI & ywnico & AAGaming | v.3.1.0 | 3.9 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.0/VitakiFork-v3.1.0.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
+| VitaRPS5 | Claude AI & ywnico & AAGaming | v.3.1.1 | 3.9 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.1/VitakiFork-v3.1.1.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
 | vitaRTCW | Rinnegatamante | v.0.9 | 4.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/459-vitaRTCW.vpk) | [repo](https://github.com/Rinnegatamante/vitaRTCW/) |
 | VitaRW | tomtomdu80 | #04d791c | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/151-VitaRW.vpk) | [repo](https://github.com/tomtomdu80/VitaRW) |
 | VitaScreenFlasher | NamelessGhoul0 | v.1.1 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/122-VitaScreenFlasher.vpk) | [repo](https://github.com/NamelessGhoul0/VitaScreenFlasher) |

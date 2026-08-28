@@ -1652,7 +1652,7 @@
     {
         "name": "RetroFlow Launcher",
         "icon": "ed7cd72db26f2761fb41b343492e51d4dfd5e27064a3ccd7447e70c256341706.png",
-        "version": "v.8.2.0",
+        "version": "v.8.3.0",
         "author": "jimbob4000 & VitaHEX games",
         "type": "4",
         "description": "3D Coverflow launcher for PSVITA.",
@@ -1666,9 +1666,9 @@
         "source": "https://github.com/jimbob4000/RetroFlow-Launcher",
         "release_page": "https://github.com/jimbob4000/RetroFlow-Launcher/releases",
         "trailer": "",
-        "size": "13704491",
+        "size": "13704574",
         "data_size": "0",
-        "hash": "5817968ec2ca9f99b80b06a2b84a40ad",
+        "hash": "f9507502a11b9d1c20bdcb2e5c203e65",
         "hash2": "362610b8633fc8c23b58692b464e845d",
         "changelog": "New:\n- Added support for Emu4Vita++ (version 0.71 or newer).\n- Added a new startup category option: Last played game. When selected, RetroFlow restores the last-used category and focuses on the last played game.\n\nImprovements:\n- Reworked the startup category menu to use left/right controls for easier navigation.\n- The startup category menu now hides categories that are disabled in the same menu (Collections, Homebrew, etc.).\n\nBug fixes:\n- Fixed Atari ST games not launching.",
         "requirements": "",
@@ -1676,7 +1676,7 @@
         "tags": "3d,lua,opensource",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.2.0/RetroFlow_v8.2.0.vpk",
+        "url": "https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.3.0/RetroFlow_v8.3.0.vpk",
         "data": ""
     },
     {
@@ -3572,7 +3572,7 @@
     {
         "name": "VitaRPS5",
         "icon": "f754ebe4cee40540c181672aac04923a8cede8a57aee74e218000e6482bb49d0.png",
-        "version": "v.3.1.0",
+        "version": "v.3.1.1",
         "author": "Claude AI & ywnico & AAGaming",
         "type": "4",
         "description": "PS5 streaming application for PSVita.",
@@ -3586,9 +3586,9 @@
         "source": "https://github.com/mauricio-gg/vitaki-vitarps5",
         "release_page": "https://github.com/mauricio-gg/vitaki-vitarps5/releases",
         "trailer": "",
-        "size": "4108047",
+        "size": "4109405",
         "data_size": "0",
-        "hash": "4c7df7a1f4cbcde5112016ffa3615ba6",
+        "hash": "8cf3c3500d460af77d4ea00f97efbacc",
         "hash2": "",
         "changelog": "-Fix production log writes and add UI logging toggle (#79) (fb34cc1).",
         "requirements": "",
@@ -3596,7 +3596,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.0/VitakiFork-v3.1.0.vpk",
+        "url": "https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.1/VitakiFork-v3.1.1.vpk",
         "data": ""
     },
     {
@@ -3902,7 +3902,7 @@
     {
         "name": "Spiced Miku Vu",
         "icon": "6d2fb2bfe3c16bc4748aab7efb26db54881f3874a1e2f7adef56e118937d00cd.png",
-        "version": "v.1.6",
+        "version": "v.1.6.1",
         "author": "null & EK720 & SonicMastr",
         "type": "4",
         "description": "Hatsune Miku random image viewer.",
@@ -3916,9 +3916,9 @@
         "source": "https://github.com/EK720/MikuVU",
         "release_page": "https://github.com/EK720/MikuVU/releases",
         "trailer": "",
-        "size": "4475215",
+        "size": "4450007",
         "data_size": "0",
-        "hash": "eb2c8e11bbf4cc23bf68ab636c60b782",
+        "hash": "03d00ad354f7a3ab47a17a47032d89a9",
         "hash2": "41f87f57e44d61f596a4f092ac907798",
         "changelog": "- Updated the internal API endpoint to match recent Gelbooru API updates.\n-- Users who have been seeing \"Network error\" popups should now be fixed.",
         "requirements": "",
@@ -3926,7 +3926,7 @@
         "tags": "nsfw,online,multimedia,lua,opensource",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/FuzionCD/MikuVU/releases/download/v1.6/MikuVU_1.6.vpk",
+        "url": "https://github.com/FuzionCD/MikuVU/releases/download/v1.6.1/SpicedMikuVU_1.6.1.vpk",
         "data": ""
     },
     {
