@@ -201,7 +201,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | DeathRun To Vita | Vektast | Build 531 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/253-DeathRun.vpk) | [repo](http://wololo.net/talk/viewtopic.php?t=46567) |
 | Defender II Vita | Rocroverss | v.1.01 | 2.3 MB | [download](https://github.com/Rocroverss/Defender-II-PS-Vita-Port/releases/download/v1.01/defender2_vita_1.01.vpk) | [repo](https://github.com/Rocroverss/Defender-II-PS-Vita-Port) |
 | Defendguin | Island_Games | v.1.0 | 2.8 MB | [download](https://github.com/island-games/Defendguin/releases/download/v1.0/Defendguin.vpk) | [repo](https://github.com/island-games/Defendguin) |
-| Deltarune Vita | ChatGPT AI | v.0.69 | 2.3 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.69/Deltarune-v0.69.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
+| Deltarune Vita | ChatGPT AI | v.0.71 | 4.3 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.71/Deltarune-v0.71-33.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
 | Demons Down | WIDEGCG | v.1.0 | 45.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/679-DemonsDown.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/demonsdown/) |
 | Desert Golfing Vita | Rinnegatamante | v.1.0 | 0.5 MB | [download](https://github.com/Rinnegatamante/desertgolfing_vita/releases/download/v.1.0/desertgolfing.vpk) | [repo](https://github.com/Rinnegatamante/desertgolfing_vita) |
 | DeSmuME-Vita | MasterFeizz | v.0.2 | 1.8 MB | [download](https://github.com/masterfeizz/DeSmuME-Vita/releases/download/v0.2/desmume.vpk) | [repo](https://github.com/masterfeizz/DeSmuME-Vita) |

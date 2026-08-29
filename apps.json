@@ -902,7 +902,7 @@
     {
         "name": "Deltarune Vita",
         "icon": "fc2c4f161294c75bcb5dd74cfca553c70a6b01704a3e201c4192e1b62d4ae36d.png",
-        "version": "v.0.69",
+        "version": "v.0.71",
         "author": "ChatGPT AI",
         "type": "2",
         "description": "Port of Deltarune for PSVita.",
@@ -916,9 +916,9 @@
         "source": "https://github.com/WolffsRoom/DeltaruneVita",
         "release_page": "https://github.com/WolffsRoom/DeltaruneVita/releases",
         "trailer": "",
-        "size": "2359680",
+        "size": "4554722",
         "data_size": "0",
-        "hash": "280a9d43dd45c8b54bb1de6c16719b9c",
+        "hash": "e4b68d99b57bb03f681f3afc26c08f43",
         "hash2": "",
         "changelog": "Runtime and compatibility\n- The port now loads each chapter's original Windows data.win directly, removing the old game.droid conversion step (a remnant from the beginning of the project, in which data from the Android port was used).\n- Added missing GameMaker behavior required by DELTARUNE, including array_equals(), corrected mixed-width binary results, mp_grid_path defaults and draw_path support.\n- Corrected surface readback and puzzle verification. The three Chapter 2 light puzzles can now validate their solutions on PS Vita. Fix Issue 10.\n- Fixed the Chapter 3 pathfinding softlock near the hole sequence. Fix Issue 11.\n- Fixed the mixed-width VM operation related to Susie's outfit selection in Chapter 5. Fix Issue 13.\n- Improved buffer and surface compatibility, collision handling, room creation diagnostics and GameMaker builtin coverage.\n\nRendering and performance\n- Reworked texture caching, protected UI/font atlases and reduced repeated texture uploads and evictions. Fix Issue 11.\n- Added chapter-aware preloading for audio, textures and frequently used assets. Fix Issue 11.\n- Improved rendering performance in several demanding Chapter 2 and Chapter 3 rooms, including the couch-overworld sequence Fix Issue 11.\n- Improved Chapter 5 town performance and stability while retaining the Original graphics profile. Partially fixes issue 13.\n- Fixed missing or flashing interface elements, dialogue frames, characters and room textures in several chapters.\n- Added safer surface synchronization before GPU readback.\n- Preserved the Original, Medium and Low graphics profiles without forcing reduced texture quality in Original mode.\n\nGraphic API:\n- A feature allowing chapters to launch with different graphics APIs was tested in the v0.64 beta. While the test yielded positive results, modern-gl still requires further adjustments before it can be fully implemented.\n- The experimental modern-gl renderer was evaluated and reverted. As a result, v0.64 continues to rely on the more stable legacy-gl renderer across all chapters.\n\nAudio and video\n- Revised music streaming, startup order and room-transition behavior.\n- Added separate Master, Music and Sound Effects controls, plus an option to disable audio for performance testing.\n- Expanded audio preloading to reduce first-use stutters in dialogue, battles and room transitions.\n- Added experimental Chapter 3 video playback support. Some videos may still require further compatibility work (Still in development)\n\nGame Settings, controls and diagnostics\n- Reworked Game Settings icons and confirmation screens. Fix Issue 7.\n- Improved touch controls, touch editing and navigation.\n- Expanded the room browser and developer overlay with room, event, alarm, collision, audio, render and expensive-GML timing data.\n- Added optional collision-mask diagnostics for puzzle and room testing.\n- Improved dynamic borders, manual border selection and configuration loading.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: Steam",
@@ -926,7 +926,7 @@
         "tags": "",
         "ai": "1",
         "score": "85.9",
-        "url": "https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.69/Deltarune-v0.69.vpk",
+        "url": "https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.71/Deltarune-v0.71-33.vpk",
         "data": ""
     },
     {
