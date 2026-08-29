@@ -3214,5 +3214,29 @@
         "tags": "",
         "trailer": "",
         "trophies": "0"
+    },
+    {
+        "id": "1502",
+        "name": "VitaBtFix",
+        "author": "gabew100",
+        "version": "v.1.1",
+        "description": "Fix silent audio with newer Bluetooth headphones on PSVITA.",
+        "long_description": "Fixes silent audio when pairing newer Bluetooth headphones, such as AirPods Pro 2, with the PSVITA.",
+        "changelog": "- First Release",
+        "requirements": "",
+        "url": "https://github.com/gabew100/VitaBtFix/releases/download/v1.1/vitabtfix.skprx",
+        "size": "8147",
+        "hash": "cfd87281b63a9835b4125dfb438b734f",
+        "hash2": "",
+        "data_size": "0",
+        "date": "2026-08-29",
+        "downloads": "0",
+        "release_page": "https://github.com/gabew100/VitaBtFix/releases",
+        "source": "https://github.com/gabew100/VitaBtFix",
+        "screenshots": "",
+        "status": "0",
+        "tags": "",
+        "trailer": "",
+        "trophies": "0"
     }
 ]
