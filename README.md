@@ -31,7 +31,7 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | PC tools | 27 | 27 |
 | **Total** | **1296** | **1296 (100%)** |
 
-64 further entries have been added since the shutdown and are not part of
+71 further entries have been added since the shutdown and are not part of
 what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 
 | Asset | Recovered |
