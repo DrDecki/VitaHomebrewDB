@@ -47,7 +47,7 @@ it was.
 | TrophaxSE | LiEnby | v.1.5 | 0.2 MB | [download](https://git.silica.codes/Li/trophaxse/releases/download/v1.5/TrophaxSE.vpk) | [repo](https://git.silica.codes/Li/trophaxse) |
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [repo](https://github.com/kyokuheishin/vita-ns-controller) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [repo](https://github.com/SKGleba/VitaDeploy) |
-| VitaForge | josephinoo | v.0.1.0 | 4.1 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.0/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
+| VitaForge | josephinoo | v.0.1.3 | 5.2 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.3/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
 | WoozyLLM | LuckyI13I | v.0.1P | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [repo](https://github.com/withLogic/zenonia2-remaster-vita) |
 | Zenonia 3 | MetalSyntax | v.01.30 | 1.6 MB | [download](https://github.com/MetalSyntax/zenonia3-psvita-port/releases/download/v01.30/zenonia_3.vpk) | [repo](https://github.com/MetalSyntax/zenonia3-psvita-port) |
