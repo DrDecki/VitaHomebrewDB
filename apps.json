@@ -1472,7 +1472,7 @@
     {
         "name": "Minecraft: Story Mode",
         "icon": "a1b03a0f81c6f37a2767c466c3700786c07707965b267516fc0143362e7b3ecd.png",
-        "version": "v.1.10",
+        "version": "v.1.11",
         "author": "LeZergan",
         "type": "2",
         "description": "Minecraft: Story Mode Season 1 port.",
@@ -1486,9 +1486,9 @@
         "source": "https://github.com/LeZergan/mcsm-vita",
         "release_page": "https://github.com/LeZergan/mcsm-vita/releases",
         "trailer": "",
-        "size": "3438377",
+        "size": "3441189",
         "data_size": "0",
-        "hash": "af29646463afb2c7b6fd147c401ac40e",
+        "hash": "7d7e9baf8423eea3508bce29dd333f1c",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "Game Data Files: Android",
@@ -1496,7 +1496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/LeZergan/mcsm-vita/releases/download/v1.10/MCSM-1.10.vpk",
+        "url": "https://github.com/LeZergan/mcsm-vita/releases/download/v1.11/MCSM-1.11.vpk",
         "data": ""
     },
     {

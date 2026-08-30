@@ -29,7 +29,7 @@ it was.
 | Lego Island | isledecomp | v.0.1 | 6.8 MB | [download](https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk) | [repo](https://github.com/isledecomp/isle-portable) |
 | MarmaladeBoy_LCD | Bunkai9448 | v.1.0 | 3.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/MarmaladeBoy_LCD.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [repo](https://github.com/minecraftpe-vita/minecraftpe-vita) |
-| Minecraft: Story Mode | LeZergan | v.1.10 | 3.3 MB | [download](https://github.com/LeZergan/mcsm-vita/releases/download/v1.10/MCSM-1.10.vpk) | [repo](https://github.com/LeZergan/mcsm-vita) |
+| Minecraft: Story Mode | LeZergan | v.1.11 | 3.3 MB | [download](https://github.com/LeZergan/mcsm-vita/releases/download/v1.11/MCSM-1.11.vpk) | [repo](https://github.com/LeZergan/mcsm-vita) |
 | Moonlight Relay | dubleyu | v.0.15.20-beta | 3.0 MB | [download](https://github.com/dubleyu/vita-moonlight-relay/releases/download/v0.15.20-beta/Moonlight-Relay-v0.15.20.vpk) | [repo](https://github.com/dubleyu/vita-moonlight-relay) |
 | NoSleep | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/nosleep/releases/download/v0.1/NoSleep.vpk) | [repo](https://git.silica.codes/Li/nosleep) |
 | NXENGINE-EVO | nxengine | v.2.6.5 | 10.0 MB | [download](https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5/NXEngine-Evo-v2.6.5-Vita.vpk) | [repo](https://github.com/nxengine/nxengine-evo) |
@@ -76,7 +76,7 @@ it was.
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [repo](https://git.silica.codes/Li/qaspoofer) |
 | ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [repo](https://git.silica.codes/Li/ScoreHax) |
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [repo](https://git.silica.codes/Li/trophax) |
-| uac-pstv-host | SJK132 | v.0.2 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v0.2/uac_pstv.skprx) | [repo](https://github.com/SJK132/uac-pstv-host) |
+| uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [repo](https://github.com/SJK132/uac-pstv-host) |
 | videoDebug | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/videodebug/releases/download/1.0/videoDebug.skprx) | [repo](https://git.silica.codes/Li/videodebug) |
 | Vita MP4 Recorder | Rinnegatamante | v.0.5 | 0.0 MB | [download](https://github.com/Rinnegatamante/Vita-MP4-Recorder/releases/download/v.0.5/VitaMP4Recorder.suprx) | [repo](https://github.com/Rinnegatamante/Vita-MP4-Recorder) |
 | VitaBrightEX | Zushikina-kun & devnoname120 | v.1.3 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/VitaBrightEX.zip) | [repo](https://github.com/Zushikina-kun/VitaBrightEX) |
