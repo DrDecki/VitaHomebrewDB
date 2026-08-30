@@ -4,10 +4,11 @@ These were never on VitaDB. They were contributed afterwards, mostly by their
 own authors, and are kept apart so the preserved catalogue stays exactly what
 it was.
 
-## PSVITA homebrews (47)
+## PSVITA homebrews (51)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
+| Pac-man  Deadline | MRKane | v.1.0 | 67.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PacManDeadline.vpk) | [repo](https://mrkane.itch.io/pac-man-deadline) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.3 | 5.5 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.3/Amnesia-Vita-01.00.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | BattleShip | robin994 | v.1.2 | 6.9 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.2/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
@@ -16,6 +17,7 @@ it was.
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [repo](https://git.silica.codes/Li/creeperdiver) |
 | CTR: High Octane | Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.0/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
+| Deckis Platformer | DrDecki | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [repo](https://drdecki.itch.io/deckis-platformer) |
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [repo](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [repo](https://github.com/oestriot/GcToolKit) |
@@ -32,6 +34,7 @@ it was.
 | Moonlight Relay | dubleyu | v.0.15.20-beta | 3.0 MB | [download](https://github.com/dubleyu/vita-moonlight-relay/releases/download/v0.15.20-beta/Moonlight-Relay-v0.15.20.vpk) | [repo](https://github.com/dubleyu/vita-moonlight-relay) |
 | NoSleep | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/nosleep/releases/download/v0.1/NoSleep.vpk) | [repo](https://git.silica.codes/Li/nosleep) |
 | NXENGINE-EVO | nxengine | v.2.6.5 | 10.0 MB | [download](https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5/NXEngine-Evo-v2.6.5-Vita.vpk) | [repo](https://github.com/nxengine/nxengine-evo) |
+| OmniBook | ninuzzomagno | v.1.0.1 | 30.4 MB | [download](https://github.com/ninuzzomagno/OmniBook/releases/download/v1.0/OmniBook.vpk) | [repo](https://github.com/ninuzzomagno/OmniBook) |
 | Parental Control Bypass | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/parentalcontrolbypass/releases/download/v1.0/Parental_Control_Bypass.vpk) | [repo](https://git.silica.codes/Li/parentalcontrolbypass) |
 | PKGj | blastrock | v.0.57 | 1.4 MB | [download](https://github.com/blastrock/pkgj/releases/download/v0.57/pkgj.vpk) | [repo](https://github.com/blastrock/pkgj) |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [repo](https://github.com/celticg/AS-Pocket-Mortys-vita) |
@@ -48,6 +51,7 @@ it was.
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [repo](https://github.com/kyokuheishin/vita-ns-controller) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [repo](https://github.com/SKGleba/VitaDeploy) |
 | VitaForge | josephinoo | v.0.1.3 | 5.2 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.3/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
+| VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [repo](https://github.com/spyro-98/VitaMaps) |
 | VitaMediaDeck | spyro-98 | v.1.0.1 | 4.3 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v1.0.1/VitaMediaDeck.vpk) | [repo](https://github.com/spyro-98/VitaMediaDeck) |
 | WoozyLLM | LuckyI13I | v.0.1P | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [repo](https://github.com/withLogic/zenonia2-remaster-vita) |
