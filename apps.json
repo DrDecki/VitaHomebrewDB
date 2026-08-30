@@ -812,7 +812,7 @@
     {
         "name": "WoozyLLM",
         "icon": "987247d98ae1b48517443c239e9a7bb0c08bc0a5433faa0183378fc3c1395125.png",
-        "version": "v.0.1P",
+        "version": "v.0.1P-fix1",
         "author": "LuckyI13I",
         "type": "4",
         "description": "AI chat client for PSVITA.",
@@ -826,9 +826,9 @@
         "source": "https://github.com/LuckyI13I/WoozyLLM",
         "release_page": "https://github.com/LuckyI13I/WoozyLLM/releases",
         "trailer": "",
-        "size": "823016",
+        "size": "826346",
         "data_size": "0",
-        "hash": "3eaf366dd82c2a77f84537e9c7c63422",
+        "hash": "b0a5b49d05b0acde7de08bf0c2e40cb2",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "",
@@ -836,7 +836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P/WoozyLLM.vpk",
+        "url": "https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk",
         "data": ""
     },
     {
@@ -1502,7 +1502,7 @@
     {
         "name": "OpenNow Vita",
         "icon": "cb92c04466cb08e4794e18377cc13a54ec51c2730e9f4340c28226c172753cbb.png",
-        "version": "v.0.3.0",
+        "version": "v.0.3.2",
         "author": "josephinoo",
         "type": "4",
         "description": "Nvidia GeForce Now client for PSVita.",
@@ -1516,9 +1516,9 @@
         "source": "https://github.com/OpenCloudGaming/OpenNOW-vita",
         "release_page": "https://github.com/OpenCloudGaming/OpenNOW-vita/releases",
         "trailer": "",
-        "size": "6632540",
+        "size": "9436053",
         "data_size": "0",
-        "hash": "740b2c5176338456258dc18b38269338",
+        "hash": "be437b6a0a83cd2d674a81f6b89b2120",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "",
@@ -1526,7 +1526,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.0/opennow-vita.vpk",
+        "url": "https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.2/opennow-vita.vpk",
         "data": ""
     },
     {
@@ -1682,7 +1682,7 @@
     {
         "name": "OpenMW Vita",
         "icon": "7019f6d9fb12a2e53ebbc24f0fd3bb6cf2807dabfdd4c94330b7c5f9378124f2.png",
-        "version": "v.2.1.1",
+        "version": "v.2.2",
         "author": "KingTorro",
         "type": "2",
         "description": "Port of Morrowind for PSVita.",
@@ -1696,9 +1696,9 @@
         "source": "https://github.com/TheLostPantheon/openmw",
         "release_page": "https://github.com/TheLostPantheon/openmw/releases",
         "trailer": "",
-        "size": "168358757",
+        "size": "168380572",
         "data_size": "0",
-        "hash": "",
+        "hash": "36f3b689c60b165ab21f7179e35bf3e0",
         "hash2": "",
         "changelog": "- Fixed out-of-memory crashes when saving or loading long-running games\n- Fixed slow memory buildup during long indoor sessions\n- Better crash diagnostics in boot.log",
         "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
@@ -1706,7 +1706,7 @@
         "tags": "",
         "ai": "1",
         "score": "86.5",
-        "url": "https://github.com/TheLostPantheon/openmw/releases/download/v2.1.1/openmw.vpk",
+        "url": "https://github.com/TheLostPantheon/openmw/releases/download/v2.2/openmw.vpk",
         "data": ""
     },
     {
@@ -1862,7 +1862,7 @@
     {
         "name": "Save Keeper",
         "icon": "9a7d23c03b0187c25e6212c66667bd05f0e8d015f774496fb127c4835c74ba47.png",
-        "version": "v.1.1.0",
+        "version": "v.1.3.1",
         "author": "Claude AI",
         "type": "4",
         "description": "Save backup manager with Google Drive sync.",
@@ -1876,9 +1876,9 @@
         "source": "https://github.com/falkenhawk/vita-save-keeper",
         "release_page": "https://github.com/falkenhawk/vita-save-keeper/releases",
         "trailer": "",
-        "size": "3034583",
+        "size": "3150095",
         "data_size": "0",
-        "hash": "408ed06e450292dc1df14c93f69980e7",
+        "hash": "713ed063060d67ba2c860f978bcfd67c",
         "hash2": "",
         "changelog": "- back up and upload a whole tab in one gesture: hold Select to back up everything at once and send it to Google Drive, later runs only process what is new\n- a details screen shows the slots inside a save - titles, descriptions, dates, and sometimes more, depending on what the game stores there\n- local and cloud copies of a backup now show as one row, with a small cloud icon marking where it lives, the separate [GD]-marked rows are gone\n- you may add labels to your backups to easily tell them apart\n- sorting and backup names use the real save dates read from the save data, not file times\n- backup folders carry the game's title next to the ID (for example PCSB00456 FEZ), so backups are easier to recognize in the Google Drive web UI\n- refreshed app assets: new icon, LiveArea background, and start screen",
         "requirements": "",
@@ -1886,7 +1886,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://github.com/falkenhawk/vita-save-keeper/releases/download/v1.1.0/save-keeper.vpk",
+        "url": "https://github.com/falkenhawk/vita-save-keeper/releases/download/v1.3.1/save-keeper.vpk",
         "data": ""
     },
     {
@@ -2372,7 +2372,7 @@
     {
         "name": "Save Sync",
         "icon": "83c69b7a7af19414b9ef23122b3eef46cb87e27b72c95e3689f3708595ba7fd4.png",
-        "version": "v.0.1.4",
+        "version": "v.0.1.8",
         "author": "Claude AI & iamcco",
         "type": "4",
         "description": "Self-hosted manual cloud save sync for PSVita.",
@@ -2386,9 +2386,9 @@
         "source": "https://github.com/unveroleone/vita-save-sync",
         "release_page": "https://github.com/unveroleone/vita-save-sync/releases",
         "trailer": "",
-        "size": "7664469",
+        "size": "8120262",
         "data_size": "0",
-        "hash": "4f0e9368d0ca481b13f47bf5f61a410e",
+        "hash": "ee6f485f2be45fb420a71f86b507bed8",
         "hash2": "",
         "changelog": "- New desktop/Android app (Save Sync Hub) for PPSSPP and RetroArch save sync across macOS, Windows, Linux, and Android\n- PSP/Adrenaline emulator save detection on Vita with ICON0.PNG thumbnails\n- Cloud tab with per-game sync status, one-tap sync and Sync All\n- Multi-source game grid showing native Vita, PSP, and RetroArch entries\n- New server API: DELETE endpoint, device listing, version tracking\n- Cloud downloads auto-extract to correct folders (no manual copy)\n- New app icon and LiveArea bubble",
         "requirements": "",
@@ -2396,7 +2396,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://github.com/unveroleone/save-sync/releases/download/v0.1.4/vita-save-cloud.vpk",
+        "url": "https://github.com/unveroleone/save-sync/releases/download/v0.1.8/vita-save-cloud.vpk",
         "data": ""
     },
     {
@@ -3212,7 +3212,7 @@
     {
         "name": "VitaDB Downloader",
         "icon": "8064ba8cf5276704931ec20e5c9731e1431ba0966f9e26ff696425b0c196af0f.png",
-        "version": "v.2.5",
+        "version": "v.2.7",
         "author": "Rinnegatamante",
         "type": "4",
         "description": "Official Vita client for VitaDB.",
@@ -3226,9 +3226,9 @@
         "source": "https://github.com/Rinnegatamante/VitaDB-Downloader",
         "release_page": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases",
         "trailer": "",
-        "size": "3132843",
+        "size": "3101129",
         "data_size": "5245064",
-        "hash": "5571311ec20fed3fc06a0cdb3d87087f",
+        "hash": "651ec231c33f6132701770cb6337673e",
         "hash2": "",
         "changelog": "- Added a Crank icon nearby apps using AI.\n- Added two new filters: \"Apps using AI\" and \"Apps not using AI\" for Vita homebrews.\n- Moved to MariaDB IDs usage for the Favorites homebrew system: This means now applications with clashing TitleIDs can be properly put in the favorite list singularly.\n- Added support to Favorites system for PSP homebrews.\n- Reduced memory usage of the application.\n- Updated to latest vitaGL commit.\n- Made so that the search feature searches also inside homebrews/themes descriptions.\n- Made so that the search feature is now cached, not impacting performance of the app.\n- Made so that Vita applist and PSP applist are downloaded only when there's an update on the server (using If-Modified-Since HTTP header): this will make booting the app and switching to PSP apps way faster.\n- Fixed a bug causing Favorites list and the daemon blacklist to get corrupted when deleting entries in some circumstances.\n- Fixed a bug causing the blacklisted status to not be visually updated inside the app when blacklisting or whitelisting an application in certain circumstances.",
         "requirements": "- libshacccg.suprx",
@@ -3236,7 +3236,7 @@
         "tags": "opensource,store,online",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.2.5/VitaDB.vpk",
+        "url": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.2.7/VitaDB.vpk",
         "data": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.1.8/VitaDB.zip"
     },
     {
@@ -7832,7 +7832,7 @@
     {
         "name": "devilutionX",
         "icon": "0bd2f4425d68293e73c3d7d3b22c40ce5689e66f550e0443bff2a8a69731c7cb.png",
-        "version": "v.1.5.4",
+        "version": "v.1.5.5",
         "author": "devilutionX Team",
         "type": "2",
         "description": "Port of Diablo for PSVITA/PSTV.",
@@ -7846,9 +7846,9 @@
         "source": "https://github.com/diasurgical/devilutionX",
         "release_page": "https://github.com/diasurgical/devilutionX/releases/",
         "trailer": "",
-        "size": "7728578",
+        "size": "7599439",
         "data_size": "0",
-        "hash": "0eb1b212af41d1aa5f1462bb85ccba31",
+        "hash": "ad3c7f74821d4b38f9b967efcbc3a224",
         "hash2": "",
         "changelog": "Features:\nMultiplayer\n- Make invalid items unusable\n\nControls\n- Better support for various gamepads\n- Gamepad: Improve navigation of the stash\n- Improve keymapper options\n\nPlatforms\n- Added support for macOS 10.4 PowerPC\n- Added support for Windows XP\n- Android: Avoid game lagging on devices that can switch refresh rates\n- Correct networking support on big-endian systems\n- iOS: High refresh rate support\n- Xbox One/Series: Include translations\n\nTranslations\n- Improve rendering of Turkish texts\n- Update Italian translation\n- Update Russian translation\n- Update Ukrainian translation\n\nStability / Performance / System\n- Fix crashes on device hot-plugging\n- Fix game crash\n- Hide Upscale option in the Settings menu to avoid stability issues\n- Looser validation in Single Player games\n- Make file sync services less likely to corrupt saves\n- Make it clearer how to switch between Hellfire and Diablo\n- Use available screen space in the Settings menu\n\nBug Fixes:\nGameplay\n- Fix being able to repair equipped items for free\n- Fix game freezing when loading Lazarus lair from a save game\n- Unique drops now reset on a new game\n- Wake up the whole pack of Gargoyles when disturbed\n\nPlatforms\n- Android: Fix performance and audio issues on recent versions\n- Android: Fix full immersive mode in Android 9 and higher\n- Incorrect menu graphics on DirectFB devices\n- PS4/Switch/Vita/Xbox One/Series: Correct controller mapping\n\nMultiplayer\n- Correct some item validation\n- Fix items being lost when held in the cursor during lag spikes\n\nBug Fixes for Original Diablo Bugs:\nGameplay\n- Fix non-solid fences in the caves\n\nBug Fixes for Original Hellfire Bugs:\nGameplay\n- Fix incorrectly solid tile next to crypt stairs down\n\nMultiplayer\n- Fix runes not being seen as a player spell in PvP",
         "requirements": "- Game Data Files: PC",
@@ -7856,7 +7856,7 @@
         "tags": "commercial,aaa,rpg,hardcore,fantasy",
         "ai": "0",
         "score": "88.4",
-        "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.4/devilutionx-vita.vpk",
+        "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-vita.vpk",
         "data": ""
     },
     {

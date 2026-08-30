@@ -985,7 +985,7 @@
     },
     {
         "name": "ShowInfo Lite",
-        "version": "v.0.2",
+        "version": "v.0.6-full",
         "author": "Yoti",
         "description": "Shows some info for the running app.",
         "id": "518",
@@ -997,15 +997,15 @@
         "source": "https://github.com/Yoti/psv_showinfo/tree/lite-user",
         "release_page": "https://github.com/Yoti/psv_showinfo/releases",
         "trailer": "",
-        "size": "6873",
+        "size": "7136",
         "data_size": "0",
-        "hash": null,
+        "hash": "ef2f9cec9767f5fb164fd6290abb1bce",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/Yoti/psv_showinfo/releases/download/v0.2-lite/ShowInfoLite.suprx"
+        "url": "https://github.com/Yoti/psv_showinfo/releases/download/v0.6-full/ShowInfo.suprx"
     },
     {
         "name": "NoPowerLimits",

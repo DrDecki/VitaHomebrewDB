@@ -209,7 +209,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | DethKarz Remake | LachsProducktions | v.0.2.3.1 alpha | 152.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1372-v0.2.3.1.alpha.vpk) | [repo](https://lachsproducktions.itch.io/the-unofficial-dethkarz-remake) |
 | Dethrace Vita | Rinnegatamante | v.1.0 | 2.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1244-dethrace.vpk) | [repo](https://github.com/Rinnegatamante/dethrace) |
 | Devil May Cry 4 Refrain Vita | yizhigai & SpriteLisen & KAAAsS | BETA | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1377-dmc4.vpk) | [repo](https://gitee.com/Moqi01/acrodea_runtime) |
-| devilutionX | devilutionX Team | v.1.5.4 | 7.4 MB | [download](https://github.com/diasurgical/DevilutionX/releases/download/1.5.4/devilutionx-vita.vpk) | [repo](https://github.com/diasurgical/devilutionX) |
+| devilutionX | devilutionX Team | v.1.5.5 | 7.2 MB | [download](https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-vita.vpk) | [repo](https://github.com/diasurgical/devilutionX) |
 | devilutionX | gokuhs | v.0.5.0 Beta 1 | 2.9 MB | [download](https://github.com/gokuhs/devilutionX/releases/download/0.5.0/devilutionx.vpk) | [repo](https://github.com/gokuhs/devilutionX) |
 | Diver Down Vita | VSM GAMMER | v.1.0 | 20.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1126-DIVER_DOWN.vpk) | — |
 | DJ Escher | dos | v.1.0 | 17.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1446-djescher-vita.vpk) | [repo](https://gitlab.com/dosowisko.net/djescher/) |
@@ -544,8 +544,8 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | OpenJazz | usineur | v.1.1 | 0.7 MB | [download](https://github.com/usineur/openjazz/releases/download/1.1/OpenJazz.vpk) | [repo](https://github.com/usineur/openjazz) |
 | OpenMoktar | usineur | v.1.0 | 0.5 MB | [download](https://github.com/usineur/opentitus/releases/download/1.0/Moktar.vpk) | [repo](https://github.com/usineur/opentitus) |
 | OpenMRac Vita | Rinnegatamante | v.1.0.1 | 6.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1127-OpenMRac.vpk) | [repo](https://github.com/Rinnegatamante/OpenMRac) |
-| OpenMW Vita | KingTorro | v.2.1.1 | 160.6 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.1.1/openmw.vpk) | [repo](https://github.com/TheLostPantheon/openmw) |
-| OpenNow Vita | josephinoo | v.0.3.0 | 6.3 MB | [download](https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.0/opennow-vita.vpk) | [repo](https://github.com/OpenCloudGaming/OpenNOW-vita) |
+| OpenMW Vita | KingTorro | v.2.2 | 160.6 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.2/openmw.vpk) | [repo](https://github.com/TheLostPantheon/openmw) |
+| OpenNow Vita | josephinoo | v.0.3.2 | 9.0 MB | [download](https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.2/opennow-vita.vpk) | [repo](https://github.com/OpenCloudGaming/OpenNOW-vita) |
 | OpenRCT2-CE Vita | technicaljicama | v.1 | 4.5 MB | [download](https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk) | [repo](https://github.com/technicaljicama/OpenRCT2-CE) |
 | OpenSeason | InquisitionImplied | v.1.0 | 30.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/466-OpenSeason.vpk) | [repo](https://twitter.com/Yoyogames28/status/1120550464121122816) |
 | OpenSonic Vita | KiddRwxSsj | v.1.0.7 | 10.4 MB | [download](https://github.com/KiddRwxSsj/opensonic-vita/releases/download/1.0.7/opensonic-vita.vpk) | [repo](https://github.com/KiddRwxSsj/opensonic-vita) |
@@ -692,8 +692,8 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Sakura Succubus Vita | SilverCrow | v.1.10 | 13.9 MB | [download](https://github.com/SilverCrow2323/Sakura-Succubus-Vita/releases/download/v.1.1/Sakura.Succubus-01.10.vpk) | [repo](https://github.com/SilverCrow2323/Sakura-Succubus-Vita) |
 | SanicBall PSVita | SpanishFreddy | v.3 | 124.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1027-sanicball.vpk) | [repo](https://github.com/SpanishFreddy/SanicBall-PSVita-Port) |
 | Save Cloud Vita | iamcco | v.2026.04.06 | 5.7 MB | [download](https://github.com/save-cloud/save-cloud-vita/releases/download/v2024.02.28/save-cloud-2026-04-06.vpk) | [repo](https://github.com/save-cloud/save-cloud-vita/) |
-| Save Keeper | Claude AI | v.1.1.0 | 2.9 MB | [download](https://github.com/falkenhawk/vita-save-keeper/releases/download/v1.1.0/save-keeper.vpk) | [repo](https://github.com/falkenhawk/vita-save-keeper) |
-| Save Sync | Claude AI & iamcco | v.0.1.4 | 7.3 MB | [download](https://github.com/unveroleone/save-sync/releases/download/v0.1.4/vita-save-cloud.vpk) | [repo](https://github.com/unveroleone/vita-save-sync) |
+| Save Keeper | Claude AI | v.1.3.1 | 3.0 MB | [download](https://github.com/falkenhawk/vita-save-keeper/releases/download/v1.3.1/save-keeper.vpk) | [repo](https://github.com/falkenhawk/vita-save-keeper) |
+| Save Sync | Claude AI & iamcco | v.0.1.8 | 7.7 MB | [download](https://github.com/unveroleone/save-sync/releases/download/v0.1.8/vita-save-cloud.vpk) | [repo](https://github.com/unveroleone/vita-save-sync) |
 | Save The Bees | NathanKewley | R1 | 17.8 MB | [download](https://github.com/NathanKewley/godot_save_the_bees/releases/download/release-1/SaveTheBees.vpk) | [repo](https://github.com/NathanKewley/godot_save_the_bees/tree/port/psp-vita) |
 | Save The Scene | Lapy | v.1.03 | 49.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/445-Save_20the_20Scene.vpk) | [repo](https://github.com/Lapy055/Save_the_Scene) |
 | Scratch Everywhere! | NateXS & Dogo6647 | Beta Build 40 | 4.0 MB | [download](https://github.com/ScratchEverywhere/ScratchEverywhere/releases/download/0.40/scratch-vita.vpk) | [repo](https://github.com/ScratchEverywhere/ScratchEverywhere) |
@@ -928,7 +928,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | VitaBrot | Imroy | v.0.1.2 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/325-VitaBrot.vpk) | [repo](https://github.com/Imroy/VitaBrot) |
 | VitaCID | tomtomdu80 | v.1.0 | 0.0 MB | [download](https://github.com/MajorTomSec/VitaCID/releases/download/1.0/VitaCID.vpk) | [repo](https://github.com/tomtomdu80/VitaCID) |
 | VitaCord | devingDev | v.1.5fix1 | 2.6 MB | [download](https://github.com/devingDev/VitaCord/releases/download/1.5fix1/vita_cord.vpk) | [repo](https://github.com/devingDev/VitaCord) |
-| VitaDB Downloader | Rinnegatamante | v.2.5 | 3.0 MB | [download](https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.2.5/VitaDB.vpk) | [repo](https://github.com/Rinnegatamante/VitaDB-Downloader) |
+| VitaDB Downloader | Rinnegatamante | v.2.7 | 3.0 MB | [download](https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.2.7/VitaDB.vpk) | [repo](https://github.com/Rinnegatamante/VitaDB-Downloader) |
 | VitaDL | Voxel | v.0.1 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/180-VitaDL.vpk) | [repo](https://github.com/Voxel9/VitaDL) |
 | vitaExhumed | Rinnegatamante | v.1.0 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/533-vitaExhumed.vpk) | [repo](https://github.com/Rinnegatamante/vitaExhumed) |
 | VitaFFT | pyroesp | v.0.1.6 | 0.1 MB | [download](https://github.com/pyroesp/vitaFFT/releases/download/v0.1.6/VitaFFT.vpk) | [repo](https://github.com/pyroesp/vitaFFT) |
@@ -1109,7 +1109,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | ShellDateSecBat | OperationNT | v.2 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/302-shellsecbat.suprx) | — |
 | ShellSecBat | OperationNT | v.10 | 0.0 MB | [download](https://github.com/OperationNT414C/ShellSecBat/releases/download/V10/shellsecbat.suprx) | [repo](https://github.com/OperationNT414C/ShellSecBat) |
 | ShowInfo | Yoti | v.0.6 | 0.0 MB | [download](https://github.com/Yoti/psv_showinfo/releases/download/v0.6-full/ShowInfo.suprx) | [repo](https://github.com/Yoti/psv_showinfo/tree/full-user) |
-| ShowInfo Lite | Yoti | v.0.2 | 0.0 MB | [download](https://github.com/Yoti/psv_showinfo/releases/download/v0.2-lite/ShowInfoLite.suprx) | [repo](https://github.com/Yoti/psv_showinfo/tree/lite-user) |
+| ShowInfo Lite | Yoti | v.0.6-full | 0.0 MB | [download](https://github.com/Yoti/psv_showinfo/releases/download/v0.6-full/ShowInfo.suprx) | [repo](https://github.com/Yoti/psv_showinfo/tree/lite-user) |
 | Soul Sacrifice Delta Trainer | vosman | v.1.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/74-soulsd.zip) | — |
 | StorageMgr | CelesteBlue | v.3.2 | 0.0 MB | [download](https://github.com/TeamFAPS/PSVita-StorageMgr/releases/download/v3.2/storagemgr.skprx) | [repo](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) |
 | SysDualTouch | Voxel9 | v.0.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/646-sysdualtouchvita.7z) | [repo](https://github.com/Voxel9/Vita-SysDualTouch) |
