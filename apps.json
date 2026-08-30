@@ -1,6 +1,6 @@
 [
     {
-        "name": "  Pac-man  Deadline",
+        "name": "Pac-man: Deadline",
         "icon": "2f526d85b4727fc3c83ad5e8ef3ad25f7bd3370d96f74bb3d335780999e24310.png",
         "version": "v.1.0",
         "author": "MRKane",
@@ -10,7 +10,7 @@
         "date": "2026-08-30",
         "titleid": "LPAC19801",
         "screenshots": "",
-        "long_description": "Pac-man: Deadline for PSVITA.",
+        "long_description": "A Pac-man fan game built from scratch for the PSVITA.",
         "downloads": "0",
         "status": "0",
         "source": "",
