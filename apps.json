@@ -182,7 +182,7 @@
     {
         "name": "BattleShip",
         "icon": "afe0d67adefa58a9d8e98cf9a0614df494159d634dd0acf6bf521d6f00055a08.png",
-        "version": "v.1.2",
+        "version": "v.1.3",
         "author": "robin994",
         "type": "1",
         "description": "Port of Battleship for PSVITA.",
@@ -196,9 +196,9 @@
         "source": "https://github.com/robin994/battleship-vita",
         "release_page": "https://github.com/robin994/battleship-vita/releases",
         "trailer": "",
-        "size": "7254954",
+        "size": "7333617",
         "data_size": "0",
-        "hash": "c4e07b5a857a7b53ad141ea8c41c18a3",
+        "hash": "90681f0aacd718416283125f08317ed6",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "",
@@ -206,7 +206,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/robin994/battleship-vita/releases/download/1.2/battleship.vpk",
+        "url": "https://github.com/robin994/battleship-vita/releases/download/1.3/battleship.vpk",
         "data": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "name": "CTR: High Octane",
         "icon": "a2a471b2ef7de40c247adaf6630be383bfc018e44df7305b0677adcb3b23be1b.png",
-        "version": "v.1.0",
+        "version": "v.1.1",
         "author": "Rinnegatamante",
         "type": "2",
         "description": "Advanced source port of Crash Team Racing for PSVITA.",
@@ -466,9 +466,9 @@
         "source": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
         "release_page": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases",
         "trailer": "",
-        "size": "2319823",
+        "size": "2356895",
         "data_size": "0",
-        "hash": "dbd8c7a5d01f2aef4574b30124bb5e30",
+        "hash": "a85e13356732f9222f45c933bd4a882e",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: Crash Team Racing",
@@ -476,7 +476,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.0/ctr.vpk",
+        "url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.1/ctr.vpk",
         "data": ""
     },
     {

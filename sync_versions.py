@@ -15,10 +15,15 @@ def load(n):
     with open(os.path.join(ROOT, n), 'rb') as f:
         return json.loads(f.read().decode('utf-8', 'replace'))
 
+import subprocess
+
 def api(u):
-    req = urllib.request.Request(u, headers={'User-Agent': 'vitadbtoo'})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read().decode('utf-8', 'replace'))
+    # ueber gh, damit das Kontingent bei 5000/h statt 60/h liegt
+    pfad = u.replace('https://api.github.com/', '')
+    r = subprocess.run(['gh', 'api', pfad], capture_output=True, text=True, timeout=90)
+    if r.returncode != 0:
+        raise RuntimeError((r.stderr or '').strip()[:60])
+    return json.loads(r.stdout)
 
 def slug(s):
     return re.sub(r'[^a-z0-9]', '', (s or '').lower())

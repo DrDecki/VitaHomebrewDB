@@ -10,12 +10,12 @@ it was.
 | --- | --- | --- | ---: | --- | --- |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.3 | 5.5 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.3/Amnesia-Vita-01.00.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
-| BattleShip | robin994 | v.1.2 | 6.9 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.2/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
+| BattleShip | robin994 | v.1.3 | 7.0 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.3/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
 | Bounce Vita | M-Essa11 | v.0.1.0 | 0.5 MB | [download](https://github.com/M-Essa11/Bounce-Vita/releases/download/v0.1.0/Bounce-Vita-v0.1.0.vpk) | [repo](https://github.com/M-Essa11/Bounce-Vita) |
 | CEX 2 REX 2.0 | LiEnby | v.2.0.1 | 0.2 MB | [download](https://git.silica.codes/Li/cex-2-rex/releases/download/2.0.1/CEX2REX.vpk) | [repo](https://git.silica.codes/Li/cex-2-rex) |
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [repo](https://git.silica.codes/Li/creeperdiver) |
-| CTR: High Octane | Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.0/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
+| CTR: High Octane | Rinnegatamante | v.1.1 | 2.2 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.1/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
 | Deckis Platformer | DrDecki | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [repo](https://drdecki.itch.io/deckis-platformer) |
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [repo](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
