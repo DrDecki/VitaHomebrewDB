@@ -21,6 +21,15 @@ jobs:
       - name: Build the report
         run: python3 watch_report.py
 
+      - name: Check VitaDB
+        run: python3 watch_vitadb.py
+
+      - name: Open a VitaDB issue
+        if: hashFiles('vitadb_issue.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue create --title "VitaDB has entries we do not" --body-file vitadb_issue.md
+
       - name: Open an issue
         if: hashFiles('watch_issue.md') != ''
         env:
@@ -29,7 +38,7 @@ jobs:
 
       - name: Remember what was seen
         run: |
-          rm -f watch_new.json watch_issue.md
+          rm -f watch_new.json watch_issue.md vitadb_issue.md
           if [ -n "$(git status --porcelain watch_seen.json)" ]; then
             git config user.name DrDecki
             git config user.email drdecki@users.noreply.github.com
