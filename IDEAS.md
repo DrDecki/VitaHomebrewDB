@@ -15,6 +15,11 @@ be the only one.
 
 ## Watching sources
 
+`watch_vitadb.py` compares the catalog against VitaDB every day and opens an issue with
+anything new or any entry where VitaDB has a higher version. It matches on the repository
+URL first, then the name, because names drift: CTR against Crash Team Racing, MCSM against
+Minecraft: Story Mode.
+
 `watch_reddit.py` and `watch_report.py` run daily and open an issue listing new
 posts from the subreddits this catalog watches. No API key and no account are
 needed. Posts linking to a repository already in the catalog are marked and sorted
