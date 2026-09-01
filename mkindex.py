@@ -42,6 +42,7 @@ for datei, titel, pick, vorwort in (
 ):
     out = ['# %s\n\n' % titel, vorwort, '\n']
     n = 0
+    groesse = 0
     for label, f in cats:
         e = [a for a in load(f) if pick(a)]
         if not e:
@@ -50,6 +51,9 @@ for datei, titel, pick, vorwort in (
         out += tabelle(e)
         out.append('\n')
         n += len(e)
+        groesse += sum(int(a.get('size') or 0) + int(a.get('data_size') or 0) for a in e)
+    if groesse:
+        out.append('%d entries, %.1f GB in total.\n' % (n, groesse / 1073741824.0))
     with open(os.path.join(ROOT, datei), 'w', encoding='utf-8') as fh:
         fh.write(''.join(out))
     print('%s: %d Eintraege' % (datei, n))
