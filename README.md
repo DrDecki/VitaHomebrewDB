@@ -71,8 +71,10 @@ schema so a client can consume them the same way.
 ## Using this catalogue
 
 Every entry carries a direct download URL in its `url` field, so a client does not need a
-redirect endpoint. Downloads point either at a GitHub release asset or at an archived copy
-on `web.archive.org`; both have been verified on hardware.
+redirect endpoint. Most point at a release asset on the author's own repository; what the
+authors no longer host is mirrored here, either on the `mirror` release tag or, for small
+files, served straight from GitHub Pages. A few sit on archive.org items. Every URL is
+checked regularly and all of them answer.
 
 If you are writing a client against this, note that download counts are frozen at their
 2026-07-31 values. Static hosting cannot count downloads, so sorting by popularity reflects
