@@ -1,8 +1,9 @@
-# Added after the shutdown
+# Added since 31.07.2026
 
-These were never on VitaDB. They were contributed afterwards, mostly by their
-own authors, and are kept apart so the preserved catalogue stays exactly what
-it was.
+Everything here arrived after the snapshot this catalogue preserves. Some came
+from VitaDB once it returned, some straight from their authors, some from the
+wider scene. They are kept apart so the preserved catalogue stays exactly what
+it was on the day the service went down.
 
 ## PSVITA homebrews (72)
 

@@ -33,11 +33,12 @@ for datei, titel, pick, vorwort in (
      lambda a: int(a['id']) <= LAST_VITADB_ID,
      'Everything VitaDB held on 31.07.2026, with the download it now resolves to.\n'
      'Entries added after the shutdown are in [ADDED.md](ADDED.md).\n'),
-    ('ADDED.md', 'Added after the shutdown',
+    ('ADDED.md', 'Added since 31.07.2026',
      lambda a: int(a['id']) > LAST_VITADB_ID,
-     'These were never on VitaDB. They were contributed afterwards, mostly by their\n'
-     'own authors, and are kept apart so the preserved catalogue stays exactly what\n'
-     'it was.\n'),
+     'Everything here arrived after the snapshot this catalogue preserves. Some came\n'
+     'from VitaDB once it returned, some straight from their authors, some from the\n'
+     'wider scene. They are kept apart so the preserved catalogue stays exactly what\n'
+     'it was on the day the service went down.\n'),
 ):
     out = ['# %s\n\n' % titel, vorwort, '\n']
     n = 0
