@@ -39,12 +39,12 @@ for k in kand:
 
 kand.sort(key=rang)
 
-lines = ['New posts from the subreddits this catalogue watches.',
+lines = ['New posts from the subreddits this catalog watches.',
          'Nothing here has been checked. Skim the titles and ignore the rest.', '']
 for k in kand:
     m = re.search(r'(https?://(?:github\.com|itch\.io|[^\s<>"\']*\.(?:vpk|zip|7z))[^\s<>"\']*)', k['text'])
     extra = '  —  %s' % m.group(1)[:70] if m else ''
-    mark = '  `already in the catalogue`' if k['schon_drin'] else ''
+    mark = '  `already in the catalog`' if k['schon_drin'] else ''
     lines.append('- [%s](%s) *(r/%s)*%s%s' % (k['title'][:110].replace('|', ''), k['url'], k['sub'], extra, mark))
 lines.append('')
 lines.append('Close this issue once you have looked through it.')

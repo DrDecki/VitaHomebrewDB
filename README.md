@@ -1,26 +1,26 @@
 # VitaHomebrewDB
 
-A homebrew catalogue for PSVITA/PSTV and PSP. It started as a rescue of
+A homebrew catalog for PSVITA/PSTV and PSP. It started as a rescue of
 [VitaDB](https://www.rinnegatamante.eu/vitadb) after the official service went offline on
 2026-07-31, and everything that database held is preserved here. It has kept growing since,
 with entries VitaDB never carried.
 
-This repository is the catalogue: application metadata, icons, screenshots and trailers, served as
+This repository is the catalog: application metadata, icons, screenshots and trailers, served as
 static files over GitHub Pages at `https://drdecki.github.io/VitaHomebrewDB/`.
 
 ## What survived
 
 The metadata comes from a local client cache (`ux0:data/VitaDB`) captured on **2026-07-31**,
-the last state of the database before shutdown. The plugin and PC tool catalogues were
+the last state of the database before shutdown. The plugin and PC tool catalogs were
 recovered from the Internet Archive. Download links were then resolved individually, either
 to the author's GitHub release or to an archived copy of the original file.
 
 Every entry keeps its original curated metadata: name, version, author, description,
 changelog, requirements, category, release date and download count. That part cannot be
-reconstructed from repositories, which is what makes this catalogue worth keeping.
+reconstructed from repositories, which is what makes this catalog worth keeping.
 
 
-[CATALOGUE.md](CATALOGUE.md) lists every entry with its author, version and download.
+[CATALOG.md](CATALOG.md) lists every entry with its author, version and download.
 
 <!-- STATS -->
 | | Entries | With a working download |
@@ -31,11 +31,11 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | PC tools | 27 | 27 |
 | **Total** | **1296** | **1296 (100%)** |
 
-The table above counts the catalogue as it stood on 2026-07-31. Another 97 entries
+The table above counts the catalog as it stood on 2026-07-31. Another 97 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
-Everything the catalogue points at comes to **31.5 GB**.
+Everything the catalog points at comes to **31.5 GB**.
 
 | Asset | Recovered |
 | --- | ---: |
@@ -60,15 +60,15 @@ when something breaks or a new entry arrives without a working link.
 | `icons/` | app icons, `<sha256>.png` |
 | `icons.zip` | all icons as one archive |
 | `screenshots/` | recovered screenshots |
-| `preserved/plugins.json` | plugin catalogue |
-| `preserved/tools.json` | PC tool catalogue |
+| `preserved/plugins.json` | plugin catalog |
+| `preserved/tools.json` | PC tool catalog |
 | `WANTED.md` | entries whose download is still missing |
 
-The plugin and tool catalogues live under `preserved/` because the original client never
+The plugin and tool catalogs live under `preserved/` because the original client never
 listed them; they were separate sections of the VitaDB website. They are kept in the same
 schema so a client can consume them the same way.
 
-## Using this catalogue
+## Using this catalog
 
 Every entry carries a direct download URL in its `url` field, so a client does not need a
 redirect endpoint. Most point at a release asset on the author's own repository; what the
@@ -104,7 +104,7 @@ one-line description help, but a link on its own is fine too; everything else is
 out of the VPK.
 
 Entries are added by hand rather than automatically, because a wrong URL in the
-catalogue is worse than a missing one.
+catalog is worse than a missing one.
 
 The scripts that do the work are in this repository and only touch a local checkout:
 `add_app.py` adds an entry, `build_db.py` regenerates `minimal.json` and `icons.zip`,
@@ -113,13 +113,13 @@ The scripts that do the work are in this repository and only touch a local check
 
 ## Credits and takedowns
 
-VitaDB was created and run by **Rinnegatamante**. The catalogue is his work and that of
+VitaDB was created and run by **Rinnegatamante**. The catalog is his work and that of
 every homebrew author in it; this repository only keeps it reachable.
 
 Thanks to **FundedBlade** for pointing at the GameBrew wiki and the PSP homebrew
 library on archive.org, which together closed over a hundred gaps, and to
 **josephinoo** for building [VitaForge](https://github.com/josephinoo/vitaForge) against this
-catalogue.
+catalog.
 
 If you are an author and want your application removed, open an issue and it will be taken
 down.
@@ -130,18 +130,18 @@ The scripts in this repository (`build_db.py`, `add_app.py`, `stats.py`,
 `mkwanted.py` and the rest) are MIT licensed, see [LICENSE](LICENSE). Use them
 however you like.
 
-The catalogue itself is a different matter and is **not** covered by that
-licence. Application names, descriptions, changelogs, icons and screenshots are
+The catalog itself is a different matter and is **not** covered by that
+license. Application names, descriptions, changelogs, icons and screenshots are
 the work of Rinnegatamante and of the individual homebrew authors. This
-repository preserves and redistributes them so the catalogue stays reachable; it
+repository preserves and redistributes them so the catalog stays reachable; it
 claims no ownership over them. Clients are welcome to consume the JSON files,
 and anyone who wants their own work removed only has to open an issue.
 
-If you build a client or another catalogue on top of this data, please link back
+If you build a client or another catalog on top of this data, please link back
 to this repository. The metadata is not mine to license, so this is a request
 rather than a condition, but a fair amount of work went into recovering it and
 being credited for that is the only thing asked in return.
 
 ## Support
 
-This is a spare-time project and the catalogue is free to use, with or without a client of mine. If it saved you a homebrew you thought was gone, there is a [Ko-fi](https://ko-fi.com/drdecki).
+This is a spare-time project and the catalog is free to use, with or without a client of mine. If it saved you a homebrew you thought was gone, there is a [Ko-fi](https://ko-fi.com/drdecki).

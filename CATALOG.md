@@ -1,6 +1,6 @@
-# Catalogue
+# Catalog
 
-Every entry in the catalogue, with the download it currently resolves to.
+Every entry in the catalog, with the download it currently resolves to.
 The ones added since 31.07.2026 are also listed on their own in
 [ADDED.md](ADDED.md).
 

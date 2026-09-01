@@ -49,7 +49,7 @@ if not rows:
     open(os.path.join(ROOT, 'WANTED.md'), 'w', encoding='utf-8').writelines(out)
     print('WANTED.md: nichts offen')
     raise SystemExit
-out.append('These %d entries survive in the catalogue with full metadata, but their download\n' % len(rows))
+out.append('These %d entries survive in the catalog with full metadata, but their download\n' % len(rows))
 out.append('link died with the VitaDB webhost and could not be recovered automatically.\n\n')
 out.append('If you have one of these files, or know where it lives now, please open an issue\n')
 out.append('or a pull request.\n\n')
@@ -57,7 +57,7 @@ out.append('**What is needed is a stable direct URL a PSVITA can fetch without a
 out.append('A GitHub release asset works. An archive.org item works. An itch.io page does not,\n')
 out.append('because it serves through signed one-time links. A page that only works in a browser\n')
 out.append('is still a useful lead: send it anyway and the file can be mirrored here.\n')
-out.append('If the file matches the MD5 listed in the catalogue it is the exact build VitaDB\n')
+out.append('If the file matches the MD5 listed in the catalog it is the exact build VitaDB\n')
 out.append('served, which settles any doubt about what it is.\n\n')
 out.append('The file size below is the one VitaDB recorded, which makes it easy to confirm a\n')
 out.append('candidate is the right build.\n\n')

@@ -5,12 +5,12 @@ so nobody spends an evening rediscovering them.
 
 ## A second copy of the mirror
 
-Everything the catalogue serves that authors no longer host themselves lives in one
+Everything the catalog serves that authors no longer host themselves lives in one
 place: the `mirror` release tag on this repository, tied to a single GitHub account.
 
 VitaDB went offline on 31.07.2026, came back partially, went away again, and returned
 in full weeks later. Nothing was lost in the end, but for a while nobody knew that.
-A catalogue that exists because one host went away should not depend on one host.
+A catalog that exists because one host went away should not depend on one host.
 
 A second copy somewhere unrelated would fix it. archive.org is the obvious candidate
 but has suspended bulk uploads before, so it cannot be the only answer either.
@@ -50,13 +50,13 @@ is the remaining lead.
 ## Watching sources
 
 `watch_reddit.py` and `watch_report.py` run daily and open an issue listing new
-posts from the subreddits this catalogue watches. No API key and no account are
-needed. Posts linking to a repository already in the catalogue are marked and sorted
+posts from the subreddits this catalog watches. No API key and no account are
+needed. Posts linking to a repository already in the catalog are marked and sorted
 to the bottom.
 
 The list is deliberately unfiltered beyond that. A model could separate
 announcements from support questions, and `watch_judge.py` did exactly that before
-it was removed in favour of a plain list; the git history still has it. At forty
+it was removed in favor of a plain list; the git history still has it. At forty
 posts a day, reading the titles is faster than checking a model's verdict.
 
 Reddit's JSON API and GBAtemp both answer 403 to anything that is not a browser,

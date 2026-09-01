@@ -29,16 +29,16 @@ def tabelle(entries):
     return out
 
 for datei, titel, pick, vorwort in (
-    ('CATALOGUE.md', 'Catalogue',
+    ('CATALOG.md', 'Catalog',
      lambda a: True,
-     'Every entry in the catalogue, with the download it currently resolves to.\n'
+     'Every entry in the catalog, with the download it currently resolves to.\n'
      'The ones added since 31.07.2026 are also listed on their own in\n'
      '[ADDED.md](ADDED.md).\n'),
     ('ADDED.md', 'Added since 31.07.2026',
      lambda a: int(a['id']) > LAST_VITADB_ID,
-     'Everything here arrived after the snapshot this catalogue preserves. Some came\n'
+     'Everything here arrived after the snapshot this catalog preserves. Some came\n'
      'from VitaDB once it returned, some straight from their authors, some from the\n'
-     'wider scene. They are kept apart so the preserved catalogue stays exactly what\n'
+     'wider scene. They are kept apart so the preserved catalog stays exactly what\n'
      'it was on the day the service went down.\n'),
 ):
     out = ['# %s\n\n' % titel, vorwort, '\n']

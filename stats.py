@@ -84,14 +84,14 @@ for label, n, k in rows:
     out.append('| %s | %d | %d |\n' % (label, n, k))
 out.append('| **Total** | **%d** | **%d (%d%%)** |\n\n' % (tot, ok, int(100.0 * ok / tot)))
 if added:
-    out.append('The table above counts the catalogue as it stood on 2026-07-31. Another %d entries\n' % added)
+    out.append('The table above counts the catalog as it stood on 2026-07-31. Another %d entries\n' % added)
     out.append('have been added since, from VitaDB, from the authors themselves and from the wider\n')
     out.append('scene; those are listed separately in [ADDED.md](ADDED.md).\n\n')
 _bytes = 0
 for _f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
     for _a in load(_f):
         _bytes += int(_a.get('size') or 0) + int(_a.get('data_size') or 0)
-out.append('Everything the catalogue points at comes to **%.1f GB**.\n\n' % (_bytes / 1073741824.0))
+out.append('Everything the catalog points at comes to **%.1f GB**.\n\n' % (_bytes / 1073741824.0))
 out.append('| Asset | Recovered |\n| --- | ---: |\n')
 out.append('| Metadata | 100%% (%d entries) |\n' % tot)
 out.append('| Icons | %.0f%% (%d) |\n' % (100.0 * len(need & set(os.listdir(os.path.join(ROOT, 'icons')))) / max(len(need), 1), icons))

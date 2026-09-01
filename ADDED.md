@@ -1,8 +1,8 @@
 # Added since 31.07.2026
 
-Everything here arrived after the snapshot this catalogue preserves. Some came
+Everything here arrived after the snapshot this catalog preserves. Some came
 from VitaDB once it returned, some straight from their authors, some from the
-wider scene. They are kept apart so the preserved catalogue stays exactly what
+wider scene. They are kept apart so the preserved catalog stays exactly what
 it was on the day the service went down.
 
 ## PSVITA homebrews (72)
