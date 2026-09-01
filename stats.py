@@ -84,8 +84,9 @@ for label, n, k in rows:
     out.append('| %s | %d | %d |\n' % (label, n, k))
 out.append('| **Total** | **%d** | **%d (%d%%)** |\n\n' % (tot, ok, int(100.0 * ok / tot)))
 if added:
-    out.append('%d further entries have been added since the shutdown and are not part of\n' % added)
-    out.append('what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).\n\n')
+    out.append('The table above counts the catalogue as it stood on 2026-07-31. Another %d entries\n' % added)
+    out.append('have been added since, from VitaDB, from the authors themselves and from the wider\n')
+    out.append('scene; those are listed separately in [ADDED.md](ADDED.md).\n\n')
 out.append('| Asset | Recovered |\n| --- | ---: |\n')
 out.append('| Metadata | 100%% (%d entries) |\n' % tot)
 out.append('| Icons | %.0f%% (%d) |\n' % (100.0 * len(need & set(os.listdir(os.path.join(ROOT, 'icons')))) / max(len(need), 1), icons))
