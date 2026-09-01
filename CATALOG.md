@@ -1,8 +1,7 @@
 # Catalog
 
-Every entry in the catalog, with the download it currently resolves to.
-The ones added since 31.07.2026 are also listed on their own in
-[ADDED.md](ADDED.md).
+Every entry, with the download it currently points at. The ones added since
+31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
 ## PSVITA homebrews (1091)
 

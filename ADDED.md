@@ -1,9 +1,8 @@
 # Added since 31.07.2026
 
-Everything here arrived after the snapshot this catalog preserves. Some came
-from VitaDB once it returned, some straight from their authors, some from the
-wider scene. They are kept apart so the preserved catalog stays exactly what
-it was on the day the service went down.
+Entries added after 31.07.2026. Some came from VitaDB once it was back, some from
+their authors, some from elsewhere. Kept separate so the preserved catalog stays
+what it was on the day the service went down.
 
 ## PSVITA homebrews (72)
 

@@ -31,15 +31,13 @@ def tabelle(entries):
 for datei, titel, pick, vorwort in (
     ('CATALOG.md', 'Catalog',
      lambda a: True,
-     'Every entry in the catalog, with the download it currently resolves to.\n'
-     'The ones added since 31.07.2026 are also listed on their own in\n'
-     '[ADDED.md](ADDED.md).\n'),
+     'Every entry, with the download it currently points at. The ones added since\n'
+     '31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).\n'),
     ('ADDED.md', 'Added since 31.07.2026',
      lambda a: int(a['id']) > LAST_VITADB_ID,
-     'Everything here arrived after the snapshot this catalog preserves. Some came\n'
-     'from VitaDB once it returned, some straight from their authors, some from the\n'
-     'wider scene. They are kept apart so the preserved catalog stays exactly what\n'
-     'it was on the day the service went down.\n'),
+     'Entries added after 31.07.2026. Some came from VitaDB once it was back, some from\n'
+     'their authors, some from elsewhere. Kept separate so the preserved catalog stays\n'
+     'what it was on the day the service went down.\n'),
 ):
     out = ['# %s\n\n' % titel, vorwort, '\n']
     n = 0
