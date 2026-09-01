@@ -30,9 +30,10 @@ def tabelle(entries):
 
 for datei, titel, pick, vorwort in (
     ('CATALOGUE.md', 'Catalogue',
-     lambda a: int(a['id']) <= LAST_VITADB_ID,
-     'Everything VitaDB held on 31.07.2026, with the download it now resolves to.\n'
-     'Entries added since then are in [ADDED.md](ADDED.md).\n'),
+     lambda a: True,
+     'Every entry in the catalogue, with the download it currently resolves to.\n'
+     'The ones added since 31.07.2026 are also listed on their own in\n'
+     '[ADDED.md](ADDED.md).\n'),
     ('ADDED.md', 'Added since 31.07.2026',
      lambda a: int(a['id']) > LAST_VITADB_ID,
      'Everything here arrived after the snapshot this catalogue preserves. Some came\n'
