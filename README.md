@@ -2,8 +2,7 @@
 
 A homebrew catalog for PSVITA/PSTV and PSP. It started as a rescue of
 [VitaDB](https://www.rinnegatamante.eu/vitadb) after the official service went offline on
-2026-07-31, and everything that database held is preserved here. It has kept growing since,
-with entries VitaDB never carried.
+2026-07-31. Everything that database held is preserved here, and more has been added since.
 
 This repository is the catalog: application metadata, icons, screenshots and trailers, served as
 static files over GitHub Pages at `https://drdecki.github.io/VitaHomebrewDB/`.
@@ -16,8 +15,8 @@ recovered from the Internet Archive. Download links were then resolved individua
 to the author's GitHub release or to an archived copy of the original file.
 
 Every entry keeps its original curated metadata: name, version, author, description,
-changelog, requirements, category, release date and download count. That part cannot be
-reconstructed from repositories, which is what makes this catalog worth keeping.
+changelog, requirements, category, release date and download count. None of that can be
+rebuilt from a repository.
 
 
 [CATALOG.md](CATALOG.md) lists every entry with its author, version and download.
@@ -35,7 +34,7 @@ The table above counts the catalog as it stood on 2026-07-31. Another 97 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
-Everything the catalog points at comes to **31.5 GB**.
+**31.5 GB** in total.
 
 | Asset | Recovered |
 | --- | ---: |
@@ -46,8 +45,8 @@ Everything the catalog points at comes to **31.5 GB**.
 | Data files | 100% (137 of 137) |
 | In-game trophies | 100% (28 of 28 sets) |
 
-Nothing is missing at the moment. [WANTED.md](WANTED.md) fills back up on its own
-when something breaks or a new entry arrives without a working link.
+Nothing is missing right now. [WANTED.md](WANTED.md) fills up again
+if a link breaks or an entry turns up without one.
 <!-- /STATS -->
 
 ## Files
@@ -64,9 +63,9 @@ when something breaks or a new entry arrives without a working link.
 | `preserved/tools.json` | PC tool catalog |
 | `WANTED.md` | entries whose download is still missing |
 
-The plugin and tool catalogs live under `preserved/` because the original client never
-listed them; they were separate sections of the VitaDB website. They are kept in the same
-schema so a client can consume them the same way.
+The plugin and tool catalogs live under `preserved/` because the original client never listed
+them, they were separate sections of the website. Same schema as the others, so a client can
+read them the same way.
 
 ## Using this catalog
 
@@ -76,9 +75,8 @@ authors no longer host is mirrored here, either on the `mirror` release tag or, 
 files, served straight from GitHub Pages. A few sit on archive.org items. Every URL is
 checked regularly and all of them answer.
 
-If you are writing a client against this, note that download counts are frozen at their
-2026-07-31 values. Static hosting cannot count downloads, so sorting by popularity reflects
-the state at shutdown and will not change.
+Download counts are frozen at their 2026-07-31 values, because static hosting cannot count.
+Sorting by popularity still works, it just describes the day the site went down.
 
 Known consumers: [VitaForge](https://github.com/josephinoo/vitaForge) by josephinoo.
 If you build another one, open an issue and it can be listed here.
@@ -86,40 +84,32 @@ If you build another one, open an issue and it can be listed here.
 ## What is missing
 
 Nothing. Every entry has a working download, and every screenshot, trailer, data file and
-trophy set VitaDB carried has been recovered. None of it depends on the old webhost any
-more: what the authors no longer serve themselves is mirrored here.
+trophy set VitaDB carried is here. None of it still depends on the old webhost.
 
-Download counts are the one exception. They are frozen at the numbers VitaDB recorded on
-2026-07-31, because static hosting cannot count. Sorting by popularity still works, it just
-describes the day the site went down.
-
-Themes are unaffected and continue to work: they have always been hosted separately at
+Themes are unaffected. They have always been hosted separately at
 [CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes).
 
 ## Adding an entry
 
 Open an [issue](https://github.com/DrDecki/VitaHomebrewDB/issues) with a link to the
 release, or say so on [Discord](https://discord.gg/bwEVFMnDDA). Author, version and a
-one-line description help, but a link on its own is fine too; everything else is read
-out of the VPK.
+one-line description help, but a link on its own is fine. Everything else is read out of
+the VPK.
 
-Entries are added by hand rather than automatically, because a wrong URL in the
-catalog is worse than a missing one.
+Entries are added by hand, not automatically.
 
-The scripts that do the work are in this repository and only touch a local checkout:
-`add_app.py` adds an entry, `build_db.py` regenerates `minimal.json` and `icons.zip`,
-`stats.py` and `mkindex.py` rewrite the README tables and the listings, and
-`mkwanted.py` rebuilds `WANTED.md`.
+The scripts are in this repository: `add_app.py` adds an entry, `build_db.py` regenerates
+`minimal.json` and `icons.zip`, `stats.py` and `mkindex.py` rewrite the README tables and
+the listings, `mkwanted.py` rebuilds `WANTED.md`.
 
 ## Credits and takedowns
 
-VitaDB was created and run by **Rinnegatamante**. The catalog is his work and that of
-every homebrew author in it; this repository only keeps it reachable.
+VitaDB was created and run by **Rinnegatamante**. The catalog is his work and that of every
+homebrew author in it. This repository just keeps it reachable.
 
-Thanks to **FundedBlade** for pointing at the GameBrew wiki and the PSP homebrew
-library on archive.org, which together closed over a hundred gaps, and to
-**josephinoo** for building [VitaForge](https://github.com/josephinoo/vitaForge) against this
-catalog.
+Thanks to **FundedBlade** for pointing at the GameBrew wiki and the PSP homebrew library on
+archive.org, which closed over a hundred gaps, and to **josephinoo** for building
+[VitaForge](https://github.com/josephinoo/vitaForge) against this catalog.
 
 If you are an author and want your application removed, open an issue and it will be taken
 down.
@@ -130,18 +120,15 @@ The scripts in this repository (`build_db.py`, `add_app.py`, `stats.py`,
 `mkwanted.py` and the rest) are MIT licensed, see [LICENSE](LICENSE). Use them
 however you like.
 
-The catalog itself is a different matter and is **not** covered by that
-license. Application names, descriptions, changelogs, icons and screenshots are
-the work of Rinnegatamante and of the individual homebrew authors. This
-repository preserves and redistributes them so the catalog stays reachable; it
-claims no ownership over them. Clients are welcome to consume the JSON files,
-and anyone who wants their own work removed only has to open an issue.
+The catalog itself is **not** covered by that license. Names, descriptions, changelogs, icons
+and screenshots belong to Rinnegatamante and to the homebrew authors. This repository only
+keeps them online and claims nothing. Clients are welcome to use the JSON files, and any
+author who wants their work removed can open an issue.
 
-If you build a client or another catalog on top of this data, please link back
-to this repository. The metadata is not mine to license, so this is a request
-rather than a condition, but a fair amount of work went into recovering it and
-being credited for that is the only thing asked in return.
+If you build a client or another catalog on this data, please link back here. It is a request,
+not a condition, since the metadata is not mine to license.
 
 ## Support
 
-This is a spare-time project and the catalog is free to use, with or without a client of mine. If it saved you a homebrew you thought was gone, there is a [Ko-fi](https://ko-fi.com/drdecki).
+Spare-time project, free to use. If it saved you a homebrew you thought was gone, there is a
+[Ko-fi](https://ko-fi.com/drdecki).

@@ -91,7 +91,7 @@ _bytes = 0
 for _f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
     for _a in load(_f):
         _bytes += int(_a.get('size') or 0) + int(_a.get('data_size') or 0)
-out.append('Everything the catalog points at comes to **%.1f GB**.\n\n' % (_bytes / 1073741824.0))
+out.append('**%.1f GB** in total.\n\n' % (_bytes / 1073741824.0))
 out.append('| Asset | Recovered |\n| --- | ---: |\n')
 out.append('| Metadata | 100%% (%d entries) |\n' % tot)
 out.append('| Icons | %.0f%% (%d) |\n' % (100.0 * len(need & set(os.listdir(os.path.join(ROOT, 'icons')))) / max(len(need), 1), icons))
@@ -127,8 +127,8 @@ if missing_dl or data_missing:
     out.append('even one entry, open an issue: every link restored is an application that stops ')
     out.append('being lost.\n')
 else:
-    out.append('\nNothing is missing at the moment. [WANTED.md](WANTED.md) fills back up on its own\n')
-    out.append('when something breaks or a new entry arrives without a working link.\n')
+    out.append('\nNothing is missing right now. [WANTED.md](WANTED.md) fills up again\n')
+    out.append('if a link breaks or an entry turns up without one.\n')
 out.append('<!-- /STATS -->')
 
 readme = os.path.join(ROOT, 'README.md')
