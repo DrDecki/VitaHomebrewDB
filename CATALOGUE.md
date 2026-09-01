@@ -1,7 +1,7 @@
 # Catalogue
 
 Everything VitaDB held on 31.07.2026, with the download it now resolves to.
-Entries added after the shutdown are in [ADDED.md](ADDED.md).
+Entries added since then are in [ADDED.md](ADDED.md).
 
 ## PSVITA homebrews (1019)
 

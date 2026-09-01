@@ -6,9 +6,11 @@ so nobody spends an evening rediscovering them.
 ## A second copy of the mirror
 
 Everything the catalogue serves that authors no longer host themselves lives in one
-place: the `mirror` release tag on this repository. That is around 15 GB across 620
-assets, tied to a single GitHub account. VitaDB itself disappeared because one host
-went away, and this project currently has the same weakness.
+place: the `mirror` release tag on this repository, tied to a single GitHub account.
+
+VitaDB went offline on 31.07.2026, came back partially, went away again, and returned
+in full weeks later. Nothing was lost in the end, but for a while nobody knew that.
+A catalogue that exists because one host went away should not depend on one host.
 
 A second copy somewhere unrelated would fix it. archive.org is the obvious candidate
 but has suspended bulk uploads before, so it cannot be the only answer either.
