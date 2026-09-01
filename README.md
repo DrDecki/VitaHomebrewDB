@@ -96,26 +96,20 @@ describes the day the site went down.
 Themes are unaffected and continue to work: they have always been hosted separately at
 [CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes).
 
-## Maintaining
+## Adding an entry
 
-Adding a homebrew, given a direct URL to its VPK:
+Open an [issue](https://github.com/DrDecki/VitaHomebrewDB/issues) with a link to the
+release, or say so on [Discord](https://discord.gg/bwEVFMnDDA). Author, version and a
+one-line description help, but a link on its own is fine too; everything else is read
+out of the VPK.
 
-```
-python3 add_app.py --url <vpk-url> --type port --author "Name" --desc "Short description" \
-                   --source https://github.com/... --release-page https://github.com/.../releases
-python3 build_db.py
-```
+Entries are added by hand rather than automatically, because a wrong URL in the
+catalogue is worse than a missing one.
 
-`add_app.py` reads the title, title ID, version and icon out of the VPK itself and computes
-size and MD5. `build_db.py` regenerates `minimal.json` and `icons.zip` and verifies icon
-coverage. Run it after any change to `apps.json`, `psp_apps.json` or `icons/`.
-
-`mkwanted.py` regenerates `WANTED.md`.
-
-Anyone can run these; they only touch a local checkout. To contribute an entry,
-fork the repository, run the two commands above and open a pull request. What
-gets merged is still reviewed by hand, because a wrong URL in the catalogue is
-worse than a missing one.
+The scripts that do the work are in this repository and only touch a local checkout:
+`add_app.py` adds an entry, `build_db.py` regenerates `minimal.json` and `icons.zip`,
+`stats.py` and `mkindex.py` rewrite the README tables and the listings, and
+`mkwanted.py` rebuilds `WANTED.md`.
 
 ## Credits and takedowns
 
