@@ -79,7 +79,7 @@ Every entry, with the download it currently points at. The ones added since
 | Basilisk II | meetpatty & rsn8887 | v.0.33h | 1.4 MB | [download](https://github.com/rsn8887/basiliskii-vita/releases/download/0.33hgit-rsn8887/BasiliskII_Vita_v0.33h.vpk) | [repo](https://github.com/rsn8887/basiliskii-vita) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | Battery Indicator | Ruben_Wolfe | v.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/78-BatteryIndicator.vpk) | [repo](https://wololo.net/talk/viewtopic.php?f=116&t=46986) |
-| BattleShip | robin994 | v.1.3 | 7.0 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.3/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
+| BattleShip | robin994 | v.1.4 | 7.1 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.4/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
 | BattleShip Arena | DesiRED | v.1.2 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/135-BattleShipArena.vpk) | [repo](https://wololo.net/talk/viewtopic.php?f=116&t=46614) |
 | BC2 Vita | TheFloW & Rinnegatamante | v.1.0 | 0.5 MB | [download](https://github.com/TheOfficialFloW/bc2_vita/releases/download/v1.0/BC2.vpk) | [repo](https://github.com/TheOfficialFloW/bc2_vita) |
 | Beach Buggy Racing Vita | ChatGPT AI | v.1.0 | 2.2 MB | [download](https://github.com/WolffsRoom/BeachBuggyRacing-Vita/releases/download/v1.0/BeachBuggyRacing.Vita-v1.0.vpk) | [repo](https://github.com/WolffsRoom/BeachBuggyRacing-Vita) |
@@ -189,7 +189,7 @@ Every entry, with the download it currently points at. The ones added since
 | CSD2Vita | hatoving | v.1.0 | 4.9 MB | [download](https://github.com/hatoving/csd2-old-vita/releases/download/1.0/CSD2VITA0.vpk) | [repo](https://github.com/hatoving/csd2) |
 | Cspot_vita | michal4132 | v.0.2.2 | 1.6 MB | [download](https://github.com/michal4132/cspot_vita/releases/download/v0.2.2/cspot_vita.vpk) | [repo](https://github.com/michal4132/cspot_vita) |
 | CSPSV | Cello0314 | v.1.0 | 2.3 MB | [download](https://github.com/CelloPoly314/CSPSV/releases/download/v1.0/CSPSP.vpk) | [repo](https://github.com/CelloPoly314/CSPSV) |
-| CTR: High Octane | Rinnegatamante | v.1.1 | 2.2 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.1/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
+| CTR: High Octane | Rinnegatamante | v.1.2 | 3.3 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.2/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
 | Cubic Conundrum | forthw & JeffRuLz345 | v.1.0 | 19.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/407-CubicConundrum.vpk) | — |
 | Cubik Adventure | LuckTheGamers | Demo v.2 | 25.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/471-Cubik_20Adventure.vpk) | — |
 | Cup Critters | FantaHourglass | v.1.0 | 34.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/452-Cup_20Critters.vpk) | — |
@@ -851,7 +851,7 @@ Every entry, with the download it currently points at. The ones added since
 | supra mayro kratt | MEGAgameBoy | v.1.1 | 34.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/803-supra.vpk) | — |
 | Switch SD2Vita | AppleIo & wth | v.2.1 | 0.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/294-switch_sd2vita.vpk) | [repo](https://github.com/Applelo/SwitchSD2Vita) |
 | Switch to PSTV | xCorra | v.1.0 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/476-Switch_20to_20PSTV.vpk) | [repo](https://github.com/xCorra/SwitchtoPSTV) |
-| Switchfin | dragonflylee | v.0.8.3 | 12.0 MB | [download](https://github.com/dragonflylee/switchfin/releases/download/0.8.3/Switchfin.vpk) | [repo](https://github.com/dragonflylee/switchfin) |
+| Switchfin | dragonflylee | v.0.9.4 | 39.3 MB | [download](https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin.vpk) | [repo](https://github.com/dragonflylee/switchfin) |
 | SwitchKaKu | kylon | MOD v.2.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/207-SwitchKaKu.vpk) | — |
 | Switchkaku | luck | v.1.06 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/63-SwitchKaKu.vpk) | — |
 | SwitchView UI | VitaHEX games | v.0.1.2 | 2.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/338-SwitchView.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48629) |

@@ -10,7 +10,7 @@ what it was on the day the service went down.
 | --- | --- | --- | ---: | --- | --- |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.3 | 5.5 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.3/Amnesia-Vita-01.00.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
-| BattleShip | robin994 | v.1.3 | 7.0 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.3/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
+| BattleShip | robin994 | v.1.4 | 7.1 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.4/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
 | BG2V | Calligula87 | v.0-beta | 3.0 MB | [download](https://github.com/Calligula87/BG2V/releases/download/v0-beta/BG2v0_beta.vpk) | [repo](https://github.com/Calligula87/BG2V) |
 | Boiled Corn | dos | v.1.0 | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BoiledCorn.vpk) | [repo](https://dos.itch.io/boiledcorn) |
 | BombSquad Vita | SpliffCurryBeats | v.1.0 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BombSquadVita.vpk) | [repo](https://gitlab.com/sexcurrybeats/bombsquad-vita) |
@@ -20,7 +20,7 @@ what it was on the day the service went down.
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | Cordless | bren \& Harommel Rabbid | v.1.0.0 | 3.1 MB | [download](https://github.com/Brendonm17/Cordless/releases/download/v1.0.0/Cordless.vpk) | [repo](https://github.com/Brendonm17/Cordless) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [repo](https://git.silica.codes/Li/creeperdiver) |
-| CTR: High Octane | Rinnegatamante | v.1.1 | 2.2 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.1/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
+| CTR: High Octane | Rinnegatamante | v.1.2 | 3.3 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.2/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [repo](https://drdecki.itch.io/deckis-platformer) |
 | DESTINIA | MetalSyntax | v.1.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Destinia-vita/releases/download/1.0/destinia.vpk) | [repo](https://github.com/MetalSyntax/Destinia-vita) |
 | Destinia Vita | withLogic | v.0.1.1 | 2.3 MB | [download](https://github.com/withLogic/destinia-vita/releases/download/v0.1.1/Destinia.vpk) | [repo](https://github.com/withLogic/destinia-vita) |
