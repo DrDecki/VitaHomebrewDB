@@ -8,7 +8,7 @@ what it was on the day the service went down.
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
-| Amnesia: The Dark Descent | FridiNaTor1 | v.1.3 | 5.5 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.3/Amnesia-Vita-01.00.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
+| Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | BattleShip | robin994 | v.1.3 | 7.0 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.3/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
 | BG2V | Calligula87 | v.0-beta | 3.0 MB | [download](https://github.com/Calligula87/BG2V/releases/download/v0-beta/BG2v0_beta.vpk) | [repo](https://github.com/Calligula87/BG2V) |
@@ -54,7 +54,7 @@ what it was on the day the service went down.
 | PKGj | blastrock | v.0.57 | 1.4 MB | [download](https://github.com/blastrock/pkgj/releases/download/v0.57/pkgj.vpk) | [repo](https://github.com/blastrock/pkgj) |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [repo](https://github.com/celticg/AS-Pocket-Mortys-vita) |
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [repo](https://github.com/Ivoah/portalban) |
-| Prince of Persia Classic | MetalSyntax | v.01.20 | 1.1 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.20/popclassic-v01.20.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
+| Prince of Persia Classic | MetalSyntax | v.01.28 | 1.3 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
 | RuneScape | Brendonm17 | v.1.0.0 | 11.9 MB | [download](https://github.com/Brendonm17/rsc-c-vita/releases/download/v1.0.0/rsc-c-vita.vpk) | [repo](https://github.com/Brendonm17/rsc-c-vita) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
