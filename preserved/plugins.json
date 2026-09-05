@@ -3382,5 +3382,29 @@
         "tags": "",
         "trailer": "",
         "trophies": "0"
+    },
+    {
+        "id": "1547",
+        "name": "LiveArea NoLimits",
+        "author": "devnoname120",
+        "version": "v.1.1.0",
+        "description": "Remove LiveArea limits on PSVITA.",
+        "long_description": "",
+        "changelog": "- First Release",
+        "requirements": "",
+        "url": "https://github.com/devnoname120/livearea_nolimits/releases/download/v1.1.0/livearea_nolimits.suprx",
+        "size": "5649",
+        "hash": "f765c0bbb42899cb59b04f5b6230f063",
+        "hash2": "",
+        "data_size": "0",
+        "date": "2026-09-05",
+        "downloads": "0",
+        "release_page": "https://github.com/devnoname120/livearea_nolimits/releases",
+        "source": "https://github.com/devnoname120/livearea_nolimits",
+        "screenshots": "",
+        "status": "0",
+        "tags": "",
+        "trailer": "",
+        "trophies": "0"
     }
 ]
