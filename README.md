@@ -1,11 +1,12 @@
 # VitaHomebrewDB
 
-A homebrew catalog for PSVITA/PSTV and PSP. It started as a rescue of
-[VitaDB](https://www.rinnegatamante.eu/vitadb) after the official service went offline on
-2026-07-31. Everything that database held is preserved here, and more has been added since.
+Homebrew catalog for PSVITA/PSTV and PSP.
 
-This repository is the catalog: application metadata, icons, screenshots and trailers, served as
-static files over GitHub Pages at `https://drdecki.github.io/VitaHomebrewDB/`.
+VitaDB went offline on 31.07.2026. This started as a backup of it and kept going from
+there. Everything VitaDB had is here, plus a lot that arrived later.
+
+Metadata, icons, screenshots and trailers, served as static files over GitHub Pages at
+`https://drdecki.github.io/VitaHomebrewDB/`.
 
 ## What survived
 
