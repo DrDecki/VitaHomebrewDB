@@ -697,7 +697,7 @@
     },
     {
         "name": "PSV VSH Menu",
-        "version": "v.3.5",
+        "version": "v.3.40",
         "author": "Joel16",
         "description": "Multifunction plugin for PSVITA.",
         "id": "293",
@@ -709,15 +709,15 @@
         "source": "https://github.com/joel16/PSV-VSH-Menu",
         "release_page": "https://github.com/joel16/PSV-VSH-Menu/releases",
         "trailer": "",
-        "size": "2843",
+        "size": "18872",
         "data_size": "0",
-        "hash": "",
+        "hash": "dda362426c4668fdb17b77f84e9c9fa0",
         "hash2": "",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- kuio.skprx from the same release",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/joel16/PSV-VSH-Menu/releases/download/3.40/kuio.skprx"
+        "url": "https://github.com/joel16/PSV-VSH-Menu/releases/download/3.40/vsh.suprx"
     },
     {
         "name": "UDCD UVC",

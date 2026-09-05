@@ -1170,7 +1170,7 @@ Every entry, with the download it currently points at. The ones added since
 | PSP2-CustomBootSplash | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash/releases/download/v1.0/custom_boot_splash.skprx) | [repo](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash) |
 | psp2shell | cpasjuste | #cd019a7 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/267-psp2shellvita.7z) | — |
 | psp2wpp | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/psp2wpp/releases/download/v1.0/psp2wpp.suprx) | [repo](https://github.com/Princess-of-Sleeping/psp2wpp) |
-| PSV VSH Menu | Joel16 | v.3.5 | 0.0 MB | [download](https://github.com/joel16/PSV-VSH-Menu/releases/download/3.40/kuio.skprx) | [repo](https://github.com/joel16/PSV-VSH-Menu) |
+| PSV VSH Menu | Joel16 | v.3.40 | 0.0 MB | [download](https://github.com/joel16/PSV-VSH-Menu/releases/download/3.40/vsh.suprx) | [repo](https://github.com/joel16/PSV-VSH-Menu) |
 | psvgamesd | motoharu | v.2.0 | 0.0 MB | [download](https://github.com/motoharu-gosuto/psvgamesd/releases/download/v2.0/psvgamesd.skprx) | [repo](https://github.com/motoharu-gosuto/psvgamesd) |
 | PSVshell | Electry | v.1.1 | 0.0 MB | [download](https://github.com/Electry/PSVshell/releases/download/v1.1/PSVshell.skprx) | [repo](https://github.com/Electry/PSVshell) |
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [repo](https://git.silica.codes/Li/qaspoofer) |
