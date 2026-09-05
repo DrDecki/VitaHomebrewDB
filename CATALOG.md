@@ -36,7 +36,7 @@ Every entry, with the download it currently points at. The ones added since
 | Air Pressure | majonessyltetoy | v.1.0.0 | 25.6 MB | [download](https://github.com/majonessyltetoy/airpressure/releases/download/v1.0.0/airpressure.vpk) | [repo](https://github.com/majonessyltetoy/airpressure) |
 | Aleph One Vita | DrDecki | v.1.4 | 6.5 MB | [download](https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/alephone.vpk) | [repo](https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-) |
 | Alisa Vita | Rinnegatamante & PatnosD | v.1.2 | 52.5 MB | [download](https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk) | [repo](https://github.com/Rinnegatamante/Alisa-Vita) |
-| Amnesia: The Dark Descent | FridiNaTor1 | v.1.3 | 5.5 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.3/Amnesia-Vita-01.00.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
+| Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | An Untitled Story | JeffRulz345 | v.1.0 | 44.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/412-AnUntitledStory.vpk) | [repo](https://drive.google.com/open?id=1WnmCXBQxEASaanJ0jX8fJoeK6NWbxTV7) |
 | Anarch Vita | Sugardrenaline | v.1.1 | 0.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1125-anarch.vpk) | [repo](https://gitlab.com/sugardrenaline/anarch/) |
 | Ancient Villa | cojam | v.1.0 | 42.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1213-ancient_villa.vpk) | — |
@@ -240,7 +240,7 @@ Every entry, with the download it currently points at. The ones added since
 | Doom64EX | Rinnegatamante | v.1.0.1 | 1.9 MB | [download](https://github.com/Rinnegatamante/Doom64EX/releases/download/v.1.0.1/Doom64EX.vpk) | [repo](https://github.com/Rinnegatamante/Doom64EX) |
 | Door Kickers: Action Squad Vita | elliencode | v.1.01 | 1.9 MB | [download](https://github.com/elliencode/actionsquad-psv/releases/download/v1.01/com.khg.actionsquad-v1.01.vpk) | [repo](https://github.com/elliencode/actionsquad-psv-internal/) |
 | Dr Fink's Robot Lab Vita | Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/Rinnegatamante/fink_vita/releases/download/v.1.0/fink.vpk) | [repo](https://github.com/Rinnegatamante/fink_vita) |
-| dRally Vita | Enrique Somolinos Perez | v.0.2.1 | 1.7 MB | [download](https://github.com/enriquesomolinos/dRally-vita/releases/download/v0.2.1-vita/Death_rally.vpk) | [repo](https://github.com/enriquesomolinos/dRally-vita/tree/psvita) |
+| dRally Vita | Enrique Somolinos Perez | v.0.3 | 2.4 MB | [download](https://github.com/enriquesomolinos/dRally-vita/releases/download/0.3/Death_rally.vpk) | [repo](https://github.com/enriquesomolinos/dRally-vita/tree/psvita) |
 | Dream Punk | bokoyoss | v.1.1 | 76.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1151-dream_punk.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/73/) |
 | Drone Sim Vita | Haasman0 | v.1.0 | 47.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1115-Drone-Sim-Vita.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/29/) |
 | Dropsy Vita | LordChickenBlaster | v.1.02 | 14.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1287-DropsyVITA.vpk) | [repo](https://itch.io/jam/reihen-ps-vita-homebrew-contest/rate/3740886) |
@@ -1008,7 +1008,7 @@ Every entry, with the download it currently points at. The ones added since
 | VITAlbum | joel16 | v.1.40 | 1.5 MB | [download](https://github.com/joel16/VITAlbum/releases/download/v1.40/VITAlbum.vpk) | [repo](https://github.com/joel16/VITAlbum) |
 | Vitaman | L0Wigh | v.1.0 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/696-vitaman.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/vitaman) |
 | VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [repo](https://github.com/spyro-98/VitaMaps) |
-| VitaMediaDeck | spyro-98 | v.1.0.1 | 4.3 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v1.0.1/VitaMediaDeck.vpk) | [repo](https://github.com/spyro-98/VitaMediaDeck) |
+| VitaMediaDeck | spyro-98 | v.1.2.0 | 4.8 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v.1.2.0/VitaMediaDeck.vpk) | [repo](https://github.com/spyro-98/VitaMediaDeck) |
 | Vitamin | TheFloW | v.2.0 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/56-Vitamin.vpk) | — |
 | Vitamon GO | VitaHEX games | v.0.1.0 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/353-VitamonGO.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48745) |
 | ViTanks | Spartanfox | v.0.4 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/472-RT.vpk) | — |

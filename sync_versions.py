@@ -9,7 +9,7 @@ ZIEL = {
 NAMEN = ["ShowInfo Lite","Please, Don't Touch Anything","OpenXcom","vitaQuakeII","devilutionX",
          "Zenonia 2","Switchfin","Save Keeper","OpenMW Vita","uac-pstv-host","Save Sync",
          "WoozyLLM","VitaDB Downloader","OpenNow Vita","Minecraft: Story Mode",
-         "CTR: High Octane","BattleShip"]
+         "CTR: High Octane","BattleShip","dRally Vita","VitaMediaDeck","Prince of Persia Classic","Amnesia: The Dark Descent"]
 
 def load(n):
     with open(os.path.join(ROOT, n), 'rb') as f:

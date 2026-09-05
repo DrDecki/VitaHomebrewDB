@@ -752,7 +752,7 @@
     {
         "name": "VitaMediaDeck",
         "icon": "0039fadc3cb5469727656b64059594522959a78123ba9749f97add052d1c5a2d.png",
-        "version": "v.1.0.1",
+        "version": "v.1.2.0",
         "author": "spyro-98",
         "type": "4",
         "description": "Media client for PSVITA.",
@@ -766,9 +766,9 @@
         "source": "https://github.com/spyro-98/VitaMediaDeck",
         "release_page": "https://github.com/spyro-98/VitaMediaDeck/releases",
         "trailer": "",
-        "size": "4552659",
+        "size": "4981316",
         "data_size": "0",
-        "hash": "c3920eef3eee30a1ed7f2d66ad926bb5",
+        "hash": "f5e39b4f1c4a05e1b0ccb11d1476e79a",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "",
@@ -776,7 +776,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/spyro-98/VitaMediaDeck/releases/download/v1.0.1/VitaMediaDeck.vpk",
+        "url": "https://github.com/spyro-98/VitaMediaDeck/releases/download/v.1.2.0/VitaMediaDeck.vpk",
         "data": ""
     },
     {
@@ -1262,7 +1262,7 @@
     {
         "name": "Amnesia: The Dark Descent",
         "icon": "e127b7d9dbc406719dfbabfa19aeb287cf7c1df0e5f90ac2217be83855b96cff.png",
-        "version": "v.1.3",
+        "version": "v.1.5",
         "author": "FridiNaTor1",
         "type": "2",
         "description": "Port of Amnesia: The Dark Descent for PSVITA.",
@@ -1276,9 +1276,9 @@
         "source": "https://github.com/FridiNaTor1/HPL2-handyman",
         "release_page": "https://github.com/FridiNaTor1/HPL2-handyman/releases",
         "trailer": "",
-        "size": "5756610",
+        "size": "5926144",
         "data_size": "0",
-        "hash": "da59e2e1bdb5757d3d23ec01dfc39a5b",
+        "hash": "e9c9dcffc1cc171382c10acec1dfe0fd",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: Amnesia: The Dark Descent",
@@ -1286,7 +1286,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.3/Amnesia-Vita-01.00.vpk",
+        "url": "https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk",
         "data": ""
     },
     {
@@ -17462,7 +17462,7 @@
     {
         "name": "dRally Vita",
         "icon": "4d8d7ae9a6f120003e7fb2fa2ef62f1cfc3c7966b07c617503768bbe6799de88.png",
-        "version": "v.0.2.1",
+        "version": "v.0.3",
         "author": "Enrique Somolinos Perez",
         "type": "2",
         "description": "Port of Death Rally for PSVITA.",
@@ -17476,9 +17476,9 @@
         "source": "https://github.com/enriquesomolinos/dRally-vita/tree/psvita",
         "release_page": "https://github.com/enriquesomolinos/dRally-vita/releases",
         "trailer": "",
-        "size": "1830404",
+        "size": "2497567",
         "data_size": "0",
-        "hash": "1d6d80a13cc505e07a3b3ce6384eec88",
+        "hash": "d3566e291fe24dba4459622e8fa0c22a",
         "hash2": "",
         "changelog": "- Fix: Lap count in race\n- Fix: Racers position in race",
         "requirements": "",
@@ -17486,7 +17486,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.3",
-        "url": "https://github.com/enriquesomolinos/dRally-vita/releases/download/v0.2.1-vita/Death_rally.vpk",
+        "url": "https://github.com/enriquesomolinos/dRally-vita/releases/download/0.3/Death_rally.vpk",
         "data": ""
     },
     {
