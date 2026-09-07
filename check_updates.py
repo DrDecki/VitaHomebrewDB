@@ -38,7 +38,7 @@ def repo_of(a):
     return None
 
 def slug(s):
-    s = s.lower()
+    s = re.sub(r'[_\-]+', ' ', s.lower())
     s = re.sub(r'\bv?\d+[._]\d[\d._]*\b', '', s)
     s = re.sub(r'\b(vita|psvita|ps vita|port|release|final|nightly)\b', '', s)
     return re.sub(r'[^a-z0-9]', '', s)
@@ -81,17 +81,22 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         if not key:
             continue
         cur = a['url'].rsplit('/', 1)[-1]
+        if 'DrDecki/VitaHomebrewDB' in a['url']:
+            cur = re.sub(r'^\d+-', '', cur)
         want_ext = ('.vpk', '.zip', '.7z', '.rar') if not fname.startswith('preserved/plugins') else ('.suprx', '.skprx', '.zip')
         rel = api('https://api.github.com/repos/%s/releases?per_page=5' % key)
         if not rel:
             continue
         es = slug(a['name'])
-        best, best_score, best_tag = None, 0.0, None
+        best, best_score, best_tag, best_date = None, 0.0, None, ''
         for r in rel:
+            if r.get('draft') or r.get('prerelease'):
+                continue
             for x in r.get('assets', []):
                 sc = usable(x['name'], want_ext, es)
                 if sc > best_score:
                     best, best_score, best_tag = x, sc, r['tag_name']
+                    best_date = r.get('published_at', '')
             if best:
                 break
         if not best or best['name'] == cur:
@@ -99,6 +104,9 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         cur_score = usable(cur, want_ext, es)
         if not newer(best_tag or best['name'], a.get('version', '')):
             skipped.append('%s: %s looks older than %s, keeping it' % (a['name'], best_tag or best['name'], a.get('version')))
+            continue
+        if best_date and a.get('date') and best_date[:10] <= a['date']:
+            skipped.append('%s: %s is from %s, the entry already has %s' % (a['name'], best_tag, best_date[:10], a['date']))
             continue
         cur_stem = re.sub(r'\d', '', slug(re.sub(r'\.[a-z0-9]+$', '', cur.lower())))
         new_stem = re.sub(r'\d', '', slug(re.sub(r'\.[a-z0-9]+$', '', best['name'].lower())))
