@@ -68,7 +68,8 @@ def usable(name, want_ext, entry_slug):
         score += 0.15
     return score
 
-changes, skipped = [], []
+changes, skipped = []
+nohash = [], []
 for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
     path = os.path.join(ROOT, fname)
     d = load(fname)
@@ -138,10 +139,17 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         a['hash'] = hashlib.md5(blob).hexdigest() if blob is not None else ''
         if best_tag:
             a['version'] = 'v.' + best_tag.lstrip('vV.')
-        changes.append('- **%s** %s -> %s  \n  `%s` -> `%s` (%.1f MB, match %.2f)' % (
-            a['name'], old_v, a.get('version'), old_f, best['name'], best['size'] / 1048576.0, best_score))
+        changes.append('- **%s** %s -> %s  \n  `%s` -> `%s` (%.1f MB, match %.2f)%s' % (
+            a['name'], old_v, a.get('version'), old_f, best['name'], best['size'] / 1048576.0, best_score,
+            '  **no hash, too large to fetch here**' if blob is None else ''))
+        if blob is None:
+            nohash.append(a['name'])
         dirty = True
         time.sleep(0.5)
+    if nohash:
+        changes.append('')
+        changes.append('Run `python3 sync_versions.py --write` locally to fill in the missing')
+        changes.append('hashes for: ' + ', '.join(nohash) + '.')
     if dirty:
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(d, f, indent=4, ensure_ascii=False)
