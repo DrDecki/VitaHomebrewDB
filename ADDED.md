@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (74)
+## PSVITA homebrews (75)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -75,6 +75,7 @@ what it was on the day the service went down.
 | VitaForge | josephinoo | v.0.1.3 | 5.2 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.3/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
 | VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [repo](https://github.com/spyro-98/VitaMaps) |
 | VitaMediaDeck | spyro-98 | v.1.2.0 | 4.8 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v.1.2.0/VitaMediaDeck.vpk) | [repo](https://github.com/spyro-98/VitaMediaDeck) |
+| ViTube | shorelight82 | v.1.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | WoozyLLM | LuckyI13I | v.0.1P-fix1 | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | Zenonia 1 | withLogic | v.0.1.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk) | [repo](https://github.com/withLogic/zenonia1-remaster-vita) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [repo](https://github.com/withLogic/zenonia2-remaster-vita) |
@@ -124,4 +125,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-100 entries, 0.7 GB in total.
+101 entries, 0.7 GB in total.

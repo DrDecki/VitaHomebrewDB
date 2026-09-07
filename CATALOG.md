@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1093)
+## PSVITA homebrews (1094)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -1045,6 +1045,7 @@ Every entry, with the download it currently points at. The ones added since
 | ViTetris | bytelett | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1135-ViTetris.vpk) | [repo](https://github.com/m-bartlett/vita-tetris) |
 | Vitohlyad | gl33ntwine & Danil_linaD | v.0.9 | 18.7 MB | [download](https://github.com/v-atamanenko/vitohlyad/releases/download/v0.9/vitohlyad.vpk) | [repo](https://github.com/v-atamanenko/vitohlyad) |
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
+| ViTube | shorelight82 | v.1.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | Voice Recorder Vita | VitaHEX games | v.1.0 | 2.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/304-VoiceRecorder.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48444) |
 | vOpenTyrian | cpasjuste | 16-09-19 | 5.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk) | [repo](https://github.com/Cpasjuste/vopentyrian) |
 | VPKMirror | NamelessGhoul0 | v.1.1 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/82-VPKMirror.vpk) | — |
@@ -1419,4 +1420,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1396 entries, 31.5 GB in total.
+1397 entries, 31.5 GB in total.
