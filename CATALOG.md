@@ -158,7 +158,7 @@ Every entry, with the download it currently points at. The ones added since
 | Circuit Dude | crait | v.2.6.6 | 14.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/626-CircuitDude.vpk) | [repo](http://www.crait.net/) |
 | Clasherball | Sungrand Studios | Demo | 77.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1214-clasherball.vpk) | [repo](https://sungrandstudios.itch.io/clasherball) |
 | Clonage Bulle ePSP | Markus95 | v.1.1 | 5.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/187-Clonage_Bulle_ePSP.vpk) | — |
-| COD: BOZ Vita | devnoname120 | v.1.06 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita.vpk) | [repo](https://x.com/devnoname120) |
+| COD: BOZ Vita | devnoname120 | v.2.02 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita.vpk) | [repo](https://x.com/devnoname120) |
 | Coffee Talk Vita | PatnosD | v.1.35 | 14.3 MB | [download](https://github.com/PatnosDD/Coffee-Talk-PS-VITA/releases/download/Release/coffeetalk.vpk) | [repo](https://github.com/PatnosDD/Coffee-Talk-PS-VITA) |
 | Commander Genius | Northfear | v.3.0.9-vita.2 | 3.7 MB | [download](https://github.com/Northfear/Commander-Genius/releases/download/v3.0.9-vita.2/CommanderGenius.vpk) | [repo](https://github.com/Northfear/Commander-Genius) |
 | Connect Four | Dane64 | v.1.0 | 0.6 MB | [download](https://github.com/Dane64/ConnectFour/releases/download/1.00/C4.vpk) | [repo](https://github.com/Dane64/ConnectFour) |
