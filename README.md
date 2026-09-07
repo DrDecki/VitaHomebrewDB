@@ -31,7 +31,7 @@ rebuilt from a repository.
 | PC tools | 27 | 27 |
 | **Total** | **1296** | **1296 (100%)** |
 
-The table above counts the catalog as it stood on 2026-07-31. Another 98 entries
+The table above counts the catalog as it stood on 2026-07-31. Another 100 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
@@ -40,7 +40,7 @@ scene; those are listed separately in [ADDED.md](ADDED.md).
 | Asset | Recovered |
 | --- | ---: |
 | Metadata | 100% (1296 entries) |
-| Icons | 100% (1411) |
+| Icons | 100% (1413) |
 | Screenshots | 100% (2186 of 2186) |
 | Trailers | 100% (62 of 62) |
 | Data files | 100% (137 of 137) |
