@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1094)
+## PSVITA homebrews (1095)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -439,6 +439,7 @@ Every entry, with the download it currently points at. The ones added since
 | Jailbreaker Vita | VSM GAMMER | v.1.0 | 25.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1075-Jailbreaker.vpk) | — |
 | JAVITA: Jedi Academy | NDRW | v.1.0.1 | 3.6 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.0.1/JAVITA_1.0.1.vpk) | [repo](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [repo](https://github.com/largepelotas/JaVitaScript-Snake) |
+| Jazz² Resurrection | deathkiller | Nightly | 4.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Jazz2.vpk) | [repo](https://github.com/deathkiller/jazz2-native) |
 | JellyCar | Drakon | v.1.1 | 32.9 MB | [download](https://github.com/DrakonPL/JellyCar/releases/download/1.1/JellyCarVita.vpk) | [repo](https://github.com/DrakonPL/JellyCar) |
 | Jet Car Stunts 2 Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/jetcarstunts_vita/releases/download/v.1.0/jetcarstunts.vpk) | [repo](https://github.com/Rinnegatamante/jetcarstunts_vita) |
 | JetMan-3D | Gremlin Software | v.Main | 1.3 MB | [download](https://github.com/softwaregremlin/Jetman3D/releases/download/Main/JetMan-3D.vpk) | [repo](https://github.com/softwaregremlin/Jetman3D/) |
@@ -1420,4 +1421,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1397 entries, 31.6 GB in total.
+1398 entries, 31.6 GB in total.
