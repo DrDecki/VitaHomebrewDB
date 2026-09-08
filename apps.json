@@ -4922,7 +4922,7 @@
     {
         "name": "Parkour Labs",
         "icon": "d8e49d20ed6440e3c5e48e1055b6e80a35ce77c00882b2c8591b7c296489f7ba.png",
-        "version": "v.1.2",
+        "version": "v.2.0",
         "author": "SoyKhaler",
         "type": "2",
         "description": "Port of Parkour Labs for PSVITA.",
@@ -4936,9 +4936,9 @@
         "source": "",
         "release_page": "https://soykhaler.itch.io/parkour-labs-vita-port",
         "trailer": "",
-        "size": "43264784",
+        "size": "86834768",
         "data_size": "0",
-        "hash": "5c7d6d5bc7fb3bb5444d54317c32c825",
+        "hash": "a5bab31ed4f86d242f72382cd8c76d2b",
         "hash2": "330cb42398453499c01864b49c185f71",
         "changelog": "- added new levels\n- reworked the menu\n- dash and double jump added",
         "requirements": "",
@@ -4946,7 +4946,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1099-Parkour_Labs.vpk",
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ParkourLabs.vpk",
         "data": ""
     },
     {

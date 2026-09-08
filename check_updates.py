@@ -30,11 +30,36 @@ def api(url):
             time.sleep(5)
     return None
 
+HOSTS = [
+    ('github', r'https?://github\.com/([^/]+)/([^/#?]+)'),
+    ('gitlab', r'https?://gitlab\.com/([^/]+)/([^/#?]+)'),
+    ('gitea', r'https?://git\.silica\.codes/([^/]+)/([^/#?]+)'),
+]
+
 def repo_of(a):
     for field in ('release_page', 'source'):
-        m = re.match(r'https?://github\.com/([^/]+)/([^/#?]+)', a.get(field) or '')
-        if m:
-            return '%s/%s' % (m.group(1), m.group(2).replace('.git', ''))
+        v = a.get(field) or ''
+        for host, pat in HOSTS:
+            m = re.match(pat, v)
+            if m:
+                return host, '%s/%s' % (m.group(1), m.group(2).replace('.git', ''))
+    return None, None
+
+def releases_of(host, key):
+    if host == 'github':
+        return api('https://api.github.com/repos/%s/releases?per_page=5' % key)
+    if host == 'gitea':
+        return api('https://git.silica.codes/api/v1/repos/%s/releases?limit=5' % key)
+    if host == 'gitlab':
+        raw = api('https://gitlab.com/api/v4/projects/%s/releases?per_page=5'
+                  % urllib.parse.quote(key, safe=''))
+        out = []
+        for r in raw or []:
+            out.append({'tag_name': r.get('tag_name'), 'draft': False, 'prerelease': False,
+                        'published_at': r.get('released_at') or '',
+                        'assets': [{'name': l.get('name'), 'browser_download_url': l.get('url'), 'size': 0}
+                                   for l in (r.get('assets') or {}).get('links') or []]})
+        return out
     return None
 
 def slug(s):
@@ -68,24 +93,21 @@ def usable(name, want_ext, entry_slug):
         score += 0.15
     return score
 
-changes, skipped = []
-nohash = [], []
+changes, skipped, nohash = [], [], []
 for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
     path = os.path.join(ROOT, fname)
     d = load(fname)
     dirty = False
     is_psp = fname == 'psp_apps.json'
     for a in d:
-        if 'github.com' not in a.get('url', ''):
-            continue
-        key = repo_of(a)
+        host, key = repo_of(a)
         if not key:
             continue
         cur = a['url'].rsplit('/', 1)[-1]
         if 'DrDecki/VitaHomebrewDB' in a['url']:
             cur = re.sub(r'^\d+-', '', cur)
         want_ext = ('.vpk', '.zip', '.7z', '.rar') if not fname.startswith('preserved/plugins') else ('.suprx', '.skprx', '.zip')
-        rel = api('https://api.github.com/repos/%s/releases?per_page=5' % key)
+        rel = releases_of(host, key)
         if not rel:
             continue
         es = slug(a['name'])

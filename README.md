@@ -35,7 +35,7 @@ The table above counts the catalog as it stood on 2026-07-31. Another 101 entrie
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
-**31.5 GB** in total.
+**31.6 GB** in total.
 
 | Asset | Recovered |
 | --- | ---: |

@@ -611,7 +611,7 @@ Every entry, with the download it currently points at. The ones added since
 | Paper Train Reloaded Vita | Rinnegatamante | v.1.0 | 2.7 MB | [download](https://github.com/Rinnegatamante/paper-train-vita/releases/download/v.1.0/papertrain.vpk) | [repo](https://github.com/Rinnegatamante/paper-train-vita) |
 | Paper Train: Rush Vita | Rinnegatamante | v.1.0 | 2.4 MB | [download](https://github.com/Rinnegatamante/paper_rush-vita/releases/download/v.1.0/papertrainrush.vpk) | [repo](https://github.com/Rinnegatamante/paper_rush-vita) |
 | Parental Control Bypass | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/parentalcontrolbypass/releases/download/v1.0/Parental_Control_Bypass.vpk) | [repo](https://git.silica.codes/Li/parentalcontrolbypass) |
-| Parkour Labs | SoyKhaler | v.1.2 | 41.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1099-Parkour_Labs.vpk) | [repo](https://soykhaler.itch.io/parkour-labs-vita-port) |
+| Parkour Labs | SoyKhaler | v.2.0 | 82.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ParkourLabs.vpk) | [repo](https://soykhaler.itch.io/parkour-labs-vita-port) |
 | Partia: The Granian Trilogy | Rinnegatamante | v.1.0 | 5.4 MB | [download](https://github.com/Rinnegatamante/partia-vita/releases/download/v.1.0/Partia.vpk) | [repo](https://github.com/Rinnegatamante/partia-vita) |
 | Party Hard Vita | daniemun | v.0.01 | 125.5 MB | [download](https://github.com/daniemun/PartyHard-PSVITA-Port/releases/download/v0.01/PartyHardVita.vpk) | [repo](https://github.com/daniemun/PartyHard-PSVITA-Port) |
 | Pause | WZ | v.1.0 | 46.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1143-Pause.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/58/) |
@@ -1420,4 +1420,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1397 entries, 31.5 GB in total.
+1397 entries, 31.6 GB in total.
