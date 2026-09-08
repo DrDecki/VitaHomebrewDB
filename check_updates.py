@@ -37,8 +37,11 @@ HOSTS = [
 ]
 
 def repo_of(a):
-    for field in ('release_page', 'source'):
+    for field in ('release_page', 'source', 'url'):
         v = a.get(field) or ''
+        # unser eigener Mirror sagt nichts ueber die Herkunft
+        if 'DrDecki/VitaHomebrewDB' in v:
+            continue
         for host, pat in HOSTS:
             m = re.match(pat, v)
             if m:

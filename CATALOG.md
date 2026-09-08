@@ -1149,7 +1149,7 @@ Every entry, with the download it currently points at. The ones added since
 | InfiniteNet | Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/InfiniteNet.suprx) | [repo](https://github.com/Rinnegatamante/InfiniteNet) |
 | Killzone Trainer | vosman | v.1.12 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/87-killzonetrainervita.7z) | — |
 | kubridge | TheFloW & Bythos | v.0.3.1 | 0.0 MB | [download](https://github.com/bythos14/kubridge/releases/download/v0.3.1_hotfix/kubridge.skprx) | [repo](https://github.com/bythos14/kubridge) |
-| kuio | Rinnegatamante | v.1.2 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/kuio.zip) | — |
+| kuio | Rinnegatamante | v.1.2 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/kuio.zip) | [repo](https://github.com/Rinnegatamante/kuio) |
 | Lastseconds | theorywrong | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/280-lastsecondsvita.7z) | — |
 | LiveArea NoLimits | devnoname120 | v.1.1.0 | 0.0 MB | [download](https://github.com/devnoname120/livearea_nolimits/releases/download/v1.1.0/livearea_nolimits.suprx) | [repo](https://github.com/devnoname120/livearea_nolimits) |
 | Mac Address Spoofer | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/656-macaddressspoofervita.7z) | [repo](https://kyuhen.customprotocol.com/en/submissions/mac_address_spoofer/) |
@@ -1185,12 +1185,12 @@ Every entry, with the download it currently points at. The ones added since
 | reRescaler | Rinnegatamante | v.0.1 BETA | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/reRescaler.zip) | [repo](https://github.com/Rinnegatamante/reRescaler) |
 | reSavedata | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/reSavedata/releases/download/v1.0/resavedata.skprx) | [repo](https://github.com/Princess-of-Sleeping/reSavedata) |
 | reVita | Mer1e | v.1.0.8 | 0.1 MB | [download](https://github.com/MERLev/reVita/releases/download/1.0.8/reVita.skprx) | [repo](https://github.com/MERLev/reVita) |
-| rinCheat | Rinnegatamante | v.0.1 | 0.6 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/rinCheat.zip) | — |
+| rinCheat | Rinnegatamante | v.0.1 | 0.6 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/rinCheat.zip) | [repo](https://github.com/Rinnegatamante/rinCheat) |
 | SavedataPlus | Rinnegatamante | v.0.8 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/SavedataPlus.zip) | [repo](https://github.com/Rinnegatamante/SavedataPlus) |
 | SceKernelModuleDumper | Princess-of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/374-scekernelmoduledumpervita.7z) | [repo](https://github.com/Princess-of-Sleeping/SceKernelModuleDumper) |
 | sceShutterSoundPlayDisable | Princess-of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/373-scesspdvita.7z) | [repo](https://github.com/Princess-of-Sleeping/sceShutterSoundPlayDisable) |
 | ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [repo](https://git.silica.codes/Li/ScoreHax) |
-| Screenie | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/Screenie.zip) | — |
+| Screenie | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/Screenie.zip) | [repo](https://github.com/Rinnegatamante/Screenie) |
 | Screenshot Enabler | reprep & yifanlu | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/220-screenshot.zip) | — |
 | Shellbat | nowrep | r10 | 0.0 MB | [download](https://github.com/nowrep/vita-shellbat/releases/download/r10/shellbat.suprx) | [repo](https://github.com/nowrep/vita-shellbat) |
 | shellbat Codiak Mod | Codiak101 | v.2.0 | 0.0 MB | [download](https://github.com/Codiak101/vita-shellbat/releases/download/v2.0/shellbat.suprx) | [repo](https://github.com/Codiak101/vita-shellbat) |
@@ -1203,7 +1203,7 @@ Every entry, with the download it currently points at. The ones added since
 | SysDualTouch | Voxel9 | v.0.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/646-sysdualtouchvita.7z) | [repo](https://github.com/Voxel9/Vita-SysDualTouch) |
 | taiHen | Team Molecule | v.0.11 | 0.1 MB | [download](https://github.com/yifanlu/taiHEN/releases/download/v0.11/taihen.skprx) | [repo](https://github.com/yifanlu/taiHEN) |
 | TouchRemap | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TouchRemap.suprx) | — |
-| TrackPlug | Rinnegatamante | v.1.1 | 2.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TrackPlug.zip) | — |
+| TrackPlug | Rinnegatamante | v.1.1 | 2.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TrackPlug.zip) | [repo](https://github.com/Rinnegatamante/TrackPlug) |
 | TriggerRemap | Emiougus | v.1.0 | 0.0 MB | [download](https://github.com/Emiougus/TriggerRemap/releases/download/v1.0/TriggerRemap.suprx) | [repo](https://github.com/Emiougus/TriggerRemap) |
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [repo](https://git.silica.codes/Li/trophax) |
 | TurboPad | Rinnegatamante | v.0.3 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TurboPad.zip) | [repo](https://github.com/Rinnegatamante/TurboPad/) |
@@ -1245,7 +1245,7 @@ Every entry, with the download it currently points at. The ones added since
 | Walk | pathway27 | v.1.0 | 0.0 MB | [download](https://github.com/pathway27/walk/releases/download/v0.1/walk.suprx) | [repo](https://kyuhen.customprotocol.com/en/submissions/walk) |
 | Watermark Disabler | reprep | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/225-watermarkdisablervita.7z) | — |
 | WDNF | EchoDev & Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/WDNF.suprx) | — |
-| WDNR | Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/WDNR.suprx) | — |
+| WDNR | Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/WDNR.suprx) | [repo](https://github.com/Rinnegatamante/WDNR) |
 | Wipeout 2048 Trainer | vosman | v.1.04 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/89-wipeout2048trainervita.7z) | — |
 | World of Final Fantasy Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/90-wofftrainervita.7z) | — |
 | X1Vita | M Ibrahim | v.1.0 | 0.0 MB | [download](https://github.com/Ibrahim778/X1Vita/releases/download/V1.0/X1Vita.skprx) | [repo](https://github.com/Ibrahim778/X1Vita) |
