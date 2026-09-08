@@ -529,7 +529,7 @@
     },
     {
         "name": "unpkg_vita",
-        "version": "v.1.3",
+        "version": "v.1.7",
         "author": "RikuKH3",
         "description": "PKG Unpacker",
         "id": "320",
@@ -541,15 +541,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "264068",
+        "size": "803329",
         "data_size": "0",
-        "hash": "",
+        "hash": "ba9a4871848bcc3e5883b94477960c9e",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/RikuKH3/unpkg_vita/releases/download/v1.3/unpkg_vita_v13.zip"
+        "url": "https://github.com/RikuKH3/unpkg_vita/releases/download/1.7/unpkg_vita_v17.zip"
     },
     {
         "name": "vid2pshv",

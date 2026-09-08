@@ -1413,7 +1413,7 @@ Every entry, with the download it currently points at. The ones added since
 | SD2Vita Helper Tool | AntHJ | v.1.2 | 0.5 MB | [download](https://github.com/AntHJ/SD2Vita-Format-Tool/releases/download/1.2/SD2Vita.Format.Tool.v1.2.zip) | [repo](https://github.com/AntHJ/SD2Vita-Format-Tool) |
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | Sony Homebrew Manager | MRGhidini | v.1.5 | 8.6 MB | [download](https://github.com/MRGhidini/SHM/releases/download/1.5/Sony.Homebrew.Manager.1.5.zip) | [repo](https://github.com/MRGhidini/SHM) |
-| unpkg_vita | RikuKH3 | v.1.3 | 0.3 MB | [download](https://github.com/RikuKH3/unpkg_vita/releases/download/v1.3/unpkg_vita_v13.zip) | — |
+| unpkg_vita | RikuKH3 | v.1.7 | 0.8 MB | [download](https://github.com/RikuKH3/unpkg_vita/releases/download/1.7/unpkg_vita_v17.zip) | — |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 | vid2pshv | Rinnegatamante | v.1.0 | 12.4 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/vid2pshv_win64.zip) | — |
 | Video Bubbles Creator | Rinnegatamante | v.1.2 | 4.2 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/VideoBubblesCreator.zip) | — |
