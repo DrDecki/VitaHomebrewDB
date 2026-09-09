@@ -4,10 +4,11 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (76)
+## PSVITA homebrews (80)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
+| Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [repo](https://github.com/MetalSyntax/Advena-Vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | BattleShip | robin994 | v.1.4 | 7.1 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.4/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
@@ -27,11 +28,14 @@ what it was on the day the service went down.
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [repo](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [repo](https://github.com/oestriot/GcToolKit) |
+| GoldenBalloon | zm2283145 | v.0.2.0 | 2.5 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/vita-v0.2.0/mdkr64.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
 | I am not a murderer | Bunkai9448 | v.1.0 | 3.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Iamnotamurderer.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | Illusia | withLogic | v.1.0.0 | 2.6 MB | [download](https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk) | [repo](https://github.com/withLogic/illusia-vita) |
+| ILLUSIA 2 | MetalSyntax | v.1.0.0 | 1.1 MB | [download](https://github.com/MetalSyntax/ILLUSIA-2-Vita/releases/download/v1.0.0/illusia2.vpk) | [repo](https://github.com/MetalSyntax/ILLUSIA-2-Vita) |
 | Immortal Dusk | MetalSyntax | v.1.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Inmortal-Dusk-vita/releases/download/1.0/immortal_dusk.vpk) | [repo](https://github.com/MetalSyntax/Inmortal-Dusk-vita) |
 | ImMultiple | TheCrystalOrg | v.0.1 | 7.8 MB | [download](https://git.silica.codes/TheCrystalOrg/ImMultiple/releases/download/v0.1/ImMultiple_VITA.vpk) | [repo](https://git.silica.codes/TheCrystalOrg/ImMultiple) |
 | Inotia 3 | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Inotia3-vita/releases/download/1.0.0/inotia3-release.vpk) | [repo](https://github.com/MetalSyntax/Inotia3-vita) |
+| Iron Coast: Scrap Tide | Onur Kuru | v.0.3.0 | 31.7 MB | [download](https://github.com/onurkuru/ironcoast/releases/download/v0.3.0/Iron-Coast-PSVita-v0.3.0.vpk) | [repo](https://github.com/onurkuru/ironcoast) |
 | JAVITA: Jedi Academy | NDRW | v.1.0.1 | 3.6 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.0.1/JAVITA_1.0.1.vpk) | [repo](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [repo](https://github.com/largepelotas/JaVitaScript-Snake) |
 | Jazz² Resurrection | deathkiller | Nightly | 4.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Jazz2.vpk) | [repo](https://github.com/deathkiller/jazz2-native) |
@@ -76,7 +80,7 @@ what it was on the day the service went down.
 | VitaForge | josephinoo | v.0.1.3 | 5.2 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.3/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
 | VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [repo](https://github.com/spyro-98/VitaMaps) |
 | VitaMediaDeck | spyro-98 | v.1.2.0 | 4.8 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v.1.2.0/VitaMediaDeck.vpk) | [repo](https://github.com/spyro-98/VitaMediaDeck) |
-| ViTube | shorelight82 | v.1.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
+| ViTube | shorelight82 | v.1.2 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.2/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | WoozyLLM | LuckyI13I | v.0.1P-fix1 | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | Zenonia 1 | withLogic | v.0.1.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk) | [repo](https://github.com/withLogic/zenonia1-remaster-vita) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [repo](https://github.com/withLogic/zenonia2-remaster-vita) |
@@ -126,4 +130,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-102 entries, 0.7 GB in total.
+106 entries, 0.7 GB in total.

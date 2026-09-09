@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1095)
+## PSVITA homebrews (1099)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -28,6 +28,7 @@ Every entry, with the download it currently points at. The ones added since
 | AdrBubbleBooterInstaller | Leecherman | v.0.6 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/307-AdrBubbleBooterInstaller_v1.3.vpk) | [repo](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) |
 | Adrenaline | TheFloW | v.7 | 0.4 MB | [download](https://github.com/TheOfficialFloW/Adrenaline/releases/download/v7/Adrenaline.vpk) | [repo](https://github.com/TheOfficialFloW/Adrenaline) |
 | AdrenalineEasyInstaller | Freakler | v.1.15 | 6.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/36-AdrenalineEasyInstaller.vpk) | [repo](https://github.com/Freakler/vita-AdrenalineEasyInstaller) |
+| Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [repo](https://github.com/MetalSyntax/Advena-Vita) |
 | AdvRemap | ShadowPrince | Alpha 1 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/117-advremap.vpk) | [repo](https://github.com/ShadowPrince/advremap) |
 | Aerofoil Vita | Rinnegatamante | v.1.0 | 2.0 MB | [download](https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/Aerofoil.vpk) | [repo](https://github.com/Rinnegatamante/Aerofoil-Vita) |
 | After Burner Climax Vita | Rinnegatamante | v.1.1 | 1.6 MB | [download](https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.vpk) | [repo](https://github.com/Rinnegatamante/afterburner-vita) |
@@ -363,6 +364,7 @@ Every entry, with the download it currently points at. The ones added since
 | GoHAN | OneRice07 | v.2.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/250-GoHAN.vpk) | — |
 | GoHAN Parallel | OneRice07 | v.2.1.0 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/251-GoHAN_Parallel.vpk) | — |
 | Going Nowhere | koleq | b27 | 65.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/767-GoingNowhere.vpk) | — |
+| GoldenBalloon | zm2283145 | v.0.2.0 | 2.5 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/vita-v0.2.0/mdkr64.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
 | GoldenIdol-Vita | Wolff | v.0.8.7 | 19.5 MB | [download](https://github.com/WolffsRoom/GoldenIdol-PSVita/releases/download/v0.8.7/GoldenIdol-Vita-v0.8.7.vpk) | [repo](https://github.com/WolffsRoom/GoldenIdol-PSVita) |
 | Golfing Over It with Alva Majo | PatnosD | v.1.0 | 12.6 MB | [download](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA/releases/download/Release/GolfingOverIt.vpk) | [repo](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) |
 | Gone Home | Soup'um | v.1.0.1 | 508.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1147-Gone_Home_for_PlayStation_Vita_V1.0.1.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/67/) |
@@ -421,6 +423,7 @@ Every entry, with the download it currently points at. The ones added since
 | IdleMiner | c0rtax | v.1.00 | 16.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1231-IdleMiner.vpk) | — |
 | idu-mode | xyzz | v.1.0 | 0.0 MB | [download](https://github.com/xyzz/vita-idu/releases/download/1.0/idu-mode.vpk) | [repo](https://github.com/xyzz/vita-idu) |
 | Illusia | withLogic | v.1.0.0 | 2.6 MB | [download](https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk) | [repo](https://github.com/withLogic/illusia-vita) |
+| ILLUSIA 2 | MetalSyntax | v.1.0.0 | 1.1 MB | [download](https://github.com/MetalSyntax/ILLUSIA-2-Vita/releases/download/v1.0.0/illusia2.vpk) | [repo](https://github.com/MetalSyntax/ILLUSIA-2-Vita) |
 | iMango | CapitanBarbaCoa | v.1.0 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1441-imango.vpk) | [repo](https://capitanbarbacoa.itch.io/imango-psvita) |
 | IMCUnlockLite | SKGleba | v.4 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/420-IMCUnlockLite.vpk) | [repo](https://github.com/SKGleba/IMCUnlockLite) |
 | Immortal Dusk | MetalSyntax | v.1.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Inmortal-Dusk-vita/releases/download/1.0/immortal_dusk.vpk) | [repo](https://github.com/MetalSyntax/Inmortal-Dusk-vita) |
@@ -431,6 +434,7 @@ Every entry, with the download it currently points at. The ones added since
 | Inotia 3 | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Inotia3-vita/releases/download/1.0.0/inotia3-release.vpk) | [repo](https://github.com/MetalSyntax/Inotia3-vita) |
 | Inscryption Vita | gl00mm | alpha.1 | 14.4 MB | [download](https://github.com/gl00mm/Inscryption_PSVITA/releases/download/Inscryption_PSVITA-alpha.1/inscryption.vpk) | [repo](https://github.com/gl00mm/Inscryption_PSVITA) |
 | Into the Breach | Rinnegatamante | v.1.0-vita | 2.6 MB | [download](https://github.com/Rinnegatamante/Into-The-Breach-Vita/releases/download/v.1.0/breach.vpk) | [repo](https://github.com/Rinnegatamante/Into-The-Breach-Vita) |
+| Iron Coast: Scrap Tide | Onur Kuru | v.0.3.0 | 31.7 MB | [download](https://github.com/onurkuru/ironcoast/releases/download/v0.3.0/Iron-Coast-PSVita-v0.3.0.vpk) | [repo](https://github.com/onurkuru/ironcoast) |
 | Is It Fake? | AntHJ | v.2b | 5.3 MB | [download](https://github.com/AntHJ/Is-It-Fake/releases/download/v2b/IsItFake.vpk) | [repo](https://github.com/AntHJ/Is-It-Fake) |
 | Isabelle Dance Studio | huckleberrypie & ParkingLotStudio | v.1.02-PSP2 | 16.7 MB | [download](https://github.com/huckleberrypie/IsabelleDanceStudio/releases/download/v1.02/IsabelleDanceStudioPSP2v102-VitaDB.vpk) | [repo](https://github.com/huckleberrypie/IsabelleDanceStudio/releases) |
 | Isotope 244 Collection | Rinnegatamante | v.1.0 | 5.2 MB | [download](https://github.com/Rinnegatamante/Isotope-244-Collection/releases/download/v.1.0/isotope.vpk) | [repo](https://github.com/Rinnegatamante/Isotope-244-Collection) |
@@ -1046,7 +1050,7 @@ Every entry, with the download it currently points at. The ones added since
 | ViTetris | bytelett | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1135-ViTetris.vpk) | [repo](https://github.com/m-bartlett/vita-tetris) |
 | Vitohlyad | gl33ntwine & Danil_linaD | v.0.9 | 18.7 MB | [download](https://github.com/v-atamanenko/vitohlyad/releases/download/v0.9/vitohlyad.vpk) | [repo](https://github.com/v-atamanenko/vitohlyad) |
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
-| ViTube | shorelight82 | v.1.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
+| ViTube | shorelight82 | v.1.2 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.2/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | Voice Recorder Vita | VitaHEX games | v.1.0 | 2.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/304-VoiceRecorder.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48444) |
 | vOpenTyrian | cpasjuste | 16-09-19 | 5.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk) | [repo](https://github.com/Cpasjuste/vopentyrian) |
 | VPKMirror | NamelessGhoul0 | v.1.1 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/82-VPKMirror.vpk) | — |
@@ -1421,4 +1425,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1398 entries, 31.6 GB in total.
+1402 entries, 31.6 GB in total.
