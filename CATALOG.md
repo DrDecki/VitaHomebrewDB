@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1099)
+## PSVITA homebrews (1101)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -241,7 +241,7 @@ Every entry, with the download it currently points at. The ones added since
 | Doom64EX | Rinnegatamante | v.1.0.1 | 1.9 MB | [download](https://github.com/Rinnegatamante/Doom64EX/releases/download/v.1.0.1/Doom64EX.vpk) | [repo](https://github.com/Rinnegatamante/Doom64EX) |
 | Door Kickers: Action Squad Vita | elliencode | v.1.01 | 1.9 MB | [download](https://github.com/elliencode/actionsquad-psv/releases/download/v1.01/com.khg.actionsquad-v1.01.vpk) | [repo](https://github.com/elliencode/actionsquad-psv-internal/) |
 | Dr Fink's Robot Lab Vita | Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/Rinnegatamante/fink_vita/releases/download/v.1.0/fink.vpk) | [repo](https://github.com/Rinnegatamante/fink_vita) |
-| dRally Vita | Enrique Somolinos Perez | v.0.3 | 2.4 MB | [download](https://github.com/enriquesomolinos/dRally-vita/releases/download/0.3/Death_rally.vpk) | [repo](https://github.com/enriquesomolinos/dRally-vita/tree/psvita) |
+| dRally Vita | Enrique Somolinos Perez | v.1.2 | 2.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/823-Death_rally.vpk) | [repo](https://github.com/enriquesomolinos/dRally-vita/tree/psvita) |
 | Dream Punk | bokoyoss | v.1.1 | 76.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1151-dream_punk.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/73/) |
 | Drone Sim Vita | Haasman0 | v.1.0 | 47.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1115-Drone-Sim-Vita.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/29/) |
 | Dropsy Vita | LordChickenBlaster | v.1.02 | 14.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1287-DropsyVITA.vpk) | [repo](https://itch.io/jam/reihen-ps-vita-homebrew-contest/rate/3740886) |
@@ -372,10 +372,12 @@ Every entry, with the download it currently points at. The ones added since
 | Gravity Hunters | NandXor96 | v.1.0 | 4.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1330-gravity_hunters.vpk) | [repo](https://github.com/NandXor96/gravity_hunters_vita) |
 | GreenVita | DayOS | v.0.1.8 | 13.5 MB | [download](https://github.com/Day-OS/green-vita/releases/download/v0.1.8/green-vita.vpk) | [repo](https://github.com/Day-OS/green-vita) |
 | GRIDLOCKE | VSM GAMMER | v.1.0 | 42.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1080-GRIDLOCKE.vpk) | — |
+| GrooveSpeed | smart-pickle | v.1.0 | 2.3 MB | [download](https://github.com/smart-pickle/GrooveSpeed-Vita/releases/download/v1.0/GrooveSpeedVita.vpk) | [repo](https://github.com/smart-pickle/GrooveSpeed-Vita) |
 | GTA: CTW Vita | TheFloW & Rinnegatamante | v.1.2 | 0.9 MB | [download](https://github.com/TheOfficialFloW/gtactw_vita/releases/download/v1.2/GTACTW.vpk) | [repo](https://github.com/TheOfficialFloW/gtactw_vita) |
 | GTA: SA Vita | TheFloW & Rinnegatamante & aap | v.2.1 | 1.4 MB | [download](https://github.com/TheOfficialFloW/gtasa_vita/releases/download/v2.1/GTASA.vpk) | [repo](https://github.com/TheOfficialFloW/gtasa_vita) |
 | Guardener Vita | bren | v.1.2 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1300-GUARDENER_v1_2.vpk) | [repo](https://brendonm17.itch.io/guardener-vita) |
 | Guess It! | HWNJ | v.1.0 | 40.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/688-GuessIt.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/guessit/) |
+| Gun Bros | Rocroverss | v.1.0 | 3.2 MB | [download](https://github.com/Rocroverss/Gun-Bros-Psvita/releases/download/v1.0/Gun_Bros.vpk) | [repo](https://github.com/Rocroverss/Gun-Bros-Psvita) |
 | GUN GODZ | m1s3ry | v.1.0 | 2.8 MB | [download](https://github.com/m1s3ry/gungodz-vita/releases/download/v1.0/GUN_GODZ_v1.0.VPK) | [repo](https://github.com/m1s3ry/gungodz-vita) |
 | Gunman Clive | usineur | v.1.0 | 1.8 MB | [download](https://github.com/usineur/clive-vita/releases/download/v1.0/clive.vpk) | [repo](https://github.com/usineur/clive-vita) |
 | HackInformer App | HackInformer Staff | v.1.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/227-HackInformer.vpk) | — |
@@ -1425,4 +1427,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1402 entries, 31.6 GB in total.
+1404 entries, 31.6 GB in total.
