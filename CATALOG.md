@@ -554,7 +554,7 @@ Every entry, with the download it currently points at. The ones added since
 | Naruto Boruto | gambikules | v.2 | 46.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/510-NarutoBoruto.vpk) | — |
 | Naught 2 Vita | usineur | v.1.1 | 1.7 MB | [download](https://github.com/usineur/naught2-vita/releases/download/v1.1/naught2.vpk) | [repo](https://github.com/usineur/naught2-vita) |
 | Naught Vita | usineur | v.1.1 | 2.3 MB | [download](https://github.com/usineur/naught-vita/releases/download/v1.1/naught.vpk) | [repo](https://github.com/usineur/naught-vita) |
-| Nazi Zombies Portable | NZP Reboot Team & Rinnegatamante | Nightly | 3.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1028-nzp.vpk) | [repo](https://github.com/nzp-team/nzportable) |
+| Nazi Zombies Portable | NZP Reboot Team & Rinnegatamante | Nightly | 2.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1028-nzp.vpk) | [repo](https://github.com/nzp-team/nzportable) |
 | NBA Jam Vita | elliencode | v.1.00 | 2.3 MB | [download](https://github.com/elliencode/nba-jam-psv/releases/download/v1.00/com.eamobile.nbajam_row_wf-v1.00.vpk) | [repo](https://github.com/elliencode/nba-jam-psv) |
 | Neet Girl Date Night Vita | raidengugga | v.01.00 | 13.8 MB | [download](https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA/releases/download/Latest/NGDN-01.00.vpk) | [repo](https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA) |
 | Neighbours from Hell | MaloneCZSD | v.1.0 | 12.6 MB | [download](https://github.com/MaloneCZSD/NFH-PS-VITA/releases/download/V1.0/NFHV1.0.vpk) | [repo](https://github.com/malone46/NFH-PS-VITA/) |
@@ -1427,4 +1427,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1404 entries, 31.6 GB in total.
+1404 entries, 31.7 GB in total.

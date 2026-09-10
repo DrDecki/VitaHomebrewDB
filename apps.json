@@ -11497,7 +11497,7 @@
         "type": "1",
         "description": "Port of Nazi Zombies Portable for PSVITA.",
         "id": "1028",
-        "date": "2024-02-05",
+        "date": "2026-09-09",
         "titleid": "NZZMBSPTB",
         "screenshots": "screenshots/700a132501a00d7586707b33c0a4727c2b0664e3ec9c86996efebd810a6cdcc3.png;screenshots/6e7ece334d0b8604df007a714e9d33abc092dc86af50d4545d6e9177d01f832b.png;screenshots/140e581c7bbf245de22fd278ef49270d10d8539201b32e6c4b3db7f44f9c17f8.png;screenshots/a79e4d2418e3aecf44aeab0aca053932e1fa639ce53fc6fe7c0def570fb1ba35.png",
         "long_description": "Call of Duty: Zombies \"de-make\" for PlayStation Portable & VITA, Nintendo Switch & 3DS, Windows, & Linux (ARM & x86). Powered by various Quake sourceports. Includes \"Nacht der Untoten\" and several community-made maps.",
@@ -11506,9 +11506,9 @@
         "source": "https://github.com/nzp-team/nzportable",
         "release_page": "https://github.com/nzp-team/nzportable/releases",
         "trailer": "",
-        "size": "3612951",
-        "data_size": "46790302",
-        "hash": "d6c1f0b2ab51328f4028ba0490a6617c",
+        "size": "2483483",
+        "data_size": "73159874",
+        "hash": "98bf509c79633788cf9d962f6eab053b",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -11517,7 +11517,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1028-nzp.vpk",
-        "data": "https://files.coolatoms.org/nzp-data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1028-data-nzp.zip"
     },
     {
         "name": "Desert Golfing Vita",
