@@ -30,10 +30,10 @@ for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/too
         for feld in (a.get('url', ''), a.get('source', ''), a.get('release_page', '')):
             m = re.search(r'github\.com/([^/\s]+/[^/\s]+)', feld or '')
             if m:
-                bekannt.add(m.group(1).lower().rstrip('.git'))
+                bekannt.add(m.group(1).lower().removesuffix('.git'))
 
 for k in kand:
-    k['repos'] = {m.group(1).lower().rstrip('.git') for m in
+    k['repos'] = {m.group(1).lower().removesuffix('.git') for m in
                   re.finditer(r'github\.com/([^/\s"\'<>]+/[^/\s"\'<>]+)', k['title'] + ' ' + k['text'])}
     k['schon_drin'] = bool(k['repos'] & bekannt)
 

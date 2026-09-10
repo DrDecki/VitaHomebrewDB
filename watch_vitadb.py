@@ -35,6 +35,7 @@ for label, ep, datei in ENDPOINTS:
     uns = load(datei)
     # Abgleich ueber normalisierte Namen, damit "Zenonia 3" und "Zenonia 3 Vita" zusammenfinden
     uns_norm, uns_repo = {}, {}
+    uns_id = {str(x.get('id')): x for x in uns}
     for a in uns:
         n = norm(a['name'])
         uns_norm[n] = a
@@ -43,7 +44,7 @@ for label, ep, datei in ENDPOINTS:
         for feld in (a.get('source'), a.get('release_page'), a.get('url')):
             m = re.search(r'(github\.com|gitlab\.com)/([^/\s]+/[^/\s?#]+)', feld or '')
             if m:
-                uns_repo[m.group(2).lower().rstrip('.git')] = a
+                uns_repo[m.group(2).lower().removesuffix('.git')] = a
 
     for a in vd:
         n = norm(a['name'])
@@ -51,9 +52,12 @@ for label, ep, datei in ENDPOINTS:
         for feld in (a.get('source'), a.get('release_page')):
             m = re.search(r'(github\.com|gitlab\.com)/([^/\s]+/[^/\s?#]+)', feld or '')
             if m:
-                repo = m.group(2).lower().rstrip('.git')
+                repo = m.group(2).lower().removesuffix('.git')
                 break
-        treffer = (uns_repo.get(repo) if repo else None) or uns_norm.get(n) or uns_norm.get(n + 'vita') or (uns_norm.get(n[:-4]) if n.endswith('vita') else None)
+        per_id = uns_id.get(str(a.get('id')))
+        if per_id and not (norm(per_id['name']).startswith(n) or n.startswith(norm(per_id['name']))):
+            per_id = None
+        treffer = per_id or (uns_repo.get(repo) if repo else None) or uns_norm.get(n) or uns_norm.get(n + 'vita') or (uns_norm.get(n[:-4]) if n.endswith('vita') else None)
         if not treffer:
             neu_alle.append((label, a))
             continue

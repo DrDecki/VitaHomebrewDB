@@ -37,7 +37,7 @@ for name in NAMEN:
     m = re.search(r'github\.com/([^/\s]+/[^/\s?#]+)', (a.get('source') or a.get('release_page') or ''))
     if not m:
         print('  %-26s kein Repo' % name[:26]); continue
-    repo = m.group(1).rstrip('.git')
+    repo = m.group(1).removesuffix('.git')
     try:
         rels = api('https://api.github.com/repos/%s/releases?per_page=5' % repo)
     except Exception as e:
