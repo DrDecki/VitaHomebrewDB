@@ -1232,13 +1232,14 @@
         "hash": "67872a55bf0521a5874c0b23664e787d",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Jedi Knight II: Jedi Outcast",
+        "requirements": "- Game Data Files: Jedi Knight II: Jedi Outcast in ux0:data/JK2VITA",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/NDRWhun/JK2VITA/releases/download/release-1.0/JK2VITA-1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Zenonia 2",
@@ -1262,13 +1263,14 @@
         "hash": "63cbd1df07eaddddc1e4feac7ad86e5b",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Zenonia 2",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Zenonia 2 in ux0:data/zenonia2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Zenonia 4",
@@ -1292,13 +1294,14 @@
         "hash": "fc38d6711a73cc805d6cab1d687f5989",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Zenonia 4",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Zenonia 4 in ux0:data/zenonia-4",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/Zenonia4-psvita-port/releases/download/1.0.0/zenonia_4.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Inotia 3",
@@ -1322,13 +1325,14 @@
         "hash": "a15a7c68fc9308452cdbe76a0c096771",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Inotia 3",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Inotia 3 in ux0:data/inotia3",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/Inotia3-vita/releases/download/1.0.0/inotia3-release.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Zenonia 3",
@@ -1352,13 +1356,14 @@
         "hash": "a4eaf2f79d1017fdfc5cbd71c8d14d56",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Zenonia 3",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Zenonia 3 in ux0:data/zenonia3",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/zenonia3-psvita-port/releases/download/v01.30/zenonia_3.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "CTR: High Octane",
@@ -1382,13 +1387,14 @@
         "hash": "6d35452ceb14f54c0931b29ce94a1b6d",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Crash Team Racing",
+        "requirements": "- Game Data Files: Crash Team Racing in ux0:data/ctr",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.3.1/ctr.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The House 1 and 2",
@@ -1562,13 +1568,14 @@
         "hash": "e9c9dcffc1cc171382c10acec1dfe0fd",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Amnesia: The Dark Descent",
+        "requirements": "- Game Data Files: Amnesia: The Dark Descent in ux0:data/Amnesia",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita NS Controller",
@@ -2313,13 +2320,14 @@
         "hash": "4c48ffaa5e7dd6f21d45e96999f96158",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Minecraft Pocket Edition Alpha 0.6.1",
+        "requirements": "- Game Data Files: Minecraft Pocket Edition Alpha 0.6.1 in ux0:data/minecraftpe",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Lego Island",
@@ -2343,13 +2351,14 @@
         "hash": "8fd3a020c3b3a50f55fdedadedabb153",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: LEGO Island (1997)",
+        "requirements": "- Game Data Files: LEGO Island (1997) in ux0:data/isledecomp",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaForge",
@@ -2403,13 +2412,14 @@
         "hash": "7d7e9baf8423eea3508bce29dd333f1c",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/mcsm",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/LeZergan/mcsm-vita/releases/download/v1.11/MCSM-1.11.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenNow Vita",
@@ -33332,7 +33342,7 @@
         "description": "Port of GoldenBalloon, a Diddy Kong Racing decompilation, for PSVITA.",
         "long_description": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Diddy Kong Racing",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Diddy Kong Racing in ux0:data/goldenballoon",
         "url": "https://github.com/zm2283145/goldenballoon-vita-port/releases/download/vita-v0.2.0/mdkr64.vpk",
         "size": "2587581",
         "hash": "8cb87b40b65ef51a23cc02996b195600",
@@ -33349,6 +33359,7 @@
         "trailer": "",
         "trophies": "0",
         "ai": "0",
-        "score": "0"
+        "score": "0",
+        "requirements_checked": "1"
     }
 ]
