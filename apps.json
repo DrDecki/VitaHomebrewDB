@@ -2603,13 +2603,14 @@
         "hash": "36f3b689c60b165ab21f7179e35bf3e0",
         "hash2": "",
         "changelog": "- Fixed out-of-memory crashes when saving or loading long-running games\n- Fixed slow memory buildup during long indoor sessions\n- Better crash diagnostics in boot.log",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/openmw",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "86.5",
         "url": "https://github.com/TheLostPantheon/openmw/releases/download/v2.2/openmw.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "DSVita",
@@ -2936,13 +2937,14 @@
         "hash": "a127cfe4199c5b920ccbc2353ba511c6",
         "hash2": "",
         "changelog": "- Performance improvements (PR #45).\n- Fixed potential collision hash-related crash.\n- Fixed potential division by zero crash.\n- Probably some other fixes.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/unreal",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1242-unreal.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1242-data-unreal.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1242-data-unreal.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Garfield's Wild Ride Vita",
@@ -3868,13 +3870,14 @@
         "hash": "400ac17140955cd525160512be2ccca7",
         "hash2": "",
         "changelog": "- Added English language support.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/Bio4",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70.4",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1402-BIOHAZARD4.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "DS8 Drumstream",
@@ -4172,13 +4175,14 @@
         "hash": "c32b77fc7f7178bdda453d77b2271e7f",
         "hash2": "",
         "changelog": "- game selector at start for all installed \"Gloom-Engine\" games\n- \"run\" option\n- Save/Load position option (it won't save the enemies states)\n- 3 profiles for Classic up to Enhanced visuals\n- Blob shadows\n- Muzzle flash and reflections\n- Atmospheric dust\n- Fixed teleport animation as in the original 90s game\n- Fixed intro sequence as in the original 90s game",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/ZGloom",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "79",
         "url": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v08.2026/ZGloomCollection.08.2026.vpk",
-        "data": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v11.2025/ZGloom-Datafiles.zip"
+        "data": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v11.2025/ZGloom-Datafiles.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenVitaLiero",
@@ -4715,13 +4719,14 @@
         "hash": "ed34f3dc21f930d49dd5df774edee874",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: N64 in ux0:data/starship",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "86.1",
         "url": "https://github.com/Rinnegatamante/Starship/releases/download/v.1.0/Starship.vpk",
-        "data": "https://github.com/Rinnegatamante/Starship/releases/download/v.1.0/starship.zip"
+        "data": "https://github.com/Rinnegatamante/Starship/releases/download/v.1.0/starship.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Star Warfare: Alien Invasion",
@@ -5227,13 +5232,14 @@
         "hash": "088355a44ef6c42fae4867180fc90e88",
         "hash2": "",
         "changelog": "- Substantially improved video playback performance by passing YUV data directly to GXM, avoiding CPU color space conversion.\n- Added playstation button icons and PS Vita diagram in control settings screen. Notes:\n-- This works by automatically patching the original game files when the game starts. The game creates automatic backups of files before applying patches (e.g., config.lmp.backup). Backups are only created once and won't be overwritten. The patching code was written with the help of AI tools.\n-- This was achieved in part thanks to the cool BGDA Explorer tool for PS2 by Bryce Barbara. The tool was adapted to work with the Xbox texture format and modified to support importing new textures. I will share the modified fork of BGDA Explorer in the future.\n- Eliminated periodic framerate stutter every 3-4 seconds. Moved Vorbis audio decoding to a background thread on CPU core 2. Uses a custom fork of libvorbis with a lock-free ring buffer that pre-fills decoded PCM data so ov_read() returns instantly via memcpy. Included as a submodule at lib/libvorbis and built automatically by the build script. Note: The code for this custom fork was written with the help of AI tools, by creating tests to ensure the original libvorbis and the threaded version behave exactly the same for this game's use case.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/bgda",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.5",
         "url": "https://github.com/Nevak/bgda-vita/releases/download/v1.06/bgda.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Chex Quest Vita",
@@ -6040,13 +6046,14 @@
         "hash": "d30691cf345586b8bb06cb6a623668b5",
         "hash2": "",
         "changelog": "- Re-enable MSAA (2x).\n- Better PSTV support.\n- Fix Simplified Chinese not displaying fonts.\n- Fixed minor glitches.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/pop2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "63",
         "url": "https://github.com/usineur/pop2-vita/releases/download/v1.3/pop2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Paper Train: Rush Vita",
@@ -6401,13 +6408,14 @@
         "hash": "440e4a3019e475a6d7216b192cb69f20",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL commit.\n- Enabled LTO: this will bring performance improvements.\n- Added shader cache: game will boot slightly faster after the first boot.\n- Improved overall performances thanks to circular vertex pool and recent vitaGL optimizations.\n- Reduce amount of particles for particularly spammy effects in order to not cause too heavy framedrops.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/Eldritch",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "75.6",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-Eldritch.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-data-eldritch.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-data-eldritch.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "UNTITLED50 Vita",
@@ -6551,13 +6559,14 @@
         "hash": "f6bec494b77484ab614d57a464c082ed",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL commit.\n- Severely reduced memory usage: this should lead to less instances in which textures start missing in game.\n- Improved overall performance: framerate is, on average, 25% higher.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/pang",
         "trophies": "1",
         "tags": "android,2d,shooter,commercial",
         "ai": "0",
         "score": "70.9",
         "url": "https://github.com/Rinnegatamante/pang-vita/releases/download/v.1.1/pang.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": ".hack//ez-i",
@@ -9234,13 +9243,14 @@
         "hash": "3c7054f89e89f4fd511649b80e83391d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/dethrace",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.8",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1244-dethrace.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1244-data-dethrace.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1244-data-dethrace.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Dolmexica Infinite",
@@ -9415,13 +9425,14 @@
         "hash": "3d48cb3b934b8bdc3f0efeca6df0ce4c",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/swordigo",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "84.2",
         "url": "https://github.com/Rinnegatamante/swordigo-vita/releases/download/v.1.1/swordigo.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "vitaVoyager",
@@ -12071,13 +12082,14 @@
         "hash": "0a2b7a0a018c4e999e7ad3deb23a8b5a",
         "hash2": "",
         "changelog": "- Upstream version bump.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/dunelegacy",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80",
         "url": "https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy.vpk",
-        "data": "https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy_data.zip"
+        "data": "https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Hit'em balls",
@@ -12492,13 +12504,14 @@
         "hash": "03153e716ab06318b922bfac0802a693",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/layton_future",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "85.4",
         "url": "https://github.com/Rinnegatamante/layton3-vita/releases/download/v.1.0/layton3.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenMRac Vita",
@@ -15808,13 +15821,14 @@
         "hash": "1ff18b7e47351c8f2a15a37a0ebb9261",
         "hash2": "",
         "changelog": "- Fixed anonymous access for some SMB shares",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/cy33hc/vita-smb-client/releases/download/latest/smbclient.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Dead Space Vita",
@@ -24311,13 +24325,14 @@
         "hash": "e684a8126205745366f148709f22a0b9",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/hode",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.9",
         "url": "https://github.com/usineur/hode/releases/download/0.2.9/hode.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Connect Four",
@@ -27046,13 +27061,14 @@
         "hash": "869b89e98fe096d743ecca4da75047a8",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/openttd",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80.2",
         "url": "https://github.com/angguss/OpenTTD/releases/download/0.3-vita/openttd.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/299-data-openttd.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/299-data-openttd.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Manga Downloader",
