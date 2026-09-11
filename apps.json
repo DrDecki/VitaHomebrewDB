@@ -2513,13 +2513,14 @@
         "hash": "1cc08336d4ff91e952fdb7e0c96fd6de",
         "hash2": "",
         "changelog": "Runtime and compatibility\n- The port now loads each chapter's original Windows data.win directly, removing the old game.droid conversion step (a remnant from the beginning of the project, in which data from the Android port was used).\n- Added missing GameMaker behavior required by DELTARUNE, including array_equals(), corrected mixed-width binary results, mp_grid_path defaults and draw_path support.\n- Corrected surface readback and puzzle verification. The three Chapter 2 light puzzles can now validate their solutions on PS Vita. Fix Issue 10.\n- Fixed the Chapter 3 pathfinding softlock near the hole sequence. Fix Issue 11.\n- Fixed the mixed-width VM operation related to Susie's outfit selection in Chapter 5. Fix Issue 13.\n- Improved buffer and surface compatibility, collision handling, room creation diagnostics and GameMaker builtin coverage.\n\nRendering and performance\n- Reworked texture caching, protected UI/font atlases and reduced repeated texture uploads and evictions. Fix Issue 11.\n- Added chapter-aware preloading for audio, textures and frequently used assets. Fix Issue 11.\n- Improved rendering performance in several demanding Chapter 2 and Chapter 3 rooms, including the couch-overworld sequence Fix Issue 11.\n- Improved Chapter 5 town performance and stability while retaining the Original graphics profile. Partially fixes issue 13.\n- Fixed missing or flashing interface elements, dialogue frames, characters and room textures in several chapters.\n- Added safer surface synchronization before GPU readback.\n- Preserved the Original, Medium and Low graphics profiles without forcing reduced texture quality in Original mode.\n\nGraphic API:\n- A feature allowing chapters to launch with different graphics APIs was tested in the v0.64 beta. While the test yielded positive results, modern-gl still requires further adjustments before it can be fully implemented.\n- The experimental modern-gl renderer was evaluated and reverted. As a result, v0.64 continues to rely on the more stable legacy-gl renderer across all chapters.\n\nAudio and video\n- Revised music streaming, startup order and room-transition behavior.\n- Added separate Master, Music and Sound Effects controls, plus an option to disable audio for performance testing.\n- Expanded audio preloading to reduce first-use stutters in dialogue, battles and room transitions.\n- Added experimental Chapter 3 video playback support. Some videos may still require further compatibility work (Still in development)\n\nGame Settings, controls and diagnostics\n- Reworked Game Settings icons and confirmation screens. Fix Issue 7.\n- Improved touch controls, touch editing and navigation.\n- Expanded the room browser and developer overlay with room, event, alarm, collision, audio, render and expensive-GML timing data.\n- Added optional collision-mask diagnostics for puzzle and room testing.\n- Improved dynamic borders, manual border selection and configuration loading.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Steam",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Steam in ux0:data/deltarune",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "85.9",
         "url": "https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.72/Deltarune-v0.72-49.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Minotaur",
@@ -2817,13 +2818,14 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- Multi-touch has been removed in favor of mouse controls taken directly from the pc port (a lot more stable)\n- Pointer added for those on PSTV and those who just want to use their analog stick and x button for playing (toggled on/off in menu)\n- Fixed card art showing up as white in deck manager when zoomed in\n- Fixed issue of missing card art in lower strip containing creatures in the forge cards panel\n- Map has new controls, in place of the missing pinch and zoom feature caused by the lack of multi touch:\n-- DPAD / Touchscreen - Scroll around the map\n-- L Stick / Touchscreen - Cursor / Interacting with quests\n-- R Stick - Rotate clockwise to zoom in, rotate counterclockwise to zoom out",
-        "requirements": "- Game Data Files: iOS",
+        "requirements": "- Game Data Files: iOS in ux0:data/CardWars",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "67",
         "url": "https://github.com/parindraaa867/AT-CardWars-Vita/releases/download/v5/CardWars_Stub.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Bloons TD 5 Vita",
@@ -4451,13 +4453,14 @@
         "hash": "bd0ffae9efd797c24ba14c59890c22d6",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/Brendonm17/wagic-vita/releases/download/v0.1.0a/wagic.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "SuperMarioBros C Vita",
@@ -7895,13 +7898,14 @@
         "hash": "57dd7afa6dbb6df33de3ce7051344e22",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- libfmodstudio.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- libfmodstudio.suprx\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/breach",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "87.1",
         "url": "https://github.com/Rinnegatamante/Into-The-Breach-Vita/releases/download/v.1.0/breach.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Slendrina the Cellar",
@@ -9565,13 +9569,14 @@
         "hash": "707e6ce9b1da172212f25f372a9507f9",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/CroMagRally",
         "trophies": "0",
         "tags": "3d,racing,f2p,opensource",
         "ai": "0",
         "score": "73",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/872-CroMag.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/872-data-CroMagRally.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/872-data-CroMagRally.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "vitaQuakeIII",
@@ -14894,13 +14899,14 @@
         "hash": "125f8f4ff396000ce1cc86cbb402b770",
         "hash2": "",
         "changelog": "- Slightly improved levels loading times.\n- Improved rendering logic. Now rendering is faster.\n- Solved a bug potentially causing sporadic GPU crashes.\n- Slightly reduced memory usage and CPU workload.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/7billion",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74.7",
         "url": "https://github.com/Rinnegatamante/seven-vita/releases/download/v.1.1/billion.vpk",
-        "data": "https://github.com/Rinnegatamante/seven-vita/releases/download/v.1.1/datafiles.zip"
+        "data": "https://github.com/Rinnegatamante/seven-vita/releases/download/v.1.1/datafiles.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Galaxy on Fire 2 Vita",
@@ -15078,13 +15084,14 @@
         "hash": "b6a4742f7c0178d9ce6942f314320694",
         "hash2": "",
         "changelog": "- Bound Start button to pause game.\n- Bound L Trigger to time freeze.\n- Bound R Trigget to fast forward.\n- Added configurable settings and related configurator app (Graphics Quality, Textures Quality, Anti-Aliasing).\n- Reworked Livearea assets (Thanks to Once13one).",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/anomaly_defenders",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74.9",
         "url": "https://github.com/Rinnegatamante/anomaly-defenders_vita/releases/download/v.1.1/anomaly_defenders.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Anomaly Korea Vita",
@@ -17980,13 +17987,14 @@
         "hash": "d5401eeba07218bbf1bfa728b188aeef",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- YoYo Loader\n- Game Data Files: PC Steam",
+        "requirements": "- YoYo Loader\n- Game Data Files: PC Steam in ux0:data/gms",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "71",
         "url": "https://github.com/hatoving/imscared-old-vita/releases/download/1.1/IMSCARED0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Blue Bayou",
@@ -23112,13 +23120,14 @@
         "hash": "94a16b70ba0d9aa9d8a65a8466b54956",
         "hash2": "",
         "changelog": "- Updated to latest vitasdk and GCC10 usage.\n- Updated to latest vitaGL commit.\n- Fixed a bug causing vFlux to draw garbage on screen.\n- Added Post Processing effects support (FXAA, Greyscale, Sepia Tone, Negative).\n- Added V-Sync option.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/dstroydata",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/383-DstroyVita.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/383-data-dstroydata.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/383-data-dstroydata.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "meritous",
@@ -23142,13 +23151,14 @@
         "hash": "4503753e89e79569701e367d2b9482e6",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/meritous",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/411-meritous.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/411-data-meritous.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/411-data-meritous.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "SuperMarioWar",
@@ -27512,13 +27522,14 @@
         "hash": "470073cb38ed772999678a72fd836d9d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/rocksndiamonds",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78",
         "url": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/rocksndiamonds_vita_1.12.vpk",
-        "data": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/rocksndiamonds_data.zip"
+        "data": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/rocksndiamonds_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Wiiero",
@@ -28293,13 +28304,14 @@
         "hash": "089c3ca09f43206051e26be7b59d4108",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/smb",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73",
         "url": "https://github.com/usineur/methane/releases/download/1.1/Methane.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/382-data-smb.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/382-data-smb.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "vita-savemgr",
@@ -28838,13 +28850,14 @@
         "hash": "d22eab279c079cfd97b151be57f11bd8",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/KETM",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/356-KETM.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/356-data-KETM.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/356-data-KETM.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "PC Link",
@@ -29080,13 +29093,14 @@
         "hash": "67822c65a54983fbfc9ad709dc41ecdd",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/titus",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "60.9",
         "url": "https://github.com/usineur/opentitus/releases/download/1.0/Titus.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenMoktar",
