@@ -2666,13 +2666,14 @@
         "hash": "cfbe28e7c75c694ee0c2fa09f630f977",
         "hash2": "",
         "changelog": "- Made the loader version agnostic: now you can use also newer versions of the Android port of UT99 (v.1.5.0 is still the recommended one for best performances).\n- Added precompiled shaders cache: reduces booting time by approximately 4 seconds.\n- Updated to latest vitaGL commit and enabled more speedhacks: slightly improves performances.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: PC in ux0:data/ut99\n- Data files in ux0:data/shader_cache",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "87",
         "url": "https://github.com/Rinnegatamante/UT99-Vita/releases/download/v.0.8/ut99.vpk",
-        "data": "https://github.com/Rinnegatamante/UT99-Vita/releases/download/v.0.8/ut99.zip"
+        "data": "https://github.com/Rinnegatamante/UT99-Vita/releases/download/v.0.8/ut99.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "GreenVita",
@@ -2818,7 +2819,7 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- Multi-touch has been removed in favor of mouse controls taken directly from the pc port (a lot more stable)\n- Pointer added for those on PSTV and those who just want to use their analog stick and x button for playing (toggled on/off in menu)\n- Fixed card art showing up as white in deck manager when zoomed in\n- Fixed issue of missing card art in lower strip containing creatures in the forge cards panel\n- Map has new controls, in place of the missing pinch and zoom feature caused by the lack of multi touch:\n-- DPAD / Touchscreen - Scroll around the map\n-- L Stick / Touchscreen - Cursor / Interacting with quests\n-- R Stick - Rotate clockwise to zoom in, rotate counterclockwise to zoom out",
-        "requirements": "- Game Data Files: iOS in ux0:data/CardWars",
+        "requirements": "- Game Data Files: iOS in ux0:app/CWRS00001",
         "trophies": "0",
         "tags": "",
         "ai": "1",
@@ -11908,13 +11909,14 @@
         "hash": "5f3a85f2176ed453715d0f8b3fb4fdd0",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/OXCE",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce.vpk",
-        "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce-data.zip"
+        "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce-data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Z2",
