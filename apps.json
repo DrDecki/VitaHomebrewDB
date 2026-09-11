@@ -2881,13 +2881,14 @@
         "hash": "6f971c980f4da3eec8638417ed78071c",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/beachbuggyracing",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "67.9",
         "url": "https://github.com/WolffsRoom/BeachBuggyRacing-Vita/releases/download/v1.0/BeachBuggyRacing.Vita-v1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Zombie Tsunami Vita",
@@ -3455,13 +3456,14 @@
         "hash": "1fff4cc45656822af68395d2aa0a42a9",
         "hash2": "",
         "changelog": "- Default framerate is now 25 like in the original game.\n- It can be adjusted in graphics.ini in your data folder if you want the game going a bit faster.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/dynhunt",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "69",
         "url": "https://github.com/MuukalainenPuhuu/Vita-MH-DH/releases/download/1.1/MHDH.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Book of the Dead Vita",
@@ -3605,13 +3607,14 @@
         "hash": "c3c455622179901751a98ae1bcd61502",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/softwaregremlin2/Quake1ModelViewer/releases/download/Homebrew/mdlviewer.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "DARIUSBURST SP Vita",
@@ -3635,13 +3638,14 @@
         "hash": "301ad720bbc632fe6832dee27ed93466",
         "hash2": "",
         "changelog": "- Fixed a bug causing the game to eventually run out of texture handles, resulting in the screen being stuck on a random texture forever.\n- Made so that the back button is mapped on Circle inside menus instead of Start.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/dariusburst",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76",
         "url": "https://github.com/Rinnegatamante/dariusburst-vita/releases/download/v.1.0/dariusburst.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "A Bite at Freddy's Vita",
@@ -5614,13 +5618,14 @@
         "hash": "759911e79802f7dea2fce14d002fa693",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/clive",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "79.6",
         "url": "https://github.com/usineur/clive-vita/releases/download/v1.0/clive.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Naught 2 Vita",
@@ -5644,13 +5649,14 @@
         "hash": "7571bb1b4ea6ba8e862dd10f7f04b65a",
         "hash2": "",
         "changelog": "- Added in-game physical buttons support.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/naught2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/usineur/naught2-vita/releases/download/v1.1/naught2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Naught Vita",
@@ -6189,13 +6195,14 @@
         "hash": "f52e5fef86195cd2c2d12329e02103ec",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/smashrush",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/smashrush-vita/releases/download/v.1.0/smashrush.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Froggy's Battle Vita",
@@ -7490,13 +7497,14 @@
         "hash": "e51fc74d8b9fa876d03a156fdb662836",
         "hash2": "",
         "changelog": "- Initial release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/rocky2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/rocky-castle-2-vita/releases/download/v.1.0/rocky2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "KatzenKlein Redux Vita",
@@ -7641,13 +7649,14 @@
         "hash": "79fa571c773e3286520f582c628c7d96",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/papertrain",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/paper-train-vita/releases/download/v.1.0/papertrain.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Flappy Nyan Vita",
@@ -7764,13 +7773,14 @@
         "hash": "9fa4a978a003d05160e094b0a3e518c5",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/babel",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "69.3",
         "url": "https://github.com/Rinnegatamante/babel-vita/releases/download/v.1.0/babel.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Julius Vita",
@@ -11653,13 +11663,14 @@
         "hash": "3eb17574a8be74adca30d272ffe860a8",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- libfmodstudio.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- libfmodstudio.suprx\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/desertgolfing",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70",
         "url": "https://github.com/Rinnegatamante/desertgolfing_vita/releases/download/v.1.0/desertgolfing.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Golfing Over It with Alva Majo",
@@ -15422,13 +15433,14 @@
         "hash": "884942ce0a68bba1ae78c8cb7a5fc979",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Data files in ux0:data/aerofoil",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/Aerofoil.vpk",
-        "data": "https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/aerofoil.zip"
+        "data": "https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/aerofoil.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Cut the Rope Vita",
@@ -16450,13 +16462,14 @@
         "hash": "3142f861a2bbab541372811e9c02f882",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/hassey",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "65.1",
         "url": "https://github.com/Rinnegatamante/hassey-collection/releases/download/v.0.9/hassey.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Family Fisticuffs Vita",
@@ -21744,13 +21757,14 @@
         "hash": "590bd9f6057844cf854b62d17840e11a",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/worminator",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ammeir/worminator/releases/download/v1.0/worminator_v10.zip",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/664-data-worminator.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/664-data-worminator.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "I Was Rebuilt",
@@ -25944,13 +25958,14 @@
         "hash": "f474c25c017358a0e8856cc71a04d5e7",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/sqrxz3",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/614-SQRXZ0003.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ElevenMPV",
@@ -27536,13 +27551,14 @@
         "hash": "aeecf8f3494eb8e100f3ce8d9e3184e3",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/mirrormagic",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/mirrormagic_vita_1.12.vpk",
-        "data": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/mirrormagic_data.zip"
+        "data": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/mirrormagic_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "rocksndiamonds",
