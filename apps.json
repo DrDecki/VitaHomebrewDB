@@ -2910,13 +2910,14 @@
         "hash": "4801322d127b573e3f3305e795a60d51",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/zombietsunami",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "70",
         "url": "https://github.com/WolffsRoom/ZombieTsunami-Vita/releases/download/v1.0/ZombieTsunami-v1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Unreal Vita",
@@ -5333,13 +5334,14 @@
         "hash": "6dc2c32ee574cd828d508af6a297a542",
         "hash2": "",
         "changelog": "Additional Improvements and Fixes:\n- Multi Language Support\n- Performance Flags for VitaGl recommended by Rinnegatamante\n- Settings Menu Background fix/icon fix\n- MiniMap character position Fix\n\nAdditional Vita Options:\n- Toggle Magic Option\n- Lock Fps option",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/arx",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76.9",
         "url": "https://github.com/TheLostPantheon/ArxLibertatis/releases/download/v1.003/arx.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Toziuha Night Dracula's Revenge Vita",
@@ -7661,13 +7663,14 @@
         "hash": "aad562e9d1444cdd133ee2a25fae9a92",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/flappy",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/flappy-nyan-vita/releases/download/v.1.0/flappy.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Nyan Cat: Lost in Space Vita",
@@ -8876,13 +8879,14 @@
         "hash": "763f4c2cf3fcbfc9ed90383c47686bd4",
         "hash2": "",
         "changelog": "- First release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/MightyMike",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1254-MightyMike.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1254-data-MightyMike.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1254-data-MightyMike.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenTyrian2000",
@@ -8966,13 +8970,14 @@
         "hash": "10ff13ee1d3d06a004fba058470c6753",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/OttoMatic",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74.5",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1253-OttoMatic.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1253-data-OttoMatic.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1253-data-OttoMatic.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Bugdom 2 Vita",
@@ -8996,13 +9001,14 @@
         "hash": "9463dc51905a1931725529040597d46b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/Bugdom2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1251-Bugdom2.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1251-data-Bugdom2.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1251-data-Bugdom2.zip",
+        "requirements_checked": "1"
     },
     {
         "name": " Black Sails: Curse of the Deep",
@@ -14790,13 +14796,14 @@
         "hash": "69d1dd8f5beba69b0fe3f5becc5f5043",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/rrm",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/rrm-vita/releases/download/v.1.0/rrm.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Slither.io Vita",
@@ -15158,13 +15165,14 @@
         "hash": "217ffc1ce21a14c967aa39d13c02579e",
         "hash2": "",
         "changelog": "- Added playback of the intro video at app start.\n- Made it possible to rewind time by pressing L trigger.\n- Made it possible to fast forward by pressing R trigger.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/sleepwalkers",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "81",
         "url": "https://github.com/Rinnegatamante/sleepwalkers-vita/releases/download/v.1.2/sleepwalkers.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Red Moon of April",
@@ -15249,13 +15257,14 @@
         "hash": "744949905f01062a2bb261bf537c54a3",
         "hash2": "",
         "changelog": "- Moved to precompiled shaders usage. Makes loading times much faster.\n- Made so that it's possible to pause game by pressing the Start button.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/funky",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82",
         "url": "https://github.com/Rinnegatamante/funky_vita/releases/download/v.1.1/funky.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "2PlayersPong",
@@ -15369,13 +15378,14 @@
         "hash": "148aa732e94b7ca445b19c227d9c25bd",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/CandyCrisisResources",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1043-candy.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1043-data-CandyCrisisResources.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1043-data-CandyCrisisResources.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Aerofoil Vita",
@@ -16699,13 +16709,14 @@
         "hash": "1f01b35c3fdfaa4c54a7fc8b0a905d03",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/isotope",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "69.6",
         "url": "https://github.com/Rinnegatamante/Isotope-244-Collection/releases/download/v.1.0/isotope.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Cars Vita",
@@ -19483,13 +19494,14 @@
         "hash": "f65235889abe248951dc0d1bb0e7e36d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/jinyong-legend",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/838-jinyong-legend.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/838-data-jinyong-legend.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/838-data-jinyong-legend.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "uMario",
@@ -27987,13 +27999,14 @@
         "hash": "5985f377c1f8ffe91f78760c6ef447cd",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/enigma",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk",
-        "data": "https://github.com/rsn8887/Enigma/releases/download/1.16/data.zip"
+        "data": "https://github.com/rsn8887/Enigma/releases/download/1.16/data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Henkaku Enso 3.60 Installer",
