@@ -3093,13 +3093,14 @@
         "hash": "7600121fd0f2c1da38f65decf19fd75e",
         "hash2": "",
         "changelog": "- Updated to latest FalsoNDK.\n- Fixed a bug causing the game to get stuck on the vitaGL splashscreen under certain circumstances.\n- Added a workaround that solves several crash issues when interacting with some touch menus.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- libfmodstudio.suprx in ur0:data\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/afterburner\n- Data files in ux0:data/shader_cache",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "67.4",
         "url": "https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.vpk",
-        "data": "https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.zip"
+        "data": "https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Geometrizer",
@@ -3664,13 +3665,14 @@
         "hash": "6c72e430d4b96420b6a0c11f07a832e4",
         "hash2": "",
         "changelog": "- Fixed Foxy behavior.\n- Fixed broken PS Vita controls and buttons in Scene 2B.\n- Upscaled Foxy sprites.\n- Upscaled sprites from camera buttons.\n- Upscaled sprites from the FredChop animation.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/ABAF00011/game_data",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/Rocroverss/A-Bite-at-Freddy-s-psvita/releases/download/V1.01/AbAF-v1.01.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Mog Vita",
@@ -5367,13 +5369,14 @@
         "hash": "6c72e430d4b96420b6a0c11f07a832e4",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/DRRE01002/game_data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rocroverss/Toziuha-Night-Dracula-s-Revenge-patch-psvita/releases/download/v1.0/Toziuha.Night.-.Dracula.s.Revenge.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ZATO Vita",
@@ -8308,13 +8311,14 @@
         "hash": "6c72e430d4b96420b6a0c11f07a832e4",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/TLOL00020/game_data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rocroverss/The-legend-of-lumina-patch-psvita/releases/download/first/TLOL.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Cartoon Combatt: Flying Circus",
@@ -27589,17 +27593,18 @@
         "release_page": "https://github.com/Grzybojad/wiiero-vita/releases",
         "trailer": "",
         "size": "748458",
-        "data_size": "19883079",
+        "data_size": "19904362",
         "hash": "596845d596dad459bc4bef77e29cc7a2",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/wiiero",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Grzybojad/wiiero-vita/releases/download/1.2/wiiero.vpk",
-        "data": "https://github.com/Grzybojad/wiiero-vita/releases/download/1.1/wiiero-data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/417-data-wiiero-data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Theme Manager EX",
