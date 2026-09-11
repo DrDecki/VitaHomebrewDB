@@ -1418,13 +1418,14 @@
         "hash": "b48f72fa5bf7ab10cdb952dbc86c2b41",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android APK, prepared with the PC patcher, in ux0:data/thehouse2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/WolffsRoom/TheHouse2Vita/releases/download/v1.0/TheHouse2Vita-v1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "RuneScape",
@@ -2045,17 +2046,18 @@
         "release_page": "https://github.com/withLogic/chrome-dinosaur-2d/releases",
         "trailer": "",
         "size": "2797744",
-        "data_size": "15974527",
+        "data_size": "15973720",
         "hash": "347e69cadc72d4d668a823da29ba56f0",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/chrome-dinosaur-2d",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk",
-        "data": "https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/assets.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1469-data-assets.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "SuperTux Classic",
@@ -2200,13 +2202,14 @@
         "hash": "52dc19beaab4f87e8849887a4a4b7785",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Cave Story",
+        "requirements": "- Game Data Files: Cave Story in ux0:data/timidity",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5/NXEngine-Evo-v2.6.5-Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Four of Us Are Dying",
