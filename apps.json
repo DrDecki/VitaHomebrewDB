@@ -2717,7 +2717,7 @@
         "release_page": "https://x.com/devnoname120",
         "trailer": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/trailer-boz.mp4",
         "size": "1936614",
-        "data_size": "12101065",
+        "data_size": "0",
         "hash": "3b98f740a9e7c7c5d7d8bb74d7fef11f",
         "hash2": "",
         "changelog": "- Added support for  online multiplayer and LAN.",
@@ -2727,7 +2727,8 @@
         "ai": "0",
         "score": "72",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita-lgpl-relink-kit.zip"
+        "data": "",
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita-lgpl-relink-kit.zip"
     },
     {
         "name": "Skyrift",
@@ -23687,17 +23688,18 @@
         "release_page": "https://www.psx-place.com/threads/vitapad.30520/",
         "trailer": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/trailer-Cq5wumopxom.mp4",
         "size": "91438",
-        "data_size": "20630885",
+        "data_size": "0",
         "hash": "0522fc48cf6c389a59d1244e020e1f14",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Data files in ux0:data/VitaPad",
+        "requirements": "- PC companion app running on Windows or Linux",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/50-VitaPad.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/50-data-VitaPad.zip"
+        "data": "",
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/50-data-VitaPad.zip"
     },
     {
         "name": "Ronister Adventure",
@@ -28667,17 +28669,18 @@
         "release_page": "",
         "trailer": "",
         "size": "2599085",
-        "data_size": "3252037",
+        "data_size": "0",
         "hash": "347d5b7a71037d7817d4f2120772713e",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Data files in ux0:data/streamer",
+        "requirements": "- PC companion app running on Windows",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/358-pclink.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/358-data-streamer.zip"
+        "data": "",
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/358-data-streamer.zip"
     },
     {
         "name": "Labyrinth 3D",
