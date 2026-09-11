@@ -2850,13 +2850,14 @@
         "hash": "de8240b34bc2720b0f7b371a351334d5",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/btd5",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "76.4",
         "url": "https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.01/btd5-vita-v1.01.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Beach Buggy Racing Vita",
@@ -4426,13 +4427,14 @@
         "hash": "119fc513084331d7acf67138d3e29021",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/leosfortune",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "78.8",
         "url": "https://github.com/stoicpingu/leos-fortune-vita/releases/download/v1.0/leosfortune.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Wagic the Homebrew Vita",
@@ -5395,13 +5397,14 @@
         "hash": "fb4de9ae7ef869a0fa1cb5b5430fba47",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Steam",
+        "requirements": "- Game Data Files: Steam in ux0:app/ZATO01986",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "87",
         "url": "https://github.com/ZFhuang/ZATO-vita/releases/download/v01_00/Z.A.T.O.I.Love.the.World.and.Everything.In.It-01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Postal Vita",
@@ -5668,13 +5671,14 @@
         "hash": "0d2e9274181e13ebcae21cc6aa3f834b",
         "hash2": "",
         "changelog": "- Added in-game physical buttons support.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/naught",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/usineur/naught-vita/releases/download/v1.1/naught.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Alisa Vita",
@@ -7452,13 +7456,14 @@
         "hash": "89ff05aa19c75cb9a3e62e6f69daca06",
         "hash2": "",
         "changelog": "- Move to sceLibc for I/O operations: faster loading times.\n- Suppress cloud implementation: faster loading times.\n- Make so that cached memory is not used for storing framebuffers and textures: greatly improves framerate.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/rocky",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/rocky-castle-vita/releases/download/v.1.1/rocky.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Rocky Castle 2 Vita",
@@ -10157,13 +10162,14 @@
         "hash": "de0872a4ac4a09f9113f5341db937c58",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/pickleball",
         "trophies": "0",
         "tags": "android,2d,opensource,sport",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/pickleball_vita/releases/download/v.1.0/pickleball.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Neet Girl Date Night Vita",
@@ -11519,13 +11525,14 @@
         "hash": "b5b96634357607da2cae52e9bf7da5cf",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/freeways",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "72.3",
         "url": "https://github.com/Rinnegatamante/freeways-vita/releases/download/v.1.0/freeways.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "EnbornX Vita",
@@ -13984,13 +13991,14 @@
         "hash": "875ad92dca01190eba437f9fa57914c1",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/jftekwar",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "56",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1098-jftekwar.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1098-data-jftekwar.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1098-data-jftekwar.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Prototype Vita",
@@ -14045,13 +14053,14 @@
         "hash": "af5aa0adbcde73cbc21733595e8c0cd1",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/sosage",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/superfluous-vita/releases/download/v.0.5/superfluous.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Noboru",
@@ -17438,13 +17447,14 @@
         "hash": "f7bf5fc3c7321bde8dbc6a026975a15a",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/pekka2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "75.6",
         "url": "https://github.com/Rinnegatamante/Pekka-Kana-2-Vita/releases/download/v.1.0/Pekka2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Partia: The Granian Trilogy",
@@ -17468,13 +17478,14 @@
         "hash": "c8510d9bd7b29a69a5891546d29e16af",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/partia",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/partia-vita/releases/download/v.1.0/Partia.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Kero Blaster Vita",
@@ -18134,13 +18145,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- Removed unnecessary files.\n- Minor fixes.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RENPYHIKE",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SilverCrow2323/HIKE-BACK-Vita/releases/download/v.1.1/HIKE.BACK-v1.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sakura Succubus Vita",
@@ -18621,13 +18633,14 @@
         "hash": "4d2fe041e2088d41b6986eb1796dcfb7",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/uqm",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.6",
         "url": "https://github.com/argarak/uqm-vita/releases/download/rev1/uqm.vpk",
-        "data": "https://github.com/argarak/uqm-vita/releases/download/rev1/uqm-data-full.zip"
+        "data": "https://github.com/argarak/uqm-vita/releases/download/rev1/uqm-data-full.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Milk",
@@ -20279,13 +20292,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RNPYDEMON",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SonicMastr/Contract-Demon-Vita/releases/download/v1.0/Contract.Demon-01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "GTA: SA Vita",
