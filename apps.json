@@ -4623,13 +4623,14 @@
         "hash": "9d4f8c4ba418f030dc33a54fe269d280",
         "hash2": "",
         "changelog": "- Fixed Radio 22 from falling through floor in fire-pit so it can now be collected\n- Addressed loading zones in Chamber 19 to tighten up gaps that player could slip through\n- Fixed weird bug in Chamber 19 where player would become unable to fire portal gun\n- Fixed font for Traditional and Simplified Chinese, Japanese, Korean, and Thai",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/APTR10007",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1302-ApertureReconstructed.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Quantimmum Chess",
@@ -5750,13 +5751,14 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- Added a new option (Easy AI) to have less aggressive enemies through the game.\n- Made so that the CRT filter is disabled by default.\n- Reduced the vignette effect of the CRT filter so that it makes texts more readable.\n- Restored custom languages support: now it's possible to create custom translations of the game.\n- Reworked mirror reflections so that now are the same as vanilla game rather than an approximation of the same effect.",
-        "requirements": "- Game Data Files: Steam",
+        "requirements": "- Game Data Files: Steam in ux0:app/ALSA50001",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "79.3",
         "url": "https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "NekoDrome",
@@ -6327,13 +6329,14 @@
         "hash": "e483a190aa18dc197c331470415399a0",
         "hash2": "",
         "changelog": "- In-game achievements\n- High-score tracking added",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/GUARDENER/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1300-GUARDENER_v1_2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Flipper Volcano Vita",
@@ -7267,13 +7270,14 @@
         "hash": "d9e73f27f263c9a7994b82146a28d6d1",
         "hash2": "",
         "changelog": "-  Corrected game speed and other QOL improvements.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/YARDLINGS/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1317-YARDLINGS.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic Unleashed",
@@ -7451,13 +7455,14 @@
         "hash": "f260ae4887edef0b1016d44eb70c3aee",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/HIDEKO000/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1313-HIDEKO000.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Cat Quest Vita",
@@ -12411,13 +12416,14 @@
         "hash": "a4dbf456860d8c7943f8a5e98399c86f",
         "hash2": "",
         "changelog": "- Fixed game file patching for Steam and Epic Games versions of Gone Home.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/GNHM00451",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "81.8",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1147-Gone_Home_for_PlayStation_Vita_V1.0.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Flare RPG",
@@ -13782,13 +13788,14 @@
         "hash": "aa94cf882013c5bbea570519e1f377b0",
         "hash2": "",
         "changelog": "- Fixed boss at Day 7.",
-        "requirements": "- Game Data Files: NDS/Android",
+        "requirements": "- Game Data Files: NDS/Android in ux0:app/NEKU23850",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "87.2",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1112-TWEWY.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "PNGLive",
@@ -16148,13 +16155,14 @@
         "hash": "d4194f98fcddf81825fb2cbe274f8f8d",
         "hash2": "",
         "changelog": "- Fixed some lightning issues\n- The text at the prelude is fixed now (hopefully)\n- Fixed the shaders at Forgotten Shores Level 1 and 2 (hopefully)",
-        "requirements": "- Game Data Files: PC Steam/Android",
+        "requirements": "- Game Data Files: PC Steam/Android in ux0:app/VLLY22132",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "85.2",
         "url": "https://github.com/hatoving/mvalley-old-vita/releases/download/1.0.1/MV.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "vita-ftp-client",
@@ -16208,13 +16216,14 @@
         "hash": "b87fc275d7807dc35334885b8c655574",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC Steam",
+        "requirements": "- Game Data Files: PC Steam in ux0:app/PONY22412",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.2",
         "url": "https://github.com/hatoving/ponyisland-old-vita/releases/download/1.2-vita/PonyIsland.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Sample Avplayer",
@@ -18941,13 +18950,14 @@
         "hash": "78e8ab786347eef148c23cfc9084d864",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/ISSY00001/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-Issyos.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Protect the Earth",
@@ -19001,13 +19011,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/DEADKNI01/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rodentcat/deadknight-vita-port/releases/download/1.0/DeadKnight.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "SDL2Sand",
@@ -19061,13 +19072,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/GATOROBOT/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76.8",
         "url": "https://github.com/m1s3ry/gato-roboto-vita/releases/download/v1.0.1/Gato_Roboto_v1.0.0.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Heboris-Vita",
@@ -19934,13 +19946,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "90608e11fe2b88a6d4abe98f381e2a25",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: Android in ux0:app/FLOPROCKE/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MDashK/Flop-Rocket-Vita/releases/download/v1.0.0/FLOP_ROCKET.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "GemRB",
@@ -20085,13 +20098,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC Steam",
+        "requirements": "- Game Data Files: PC Steam in ux0:app/GAMIDEF00/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "50",
         "url": "https://github.com/MDashK/Galactic-Missile-Defense-Vita/releases/download/v1.0.0/GAMIDEF00.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Dzzee",
@@ -20206,13 +20220,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC Steam",
+        "requirements": "- Game Data Files: PC Steam in ux0:app/CSDLICIUS/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "75.5",
         "url": "https://github.com/MDashK/cook-serve-delicious-vita/releases/download/v1.0.0/CSDLICIUS.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Hexagon Jumper",
@@ -21143,13 +21158,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: PC Steam",
+        "requirements": "- Game Data Files: PC Steam in ux0:app/GUNGODZ00/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "68",
         "url": "https://github.com/m1s3ry/gungodz-vita/releases/download/v1.0/GUN_GODZ_v1.0.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Crab Island",
@@ -21414,14 +21430,15 @@
         "hash": "27c050c6ba280a807597fc764ccf479a",
         "hash2": "4d4484b89a3666669953f600a5b62b57",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: Android in ux0:app/LOVEVITA0/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/683-LOVE.vpk",
         "data": "",
-        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/683-data-LOVE_PatchFiles.zip"
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/683-data-LOVE_PatchFiles.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Mirror",
@@ -21656,13 +21673,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First release.",
-        "requirements": "- Game Data Files: PC Steam",
+        "requirements": "- Game Data Files: PC Steam in ux0:app/INKV00000/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "69.8",
         "url": "https://github.com/m1s3ry/ink-vita/releases/download/v1.0/INK-v1.0.0_KYUHEN.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Angel Collide",
@@ -21716,13 +21734,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/CRASHLAND/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76.8",
         "url": "https://github.com/m1s3ry/crashlands-vita/releases/download/v1.0/Crashlands_v1.0.0.KyuHEN.Version.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Brain Splitter",
@@ -21867,13 +21886,14 @@
         "hash": "69aeec8d53f8a75bbf327b0b71a186f3",
         "hash2": "",
         "changelog": "- First release.",
-        "requirements": "- Game Data Files: Android OR PC",
+        "requirements": "- Game Data Files: Android OR PC in ux0:app/FBCH30419/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/657-FranBowChapter3.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Minit Fun Racer",
@@ -21897,13 +21917,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/MINITRACE/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/m1s3ry/minit-fun-racer-vita/releases/download/1.0/Minit_Fun_Racer-v1.0.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Pocket Wonder Sport",
@@ -21987,13 +22008,14 @@
         "hash": "d1729173957f837dfa258458ba18c990",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/MINITVITA/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.7",
         "url": "https://github.com/m1s3ry/minit-vita/releases/download/v1.1/Minit.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Fran Bow - Chapter Two",
@@ -22017,13 +22039,14 @@
         "hash": "efcd690669a510db37fc60d4bb0f49ba",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: Android OR PC",
+        "requirements": "- Game Data Files: Android OR PC in ux0:app/FBCH20409/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/641-FranBowChapter2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Media Player PSV",
@@ -22107,13 +22130,14 @@
         "hash": "e5e11b6b0eb70818cf9c9a87b8ff19b3",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android OR PC",
+        "requirements": "- Game Data Files: Android OR PC in ux0:app/FBCH10408/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/639-FranBowChapter1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Please, Don't Touch Anything",
@@ -22137,13 +22161,14 @@
         "hash": "14bb1759a3417e21ebe8a4588a56b4d9",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: Android OR PC",
+        "requirements": "- Game Data Files: Android OR PC in ux0:app/PDTA10721/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/640-PleaseDontTouchAnything.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "PanComOS",
