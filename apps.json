@@ -142,13 +142,14 @@
         "hash": "0301c50241b4e55412cfcd0c197136e3",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android APK v1.0.1 in ux0:data/advena",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Jazz² Resurrection",
@@ -172,13 +173,14 @@
         "hash": "a5cbeb7e7d41c8a6e7d249a62ad02b9b",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Jazz Jackrabbit 2",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Jazz Jackrabbit 2 in ux0:data/jazz2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Jazz2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ViTube",
@@ -292,13 +294,14 @@
         "hash": "69b50bdd9944a63b03ac5abea1b1dfe5",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android APK in ux0:data/illusia",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BombSquad Vita",
@@ -532,13 +535,14 @@
         "hash": "28584df7a3870c969240b36c342f302a",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android APK in ux0:data/destinia",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/destinia-vita/releases/download/v0.1.1/Destinia.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Immortal Dusk",
@@ -562,13 +566,14 @@
         "hash": "56fdb9fd2e2ce62d9ef00159cbef68d3",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android APK v1.0.2 in ux0:data/immortaldusk",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/Inmortal-Dusk-vita/releases/download/1.0/immortal_dusk.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "DESTINIA",
@@ -592,13 +597,14 @@
         "hash": "31bd5523a1452c0ae27b47e32188b084",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android APK v1.0.6, converted on PC, in ux0:data/destinia",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/Destinia-vita/releases/download/1.0/destinia.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Cordless",
@@ -652,13 +658,14 @@
         "hash": "f5f8581ea3e5f6a43a0c87ad2651da63",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android APK in ux0:data/zenonia1",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MGBAVitaEX",
@@ -892,13 +899,14 @@
         "hash": "3dad19b09f07f36210cc12b6341dd6fc",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: SRB2Kart v1.6 in ux0:data/srb2kart",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Pac-man: Deadline",
