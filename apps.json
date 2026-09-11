@@ -4268,13 +4268,14 @@
         "hash": "8abdcfc8731b985b5de93a1e88da8d06",
         "hash2": "",
         "changelog": "- Added support for imported musics in ux0:music.\n- Added Genre metadata support for custom songs.\n- Added possibility to customize album and genre metadata from the auxiliary txt metadata file.\n- Added support for metadata extraction for the song files themselves. (These can be overloaded with the auxiliary txt metadata file)\n- Improved the FFT and wavelength calculations for songs: this will result in a much more accurate visual pattern and better enemies spawns timed with music beats.\n- Updated to latest vitaGL commit.\n- Optimized rendering logic by removing temporary memory allocations for oneshot vbos.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/hazard",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "75",
         "url": "https://github.com/Rinnegatamante/hazard-vita/releases/download/v.1.1/hazard.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Pong",
@@ -6597,13 +6598,14 @@
         "hash": "5995ff736098980f3b1d251e4ad7a5f3",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1339-hack-ez-i.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Other Her",
@@ -6657,13 +6659,14 @@
         "hash": "71b345b21ab1d23b9e1b83ff289d3501",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Steam",
+        "requirements": "- Game Data Files: Steam in ux0:data/BeatBanger",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/masteroga101/Beat-Banger-PsVita-/releases/download/v0.99/Beat.Banger.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VitA Sketch",
@@ -7138,13 +7141,14 @@
         "hash": "93602fcaa0b84b128f6cd8f1a7f558cd",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/sjoerdev/fluid-simulation-vitagl/releases/download/v1.0/VitaSPH.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Biplanes Revival",
@@ -11525,13 +11529,14 @@
         "hash": "4b5640b6d1c5fb9f35c57fa29177be91",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/enbornx",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/enbornx_vita/releases/download/v.1.0/enbornx.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "RCT Classic Vita",
@@ -12344,13 +12349,14 @@
         "hash": "02f9cc6ba1902e7416f87a8c093234f5",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/flare",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1158-flare.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1158-data-flare.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1158-data-flare.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Zik-Zak Vita",
@@ -14645,13 +14651,14 @@
         "hash": "6820ab0a37432d4a2cce9b8e448030e4",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/ufoai",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "75",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1069-ufoai.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1069-data-ufoai.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1069-data-ufoai.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Call of Vita: Hackzone",
@@ -15190,13 +15197,14 @@
         "hash": "ae7c641581f466d1b5a786759f076544",
         "hash2": "",
         "changelog": "- Added configurator app.\n- Made possible to change Graphics Quality.\n- Made possible to change Textures Quality.\n- Added optional 30 fps cap.\n- Made possible to overload language setting.\n- Disabled logs (Slight performance improvements).\n- Reworked Livearea assets (Thanks to Once13one).",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/anomaly2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "79.2",
         "url": "https://github.com/Rinnegatamante/anomaly2_vita/releases/download/v.1.2/anomaly2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Funky Smugglers Vita",
@@ -15730,13 +15738,14 @@
         "hash": "8976be1fcb9bd6653ab016816c81bd32",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/poppykart",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/Poppy-Kart-Collection/releases/download/v.1.0/PoppyKart.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Not Trust!",
@@ -17457,13 +17466,14 @@
         "hash": "1b169b71087364887922385f0fecfdac",
         "hash2": "",
         "changelog": "- Bump \"Pink Hour\" version to 1.6.1.",
-        "requirements": "- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/kero",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80.5",
         "url": "https://github.com/kaaass/Kero-Blaster-vita/releases/download/v1.2/Kero-Blaster.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic Time Twisted",
@@ -17848,13 +17858,14 @@
         "hash": "1e4d09ae45edddc3d78532b9011ea413",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- YoYo Loader\n- Game Data Files: PC Steam",
+        "requirements": "- YoYo Loader\n- Game Data Files: PC Steam in ux0:data/gms",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "71.3",
         "url": "https://github.com/hatoving/csd2-old-vita/releases/download/1.0/CSD2VITA0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "dRally Vita",
@@ -18274,13 +18285,14 @@
         "hash": "365d596572aafaa06ed7cc83901eaee1",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RNPYDNOPE",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/807-dontopen.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "rottexpr-vita",
@@ -19237,13 +19249,14 @@
         "hash": "d93560835be35f8587db931de9b70509",
         "hash2": "",
         "changelog": "- Bug fixes with changed aspect ratio and resolutions\n- Multiplayer fixes\n- Many gameplay bug fixes\n- New Engine with parallax scrolling feature\n- Added support for Cosmos the Cosmic Adventure\n- Many bug fixes, some general improvements\n- Added option for turning of logfile\n- Improved carmack decompression routine.\n- Sliding through entrances/doors improved\n- More Keen Galaxy engine fixes\n- Menu fixes\n- Removed legacy SDL 1.2 code at many parts\n- More stable graphics engine\n- SDL2 is not an option anymore\n- Improved logging\n- Open GL 2.1 is minimum now\n- Lots of OpenGL fixes\n- Boost library now is optional\n- C++17\n- Added support for Flatpak\n- More logging. Code cleanups\n- Now you can configure the base url. If http does not work on your side,\n  feel free to set it to https.\n- Update to SDL 2.0.14 for Windows builds\n- Some Memory cleanups\n- Foot improvement on some mods. With Eight Accumlators now it works correclty.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/CommanderGenius",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "69.5",
         "url": "https://github.com/Northfear/Commander-Genius/releases/download/v3.0.9-vita.2/CommanderGenius.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/610-data-CommanderGenius_data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/610-data-CommanderGenius_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Slenderman Returns",
@@ -31775,13 +31788,14 @@
         "hash": "d2da73e4e9ae3eebdcb6fe2b1d840415",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/luaIrc",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/51-luaIrc.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/51-data-luaIrc.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/51-data-luaIrc.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaRW",
