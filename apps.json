@@ -5468,13 +5468,14 @@
         "hash": "d464cca070338fd663a63920864a4e48",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/com.eamobile.nbajam_row_wf",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.9",
         "url": "https://github.com/elliencode/nba-jam-psv/releases/download/v1.00/com.eamobile.nbajam_row_wf-v1.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Door Kickers: Action Squad Vita",
@@ -7030,13 +7031,14 @@
         "hash": "a1c080253b2bfe51fcfeb0d528f07fa5",
         "hash2": "",
         "changelog": "- Reduced heap size.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1316-webradio.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sort the Court Vita",
@@ -7750,13 +7752,14 @@
         "hash": "dd9bffdfb43e6bded050a7414f5782c7",
         "hash2": "",
         "changelog": "General improvements:\n- The game now enters military mode when going to a legion with hotkey\n- Water range is always shown when building a reservoir, even when it cannot be placed\n- Added on-screen notice when a screenshot is saved\n- Editor: allowed map editors to set player rank to \"Caesar\"\n- Campaign: Brundisium can now be played for 2 years after winning the mission\n- Added option to invert direction of right-click-to-drag-map\n- Added command line options:\n-- --fullscreen starts the game fullscreen\n-- --display ID start the game on the specified display; ID starts counting from 0\n- Android: enabled setting display scale on tablets\n- Windows: improved fullscreen handling: the game no longer scrolls when the mouse moves out of the window on Alt-Tab\n\nLanguage improvements:\n- Added support for Czech, Greek and Japanese\n- Added support for Russian editor files\n\nBugfixes:\n- Fixed clone building hotkey not honoring disallowed buildings\n- Fixed crash when Caesar 3 settings contain an invalid advisor\n- Fixed sounds in videos on big endian systems\n- Fixed multiple horn sounds on large invasions\n- Fixed water buildings sometimes getting corrupted\n- Fixed trees not forming forest on elevation\n- Fixed visual inconsistencies on some building animations\n- Fixed Android app not honoring rotation lock\n\nTechnical improvements:\n- Upgraded SDL to 2.32.8, SDL_mixer to 2.8.1",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/julius",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80",
         "url": "https://github.com/bvschaik/julius/releases/download/v1.8.0/julius-1.8.0-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Dropsy Vita",
@@ -9321,13 +9324,14 @@
         "hash": "73aa478cbb8167ada90701e379016d9e",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/CSPSP",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/CelloPoly314/CSPSV/releases/download/v1.0/CSPSP.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1243-data-CSPSP.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1243-data-CSPSP.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaOxiPad",
@@ -9441,13 +9445,14 @@
         "hash": "670b9bd73ac89a23ae4e7754ff87ce70",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/voyager",
         "trophies": "0",
         "tags": "3d,fps,commercial,arena,online",
         "ai": "0",
         "score": "82.7",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/491-vitaVoyager.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/491-data-vitavoyager_data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/491-data-vitavoyager_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "SoulCalibur Vita",
@@ -11280,13 +11285,14 @@
         "hash": "54c4119517632dac7fc59e60e173eb70",
         "hash2": "",
         "changelog": "- Cheat codes can now be activated using a controller\n- Added support for touch events\n- Re-added keyboard and mouse support",
-        "requirements": "- Game Data Files: Mobile",
+        "requirements": "- Game Data Files: Mobile in ux0:data/doomrpg",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78.2",
         "url": "https://github.com/jakubito/DoomRPG-RE-vita/releases/download/v1.1.0/DoomRPG_vita_v1.1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Psee Demo",
@@ -12667,13 +12673,14 @@
         "hash": "1a1b5d58131ddbb5c87cf6418594a248",
         "hash2": "",
         "changelog": "- Reworked Livearea assets (Thanks to YogaBudiW).\n- Added possibility to play the game in flipped portrait mode (Create a file named ux0:data/layton_curious/flip.txt) to enable it.\n- Mitigated the issue for which videos started with way faster speed and no audio and freezed sometimes.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/layton_curious",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "84.4",
         "url": "https://github.com/Rinnegatamante/layton-vita/releases/download/v.1.1/layton.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MoodiWalkiSim",
@@ -14867,13 +14874,14 @@
         "hash": "90f4df1e5e7bbe5c673656a120e92678",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/gof2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.6",
         "url": "https://github.com/v-atamanenko/gof2-vita/releases/download/v1.0/GalaxyOnFire2_v1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "FAKE-08",
@@ -14927,13 +14935,14 @@
         "hash": "cb0345b76cc0f17fdcd5d6aabd8f2c4b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/conduit",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "68.8",
         "url": "https://github.com/TheOfficialFloW/conduit_vita/releases/download/v1.0/CONDUIT.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Anomaly WE Vita",
@@ -16282,13 +16291,14 @@
         "hash": "e6d991641df503eaabd930bbd71ffc2d",
         "hash2": "",
         "changelog": "- Fixed a bug making the user stuck in end level screen without possibility to progress further.\n- Added Cryptic Passage expansion support.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/NBlood",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "81.7",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1017-jfblood.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1017-data-NBlood_new.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1017-data-NBlood_new.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Rukavychka",
@@ -16915,13 +16925,14 @@
         "hash": "eb4dc8a47ee98a3d1f04355b7ef6ca9f",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/CrossCraft-ST",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/850-CrossCraft-SurvivalTest.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/850-data-CrossCraftST.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/850-data-CrossCraftST.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Neverputt Vita",
@@ -18089,13 +18100,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- Removed unnecessary files.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RNPYSS002",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita/releases/download/v.1.1/Sakura.Succubus.II-01.10.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sakura Succubus III Vita",
@@ -18119,13 +18131,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RNPYSSIII",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SilverCrow2323/Sakura-Succubus-3-Vita/releases/download/v.1.1/Sakura.Succubus.III-v.1.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sakura Succubus IV Vita",
@@ -20255,13 +20268,14 @@
         "hash": "35b3278b9e0dbdfa1befbf23ce1af5ea",
         "hash2": "",
         "changelog": "- Fixed a bug causing game to hang when entering in some specific rooms with Polymost renderer.\n- Reduce a bit CPU usage from the engine.\n- Added a check for the proper installation of libshacccg.suprx at boot.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/jfsw",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "75.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/705-jfsw.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/705-data-jfsw.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/705-data-jfsw.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "EasyVPK",
@@ -20616,13 +20630,14 @@
         "hash": "459e10bbb0cb3fc2e94fde9c7e8c6741",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/jfduke3d",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "84.5",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/711-jfduke3d.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/711-data-jfduke3d.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/711-data-jfduke3d.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "DDLC-LOVE",
@@ -22726,13 +22741,14 @@
         "hash": "5b1b9978f32672ce90f3d5dca0837180",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android OR PC",
+        "requirements": "- Game Data Files: Android OR PC in ux0:data/RSDKv3",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "81.4",
         "url": "https://github.com/SonicMastr/Sonic-CD-Vita/releases/download/0.2/SonicCD.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "RetroArch",
@@ -28261,13 +28277,14 @@
         "hash": "ffb23aacb3be107f67f61bb2f1804078",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/jazz",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76",
         "url": "https://github.com/usineur/openjazz/releases/download/1.1/OpenJazz.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/378-data-jazz.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/378-data-jazz.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "RetroLivearea",
@@ -31117,13 +31134,14 @@
         "hash": "d2e3f170e6fa29d14df5f363e4b5b718",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/SOMO00001",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78.3",
         "url": "https://github.com/enriquesomolinos/REminiscence-Vita/releases/download/v0.4.2/REminiscence-0.4.2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "FTPlaystation",
@@ -31507,13 +31525,14 @@
         "hash": "0d331d76d4f100c27997c4e9f97c3f1d",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/SOMO00002",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/132-Another_world.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Prince Of Persia",
