@@ -8410,13 +8410,14 @@
         "hash": "3365f7ccff3fd7979582e4b2be3f2777",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Game Data Files: RollerCoaster Tycoon 2 PC in ux0:data/RCT2\n- Data files in ux0:data/OpenRCT2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74.8",
         "url": "https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk",
-        "data": "https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/data.zip"
+        "data": "https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Wipeout Rewrite Vita",
