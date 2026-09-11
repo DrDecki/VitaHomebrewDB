@@ -51,7 +51,7 @@
         "hash": "5065c4c462d46c180e844c86164c7414",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- libshacccg.suprx in ur0:data\n- Gun Bros Samsung 3.1.4 APK and its downloaded files folder, converted with the included script, into ux0:data/gunbros",
+        "requirements": "- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- libshacccg.suprx in ur0:data\n- Gun Bros Samsung 3.1.4 APK and its downloaded files folder, converted with the included script, in ux0:data/gunbros",
         "trophies": "0",
         "tags": "",
         "ai": "0",
@@ -11423,7 +11423,7 @@
         "hash": "4cb495ed3b9086ab394b706e30f60f0f",
         "hash2": "",
         "changelog": "- Added multilanguage (English, Italian, German, French, Spanish, Portuguese (BR), Portuguese (PT)) for Tomb Raider 2.\n- Updated to latest vitaGL commit.",
-        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/tombraider",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/tombraider\n- Android files must first be converted on PC with the transcode script from the data files",
         "trophies": "1",
         "tags": "",
         "ai": "0",
@@ -12624,7 +12624,7 @@
         "release_page": "https://github.com/Rinnegatamante/OpenFMV/releases",
         "trailer": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/trailer-late_shift.mp4",
         "size": "5195068",
-        "data_size": "1189068",
+        "data_size": "0",
         "hash": "b62a4ded7348286b23ba0112482cac63",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
@@ -12634,7 +12634,8 @@
         "ai": "0",
         "score": "72.4",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1121-lateshift.vpk",
-        "data": "https://github.com/Rinnegatamante/OpenFMV/releases/download/v.1.0-ls/tools.zip"
+        "data": "",
+        "pc_data": "https://github.com/Rinnegatamante/OpenFMV/releases/download/v.1.0-ls/tools.zip"
     },
     {
         "name": "Professor Layton: Curious Village HD Vita",
@@ -13831,17 +13832,19 @@
         "release_page": "https://fuhen.homebrew-contest.com/submissions/16/",
         "trailer": "",
         "size": "12914551",
-        "data_size": "4624491",
+        "data_size": "0",
         "hash": "09172758a6a093d49fb209da109955fe",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC data.win, patched to game.win with the PC tool, in ux0:app/SOSR00003/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1102-SOSR00003.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1102-data-sms3.zip"
+        "data": "",
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1102-data-sms3.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Top Classic Plaigarized",
@@ -21198,7 +21201,7 @@
         "release_page": "https://kyuhen.customprotocol.com/en/submissions/love/",
         "trailer": "",
         "size": "2847533",
-        "data_size": "2369585",
+        "data_size": "0",
         "hash": "27c050c6ba280a807597fc764ccf479a",
         "hash2": "4d4484b89a3666669953f600a5b62b57",
         "changelog": "- First Release",
@@ -21208,7 +21211,8 @@
         "ai": "0",
         "score": "74",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/683-LOVE.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/683-data-LOVE_PatchFiles.zip"
+        "data": "",
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/683-data-LOVE_PatchFiles.zip"
     },
     {
         "name": "Mirror",
