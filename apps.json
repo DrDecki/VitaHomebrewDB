@@ -869,13 +869,14 @@
         "hash": "c0a1d48b6d5bd24db3b68f81397019c7",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android APK, renamed to original.apk, in ux0:data/popclassic",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "SRB2Kart",
@@ -3960,17 +3961,18 @@
         "release_page": "https://github.com/withLogic/sdl-sopwith-vita/releases",
         "trailer": "",
         "size": "595151",
-        "data_size": "20190",
+        "data_size": "19368",
         "hash": "26d9e2726a647438a283eccac0c04097",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/sopwith",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "66",
         "url": "https://github.com/withLogic/sdl-sopwith-vita/releases/download/1.0.0/SDL-Sopwith.vpk",
-        "data": "https://github.com/withLogic/sdl-sopwith-vita/releases/download/1.0.0/data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1404-data-data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita VirtualKeyboard",
