@@ -4114,13 +4114,14 @@
         "hash": "e27146f57d348115bb35fac60edd104f",
         "hash2": "",
         "changelog": "- Added new \"Reburninated\" logo to instructions screen and icons.\n- Added custom soundtrack support.\n- Added volume controls for music, sound effects, and Strong Badâ€™s commentary.\n- Increased volume of most sound effects, and slightly increased volume of most voice clips. Additionally, music can now get much louder.\n- Removed all audio stuttering and reduced audio latency.\n- Reorganized Options menu by splitting Cosmetic Settings into separate Audio and Video sections.\n- Reworked Options menu background to fill full (4:3) screen.\n- Fixed music not playing on levels 47 and 48.\n- Fixed Theater and sound logic misclassifying some sound effects as music and vice-versa.\n- Adjusted fire breath position to match the Flash version more closely.\n- Other assorted polish and optimizations.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/Trogdor-RB",
         "trophies": "0",
         "tags": "retro,8 bit,casual,2d,f2p",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Mode8fx/Trogdor-Reburninated/releases/download/v2.4/Trogdor-Reburninated-v2.4-vita.zip",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1015-data-Trogdor-RB.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1015-data-Trogdor-RB.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaDB Downloader",
@@ -4478,13 +4479,14 @@
         "hash": "47fbf3be2d58d1faf30f697ff0a0633b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: NES",
+        "requirements": "- Game Data Files: NES in ux0:data/SMB",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "84",
         "url": "https://github.com/Gustavo3211/SuperMarioBros-C-Vita/releases/download/0.1/smbc.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Perfect Dark Vita",
@@ -4901,13 +4903,14 @@
         "hash": "2e1ecef391d873a6719dd80126b955f5",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/Acrodea",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "65",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1377-dmc4.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1377-data-dmc4.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1377-data-dmc4.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaWave",
@@ -8458,13 +8461,14 @@
         "hash": "b82403cc73a221e5cb535a2d397f6e40",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Mobile",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Mobile in ux0:data/wolf-rpg",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "81.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1268-WOLFENRPG.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "QR Scanner",
@@ -11026,13 +11030,14 @@
         "hash": "c9eb2e9d77f063e4b15783a8436bea14",
         "hash2": "",
         "changelog": "- Fixed an issue causing the game to crash during the final ending scene.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/ffd",
         "trophies": "0",
         "tags": "aaa,jrpg,android,rpg,opensource",
         "ai": "0",
         "score": "78",
         "url": "https://github.com/Rinnegatamante/ffd-vita/releases/download/v.1.2/ffd.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Not A Hero Vita",
@@ -11539,13 +11544,14 @@
         "hash": "fca1e1c711fcf18e7306e133cd90d53e",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- libfmodstudio.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- libfmodstudio.suprx\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/rct",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "84.6",
         "url": "https://github.com/Rinnegatamante/rct-vita/releases/download/v.1.0/rct.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Nazi Zombies Portable",
@@ -11751,13 +11757,14 @@
         "hash": "1a13f92acc95be237dc89bcf2a514166",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/jetcarstunts",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78.6",
         "url": "https://github.com/Rinnegatamante/jetcarstunts_vita/releases/download/v.1.0/jetcarstunts.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "NFSHP Vita",
@@ -11992,13 +11999,14 @@
         "hash": "f647eb3401b37320072b8c5fd3ed7e45",
         "hash2": "",
         "changelog": "- Fixed random music track change\n- Improved IO performance",
-        "requirements": "- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: PC",
+        "requirements": "- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: PC in ux0:data/VanillaRA",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "86.4",
         "url": "https://github.com/Northfear/Vanilla-Conquer-vita/releases/download/v1.0-r914/vanillara.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/649-data-VanillaRA.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/649-data-VanillaRA.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "VanillaTD",
@@ -12052,13 +12060,14 @@
         "hash": "1ae982b53648bdd97cc53c0a8265cc9f",
         "hash2": "",
         "changelog": "- Upstream version bump\n- Fixed inventory cursor position during mixed touchpad/thumbstick usage\n- Added X-COM Unofficial Data Patch to the game data",
-        "requirements": "- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: PC",
+        "requirements": "- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: PC in ux0:data/OpenXcom",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom.vpk",
-        "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom-data.zip"
+        "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom-data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Dune Legacy",
@@ -12535,13 +12544,14 @@
         "hash": "d305eab79f740afac19e0c62711e0ab3",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1127-OpenMRac.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Beat2x Vita",
@@ -12747,13 +12757,14 @@
         "hash": "7b9c045668019ad27e92b377047e79ba",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/layton_pandora",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.2",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1152-layton2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BonkBots!",
@@ -14797,13 +14808,14 @@
         "hash": "515c181282cffb7aff6df979fb1b9c1e",
         "hash2": "",
         "changelog": "- Fixed lighting. Now light works as expected.\n- Fixed particles rendering. Now they render as expected.\n- Updated to latest vitaGL build.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/Neverball-dev",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/873-neverball.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/873-data-Neverball-dev.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/873-data-Neverball-dev.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Isabelle Dance Studio",
@@ -17301,13 +17313,14 @@
         "hash": "36935d9b302a2ccad1bfa01e338a32b1",
         "hash2": "",
         "changelog": "- Fixed and restored virtual keyboard for text inputing.\n- Added Online multiplayer support (For now, it's possible only to host from Vita, connecting to existing servers will time out in 99% cases).\n- Disabled game logging features. (Reduces storage usage and improves loading times).\n- Introduced shader caching (Improves booting time by 422% after the very first boot).\n- Reduced loading times by 333%.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/rvgl",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76.6",
         "url": "https://github.com/Rinnegatamante/rvgl-vita/releases/download/v.1.2/RVGL.vpk",
-        "data": "https://github.com/Rinnegatamante/rvgl-vita/releases/download/v.1.1/datafiles.zip"
+        "data": "https://github.com/Rinnegatamante/rvgl-vita/releases/download/v.1.1/datafiles.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Death Road to Canada Lite",
@@ -17331,13 +17344,14 @@
         "hash": "7dd9300234bbfc162e505bf9a149824e",
         "hash2": "",
         "changelog": "- Fixed a bug causing crashes when attempting to click on online related buttons in game (eg: Twitter Profiles links).\n- Fixed a bug causing a crash when attempting to edit custom characters names.\n- All game maps have now been optimised for vita\n- All game modes are now playable, with reduced zombies. \n- OPP game mode performs poorly for initial character selection but the gameplay is fine. \n- \"VITA MOD 1.0\"  will be present on title screen to indicate mod is active.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/canada\n- Android files must first be patched on PC with the tool in the data files",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "81.7",
         "url": "https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite/releases/download/v.1.0/Canada.vpk",
-        "data": "https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite/releases/download/v.1.0/canada.zip"
+        "data": "https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite/releases/download/v.1.0/canada.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Pekka Kana 2 Vita",
@@ -18659,13 +18673,14 @@
         "hash": "ae17ea2a880ef6e9fb41507abcce8d77",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: PC GoG",
+        "requirements": "- Game Data Files: PC GoG in ux0:data/systemshock",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "84.2",
         "url": "https://github.com/Northfear/systemshock-vita/releases/download/v0.8.2-vita.1/systemshock.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Contrast",
@@ -23211,13 +23226,14 @@
         "hash": "5fce6423c088399e20de8c4dad6152a8",
         "hash2": "",
         "changelog": "- Significantly increased software renderer performances.\n- Added FluidSynth support.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/prboom",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "85",
         "url": "https://github.com/fgsfdsfgs/prboom-plus/releases/download/v2.5.1.7um-vita-r1.2/prboom-plus-r1.2.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/591-data-prboom.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/591-data-prboom.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "MSweep",
@@ -24778,13 +24794,14 @@
         "hash": "7ade13baa5e641a6bca71520cf10a478",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/vitaExhumed",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "75.2",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/533-vitaExhumed.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "NRedneck Vita",
@@ -28536,13 +28553,14 @@
         "hash": "050b21810ee4d85d0aff496d7a35eb3a",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/HCL",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/347-HCL.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/347-data-HCL.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/347-data-HCL.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "FadeToBlack",
@@ -29709,13 +29727,14 @@
         "hash": "ef66059cf81606426a7957df4eb27ff7",
         "hash2": "ac1afa6a019694c2c1e4080558cd88c7",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/lpp-vita",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/lpp-vita/releases/download/r6/lpp-vita_R6.rar",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/290-data-lpp-vita.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/290-data-lpp-vita.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Doom",
