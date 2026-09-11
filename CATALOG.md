@@ -104,7 +104,7 @@ Every entry, with the download it currently points at. The ones added since
 | Biplanes Revival | theSame | v.1.2.1-fix1 | 2.2 MB | [download](https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1-fix1/BiplanesRevival.vpk) | [repo](https://github.com/DvaMishkiLapa/biplanes-revival-vita) |
 | Bit Clicker | Ccoolguy | v.1.0 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/645-BitCliker.vpk) | [repo](https://github.com/Ccoolguy/BitClickerVita) |
 | BitBot Runners | LuckTheGamers | v.1.0 | 40.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/519-BitBot-Runners.vpk) | — |
-| Blasphemous Vita | gl00mm | beta.1 | 410.0 MB | [download](https://github.com/gl00mm/Blasphemous_PSVITA/releases/download/Blasphemous_PSVITA-beta.1/BlasphemousVitaSTEAM.zip) | [repo](https://github.com/gl00mm/Blasphemous_PSVITA) |
+| Blasphemous Vita | gl00mm | beta.1 | 12.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1209-BlasphemousVita.vpk) | [repo](https://github.com/gl00mm/Blasphemous_PSVITA) |
 | Blockamok Remix | Mode8fx | v.1.2 | 2.5 MB | [download](https://github.com/Mode8fx/blockamok/releases/download/v1.21/BlockamokRemix-v1.2-vita.vpk) | [repo](https://github.com/Mode8fx/blockamok) |
 | BlockOut II | bomblik | v.BlockOut_II_PSVITA_2.5 | 5.8 MB | [download](https://github.com/bomblik/BlockOut_II_PSVITA/releases/download/BlockOut_II_PSVITA_2.5/BlockOut_II.vpk) | [repo](https://github.com/bomblik/BlockOut_II_PSVITA) |
 | Bloons TD 5 Vita | Claude AI | v.1.01 | 0.9 MB | [download](https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.01/btd5-vita-v1.01.vpk) | [repo](https://github.com/reallootfury/bloons-td-5-vita) |
@@ -1427,4 +1427,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1404 entries, 31.6 GB in total.
+1404 entries, 31.2 GB in total.
