@@ -1192,13 +1192,14 @@
         "hash": "37b4155956282aca508c14b2e43f1b5e",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Jedi Knight: Jedi Academy",
+        "requirements": "- Game Data Files: Jedi Knight: Jedi Academy in ux0:data/JAVITA",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/NDRWhun/JAVITA/releases/download/release-1.0.1/JAVITA_1.0.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "JK2VITA: Jedi Outcast",
@@ -2483,13 +2484,14 @@
         "hash": "bfe05139f631374c89c13e9dea07672e",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/Barony",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "72",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/barony.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Deltarune Vita",
@@ -3035,13 +3037,14 @@
         "hash": "4c8be9eb2616a12eec7f012c16ebdc6f",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/soda",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "77.3",
         "url": "https://github.com/reallootfury/soda-dungeon-vita/releases/download/vpk/soda-redistributable.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "iMango",
@@ -3157,13 +3160,14 @@
         "hash": "3333846b67ff62c18a9bb1349884e929",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/MOTHER001",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/WolffsRoom/MotherEncore-PSVita/releases/download/v0.2b/MotherEncore-Vita-v0.2b.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "EQVita",
@@ -3430,13 +3434,14 @@
         "hash": "3333846b67ff62c18a9bb1349884e929",
         "hash2": "",
         "changelog": "- Controls & Input: Fixed cancel button and volume sync; updated help screen for PS Vita.\n- Zoom: Smooth progressive zoom added for camera, Thinking Panel (up to 3x), and hints.\n- Visual and UI: New brightness slider, scene-only transitions, rolling credits, and fixed text centering.\n- Audio and Video: Optimized intermission videos for smoother playback.\n- Performance: Fixed DLC memory crash (#2), cleaned up project files (smaller PCK), and enabled expanded RAM mode.\n- Developer Note: Low-memory mode was scrapped due to increased load times and graphical bugs.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/IDOL00001",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "85.7",
         "url": "https://github.com/WolffsRoom/GoldenIdol-PSVita/releases/download/v0.8.7/GoldenIdol-Vita-v0.8.7.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita MHDH",
@@ -4257,13 +4262,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RPYKWKFAN",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/PuppetHuggerDX/Kare-wa-Kanojo-PS-Vita-Port/releases/download/v01.00/Kare.wa.Kanojo-01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Beat Hazard 2 Vita",
@@ -5962,13 +5968,14 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/PartyHard",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "66.1",
         "url": "https://github.com/daniemun/PartyHard-PSVITA-Port/releases/download/v0.01/PartyHardVita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Neighbours from Hell",
@@ -6479,13 +6486,14 @@
         "hash": "e525b608df66e7b5e960a6a178beb051",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/UNTITLED50",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rocroverss/Untitled50-PSVita-android-port/releases/download/v1.0/UNTITLED50.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Thimbleweed Park Vita",
@@ -7389,13 +7397,14 @@
         "hash": "f0676b7fdfdccac450e227d6622bdb37",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/rolling",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/rolling-down-vita/releases/download/v.1.0/emoji.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Hideko Vita",
@@ -7541,13 +7550,14 @@
         "hash": "a816579b868236f529782e50499bae70",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/kkr",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rocroverss/katzenklein-redux-psvita-port/releases/download/v1.0.reihen/kkr.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Assessment Examination Vita",
