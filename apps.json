@@ -3432,7 +3432,8 @@
         "ai": "1",
         "score": "0",
         "url": "https://github.com/rerulon/negavita/releases/download/%23negavita/Eugene.Onegin-01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "GoldenIdol-Vita",
@@ -3524,7 +3525,8 @@
         "ai": "1",
         "score": "0",
         "url": "https://github.com/rerulon/dushi4kDX/releases/download/%23deadsouls/Book.of.the.Dead-01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ScummVM",
@@ -4106,7 +4108,8 @@
         "ai": "1",
         "score": "0",
         "url": "https://github.com/rerulon/redvitas/releases/download/%23redvitas/Red.Space-01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "vitaRTCW",
@@ -5206,7 +5209,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ParkourLabs.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Pixel Chess",
@@ -7615,7 +7619,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1309-AssessmentExamination.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Five Beats at Freddy's",
@@ -8014,7 +8019,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1285-SlendrinaCellar.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Super Mario All-Stars Vita",
@@ -8228,7 +8234,8 @@
         "ai": "0",
         "score": "75.8",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1118-everlasting_summer.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "TheXTech",
@@ -8470,7 +8477,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Lordchickenblaster/Crazy-Cattle-Vita/releases/download/1.4/CC3DV1.4.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenRCT2-CE Vita",
@@ -8623,7 +8631,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1264-bbbv.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BubblePunk",
@@ -8713,7 +8722,8 @@
         "ai": "0",
         "score": "72.5",
         "url": "https://github.com/Rocroverss/JumpKingGodot/releases/download/v1.01/JumpKing.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Unsighted Vita",
@@ -9322,7 +9332,8 @@
         "ai": "0",
         "score": "54.9",
         "url": "https://github.com/anas-halid/SF1MR-VITA/releases/download/release/SF1MR.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Dethrace Vita",
@@ -10355,7 +10366,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MaloneCZSD/VanishVita/releases/download/Beta/VanishB16.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Halo 2D",
@@ -10415,7 +10427,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MaloneCZSD/BewilderHouse-PS-VITA/releases/download/Pre-Final/BewilderHouseBuild43.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Tamatool Vita",
@@ -10536,7 +10549,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Grimiku/Junipers-Knot-Vita/releases/download/Latest/Juniper.s.Knot-00.99.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Blasphemous Vita",
@@ -10691,7 +10705,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Grimiku/Cradle-Song-Vita/releases/download/Latest/Cradle.Song.Vita-00.98.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Gnomopolis",
@@ -11844,7 +11859,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/solstice-godot/releases/download/v1.0.4/Solstice.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Jet Car Stunts 2 Vita",
@@ -13246,7 +13262,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1139-siren_head.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Legend of Edgar",
@@ -13276,7 +13293,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1141-edgar.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Pause",
@@ -13336,7 +13354,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1144-Starcatcher.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "REDRIVER2",
@@ -13397,7 +13416,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/koolaidxk1d/tworld-vita/releases/download/1.0.0/tworld-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Fire and Fondness - Enhanced Edition",
@@ -13427,7 +13447,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1128-fire_and_fondness.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Fire and Fondness 2",
@@ -13457,7 +13478,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1129-fire_and_fondness_2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Anarch Vita",
@@ -13915,7 +13937,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1119-Techmaniac-THPG.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Rocket Cars Vita",
@@ -14220,7 +14243,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/OrbitalFlagStudio/VitaGamesReleases/releases/download/fast-areas.NEON.v1.0.1/fast-areas.NEON.-.Vita.Edition.-.Release.1.0.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Destroy The Dot",
@@ -14250,7 +14274,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/OrbitalFlagStudio/VitaGamesReleases/releases/download/Destroy.The.Dot.v1.0.1/Destroy.The.Dot.-.Vita.Edition.-.Release.1.0.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "NooDS",
@@ -14310,7 +14335,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1089-ZombieDrive.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MilkyTracker Vita",
@@ -14431,7 +14457,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1081-ANIMANCER.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "GRIDLOCKE",
@@ -14461,7 +14488,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1080-GRIDLOCKE.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Diver Down Vita",
@@ -14491,7 +14519,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1126-DIVER_DOWN.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Jailbreaker Vita",
@@ -14521,7 +14550,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1075-Jailbreaker.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Feather Park Vita",
@@ -14551,7 +14581,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rocroverss/Feather-Park/releases/download/v1.0/Feather.Park.v1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sorcerer's job Vita",
@@ -14581,7 +14612,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1074-sorcerer.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Evie",
@@ -14641,7 +14673,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/anas-halid/HYPERFIGHT-VITA/releases/download/Release/HYPERFIGHT.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Dome Romantik Vita",
@@ -14671,7 +14704,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1076-Dome_Romantik.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "RTDink",
@@ -14913,7 +14947,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1063-Slither.io_Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Neverball Vita",
@@ -15434,7 +15469,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1042-Sculptor.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Candy Crisis Vita",
@@ -15616,7 +15652,8 @@
         "ai": "0",
         "score": "65",
         "url": "https://github.com/mrdivdiz/aowv/releases/download/v1.1/aowv2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Faraway Space",
@@ -15646,7 +15683,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ParallelProductions/FarawaySpace/releases/download/Vita-v0.1b/Faraway.Space.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Super Dungeon Delta",
@@ -15676,7 +15714,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ParallelProductions/super-dungeon-delve-vita/releases/download/v1.0.1-vita.2/Dungeon.UI.Update.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Lango Vita",
@@ -15706,7 +15745,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ParallelProductions/Lango_GodotRPG-Vita/releases/download/v0.1.0-vita/Lango.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Tema",
@@ -15796,7 +15836,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ParallelProductions/godot-2d-space-game-PSVita/releases/download/v0.1.0/Harvester.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Quick Remounter",
@@ -16040,7 +16081,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1027-sanicball.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "PSP2-batteryFixer",
@@ -16100,7 +16142,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1026-sunshine.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "vita-webdav-client",
@@ -16283,7 +16326,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MDashK/sonic-1-sms-remake-vita/releases/download/v1.9.2-vita/SOSR00001.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic 2 SMS Remake",
@@ -16313,7 +16357,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MDashK/Sonic-2-SMS-Remake-Vita/releases/download/v2.9.2-vita/SOSR00002.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Air Pressure",
@@ -16343,7 +16388,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/majonessyltetoy/airpressure/releases/download/v1.0.0/airpressure.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Launcher",
@@ -16557,7 +16603,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/alim395/FamilyFisticuffsVita/releases/download/v1.00/FamilyFeud.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Flycast Vita",
@@ -16618,7 +16665,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/davidcralph/CandyWrapper_vita/releases/download/01.00/CandyWrapper.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Spelunky Classic HD Vita",
@@ -16891,7 +16939,8 @@
         "ai": "0",
         "score": "64.5",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/880-slender8.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Tux Football Vita",
@@ -16921,7 +16970,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/island-games/Tux-Football-Vita/releases/download/1.0/TuxFootball.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Fate/Stay Night [Realta Nua] - Ultimate Edition",
@@ -16981,7 +17031,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/821-Backrooms.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Baba Is You Vita",
@@ -17042,7 +17093,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/island-games/slime-vball/releases/download/v1.0.0/Slime-vBall.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Defendguin",
@@ -17072,7 +17124,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/island-games/Defendguin/releases/download/v1.0/Defendguin.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "CrossCraft SurvivalTest",
@@ -17164,7 +17217,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/hatoving/zeldapicross_vita/releases/download/1.1/ZeldaPicross.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Lynne",
@@ -17194,7 +17248,8 @@
         "ai": "0",
         "score": "67",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/862-Linne.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Five Night at Freddy's 4 Lite",
@@ -17254,7 +17309,8 @@
         "ai": "0",
         "score": "85",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/855-Wordle.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Lugaru HD",
@@ -17284,7 +17340,8 @@
         "ai": "0",
         "score": "68.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/853-Lugaru-release-beta-1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Nanosaur Vita",
@@ -17436,7 +17493,8 @@
         "ai": "0",
         "score": "74",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/844-pako.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "RVGL Loader",
@@ -17651,7 +17709,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SonicMastr/godot-vita/releases/download/3.5-rc5-vita1/maximilien-adventure-godot-demo.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ONScripter-Vita",
@@ -17711,7 +17770,8 @@
         "ai": "0",
         "score": "80",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/833-Vita_First_Sight.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Girls Are Weird Plus",
@@ -17801,7 +17861,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/hammerill/uMario_Vita/releases/download/1.00/uMario.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Crazy Taxi Vita",
@@ -18381,7 +18442,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/803-supra.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "(Don't) Open Your Eyes",
@@ -18503,7 +18565,8 @@
         "ai": "0",
         "score": "69",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/808-8BB.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "TWoM Vita",
@@ -18564,7 +18627,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/793-Vita_Kohana_1.02.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MVPlayer",
@@ -18624,7 +18688,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/805-UndeadSlayer.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Everybody's Bubbles",
@@ -18745,7 +18810,8 @@
         "ai": "0",
         "score": "74.6",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/790-Vita_Milk.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Five Night at Freddy's 2 Lite",
@@ -18805,7 +18871,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/788-nKaruga.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Shockolate",
@@ -18866,7 +18933,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/786-Contrast.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Boris and the Dark Survival",
@@ -18926,7 +18994,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/609-freegemas.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Curse of Issyos",
@@ -19048,7 +19117,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/v-atamanenko/sdl2sand/releases/download/1.0/sdlsand.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Gato Roboto",
@@ -19319,7 +19389,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/VMHoss/Innyume-Vita/releases/download/1.8/Innyume_1_8.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "PlumbersDontWearTies-SDL-vita",
@@ -19411,7 +19482,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/BurAndBY/slendermanreturns_vita/releases/download/v7-final/slenderfinal.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Custom LiveArea",
@@ -19531,7 +19603,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/767-GoingNowhere.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "A Super Small SHMUP",
@@ -19622,7 +19695,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port/releases/download/1.2.7/uMario.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Very Obscure Souls",
@@ -20562,7 +20636,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/721-Leap_of_Faith.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Mobility",
@@ -20592,7 +20667,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/722-Mobility.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Resurgent",
@@ -20622,7 +20698,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/723-Resurgent_fr.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "JetMan-3D",
@@ -20682,7 +20759,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/718-Resurgent.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "DJ Escher",
@@ -20742,7 +20820,8 @@
         "ai": "0",
         "score": "80.5",
         "url": "https://github.com/mrdivdiz/bpvita/releases/download/1.4/BPV1.4.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BC2 Vita",
@@ -20864,7 +20943,8 @@
         "ai": "0",
         "score": "80.6",
         "url": "https://github.com/LukeZGD/DDLC-LOVE/releases/download/v1.2.2/DDLC-LOVE.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "vita-bootanim",
@@ -22198,7 +22278,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/637-PanComOS.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Basilisk II",
@@ -22259,7 +22340,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/634-WeAreBroken.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Zen and the Art of Transhumanism",
@@ -22289,7 +22371,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/631-Zen_Art_Transhumanism.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Mkrandom",
@@ -22349,7 +22432,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/628-King-of-Machines.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Circuit Dude",
@@ -22409,7 +22493,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/627-Roguelight.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Behind Every Great One",
@@ -22439,7 +22524,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/624-Behind_Every_Great_One.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Torn",
@@ -23198,7 +23284,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/sharkwouter/panel-pop/releases/download/0.0.3-vita/panel-pop.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "TrainsLIVE - London",
@@ -23655,7 +23742,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/581-X-Racer.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Great Adventures of NedMapagmahal",
@@ -23715,7 +23803,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/xfangfang/DungeonRush-PSV/releases/download/01.00/dungeonrush_01.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Helltaker",
@@ -23745,7 +23834,8 @@
         "ai": "0",
         "score": "75.4",
         "url": "https://github.com/D3fau4/Helltaker-switch/releases/download/1.1.0/Helltaker.PS.Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Hallway",
@@ -23925,7 +24015,8 @@
         "ai": "0",
         "score": "80",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/573-BaldisBasics.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "YAMT",
@@ -25103,7 +25194,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SonicMastr/Mad-Bomber-Vita/releases/download/1.0/Mad_Bomber_Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaGrafix Configurator",
@@ -25193,7 +25285,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/522-HyperPrincessPitch-Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BitBot Runners",
@@ -25223,7 +25316,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/519-BitBot-Runners.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Super Crate Mod",
@@ -25253,7 +25347,8 @@
         "ai": "0",
         "score": "73.5",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/516-SuperCrateMod-Vita.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Bot-R",
@@ -25827,7 +25922,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/501-Dungeon_Survivor.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "X-Racer Vita",
@@ -25857,7 +25953,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/636-XRACER.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Jump Jump",
@@ -25887,7 +25984,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/499-Jump_20Jump.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "bstone-vita",
@@ -25978,7 +26076,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/498-RFLM.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "G&W Octopus",
@@ -26219,7 +26318,8 @@
         "ai": "0",
         "score": "76.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/484-TTER.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Duck Hunt Remake",
@@ -26399,7 +26499,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/477-chromono2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sword Journey",
@@ -26969,7 +27070,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/453-Echo_20Moth.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Save The Scene",
@@ -27029,7 +27131,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/446-The_20Call.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Get the F off my lawn",
@@ -27059,7 +27162,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/449-Get_20the_20F_20off_20my_20lawn.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Let me Sleep",
@@ -27089,7 +27193,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/450-Let_20Me_20Sleep.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ERRE",
@@ -27119,7 +27224,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/451-ERRE.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MKMayhem",
@@ -27331,7 +27437,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/433-redrunner.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Enchanted Forest",
@@ -27421,7 +27528,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rsn8887/jumpnbump/releases/download/1.02/jumpnbump_1.00.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "FryingMaster",
@@ -27511,7 +27619,8 @@
         "ai": "0",
         "score": "64.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/424-2048-Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Virtual GC",
@@ -27784,7 +27893,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/412-AnUntitledStory.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Freeway Mutant",
@@ -27904,7 +28014,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/407-CubicConundrum.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Wasteland Kings",
@@ -27934,7 +28045,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/409-WastelandKings.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Shiromino",
@@ -28024,7 +28136,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/408-WizardWizard.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Switch SD2Vita",
@@ -28084,7 +28197,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/334-Zelda3T.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Enigma",
@@ -28326,7 +28440,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/109-ZeldaROTH.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Crash Dump Delete",
@@ -28386,7 +28501,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/350-ZeldaNSQ.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ZeldaOLB",
@@ -29689,7 +29805,8 @@
         "ai": "0",
         "score": "85",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/308-AMTR01693.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaFFT",
@@ -30622,7 +30739,8 @@
         "ai": "0",
         "score": "56",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/201-OpenSyobon.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Better Browser Downloader",
@@ -30712,7 +30830,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/bomblik/BlockOut_II_PSVITA/releases/download/BlockOut_II_PSVITA_2.5/BlockOut_II.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "GNU Robbo",
@@ -30742,7 +30861,8 @@
         "ai": "0",
         "score": "66",
         "url": "https://github.com/bomblik/GNU_Robbo_PSVITA_PSP/releases/download/GNU_Robbo_0.68_PSVITA/gnurobbo_0.68.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Clonage Bulle ePSP",
@@ -31705,7 +31825,8 @@
         "ai": "0",
         "score": "76",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/79-KatawaShoujo.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Bernard Chronicles",
@@ -31796,7 +31917,8 @@
         "ai": "0",
         "score": "82",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/166-prince.zip",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VPKMirror",
@@ -31856,7 +31978,8 @@
         "ai": "0",
         "score": "79.3",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "AccountSwitcher",
