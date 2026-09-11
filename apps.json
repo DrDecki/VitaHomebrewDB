@@ -8777,13 +8777,14 @@
         "hash": "ad3c7f74821d4b38f9b967efcbc3a224",
         "hash2": "",
         "changelog": "Features:\nMultiplayer\n- Make invalid items unusable\n\nControls\n- Better support for various gamepads\n- Gamepad: Improve navigation of the stash\n- Improve keymapper options\n\nPlatforms\n- Added support for macOS 10.4 PowerPC\n- Added support for Windows XP\n- Android: Avoid game lagging on devices that can switch refresh rates\n- Correct networking support on big-endian systems\n- iOS: High refresh rate support\n- Xbox One/Series: Include translations\n\nTranslations\n- Improve rendering of Turkish texts\n- Update Italian translation\n- Update Russian translation\n- Update Ukrainian translation\n\nStability / Performance / System\n- Fix crashes on device hot-plugging\n- Fix game crash\n- Hide Upscale option in the Settings menu to avoid stability issues\n- Looser validation in Single Player games\n- Make file sync services less likely to corrupt saves\n- Make it clearer how to switch between Hellfire and Diablo\n- Use available screen space in the Settings menu\n\nBug Fixes:\nGameplay\n- Fix being able to repair equipped items for free\n- Fix game freezing when loading Lazarus lair from a save game\n- Unique drops now reset on a new game\n- Wake up the whole pack of Gargoyles when disturbed\n\nPlatforms\n- Android: Fix performance and audio issues on recent versions\n- Android: Fix full immersive mode in Android 9 and higher\n- Incorrect menu graphics on DirectFB devices\n- PS4/Switch/Vita/Xbox One/Series: Correct controller mapping\n\nMultiplayer\n- Correct some item validation\n- Fix items being lost when held in the cursor during lag spikes\n\nBug Fixes for Original Diablo Bugs:\nGameplay\n- Fix non-solid fences in the caves\n\nBug Fixes for Original Hellfire Bugs:\nGameplay\n- Fix incorrectly solid tile next to crypt stairs down\n\nMultiplayer\n- Fix runes not being seen as a player spell in PvP",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/DVLX00001",
         "trophies": "0",
         "tags": "commercial,aaa,rpg,hardcore,fantasy",
         "ai": "0",
         "score": "88.4",
         "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "How to Rob A Gas Station",
@@ -9561,13 +9562,14 @@
         "hash": "6cbdbc49b505b1a0b1c07ab8a71e93ab",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/ioq3/baseq3",
         "trophies": "0",
         "tags": "3d,fps,arena,online,commercial",
         "ai": "0",
         "score": "87.8",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/375-vitaQuakeIII.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ShaRKBR33D",
@@ -9771,13 +9773,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- Fixed missing Foreground elements in Funhouse Frazzle platforming level.\n- Fixed misaligned platform at the end of the Treetop Trouble platforming level.\n- Fixed missing platforming element image in Treetop Trouble platforming level.\n- Fixed misaligned grass at the end of the level in Treetop Trouble platforming level.\n- Fixed flying beetle empty frame in animation in Treetop Trouble platforming level.\n- Fixed black line across the screen in Captain Brineybeard level.\n- Fixed black line across the screen in Djimmi The Great level.\n- Fixed texture of sawblade in Djimmi The Great level.\n- Fixed missing background sky in Funfair Fever.\n- Slowed down MDHR logo animation to its intended speed.\n- Moved save file location from ux0:data to ux0:data/Cuphead(save files are automatically moved to new directory).\n- Fixed misaligned boss death icons.\n- Fixed audio volume sliders in settings.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC GOG, Cuphead_Data folder, in ux0:app/CPHD23233",
         "trophies": "1",
         "tags": "indie,shooter,2d,cartoon,hardcore",
         "ai": "0",
         "score": "87.5",
         "url": "https://github.com/PatnosDD/Cuphead-PS-VITA/releases/download/V0.82/Cuphead.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Slendrina 2D",
