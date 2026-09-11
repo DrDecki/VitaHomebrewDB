@@ -12679,14 +12679,15 @@
         "hash": "b62a4ded7348286b23ba0112482cac63",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Steam",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Steam, converted with the PC tool, in ux0:data/Late Shift",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "72.4",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1121-lateshift.vpk",
         "data": "",
-        "pc_data": "https://github.com/Rinnegatamante/OpenFMV/releases/download/v.1.0-ls/tools.zip"
+        "pc_data": "https://github.com/Rinnegatamante/OpenFMV/releases/download/v.1.0-ls/tools.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Professor Layton: Curious Village HD Vita",
