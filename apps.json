@@ -3174,17 +3174,18 @@
         "release_page": "https://github.com/shev0k/EQVita/releases",
         "trailer": "",
         "size": "1742554",
-        "data_size": "28351",
+        "data_size": "28346",
         "hash": "114aee94044d85bbf5d76f5148d40027",
         "hash2": "",
         "changelog": "What's New:\n- App/plugin ABI bumped to 1.14.0.\n\nFixed:\n- Fixed audio port tracking when different apps reuse the same Vita port ids.\n- Fixed recovered BGM ports being tracked with the wrong port type.\n- Improved handling for games and apps that open, release, or reconfigure audio ports often.",
-        "requirements": "",
+        "requirements": "- eq_speaker.skprx, included in the data files, in ur0:tai",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/shev0k/EQVita/releases/download/v1.14.0/EQVita.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1353-data-eq_speaker.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1353-data-eq_speaker.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Picture Poker",
@@ -5985,17 +5986,18 @@
         "release_page": "https://github.com/fgsfdsfgs/Serious-Engine/releases",
         "trailer": "",
         "size": "3435049",
-        "data_size": "86131507",
+        "data_size": "86100841",
         "hash": "583ca3c2bd21d695ba1b0d24e928c0ad",
         "hash2": "",
         "changelog": "- the game will now buffer saves, which makes them take a lot less time;\n- you can now press R in the console to bring up the on-screen keyboard (press Select in the menu to bring up the console);\n- text edit boxes in the menu will automatically bring up the keyboard;\n- fixed touch not working properly in the NETRICSA screen;\n- fixed mod switching (NOTE: mods with custom DLLs such as Seriously Warped Deathmatch will not work).",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/ssam_tfe",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.3",
         "url": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/ssam_tfe_v2.vpk",
-        "data": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/data_tfe_v2.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1344-data-data_tfe_v2.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Serious Sam TSE Vita",
@@ -6015,7 +6017,7 @@
         "release_page": "https://github.com/fgsfdsfgs/Serious-Engine/releases",
         "trailer": "",
         "size": "4225479",
-        "data_size": "86131717",
+        "data_size": "86101050",
         "hash": "d29d817df1dbc6eea1b22e5e74ae5e8f",
         "hash2": "",
         "changelog": "- the game will now buffer saves, which makes them take a lot less time;\n- you can now press R in the console to bring up the on-screen keyboard (press Select in the menu to bring up the console);\n- text edit boxes in the menu will automatically bring up the keyboard;\n- fixed touch not working properly in the NETRICSA screen;\n- fixed mod switching (NOTE: mods with custom DLLs such as Seriously Warped Deathmatch will not work).",
@@ -6025,7 +6027,7 @@
         "ai": "0",
         "score": "82.9",
         "url": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/ssam_tse_v2.vpk",
-        "data": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/data_tse_v2.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1345-data-data_tse_v2.zip"
     },
     {
         "name": "Prince of Persia 2 Vita",
@@ -17621,7 +17623,7 @@
         "release_page": "https://github.com/einmueller/exult-vita/releases",
         "trailer": "",
         "size": "3980825",
-        "data_size": "11002930",
+        "data_size": "10992707",
         "hash": "c25da02f13ca52b7f2372a15d30eb6e6",
         "hash2": "",
         "changelog": "- First Release.",
@@ -17631,7 +17633,7 @@
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/einmueller/exult-vita/releases/download/v1.9.vita.2/exult.vpk",
-        "data": "https://github.com/einmueller/exult-vita/releases/download/v1.9.vita.2/exult_data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/829-data-exult_data.zip"
     },
     {
         "name": "uMario Vita",
