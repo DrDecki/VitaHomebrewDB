@@ -17180,13 +17180,14 @@
         "hash": "44a730b02c2bb8600b21533be854378c",
         "hash2": "",
         "changelog": "- Added a message about the need of data re-install after an update",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, extracted with wartool, in ux0:data/Wargus\n- Data files in ux0:data/stratagus_data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78.6",
         "url": "https://github.com/Northfear/stratagus-vita/releases/download/v3.3.2-vita.3/stratagus.vpk",
-        "data": "https://github.com/Northfear/stratagus-vita/releases/download/v3.3.2-vita.3/stratagus_data.zip"
+        "data": "https://github.com/Northfear/stratagus-vita/releases/download/v3.3.2-vita.3/stratagus_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "CrossCraft Classic",
