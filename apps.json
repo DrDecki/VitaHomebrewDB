@@ -6472,13 +6472,14 @@
         "hash": "3fd6b5650adc87218c15389457890ba0",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL version.\n- Increased available mem for the application and reduced memory usage: this will lead to less stuttering through the game when entering previously visited areas.\n- Improved performance of the game.\n- Restored screenshots for savegames in the Save/Load menu.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/thimbleweed",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83",
         "url": "https://github.com/Rinnegatamante/thimbleweed-vita/releases/download/v.1.2/thimbleweed.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Gravity Hunters",
@@ -7704,13 +7705,14 @@
         "hash": "f83dff36ba1d71a74f579ec2a9f485db",
         "hash2": "",
         "changelog": "- Fixed a bug that might have caused memory leak issues.\n- Fixed Polish language detection.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/valiant",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.4",
         "url": "https://github.com/Rinnegatamante/valiant-vita/releases/download/v.1.1.1/valiant.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Babel Rising 3D Vita",
@@ -8733,13 +8735,14 @@
         "hash": "a605df936b98289e73a0dcf1c7d9c7ba",
         "hash2": "",
         "changelog": "- Merge updates from upstream (1.3.4): Includes a variety of bugfixes and updates, most notably making Rollie stable when standing on moving platforms.\n- Update to latest vitaGL, improving performance (see #3)",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "68",
         "url": "https://github.com/ywnico/bugdom-vita/releases/download/1.3.4-vita.1/Bugdom-1.3.4-vita.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vitaki",
@@ -9522,13 +9525,14 @@
         "hash": "4a17e8c1de05967c86f6411e127534bd",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.\n- Enabled proper lighting support.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/BillyFrontier",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1001-Billy.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1001-data-BillyFrontier.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1001-data-BillyFrontier.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Cro-Mag Rally Vita",
@@ -9673,13 +9677,14 @@
         "hash": "41a7f875d5203e5fe6ead1bc882a3f94",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL commit.\n- Made so that network related operations requiring TAB pression can be done with START button pression.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/rvgl",
         "trophies": "0",
         "tags": "commercial,online,3d,racing,multiplayer",
         "ai": "0",
         "score": "76.6",
         "url": "https://github.com/Rinnegatamante/rvgl-vita-native/releases/download/v%2C1%2C1/RVGL_new.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1217-data-rvgl_new.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1217-data-rvgl_new.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Tiny Crate Vita",
@@ -12030,13 +12035,14 @@
         "hash": "40eb0f9b497c97763cf898614d0667dc",
         "hash2": "",
         "changelog": "- Fixed random music track change\n- Improved IO performance",
-        "requirements": "- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: PC",
+        "requirements": "- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: PC in ux0:data/VanillaTD",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "88.4",
         "url": "https://github.com/Northfear/Vanilla-Conquer-vita/releases/download/v1.0-r914/vanillatd.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/650-data-VanillaTD.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/650-data-VanillaTD.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenXcom",
@@ -12575,13 +12581,14 @@
         "hash": "100ad2f9d249e551b77aef26aef959ff",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/beat2x",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1101-Beat2x.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1101-data-beat2x.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1101-data-beat2x.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Freespace Collection",
@@ -13968,13 +13975,14 @@
         "hash": "37fa96c6569a490d9de5372aa8d419b3",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/prototype",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1092-Prototype.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1092-data-prototype.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1092-data-prototype.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Superfluous Returnz Vita",
@@ -16619,13 +16627,14 @@
         "hash": "1868ea06a588891006c9d723a5204fd7",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/rigel",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "71.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/988-duke2.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/988-data-rigel.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/988-data-rigel.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Isotope 244 Collection",
@@ -16982,13 +16991,14 @@
         "hash": "ea3f7a7966cf1e8bf1d841e932ede08d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/Neverputt-dev",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-neverputt.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-data-Neverputt-dev.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-data-Neverputt-dev.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Zelda Picross Vita",
@@ -19814,13 +19824,14 @@
         "hash": "879b582104ce7c85439c93698fdb575b",
         "hash2": "",
         "changelog": "- Improved rendering performance (updated to latest SDL 1.2 with hardware acceleration)",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/GemRB",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "85.7",
         "url": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb.vpk",
-        "data": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb_data.zip"
+        "data": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Crystal Archiver",
@@ -22466,13 +22477,14 @@
         "hash": "aac246c02cbca13b1fd1da19eb9e0a29",
         "hash2": "",
         "changelog": "",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/hurrican",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/617-hurrican.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/617-data-hurrican.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/617-data-hurrican.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "ZXVita",
@@ -25729,13 +25741,14 @@
         "hash": "e2cd83f01d807c1f35c7712f31fcd3e6",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/bstone",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "71.1",
         "url": "https://github.com/01y/bstone-vita/releases/download/0.3-vita/bstone-0.3.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/393-data-bstone.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/393-data-bstone.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "PSM Manager",
@@ -28764,13 +28777,14 @@
         "hash": "96591f9d46641e202d3916c0f87bd846",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/AbbayeDesMorts",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/359-AbbayeDesMorts.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/359-data-AbbayeDesMorts.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/359-data-AbbayeDesMorts.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "K.E.T.M. Vita",
@@ -29969,13 +29983,14 @@
         "hash": "1958ad4402f43b6ba3964c0ef6753be9",
         "hash2": "651d910f285633de9096a24d3744bd79",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/EUCLIOD",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/263-EUCLIOD.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/263-data-EUCLIOD.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/263-data-EUCLIOD.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Media Importer",
@@ -31231,13 +31246,14 @@
         "hash": "2469625578c97b15cc8943e3a4b956c2",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/hota",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73",
         "url": "https://github.com/usineur/hota/releases/download/vita-1.0/HOTA.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/126-data-HOTA_datas.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/126-data-HOTA_datas.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "PSVibe",
