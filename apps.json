@@ -2974,13 +2974,14 @@
         "hash": "0acf31d8a282df9af79d7c2e2a732ae5",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/garfield",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/memory-hunter/garfield-wild-ride-vita/releases/download/1.0/garfield.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "GMCA",
@@ -3125,13 +3126,14 @@
         "hash": "40c10b283f3fde6964fdbce98839eae9",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/frangarcj/geometrizer/releases/download/vita-20260711/geometrizer.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MOTHER Encore Vita",
@@ -3246,13 +3248,14 @@
         "hash": "05fff4cf7834d69ef43da5f6cf47d1be",
         "hash2": "",
         "changelog": "- added Cheat console (More Infos in the README)\n- fixed automatic Control Mapping, the Circle for changing Weapons didn't map",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/AlephOne",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "68.8",
         "url": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/alephone.vpk",
-        "data": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/AlephOne.zip"
+        "data": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/AlephOne.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "RetroFlow Launcher",
@@ -3366,13 +3369,14 @@
         "hash": "4603aadfac58dfd4bc0affe5c5660881",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/dla",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/Rocroverss/Dark-Lands-psvita/releases/download/v1.0/dla.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Eugene Onegin Vita",
@@ -3700,13 +3704,14 @@
         "hash": "2bcf85a74cc2a5410b12de994f159d89",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/mog",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/mog-vita/releases/download/v1.0/mog.vpk",
-        "data": "https://github.com/withLogic/mog-vita/releases/download/v1.0/data.zip"
+        "data": "https://github.com/withLogic/mog-vita/releases/download/v1.0/data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Wrecking Wave",
@@ -3791,13 +3796,14 @@
         "hash": "80970d95c18b721ba1b61a176cb887f3",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/superhexagon",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "81.6",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1408-superhexagon_vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Pacman CE DX Vita",
@@ -4220,13 +4226,14 @@
         "hash": "0bde1db8cefbf221c5b81b7a88696d7b",
         "hash2": "",
         "changelog": "- Added Joystick control.\n- New default config will make right player a CPU, adds generic names (Player/Bot)",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/openliero",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.5",
         "url": "https://github.com/Ak1M1223/vitaliero/releases/download/0.3/openliero.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1398-data-openliero.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1398-data-openliero.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Kare wa Kanojo Vita",
@@ -5284,13 +5291,14 @@
         "hash": "287763a611f7350f7952b97ec4cd596d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/chexquest",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "71.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1370-ChexQuestVita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Super Mega Runners Vita",
@@ -6107,13 +6115,14 @@
         "hash": "b563c7ea390ad03a1c73e8e0edd6f461",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/papertrain_rush",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/paper_rush-vita/releases/download/v.1.0/papertrainrush.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sakura Pass",
@@ -7287,13 +7296,14 @@
         "hash": "88deb47cb8b01f827a2fd41d195f975f",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/toon",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/toon-rescue-vita/releases/download/v.0.8/toon-rescue.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Mad Bullets Vita",
@@ -7348,13 +7358,14 @@
         "hash": "4edb0831628788a9969bf3f6315dbc5b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/relic",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/relic-looter-vita/releases/download/v.1.0/relic.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Rolling Down Vita",
@@ -10816,13 +10827,14 @@
         "hash": "f851b79ce9e6a67376b7eae010f3ad1d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/fink",
         "trophies": "0",
         "tags": "casual,3d,opensource,android,puzzle",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/fink_vita/releases/download/v.1.0/fink.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "UX0 to SD CloneTool",
@@ -14312,13 +14324,14 @@
         "hash": "dd634b0bb9d1bdf6a377dd0dd3daaf1a",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/Catacomb",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/l0wigh/CatacombVita/releases/download/v1.0/Catacomb-Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaTester MOD",
