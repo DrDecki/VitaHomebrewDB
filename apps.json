@@ -112,13 +112,14 @@
         "hash": "26c69479ba799711bad118c6ec6e741c",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: Android APK in ux0:data/illusia2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/MetalSyntax/ILLUSIA-2-Vita/releases/download/v1.0.0/illusia2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Advena",
@@ -505,13 +506,14 @@
         "hash": "747ca2fa26b08e9c2928608c329a54f3",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: Medal of Honor: Allied Assault PC in ux0:data/openmohaa/main",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ChatProductions/openmohaavita/releases/download/v0.0.2-vita.2/OpenMoHAA.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Destinia Vita",
@@ -779,13 +781,14 @@
         "hash": "c6d24f775b5ec3b2f4ac790557ed7d78",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: Baldur's Gate II Android APK in ux0:data/bg2v",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Calligula87/BG2V/releases/download/v0-beta/BG2v0_beta.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Touhou Koumakyou",
@@ -809,13 +812,14 @@
         "hash": "d6139c6520229219cc71ea2ead52f06c",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: EoSD v1.02h PC and msgothic.ttc in ux0:data/th06",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Wavy667/th06-vita/releases/download/v0.1/th06-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Castlevania Attack",
@@ -2480,13 +2484,14 @@
         "hash": "2895c39b3d4cc3bde213c0d73580b25f",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files from the project release in ux0:data/OSNC00001",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/KiddRwxSsj/opensonic-vita/releases/download/1.0.7/opensonic-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Barony Vita",
@@ -8998,13 +9003,14 @@
         "hash": "3fa27fa6fbec896a8fd713c9611242d0",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Game Data Files: Tyrian 2000 (freeware) in ux0:data/opentyrian2000",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "79.3",
         "url": "https://github.com/andyvand/opentyrian2000/releases/download/3.0.0-SDL3/OpenTyrian2000-PSVita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "La Deuda",
@@ -17843,13 +17849,14 @@
         "hash": "c25da02f13ca52b7f2372a15d30eb6e6",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Game Data Files: Ultima VII PC in ux0:data/exult\n- Data files in ux0:data/exult",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/einmueller/exult-vita/releases/download/v1.9.vita.2/exult.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/829-data-exult_data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/829-data-exult_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "uMario Vita",
@@ -18086,13 +18093,14 @@
         "hash": "2b7d4ff5f71b6925c4d60acc5e88ff83",
         "hash2": "",
         "changelog": "- Fix: Lap count in race\n- Fix: Racers position in race",
-        "requirements": "",
+        "requirements": "- Game Data Files: Death Rally PC in ux0:data/DERA00002",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.3",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/823-Death_rally.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "rePatch Manager",
@@ -20408,13 +20416,14 @@
         "hash": "85e75e5584ef200d8d4de1d2b2784b14",
         "hash2": "",
         "changelog": "- Rip out SDL_Mixer in favor or SDL_Mixer_X\n- Update ImGui implementation to latest version\n- Allow ImGui SDL renderer to create and destroy font textures (adding support for custom fonts)\n- Fix MIDI Loading by initializing SDL_Mixer with proper MIDI flags. \n- Added custom Win95 style including SIL Open Font W95FA by FontsArena\n- Add new menu for switching MIDI Device Emulator on-the-fly between libADLMIDI and libOPNMIDI\n  - Also adds menus for switching libADLMIDI emulator and sound banks (again, on the fly!). There are at least 78 sound banks to choose from. \n  - All of these new options are saved and remembered as part of the game's native saving system.\n- Bind DPad Left and Right to table bump left/right\n- Bind DPad down to table bump down. \n- Attempt to add a short button delay to avoid menu chaos on the Vita",
-        "requirements": "",
+        "requirements": "- Game Data Files: Space Cadet Pinball PC in ux0:data/SpaceCadetPinball",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "72",
         "url": "https://github.com/suicvne/SpaceCadetPinball_Vita/releases/download/Release_1.1.1_VitaBuild_2/SpaceCadetPinballVita_VB2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Doki Doki Literature Club Vita",
@@ -28916,13 +28925,14 @@
         "hash": "beafe2197fabaec06b35b522b09de945",
         "hash2": "",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- Game Data Files: Fade to Black PC or demo in ux0:data/f2bgl/data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.5",
         "url": "https://github.com/usineur/f2bgl/releases/download/vita-1.0/FadeToBlack.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Media Center",
