@@ -6659,7 +6659,7 @@
         "hash": "71b345b21ab1d23b9e1b83ff289d3501",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Steam in ux0:data/BeatBanger",
+        "requirements": "- Game Data Files: Steam, converted to .pck on PC, in ux0:app/BEAT33322/game_data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
