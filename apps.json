@@ -2724,14 +2724,15 @@
         "hash": "3b98f740a9e7c7c5d7d8bb74d7fef11f",
         "hash2": "",
         "changelog": "- Added support for  online multiplayer and LAN.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/boz",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "72",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita.vpk",
         "data": "",
-        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita-lgpl-relink-kit.zip"
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita-lgpl-relink-kit.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Skyrift",
@@ -3836,13 +3837,14 @@
         "hash": "e783a392a0422a82303d580101fe61c3",
         "hash2": "",
         "changelog": "- Better perf near waterfalls during summer rainbows\n- Free cam fixes on the island (collision + Kapp'n boat camera)\n- Kapp'n trophy unlocks when you step off the boat\n- Background autosave + memory savings",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Gamecube",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Gamecube in ux0:data/AnimalCrossing",
         "trophies": "1",
         "tags": "",
         "ai": "1",
         "score": "83.5",
         "url": "https://github.com/Brendonm17/ACGC-Vita-Port/releases/download/v0.4.1/ac_vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BIOHAZARD4 Vita",
@@ -9137,13 +9139,14 @@
         "hash": "8244fc9633c2b77a25879644d3c69910",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Mobile",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Mobile in ux0:data/doom2rpg",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "79.3",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1247-DOOMIIRPG.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Ports Scanner",
@@ -13200,13 +13203,14 @@
         "hash": "7b2e3a6492fc9415409352a173ba216f",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PSX",
+        "requirements": "- Game Data Files: PSX in ux0:data/DRIVER2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "66.4",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1145-REDRIVER2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Tile World Vita",
@@ -18049,13 +18053,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- Removed unncessary files.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RNPYSS001",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70",
         "url": "https://github.com/SilverCrow2323/Sakura-Succubus-Vita/releases/download/v.1.1/Sakura.Succubus-01.10.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sakura Succubus II Vita",
@@ -18139,13 +18144,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RNPYSS004",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/SilverCrow2323/Sakura-Succubus-4-Vita/releases/download/v.1.1/Sakura.Succubus.IV-01.10.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "supra mayro kratt",
@@ -20122,13 +20128,14 @@
         "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC Steam",
+        "requirements": "- Game Data Files: PC Steam in ux0:app/RNPYDDLC1",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80.6",
         "url": "https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita/releases/download/v1.01/Doki.Doki.Literature.Club-01.01.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Contract Demon Vita",
@@ -22499,13 +22506,14 @@
         "hash": "bb4efca8deb617c87667a9925c6e9923",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: Android in ux0:data/Sonic1",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78.3",
         "url": "https://github.com/SonicMastr/Sonic-1-2-Vita/releases/download/1.1.0/Sonic1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic 2 Vita",
@@ -22529,13 +22537,14 @@
         "hash": "dc6337e625d653d0b2677c256e217d8d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: Android in ux0:data/Sonic2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.2",
         "url": "https://github.com/SonicMastr/Sonic-1-2-Vita/releases/download/1.1.0/Sonic2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic 1",
@@ -22559,13 +22568,14 @@
         "hash": "37b086a4a08b26a63cb532b9c33d7dba",
         "hash2": "",
         "changelog": "- Improve performance on string management\n- Improve performance on game scripts\n- Improve performance by using the hardware screen scaling\n- Fix a bug where the 1up music was cut\n- Fix a bug where some sprites in Aquatic Run Zone were corrupted\n- Fix zone selection for Sky Chase Zone and Death Egg Zone\n- More attempts to fix a crash when a new music is played",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: Android in ux0:data/Sonic1",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78.3",
         "url": "https://github.com/Xeeynamo/Sonic-1-2-2013-Decompilation/releases/download/v1.1.0/Sonic1-xeeynamo-v110.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic 2",
@@ -22589,13 +22599,14 @@
         "hash": "d89ce39466464955170fb728e70b8dd9",
         "hash2": "",
         "changelog": "- Improve performance on string management\n- Improve performance on game scripts\n- Improve performance by using the hardware screen scaling\n- Fix a bug where the 1up music was cut\n- Fix a bug where some sprites in Aquatic Run Zone were corrupted\n- Fix zone selection for Sky Chase Zone and Death Egg Zone\n- More attempts to fix a crash when a new music is played",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: Android in ux0:data/Sonic2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "83.2",
         "url": "https://github.com/Xeeynamo/Sonic-1-2-2013-Decompilation/releases/download/v1.1.0/Sonic2-xeeynamo-v110.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Higurashi Vita",
