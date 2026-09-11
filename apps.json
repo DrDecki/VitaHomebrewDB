@@ -6021,13 +6021,14 @@
         "hash": "d29d817df1dbc6eea1b22e5e74ae5e8f",
         "hash2": "",
         "changelog": "- the game will now buffer saves, which makes them take a lot less time;\n- you can now press R in the console to bring up the on-screen keyboard (press Select in the menu to bring up the console);\n- text edit boxes in the menu will automatically bring up the keyboard;\n- fixed touch not working properly in the NETRICSA screen;\n- fixed mod switching (NOTE: mods with custom DLLs such as Seriously Warped Deathmatch will not work).",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/ssam_tse",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.9",
         "url": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/ssam_tse_v2.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1345-data-data_tse_v2.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1345-data-data_tse_v2.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Prince of Persia 2 Vita",
@@ -7677,13 +7678,14 @@
         "hash": "a7a538d581b09a451b91d3572f4d1ef0",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/nyan",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "60",
         "url": "https://github.com/Rinnegatamante/nyan-vita/releases/download/v.1.0/nyan.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Valiant Hearts Vita",
@@ -10342,13 +10344,14 @@
         "hash": "230bf0fab128f4a6e535dcb9776a77a0",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Tamagotchi",
+        "requirements": "- Game Data Files: Tamagotchi in ux0:data/tamatool",
         "trophies": "0",
         "tags": "casual,2d,opensource",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/nn9dev/tamatool-vita/releases/download/vita-0.1/tamatool-vita-0.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Emu4Vita Arch",
@@ -11068,13 +11071,14 @@
         "hash": "cbd42d9c8215ebede0bb888cfecc57a2",
         "hash2": "",
         "changelog": "- Added multilanguage support.\n- Made two trophies hidden to mimic PS4 trophy pack.\n- Fixed a bug causing some trophies to not properly unlock.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/not-a-hero",
         "trophies": "1",
         "tags": "indie,2d,opensource,android,shooter",
         "ai": "0",
         "score": "75.1",
         "url": "https://github.com/Rinnegatamante/not_a_hero-vita/releases/download/v.1.0.1/notahero.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "VitaHot",
@@ -12614,13 +12618,14 @@
         "hash": "d7cea5e812e5be37212afebb3cf52ecb",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/freespace2_demo",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "86.3",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1110-freespace.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1110-data-freespace2_demo.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1110-data-freespace2_demo.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "McPixel 3 Vita",
@@ -13584,13 +13589,14 @@
         "hash": "c4753010905cd58f8779a544718cdba0",
         "hash2": "",
         "changelog": "- Updated trophies icons to hi-res versions.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/hrm",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "78.1",
         "url": "https://github.com/Rinnegatamante/hrm-vita/releases/download/v.1.3.1/HRM.vpk",
-        "data": "https://github.com/Rinnegatamante/hrm-vita/releases/download/v.1.3.1/datafiles.zip"
+        "data": "https://github.com/Rinnegatamante/hrm-vita/releases/download/v.1.3.1/datafiles.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "SMB2SE Vita",
@@ -15001,13 +15007,14 @@
         "hash": "01f7b06f550e800487a740a78755df9d",
         "hash2": "",
         "changelog": "- Added configurable settings and related configurator app (Anti-Aliasing, Framecap).\n- Bound Start to pause game.\n- Bound L Trigger to mission goals showup.\n- Bound R Trigger to fast forward.\n- Reworked Livearea assets (Thanks to Once13one).",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/anomaly",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.4",
         "url": "https://github.com/Rinnegatamante/anomaly-we_vita/releases/download/v.1.2/anomaly.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Potatoom 3",
@@ -15995,13 +16002,14 @@
         "hash": "af59e561de2fe37adaac78db447343b0",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/cy33hc/vita-webdav-client/releases/download/latest/webdavclient.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Monument Valley",
@@ -17174,13 +17182,14 @@
         "hash": "5ce4514e0365c8914f334c4363371463",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/Nanosaur",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/851-Nanosaur.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/851-data-Nanosaur.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/851-data-Nanosaur.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Wargus",
@@ -18294,13 +18303,14 @@
         "hash": "52c550d7b58db6a1f679fc0213a9064a",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/rottexpr\n- Data files in ux0:data/timidity",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "69.4",
         "url": "https://github.com/Northfear/rottexpr-vita/releases/download/v1.0-vita.1/rottexpr.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/804-data-rottexpr_data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/804-data-rottexpr_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "RollyPoly",
@@ -25412,13 +25422,14 @@
         "hash": "367f82530f83a731734c878582b73d40",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/sdlpal",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/usineur/sdlpal/releases/download/1.3/sdlpal.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/352-data-sdlpal.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/352-data-sdlpal.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "The Lost Catacomb",
@@ -27064,13 +27075,14 @@
         "hash": "5665efe44d175ca281f879cc59d772c3",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/NumptyPhysics",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/243-NumptyPhysics.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/243-data-NumptyPhysics.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/243-data-NumptyPhysics.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenTTD",
@@ -28749,13 +28761,14 @@
         "hash": "7fb6f9b5b4d99b684b3fb5535a92a39d",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/bermuda",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73",
         "url": "https://github.com/usineur/bermuda/releases/download/1.4/bermuda-vita.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/115-data-bermuda.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/115-data-bermuda.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Abbaye Des Morts Vita",
@@ -29262,13 +29275,14 @@
         "hash": "34c3786f2b802b6fa17ac488ed95dfa4",
         "hash2": "21165fd81f298b83ca419f326369b986",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/MicroCHIP",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/337-MicroCHIP.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/337-data-MicroCHIP.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/337-data-MicroCHIP.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "rinCheat SE",
