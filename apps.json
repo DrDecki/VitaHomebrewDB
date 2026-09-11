@@ -3812,13 +3812,14 @@
         "hash": "fa31e108bd72870145e5bd9622b64625",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/pacmancedx",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "89.8",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1409-pacmancedx.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Animal Crossing Vita",
@@ -5513,13 +5514,14 @@
         "hash": "14d5bd98f63545eaab22802bd2489062",
         "hash2": "",
         "changelog": "- Fixed a crash on boot with some devices.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/com.khg.actionsquad",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "78",
         "url": "https://github.com/elliencode/actionsquad-psv/releases/download/v1.01/com.khg.actionsquad-v1.01.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Spiced Miku Vu",
@@ -7175,13 +7177,14 @@
         "hash": "b9a4c66b68987e8e4d7a09c1a8e20cd3",
         "hash2": "",
         "changelog": "- Fixed updating statistics for victories over Developer AI and insane AI;\n- Fixed saving statistics to a file when exiting the game via Live Area;\n- Fixed updating statistics when exiting a match early.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/biplanes_revival",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1-fix1/BiplanesRevival.vpk",
-        "data": "https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1/biplanes_revival_data.zip"
+        "data": "https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1/biplanes_revival_data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Yardlings Vita",
@@ -7295,13 +7298,14 @@
         "hash": "67e96f41dd5249d2cfe035892a2d281b",
         "hash2": "",
         "changelog": "- Fixed a bug causing options changes to not be kept after app closure.\n- Moved to SceLibc for I/O operations: slightly reduced loading times.\n- Enabled more aggressive optimizations in vitaGL: slightly improves framerate.\n- Added possibility to pause the game with START button.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/bullets",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80",
         "url": "https://github.com/Rinnegatamante/mad-bullets-vita/releases/download/v.1.1/bullets.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Relic Looter Vita",
@@ -7595,13 +7599,14 @@
         "hash": "e198303e17bfa931180a0f66d2ed1664",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/32secs",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/32secs_vita/releases/download/v.0.8/32secs.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Paper Train Reloaded Vita",
@@ -9415,13 +9420,14 @@
         "hash": "3c889433be9e142cfed338e353b826e0",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/Nanosaur2",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73.6",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1241-Nanosaur2.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1241-data-Nanosaur2.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1241-data-Nanosaur2.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Swordigo Vita",
@@ -10507,13 +10513,14 @@
         "hash": "f71f785902f26222dd36e94108541efb",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: PC in ux0:data/gms",
         "trophies": "1",
         "tags": "game maker,2d,platform,indie,commercial",
         "ai": "0",
         "score": "81.5",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1216-WSNL00001.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Fallout 2 CE",
@@ -11961,13 +11968,14 @@
         "hash": "e198f2d49f61a5a291a751da8043deef",
         "hash2": "",
         "changelog": "Additions:\n- Added Highways, 2x2 roads that provide a significant speed boost but are only usable by destination walkers.\n- Added Custom Empires, a feature to allow map creators to create their own empire maps. Consult the documentation for details and examples. (#734)\n- Added new icons for large quotas on the empire map\n- Added an option to display the projected movement path of walkers when placing new buildings\n- Added an option to display the area from which markets get their supplies\n- New resources: the engine has been reworked to allow more resources than C3 originally came with.\n- Added resource: Stone. Stone is gathered in stone quarries near rocks and used to construct monuments.\n- Added resource: Sand. Sand is gathered in sand pits placeable near water and can be processed into bricks and concrete.\n- Added resource: Bricks. Bricks are made in brickworks from clay and sand. Bricks are used to construct select monuments.\n- Added resource: Concrete. Concrete is made in concrete makers from sand. Concrete makers require water access from either well, fountain or reservoir. Access to water from reservoir speeds up concrete production. Concrete has to be made as needed and cannot be stored.\n- Added resource: Gold. Gold is slowly mined in gold mines placeable near rocks. Gold is used to build select monuments and can be converted into denarii in City Mint.\n- Added a new building - City Mint. City mint can convert gold into denarii or denarii into gold.\n- Expanded map editor functionality. You can now set what the favor loss is for late delivery, ignoring the request and the allowed time for late delivery.\n- Added: Scenario events. Expansion of scenario creating functionality.Scenario events are a set of actions that can be triggered if a set of conditions are met. Consult the documentation for details. (https://github.com/Keriew/augustus/blob/master/res/manual/README_map_editor_scenario_events.md)\n- Added an option to draw cloud shadows over the city.\n- Added a new building - Cart Depot. Cart depot allows for additional logistics and moving of goods based on conditions. User can set target resource, source and destination, and conditions for movement of goods. Works with both granaries and warehouses.\n- Added panelled and looped garden gates.\n- Added a setting to control the default permissions of garden gates\n- Meow\n- Added altars - desirable buildings that also provide a bit of support to their chosen god\n- Added additional garden variant\n\nChanges:\n- Obstructing the road to Rome will now pause the game and give a warning, to give an opportunity of fixing the problem before destroying the player's city.\n- Added the reservoir range projection when building Neptune Grand Temple\n- Increased the favor penalties when player tries to pay themselves a salary above their rank\n- Adjusted the calculations of granaries/warehouses for markets\n- Removed the 10 dock limit\n- Newly built docks, taverns and non-Venus temples now accept all goods by default\n- Changed the sentiment overlay: Now the upper parts of the homes are also coloured accorded to the sentiment\n- Herd animals will now try to move out of the way when placing buildings\n- Vanilla scenarios and campaign maps are adjusted to include the new resources as appropriate\n- Meat and fish are now separate food types\n- Monument resource costs and number of phases have been adjusted to require the new resources\n- Adjusted the order of special orders in warehouses/granaries. The new order is Accepting->Getting->Not Accepting\n- Buildings that require resources not available on the map will no longer show in the build menu\n- Angry natives can now destroy walls, aqueducts and gardens\n- Removed the minarets from Hagia Sophia ornament\n- Copy/paste building data can now be used on all roadblock-like buildings\n- Mothballed buildings now display a warning on their building information panel\n- Aligned the text in the building menu and title screen menu\n- Granaries now display the flags showing their permissions, similarly to warehouses\n- Distributing market ladies will no longer return early if they have no resources to distribute\n- Reservoirs can now connect directly to each other. Improved the projection when building reservoirs\n- Oracles, Large Temples and Nymphaeums no longer burn or collapse\n- Improved error/crash logging\n- Cartpushers emptying the warehouse can go offroad\n- Improved the UI of load/save dialog\n- Improved the UI building information of monument that are being constructed\n- Added roadblock controls to gatehouses and arches\n- Added hotkeys for many of features\n- Removed shipyards from maps with no fish\n- Adjusted cartpusher and market ladies pathfinding\n- Market boys now stay closer to the market lady\n- Increased trader spawn rate\n- Wolves now fight against enemy soldiers\n- Granary cart pushers now show on food supply overlay\n- Boxing in your city will now automatically pause the game to allow the player to fix the problem without all housing getting destroyed\n- Replaced the \"all temple\" option with an auto cycle toggle\n- The market buyer lady now wears a dress with a different color.\n- Improved graphic model for the Architectsâ€™ Guild.\n- Warehouse info panel now shows stored goods and free space values in cartloads.\n- Zebras now use their pasturing animation.\n- Changed the loading screen to PS Vita\n\nBugfixes:\n- Fixed potential crashes with wrongly formatted XML files\n- Fixed efficiency being calculated improperly\n- Fixed android builds not loading properly\n- Fixed some bugs which would stop monuments from being completed\n- Fixed the entertainment advisor displaying the wrong count of hippodromes\n- Fixed some improper behaviour of herd animals\n- Fixed a bug where having too many sprites on the same tile would result in them drawing in random locations\n- Fixed a bug where ranged units on fort grounds could not fire\n- Fixed a bug when the trade is stopped if a dock is replaced by a shipyard while the game is paused\n- Fixed a potential problem with message lists\n- Fixed a bug where buildings would get deleted even if you cancel deletion\n- Fixed problems with invasions created by using cheats\n- Fixed out of bounds problem with invasions\n- Fixed out of bounds problem with the water access projection\n- Fixed monuments sometimes not being drawn correctly\n- Fixed potential memory corruption issues\n- Fixed a bug where rioters could destroy only a part of the hippodrome\n- Fixed a bug where a city preview would improperly display the map size\n- Fixed a potential crash caused by looters\n- Fixed improper ghosts being drawn by waterside buildings\n- Fixed potential crashes caused by waterside buildings\n- Earthquake can no longer hit a ramp\n- Fixed a bunch of typos and adjusted some messages for clarity\n- Fixed a bug where rotating a map could prevent placing more buildings\n- Fixed bathhouse ghost\n- Fixed a situation where luxury palaces would display requirements for evolving\n- Fixed caravans not appearing sometimes when they should\n- Fixed farm progress being undone after deleting and then undoing the deletion\n- Fixed the crash when the map is rotated briefly after gatehouse destruction\n- Fixed some savegames refusing to load\n- Fixed being able to place multiple wharves on top of each other in some situations\n- Fixed clone building being able to build buildings that are not allowed to be built\n- Fixed Venus Grand Temple not working on all houses/gardens/statues/temples.\n- Fixed multiple possible memory corruption errors\n- Fixed entry/exit flag moving on reload\n- Placated Crudelios\n- Fixed entry/exit flags being minable in the campaign maps\n- Fixed native area shrinking\n- Fixed being able to build multiple of the same monument\n- Fixed gladiator statue complaining about lack of road access\n- Fixed sentries sometimes improperly showing up when right clicking next to a tower\n- Fixed buildings sometimes using improper spawn points when built next to a roadblock\n- Fixed natives getting stuck on garden gates\n- Fixed cart pushers sometimes getting stuck when their target gets deleted\n- Fixed caravanserai suppliers stocking up less food than intended\n- Fix a rare case when houses would become corrupted and crash the game\n- Fixed Neptune bonus not working with a modified model file\n- Fixed cartpusher sometimes getting stuck on invalid tiles\n- Fix replay map button sometimes not working\n- Fixed triumphal arch allowing more road access than it should\n- Fixed wrong mouse warping when right click dragging\n- Fixed waterside building being placeable where they wouldn't work\n- Fixed foreman using wrong phrases\n- Fixed elevation rocks appearing where they shouldn't\n- Fixed numberic input keyboard ignoring minus\n- Fixed work camp haulers walking on water\n- Fixed cases where hotkeys stopped working\n- Game paused banner now displays the proper hotkey\n- Fixed gates placed on plazas not working\n- Fixed mothballed supply post fully satisfying food needs without consuming food\n- Fix music not playing properly on Vita\n- Fixed some timing issues with mpg video playback\n- Fixed trees/rocks changing graphics when starting a map\n- Fixed the improper tavern count being displayed\n- Fixed destroyed palisade gates reducing peace rating.\n- Fixed the display of triumphal arches on Roads overlay.\n- Fixed potential crash when parsing malformed original assets.\n- Fixed a bug where palaces didnâ€™t for ask access to gods once evolved.\n- Fixed some texts not translated in the audio options.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/julius",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "80",
         "url": "https://github.com/Keriew/augustus/releases/download/v4.0.0/augustus-4.0.0-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BoggleVita",
@@ -12386,13 +12394,14 @@
         "hash": "1efb703217e024d0cb10dd337596f0cd",
         "hash2": "",
         "changelog": "- Fixed an issue causing game to crash with certain configurations.",
-        "requirements": "- libshacccg.suprx",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Data files in ux0:data/zik-zak",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1103-Zik-Zak.vpk",
-        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1103-data-zik-zak.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1103-data-zik-zak.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Xash3D-FWGS",
@@ -12661,13 +12670,14 @@
         "hash": "c192a79d7b671d4f9da61838bffb0dfc",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/mcpixel",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73.3",
         "url": "https://github.com/Rinnegatamante/mcpixel-vita/releases/download/v.1.1.1/mcpixel.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Late Shift Vita",
@@ -15115,13 +15125,14 @@
         "hash": "91a38676bedd0bba57c9a3700781fb48",
         "hash2": "",
         "changelog": "- Added intro video playback when the game is launched.\n- Added configurable options and a companion app to edit those settings (Framecap, Graphics Quality and Antialiasing).\n- Clusterized shaders in subfolders. Now loading times should be faster.\n- Reworked Livearea assets (Thanks to Once13one).\n- Disabled game logs (Slight performance boost).\n- Bind L to mission goals showup.\n- Bind R to fast forward.",
-        "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- fd_fix.skprx OR repatch_ex.skprx in ur0:tai\n- Game Data Files: Android in ux0:data/anomaly_korea",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.9",
         "url": "https://github.com/Rinnegatamante/anomaly-korea_vita/releases/download/v.1.2/anomaly_korea.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sleepwalker's Journey Vita",
@@ -19228,13 +19239,14 @@
         "hash": "21d0b49ea5dbbdff818f18eb95c50741",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:data/PlumbersDontWearTies",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "25.6",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/770-PlumbersDontWearTies.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Commander Genius",
