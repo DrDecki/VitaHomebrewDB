@@ -4889,13 +4889,14 @@
         "hash": "e39ca2df06fe903b863e01b849c67450",
         "hash2": "",
         "changelog": "- Fixed an issue where the keyboard was not working on the tutorial.\n- Added the O (circle) button as a back button.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Android",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Android in ux0:app/DDEF00001",
         "trophies": "0",
         "tags": "",
         "ai": "1",
         "score": "0",
         "url": "https://github.com/Rocroverss/Defender-II-PS-Vita-Port/releases/download/v1.01/defender2_vita_1.01.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Devil May Cry 4 Refrain Vita",
@@ -5037,17 +5038,18 @@
         "release_page": "https://github.com/withLogic/hexahop-vita/releases",
         "trailer": "",
         "size": "2832504",
-        "data_size": "34519517",
+        "data_size": "34514997",
         "hash": "3d355fec45904133b064c3f1cd2caf3c",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Data files in ux0:data/hex-a-hop",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/hexahop-vita/releases/download/v1.1.0-vita/Hex-A-Hop.vpk",
-        "data": "https://github.com/withLogic/hexahop-vita/releases/download/v1.1.0-vita/data.zip"
+        "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1374-data-data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "DethKarz Remake",
@@ -7895,13 +7897,14 @@
         "hash": "6c72e430d4b96420b6a0c11f07a832e4",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC in ux0:app/RESO00022/game_data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70.1",
         "url": "https://github.com/Rocroverss/resolutiion-patch-psvita/releases/download/v1.0.reihen/Resolution.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Into the Breach",
