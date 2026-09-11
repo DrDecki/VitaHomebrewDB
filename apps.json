@@ -29138,13 +29138,14 @@
         "hash": "495d2ba3a20a83777073064265e8b48d",
         "hash2": "",
         "changelog": "",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC (*.SQZ files) in ux0:data/moktar",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/usineur/opentitus/releases/download/1.0/Moktar.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "PKGi",
