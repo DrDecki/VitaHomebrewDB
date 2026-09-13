@@ -1115,13 +1115,14 @@
         "hash": "6109ac91fd0bd7474d4028022fcfa0c5",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: Diddy Kong Racing (.o2r) in ux0:data/battleship",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/robin994/battleship-vita/releases/download/1.4/battleship.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Steel Blossom: Vita",
@@ -19253,13 +19254,14 @@
         "hash": "a811efff0432f0a93fed176fd55b9300",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Amiga OR DOS",
+        "requirements": "- Game Data Files: DOS in ux0:app/BLUES0001/data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "68.9",
         "url": "https://github.com/v-atamanenko/blues-vita/releases/download/1.0/blues.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Blues Brothers: Jukebox Adventure",
@@ -19283,13 +19285,14 @@
         "hash": "78d4df750ac4cd21725e3ff904014696",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: DOS",
+        "requirements": "- Game Data Files: DOS in ux0:app/BLUES0002/data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "64",
         "url": "https://github.com/v-atamanenko/blues-vita/releases/download/1.0/bb-jukebox.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Prehistorik 2",
@@ -19313,13 +19316,14 @@
         "hash": "53fe462956b4c94890f389e32ca5ef84",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: DOS",
+        "requirements": "- Game Data Files: DOS in ux0:app/PREHIST01/data",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "77.5",
         "url": "https://github.com/v-atamanenko/blues-vita/releases/download/1.0/prehistorik-2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Fractal3D",
