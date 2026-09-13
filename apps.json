@@ -19068,14 +19068,13 @@
         "hash": "78e8ab786347eef148c23cfc9084d864",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC in ux0:app/ISSY00001/games",
+        "requirements": "- Game Data Files: PC",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-Issyos.vpk",
-        "data": "",
-        "requirements_checked": "1"
+        "data": ""
     },
     {
         "name": "Protect the Earth",
