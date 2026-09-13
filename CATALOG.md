@@ -216,7 +216,7 @@ Every entry, with the download it currently points at. The ones added since
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [repo](https://drdecki.itch.io/deckis-platformer) |
 | Defender II Vita | Rocroverss | v.1.01 | 2.3 MB | [download](https://github.com/Rocroverss/Defender-II-PS-Vita-Port/releases/download/v1.01/defender2_vita_1.01.vpk) | [repo](https://github.com/Rocroverss/Defender-II-PS-Vita-Port) |
 | Defendguin | Island_Games | v.1.0 | 2.8 MB | [download](https://github.com/island-games/Defendguin/releases/download/v1.0/Defendguin.vpk) | [repo](https://github.com/island-games/Defendguin) |
-| Deltarune Vita | ChatGPT AI | v.0.72 | 5.2 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.72/Deltarune-v0.72-49.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
+| Deltarune Vita | ChatGPT AI | v.0.73 | 5.3 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.73/Deltarune-v0.73.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
 | Demons Down | WIDEGCG | v.1.0 | 45.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/679-DemonsDown.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/demonsdown/) |
 | Desert Golfing Vita | Rinnegatamante | v.1.0 | 0.5 MB | [download](https://github.com/Rinnegatamante/desertgolfing_vita/releases/download/v.1.0/desertgolfing.vpk) | [repo](https://github.com/Rinnegatamante/desertgolfing_vita) |
 | DeSmuME-Vita | MasterFeizz | v.0.2 | 1.8 MB | [download](https://github.com/masterfeizz/DeSmuME-Vita/releases/download/v0.2/desmume.vpk) | [repo](https://github.com/masterfeizz/DeSmuME-Vita) |
