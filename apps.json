@@ -1454,13 +1454,14 @@
         "hash": "07d83f25a99116c07beed593bea7ad92",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC (game.win) in ux0:app/RSCC00001/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Brendonm17/rsc-c-vita/releases/download/v1.1.1/rsc-c-vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Portalban",
@@ -13544,7 +13545,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1125-anarch.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Simple FPS Platformer",
@@ -18021,13 +18023,14 @@
         "hash": "0c91c430c618744af1f84c6e84f68c93",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC (game.win) in ux0:app/OMEGAVITA/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "73.4",
         "url": "https://github.com/elpapadelospollitos/Omega-strike-vita/releases/download/v1.0/OmegaStrike.VPK",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BopIt",
@@ -19978,13 +19981,14 @@
         "hash": "0bca40bfb116e63b8769e36e85fe428d",
         "hash2": "299ce5ac973fff4962348159e81511bc",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC (game.win) in ux0:app/GMSGH0ATL/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74.8",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/753-Atlantis.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenHCL",
@@ -22078,13 +22082,14 @@
         "hash": "9cfc145f86d9d0c3a88dc25217858213",
         "hash2": "fe0ad56365a941a8d5a6799ec9453334",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC (game.win) in ux0:app/SPORTPACK/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/648-Pocket_Wonder_Sport.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Abuse Vita",
@@ -22114,7 +22119,8 @@
         "ai": "0",
         "score": "73.1",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/651-Abuse.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Minit",
@@ -23027,13 +23033,14 @@
         "hash": "49d1c3a01964a097151aa77a04b15f45",
         "hash2": "2ed934d514a8c515391ba5f513d5d9d8",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC (game.win) in ux0:app/HBGMSGRV1/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/606-Grave.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Sonic CD",
@@ -24909,13 +24916,14 @@
         "hash": "8c24cc83b5ebbd0fc9e9ed9d70591dd8",
         "hash2": "",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- Game Data Files: JellyCar in ux0:data/jelly",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrakonPL/JellyCar/releases/download/1.1/JellyCarVita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "FrozenEngine",
@@ -27971,13 +27979,14 @@
         "hash": "1e02872e34881d05be548e72b0261783",
         "hash2": "91bcde703c8c4f4d54cea4cfaf283cec",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC (game.win) in ux0:app/GMSV00001/games",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/416-Freeway_Mutant.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Backup",
@@ -28586,7 +28595,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/265-ZeldaOLB.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Methane",
