@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1101)
+## PSVITA homebrews (1102)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -67,6 +67,7 @@ Every entry, with the download it currently points at. The ones added since
 | Attack of the Lettuce Munching Caterpillars | Gremlin Software | v.1.0 | 13.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/564-Caterpillars.vpk) | [repo](https://github.com/softwaregremlin/Attack-of-the-Lettuce-Munching-Caterpillars) |
 | Augustus | devnoname120 & Julius Team & Keriew | v.4.0.0 | 14.9 MB | [download](https://github.com/Keriew/augustus/releases/download/v4.0.0/augustus-4.0.0-vita.vpk) | [repo](https://github.com/Keriew/augustus) |
 | AvP Gold | Rinnegatamante | v.0.8 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/569-avp.vpk) | [repo](https://github.com/Rinnegatamante/AvP-Gold-Vita) |
+| Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [repo](https://github.com/Grarak/azahar) |
 | Baba Is You Vita | gl33ntwine | v.1.4 | 1.5 MB | [download](https://github.com/v-atamanenko/baba-is-you-vita/releases/download/v1.4/BABAISYOU.vpk) | [repo](https://github.com/v-atamanenko/baba-is-you-vita/) |
 | Babel Rising 3D Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/Rinnegatamante/babel-vita/releases/download/v.1.0/babel.vpk) | [repo](https://github.com/Rinnegatamante/babel-vita) |
 | Backrooms | MEGAgameBoy | v.1.5.2 | 44.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/821-Backrooms.vpk) | [repo](https://iep-esy.itch.io/backrooms) |
@@ -364,7 +365,7 @@ Every entry, with the download it currently points at. The ones added since
 | GoHAN | OneRice07 | v.2.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/250-GoHAN.vpk) | — |
 | GoHAN Parallel | OneRice07 | v.2.1.0 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/251-GoHAN_Parallel.vpk) | — |
 | Going Nowhere | koleq | b27 | 65.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/767-GoingNowhere.vpk) | — |
-| GoldenBalloon | zm2283145 | v.0.2.0 | 2.5 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/vita-v0.2.0/mdkr64.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
+| GoldenBalloon | zm2283145 | v.1.7.1 | 4.3 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/v1.7.1/GoldenBalloon-Vita-v1.7.1.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
 | GoldenIdol-Vita | Wolff | v.0.8.7 | 19.5 MB | [download](https://github.com/WolffsRoom/GoldenIdol-PSVita/releases/download/v0.8.7/GoldenIdol-Vita-v0.8.7.vpk) | [repo](https://github.com/WolffsRoom/GoldenIdol-PSVita) |
 | Golfing Over It with Alva Majo | PatnosD | v.1.0 | 12.6 MB | [download](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA/releases/download/Release/GolfingOverIt.vpk) | [repo](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) |
 | Gone Home | Soup'um | v.1.0.1 | 508.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1147-Gone_Home_for_PlayStation_Vita_V1.0.1.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/67/) |
@@ -1427,4 +1428,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1404 entries, 31.2 GB in total.
+1405 entries, 31.2 GB in total.
