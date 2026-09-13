@@ -9,7 +9,7 @@ ZIEL = {
 NAMEN = ["ShowInfo Lite","Please, Don't Touch Anything","OpenXcom","vitaQuakeII","devilutionX",
          "Zenonia 2","Switchfin","Save Keeper","OpenMW Vita","uac-pstv-host","Save Sync",
          "WoozyLLM","VitaDB Downloader","OpenNow Vita","Minecraft: Story Mode",
-         "CTR: High Octane","BattleShip","dRally Vita","VitaMediaDeck","Prince of Persia Classic","Amnesia: The Dark Descent","Barony Vita","Feather Park Vita","Skyrift","RuneScape","Illusia","ViTube"]
+         "CTR: High Octane","BattleShip","dRally Vita","VitaMediaDeck","Prince of Persia Classic","Amnesia: The Dark Descent","Barony Vita","Feather Park Vita","Skyrift","RuneScape","Illusia","ViTube","GoldenBalloon","Azahar"]
 
 def load(n):
     with open(os.path.join(ROOT, n), 'rb') as f:
@@ -65,6 +65,12 @@ for name in NAMEN:
     r, x = best
     tag = r['tag_name']
     neu_ver = 'v.' + tag.lstrip('vV.')
+    def vtup(v):
+        return [int(x) for x in re.findall(r'\d+', v or '')]
+    if repo.lower() not in (a.get('url') or '').lower():
+        print('  %-26s Datei kommt nicht aus %s, uebersprungen' % (name[:26], repo)); continue
+    if vtup(neu_ver) and vtup(a.get('version')) and vtup(neu_ver) < vtup(a.get('version')):
+        print('  %-26s %s ist aelter als %s, uebersprungen' % (name[:26], neu_ver, a.get('version'))); continue
     if neu_ver == a.get('version'):
         print('  %-26s schon aktuell (%s)' % (name[:26], a.get('version'))); continue
     print('  %-26s %-14s -> %-14s %s' % (name[:26], a.get('version'), neu_ver, x['name'][:28]))
