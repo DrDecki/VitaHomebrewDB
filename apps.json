@@ -1115,7 +1115,7 @@
         "hash": "6109ac91fd0bd7474d4028022fcfa0c5",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Diddy Kong Racing (.o2r) in ux0:data/battleship",
+        "requirements": "- Game Data Files (.o2r) in ux0:data/battleship",
         "trophies": "0",
         "tags": "",
         "ai": "0",
