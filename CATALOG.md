@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1102)
+## PSVITA homebrews (1101)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -995,7 +995,6 @@ Every entry, with the download it currently points at. The ones added since
 | VitaBooks | BenMitnick | v.1.0 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/274-VitaBooks.vpk) | — |
 | Vitabright Lut Editor | devnoname120 | v.1.1 | 0.5 MB | [download](https://github.com/devnoname120/vitabright-lut-editor/releases/download/1.1/vitabright-lut-editor-1.1.vpk) | [repo](https://github.com/devnoname120/vitabright-lut-editor) |
 | VitaBrightEX LUT Editor | Zushikina-kun | v.4.2 | 0.4 MB | [download](https://github.com/Zushikina-kun/VitaBrightEX/releases/download/v1.3/VitaBrightEX-LUT-Editor-v4.2.vpk) | [repo](https://github.com/Zushikina-kun/VitaBrightEX) |
-| VitaBrightEX LUT Editor | Zushikina-kun | v.4.2 | 0.4 MB | [download](https://github.com/Zushikina-kun/VitaBrightEX/releases/download/v1.3/VitaBrightEX-LUT-Editor-v4.2.vpk) | [repo](https://github.com/Zushikina-kun/VitaBrightEX) |
 | VitaBrot | Imroy | v.0.1.2 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/325-VitaBrot.vpk) | [repo](https://github.com/Imroy/VitaBrot) |
 | VitaCID | tomtomdu80 | v.1.0 | 0.0 MB | [download](https://github.com/MajorTomSec/VitaCID/releases/download/1.0/VitaCID.vpk) | [repo](https://github.com/tomtomdu80/VitaCID) |
 | VitaCord | devingDev | v.1.5fix1 | 2.6 MB | [download](https://github.com/devingDev/VitaCord/releases/download/1.5fix1/vita_cord.vpk) | [repo](https://github.com/devingDev/VitaCord) |
@@ -1428,4 +1427,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1405 entries, 31.2 GB in total.
+1404 entries, 31.2 GB in total.
