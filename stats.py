@@ -7,8 +7,16 @@ def load(n):
     with open(os.path.join(ROOT, n), 'rb') as f:
         return json.loads(f.read().decode('utf-8', 'replace'))
 
-def live(a):
-    return 'get_hb_url' not in a.get('url', '')
+# Archive, in denen nachweislich eine VPK steckt
+VPK_IN_ARCHIVE = {'1407', '727', '164', '792', '1157', '1093', '664', '290', '1015'}
+
+def live(a, vita=True):
+    u = (a.get('url') or '').split('?')[0]
+    if not u or 'get_hb_url' in u:
+        return False
+    if not vita:
+        return True
+    return u.lower().endswith('.vpk') or a['id'] in VPK_IN_ARCHIVE
 
 cats = [('PSVITA homebrews', 'apps.json'), ('Plugins', 'preserved/plugins.json'),
         ('PSP homebrews', 'psp_apps.json'), ('PC tools', 'preserved/tools.json')]
@@ -21,12 +29,12 @@ for label, f in cats:
     d = load(f)
     kept = [a for a in d if int(a['id']) <= LAST_VITADB_ID]
     new_ones = [a for a in d if int(a['id']) > LAST_VITADB_ID]
-    n = sum(1 for a in kept if live(a))
+    n = sum(1 for a in kept if live(a, f == 'apps.json'))
     rows.append((label, len(kept), n))
     tot += len(kept)
     ok += n
     added += len(new_ones)
-    added_ok += sum(1 for a in new_ones if live(a))
+    added_ok += sum(1 for a in new_ones if live(a, f == 'apps.json'))
 
 icons = len([x for x in os.listdir(os.path.join(ROOT, 'icons')) if x.endswith('.png')])
 need = set()
