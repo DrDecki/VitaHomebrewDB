@@ -1175,13 +1175,14 @@
         "hash": "b9879ed1cac5849b15b2df9621afea07",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/POMO00137",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "JAVITA: Jedi Academy",
@@ -4817,13 +4818,14 @@
         "hash": "28df76217cc4803a8d702c8597b59d38",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/STWF00001",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "69",
         "url": "https://github.com/hatoving/starwarfare-vita/releases/download/0.9-hotfix.0/starwarfare.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "MiniRetroXMB",
@@ -5366,13 +5368,14 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/SMRV00000",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/RegularCharacter07/SuperMegaRunnersVita/releases/download/1.0/smrun.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Arx Libertatis",
@@ -6038,13 +6041,14 @@
         "hash": "28df76217cc4803a8d702c8597b59d38",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Android",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/HELL12345",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "68.1",
         "url": "https://github.com/MaloneCZSD/NFH-PS-VITA/releases/download/V1.0/NFHV1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Serious Sam TFE Vita",
@@ -6283,13 +6287,14 @@
         "hash": "7aedbd6a7305141d7013f5591c882623",
         "hash2": "",
         "changelog": "- Fixed UI issues\n- Fixed input issues\n- Fixed final boss bug\n- Fixed card selection bug\n- Decreased install size\n- Performance improvements",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/FRGB12345",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1337-FroggysBattle_v1_1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Blockamok Remix",
@@ -6375,13 +6380,14 @@
         "hash": "da4c9d05af09cdbb31938c67a1c34c16",
         "hash2": "",
         "changelog": "- Trophy support.\n- Fixed some UI text",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/FLPR12345",
         "trophies": "1",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1327-FlipperVolcano_v1_1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vita Sokoban",
@@ -6982,13 +6988,14 @@
         "hash": "26983a2d88c837b8cc1d779131dedad8",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/TIEE00000",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1325-TIE.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "El Enviado",
@@ -7042,13 +7049,14 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/INSC12345",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "86.1",
         "url": "https://github.com/gl00mm/Inscryption_PSVITA/releases/download/Inscryption_PSVITA-alpha.1/inscryption.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Punch Club Vita",
@@ -7072,13 +7080,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: Steam",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/PNCH11111",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "71.5",
         "url": "https://github.com/PatnosDD/Punch-Club-Ps-Vita/releases/download/V1.0/PunchClub.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Snowball Fight",
@@ -7163,13 +7172,14 @@
         "hash": "0e24d456d8edc82aa16daf2bd5d68ce6",
         "hash2": "",
         "changelog": "- Fixed most graphics.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/SORT12345",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "70",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1321-STC.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Benny",
@@ -7501,13 +7511,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/CATS11111",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "76",
         "url": "https://github.com/PatnosDD/Cat-Quest-Ps-Vita/releases/download/V1.0/CatQuest.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Rocky Castle Vita",
@@ -7902,13 +7913,14 @@
         "hash": "ed28cc9d090cc7068127ccd549018ea7",
         "hash2": "",
         "changelog": "- Added joystick controls and PSTV support.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/DROP54000",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "79.9",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1287-DropsyVITA.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Better QR Scanner",
@@ -8148,13 +8160,14 @@
         "hash": "beb2c69fb99165f6cec69ccd677d96be",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/PIKU12345",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "74.5",
         "url": "https://github.com/gl00mm/Pikuniku_PSVITA/releases/download/Pikuniku_PSVITA-v1.00/pikuniku.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Lost on Island",
@@ -8759,13 +8772,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/UNSI22233",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "82.6",
         "url": "https://github.com/PatnosDD/Unsighted-Ps-Vita/releases/download/V0.3/Unsighted.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "mGBA",
@@ -10013,13 +10027,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/PRYA22322",
         "trophies": "0",
         "tags": "arcade,minigames,8 bit,unity",
         "ai": "0",
         "score": "75",
         "url": "https://github.com/PatnosDD/Pureya-PS-VITA/releases/download/v1.0/pureya.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "LSWTCS Vita",
@@ -11108,13 +11123,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/CFTK12345",
         "trophies": "0",
         "tags": "immersive,2d,indie,casual,unity",
         "ai": "0",
         "score": "75.5",
         "url": "https://github.com/PatnosDD/Coffee-Talk-PS-VITA/releases/download/Release/coffeetalk.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Keep In Mind Remastered",
@@ -11138,13 +11154,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/KPMN12352",
         "trophies": "0",
         "tags": "indie,unity,2d,horror,adventure",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA/releases/download/Release/KeepInMindRemastered.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "FFD-Vita",
@@ -11778,13 +11795,14 @@
         "hash": "063d9382656f22d75162a5c03e781963",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/GOLF55533",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "41",
         "url": "https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA/releases/download/Release/GolfingOverIt.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Night in the Woods",
@@ -11808,13 +11826,14 @@
         "hash": "397bc799e77d156823a05deef3824c57",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: PC, Media folder, in ux0:app/NITW22222",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "85.3",
         "url": "https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA/releases/download/Release/NightInTheWoods.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Geometry Dash Vita",
