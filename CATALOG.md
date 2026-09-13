@@ -657,7 +657,7 @@ Every entry, with the download it currently points at. The ones added since
 | Potatoom 3 | Rinnegatamante | v.0.1 | 9.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1052-dhewm3.vpk) | [repo](https://github.com/Rinnegatamante/d3es-vita) |
 | PrBoom Plus | fgsfds | v.1.2 | 2.2 MB | [download](https://github.com/fgsfdsfgs/prboom-plus/releases/download/v2.5.1.7um-vita-r1.2/prboom-plus-r1.2.vpk) | [repo](https://github.com/fgsfdsfgs/prboom-plus) |
 | Prehistorik 2 | gl33ntwine | v.1.0 | 1.1 MB | [download](https://github.com/v-atamanenko/blues-vita/releases/download/1.0/prehistorik-2.vpk) | [repo](https://github.com/v-atamanenko/blues-vita) |
-| Prince Of Persia | cpasjuste | v.1.12 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/166-prince.zip) | [repo](https://github.com/Cpasjuste/SDLPoP) |
+| Prince Of Persia | cpasjuste | v.1.12 | 5.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/166-Prince-Of-Persia.vpk) | [repo](https://github.com/Cpasjuste/SDLPoP) |
 | Prince of Persia 2 Vita | usineur | v.1.3 | 1.7 MB | [download](https://github.com/usineur/pop2-vita/releases/download/v1.3/pop2.vpk) | [repo](https://github.com/usineur/pop2-vita) |
 | Prince of Persia Classic | MetalSyntax | v.01.28 | 1.3 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
 | Pro Camera Vita | VitaHEX games | v.1.1 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/297-ProCameraVita.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48379) |
@@ -1048,7 +1048,7 @@ Every entry, with the download it currently points at. The ones added since
 | vitaVoyager | Rinnegatamante | v.1.0 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/491-vitaVoyager.vpk) | [repo](https://github.com/Rinnegatamante/vitaVoyager/tree/master) |
 | vitaWanted | Rinnegatamante | v.1.3 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/19-vitaWanted.vpk) | [repo](https://wololo.net/talk/viewtopic.php?f=116&t=46726) |
 | VitaWave | Stalgix | v.1.0 | 43.1 MB | [download](https://github.com/Jyotiraditya-Samal/Vitawave/releases/download/v1.0.0-stable/VitaWave.vpk) | [repo](https://github.com/Jyotiraditya-Samal/Vitawave) |
-| vitaWolfen | Rinnegatamante | v.1.7 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/31-vitaWolfen.zip) | [repo](https://github.com/Rinnegatamante/vitaWolfen) |
+| vitaWolfen | Rinnegatamante | v.1.7 | 7.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/31-vitaWolfen.vpk) | [repo](https://github.com/Rinnegatamante/vitaWolfen) |
 | vitaXash3D | fgsfds | v.4 fix | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/365-vitaXash3D.vpk) | [repo](https://github.com/fgsfdsfgs/vitaXash3D) |
 | ViTetris | bytelett | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1135-ViTetris.vpk) | [repo](https://github.com/m-bartlett/vita-tetris) |
 | Vitohlyad | gl33ntwine & Danil_linaD | v.0.9 | 18.7 MB | [download](https://github.com/v-atamanenko/vitohlyad/releases/download/v0.9/vitohlyad.vpk) | [repo](https://github.com/v-atamanenko/vitohlyad) |
