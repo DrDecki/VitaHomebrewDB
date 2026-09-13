@@ -2212,7 +2212,7 @@
         "hash": "52dc19beaab4f87e8849887a4a4b7785",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "- Game Data Files: Cave Story in ux0:data/timidity",
+        "requirements": "",
         "trophies": "0",
         "tags": "",
         "ai": "0",
@@ -14766,13 +14766,14 @@
         "hash": "c50a9a2a26fa75d3f7b70753b3e928a6",
         "hash2": "",
         "changelog": "NOTICE\n- The path of the data files has changed to ux0:data/Dink Smallwood HD/ rather than ux0:data/proton\n- the TITLEID of the application has changed and is now DINK54321 rather than RTDINK123.\n- If you want MIDI Audio to work please download Timidity from here and unpack it to ux0:data/timidity\n\nNEW\n- Fix crash which happens when trying to load save.\n\nLAST UPDATE\n- Now you can move using the left analog stick of your Playstation Vita\n- MIDI Audio works using Timidity\n- Livearea assets\n- Other performance improvements.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: Android/Windows/Mac/iOS",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Android/Windows/Mac/iOS in ux0:data/Dink Smallwood HD",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "63.4",
         "url": "https://github.com/Nyabsi/RTDink/releases/download/1.3.1/RTDink.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Heart Potato",
