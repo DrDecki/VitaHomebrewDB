@@ -25,23 +25,23 @@ rebuilt from a repository.
 <!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
-| PSVITA homebrews | 1019 | 1019 |
+| PSVITA homebrews | 1013 | 1013 |
 | Plugins | 123 | 123 |
-| PSP homebrews | 127 | 127 |
+| PSP homebrews | 126 | 126 |
 | PC tools | 27 | 27 |
-| **Total** | **1296** | **1296 (100%)** |
+| **Total** | **1289** | **1289 (100%)** |
 
-The table above counts the catalog as it stood on 2026-07-31. Another 108 entries
+The table above counts the catalog as it stood on 2026-07-31. Another 107 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
-**31.2 GB** in total.
+**30.4 GB** in total.
 
 | Asset | Recovered |
 | --- | ---: |
-| Metadata | 100% (1296 entries) |
+| Metadata | 100% (1289 entries) |
 | Icons | 100% (1421) |
-| Screenshots | 100% (2186 of 2186) |
+| Screenshots | 99% (2173 of 2186) |
 | Trailers | 100% (62 of 62) |
 | Data files | 100% (137 of 137) |
 | In-game trophies | 100% (28 of 28 sets) |
