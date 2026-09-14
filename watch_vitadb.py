@@ -25,6 +25,9 @@ def norm(s):
 def vernum(s):
     return [int(x) for x in re.findall(r'\d+', s or '')[:4]]
 
+# Bewusst entfernt: nur als Nightly verfuegbar, siehe REMOVED.md
+NIGHTLY_ONLY = {'186', '405', '553', '815', '910', '1028', '1093', '1504'}
+
 neu_alle, upd_alle = [], []
 for label, ep, datei in ENDPOINTS:
     try:
@@ -59,6 +62,8 @@ for label, ep, datei in ENDPOINTS:
             per_id = None
         treffer = per_id or (uns_repo.get(repo) if repo else None) or uns_norm.get(n) or uns_norm.get(n + 'vita') or (uns_norm.get(n[:-4]) if n.endswith('vita') else None)
         if not treffer:
+            if str(a.get('id')) in NIGHTLY_ONLY:
+                continue
             neu_alle.append((label, a))
             continue
         if treffer.get('_gemeldet'):
