@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1094)
+## PSVITA homebrews (1096)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -134,6 +134,7 @@ Every entry, with the download it currently points at. The ones added since
 | Bugdom 2 Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1251-Bugdom2.vpk) | [repo](https://github.com/Rinnegatamante/Bugdom2) |
 | Bully Vita | TheFloW & Rinnegatamante | v.1.0 | 0.9 MB | [download](https://github.com/TheOfficialFloW/bully_vita/releases/download/v1.0/Bully.vpk) | [repo](https://github.com/TheOfficialFloW/bully_vita) |
 | button-swapper | xyzz | v.1.0 | 0.0 MB | [download](https://github.com/xyzz/vita-button-swapper/releases/download/1.0/button-swapper.vpk) | [repo](https://github.com/xyzz/vita-button-swapper) |
+| Caffeine Installer | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/Caffeine-for-Vita/releases/download/v1.0.0/CaffeineForVita.vpk) | [repo](https://github.com/M-Essa11/Caffeine-for-Vita) |
 | Call of Vita: Hackzone | VitaDev Games | v.0.1.30a | 143.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/992-call_of_vita.vpk) | — |
 | Candy Crisis Vita | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1043-candy.vpk) | [repo](https://github.com/Rinnegatamante/CandyCrisis) |
 | Candy Wrapper Vita | davidcralph | v.1.00 | 21.0 MB | [download](https://github.com/davidcralph/CandyWrapper_vita/releases/download/01.00/CandyWrapper.vpk) | [repo](https://github.com/davidcralph/CandyWrapper_vita) |
@@ -750,6 +751,7 @@ Every entry, with the download it currently points at. The ones added since
 | Save The Scene | Lapy | v.1.03 | 49.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/445-Save_20the_20Scene.vpk) | [repo](https://github.com/Lapy055/Save_the_Scene) |
 | Scratch Everywhere! | NateXS & Dogo6647 | Beta Build 40 | 4.0 MB | [download](https://github.com/ScratchEverywhere/ScratchEverywhere/releases/download/0.40/scratch-vita.vpk) | [repo](https://github.com/ScratchEverywhere/ScratchEverywhere) |
 | Sculptor Vita | Rayc | v.1.2 | 41.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1042-Sculptor.vpk) | [repo](https://github.com/RaycGaming/SculptorVita) |
+| ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | ScummVM | cpasjuste & rsn8887 & ScummVM Team | 2026.3.0 | 123.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm_release.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | SDL Prince of Persia Vita | usineur | v.1.7 | 1.0 MB | [download](https://github.com/usineur/SDLPoP/releases/download/vita-1.7/SDLPoP-Vita.vpk) | [repo](https://github.com/usineur/SDLPoP-Vita) |
 | SDL Sopwith Vita | withLogic | v.1.0.0 | 0.6 MB | [download](https://github.com/withLogic/sdl-sopwith-vita/releases/download/1.0.0/SDL-Sopwith.vpk) | [repo](https://github.com/withLogic/sdl-sopwith-vita) |
@@ -1419,4 +1421,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1396 entries, 30.4 GB in total.
+1398 entries, 30.5 GB in total.

@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (81)
+## PSVITA homebrews (83)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -17,6 +17,7 @@ what it was on the day the service went down.
 | Boiled Corn | dos | v.1.0 | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BoiledCorn.vpk) | [repo](https://dos.itch.io/boiledcorn) |
 | BombSquad Vita | SpliffCurryBeats | v.1.0 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BombSquadVita.vpk) | [repo](https://gitlab.com/sexcurrybeats/bombsquad-vita) |
 | Bounce Vita | M-Essa11 | v.0.1.0 | 0.5 MB | [download](https://github.com/M-Essa11/Bounce-Vita/releases/download/v0.1.0/Bounce-Vita-v0.1.0.vpk) | [repo](https://github.com/M-Essa11/Bounce-Vita) |
+| Caffeine Installer | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/Caffeine-for-Vita/releases/download/v1.0.0/CaffeineForVita.vpk) | [repo](https://github.com/M-Essa11/Caffeine-for-Vita) |
 | Castlevania Attack | Rocroverss | v.1.0 | 14.5 MB | [download](https://github.com/Rocroverss/Castlevania-Attack-Demo/releases/download/v1.0/Castlevania.Attack.vpk) | [repo](https://github.com/Rocroverss/Castlevania-Attack-Demo) |
 | CEX 2 REX 2.0 | LiEnby | v.2.0.1 | 0.2 MB | [download](https://git.silica.codes/Li/cex-2-rex/releases/download/2.0.1/CEX2REX.vpk) | [repo](https://git.silica.codes/Li/cex-2-rex) |
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
@@ -64,6 +65,7 @@ what it was on the day the service went down.
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [repo](https://github.com/Ivoah/portalban) |
 | Prince of Persia Classic | MetalSyntax | v.01.28 | 1.3 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
 | RuneScape | Brendonm17 | v.1.1.1 | 13.6 MB | [download](https://github.com/Brendonm17/rsc-c-vita/releases/download/v1.1.1/rsc-c-vita.vpk) | [repo](https://github.com/Brendonm17/rsc-c-vita) |
+| ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [repo](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
@@ -131,4 +133,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-107 entries, 0.7 GB in total.
+109 entries, 0.8 GB in total.
