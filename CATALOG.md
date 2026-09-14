@@ -651,7 +651,7 @@ Every entry, with the download it currently points at. The ones added since
 | Poppy Kart Collection | Rinnegatamante | v.1.0 | 2.9 MB | [download](https://github.com/Rinnegatamante/Poppy-Kart-Collection/releases/download/v.1.0/PoppyKart.vpk) | [repo](https://github.com/Rinnegatamante/Poppy-Kart-Collection) |
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [repo](https://github.com/Ivoah/portalban) |
 | Postal Vita | Rinnegatamante | v.1.2 | 2.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/415-Postal.vpk) | [repo](https://github.com/Rinnegatamante/PostalVita) |
-| Potatoom 3 | Rinnegatamante | v.0.1 | 9.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1052-dhewm3.vpk) | [repo](https://github.com/Rinnegatamante/d3es-vita) |
+| Potatoom 3 | Rinnegatamante | v.0.5 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1052-dhewm3.vpk) | [repo](https://github.com/Rinnegatamante/d3es-vita) |
 | PrBoom Plus | fgsfds | v.1.2 | 2.2 MB | [download](https://github.com/fgsfdsfgs/prboom-plus/releases/download/v2.5.1.7um-vita-r1.2/prboom-plus-r1.2.vpk) | [repo](https://github.com/fgsfdsfgs/prboom-plus) |
 | Prehistorik 2 | gl33ntwine | v.1.0 | 1.1 MB | [download](https://github.com/v-atamanenko/blues-vita/releases/download/1.0/prehistorik-2.vpk) | [repo](https://github.com/v-atamanenko/blues-vita) |
 | Prince Of Persia | cpasjuste | v.1.12 | 5.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/166-Prince-Of-Persia.vpk) | [repo](https://github.com/Cpasjuste/SDLPoP) |
@@ -712,7 +712,7 @@ Every entry, with the download it currently points at. The ones added since
 | Resurgent | Markus95 | v.1.0 | 10.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/723-Resurgent_fr.vpk) | — |
 | Resurgent | m1s3ry | v.1.0.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/718-Resurgent.vpk) | [repo](https://tristan-harris.itch.io/resurgent) |
 | Retroarch Bubble Builder | AntHJ | v.1.0 | 5.6 MB | [download](https://github.com/AntHJ/Retroarch-Bubble-Builder/releases/download/v1.0/Retroarch.Bubble.Builder.vpk) | [repo](https://github.com/AntHJ/Retroarch-Bubble-Builder/releases) |
-| RetroFlow Launcher | jimbob4000 & VitaHEX games | v.8.3.0 | 13.1 MB | [download](https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.3.0/RetroFlow_v8.3.0.vpk) | [repo](https://github.com/jimbob4000/RetroFlow-Launcher) |
+| RetroFlow Launcher | jimbob4000 & VitaHEX games | v.8.4.0 | 13.4 MB | [download](https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.4.0/RetroFlow_v8.4.0.vpk) | [repo](https://github.com/jimbob4000/RetroFlow-Launcher) |
 | RetroLivearea | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/380-RetroLivearea.vpk) | [repo](https://github.com/Rinnegatamante/RetroLivearea) |
 | ReversMe | TheFloW | v.1.1 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/181-ReversMe.vpk) | [repo](https://drive.google.com/file/d/0B8d0Wy4mDFrGM0k0YW9Xd01qS2M/view) |
 | RigelEngine Vita | Rinnegatamante | v.1.0 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/988-duke2.vpk) | [repo](https://github.com/Rinnegatamante/RigelEngine) |
