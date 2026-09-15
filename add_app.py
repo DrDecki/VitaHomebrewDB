@@ -34,7 +34,6 @@ p.add_argument('--data', default='')
 p.add_argument('--changelog', default='- First Release')
 p.add_argument('--requirements', default='')
 p.add_argument('--tags', default='')
-p.add_argument('--ai', default='0', choices=['0', '1'])
 p.add_argument('--psp', action='store_true')
 a = p.parse_args()
 
@@ -101,7 +100,7 @@ entry = {
     'release_page': a.release_page, 'trailer': '', 'size': size,
     'data_size': '0', 'hash': md5, 'hash2': '', 'changelog': a.changelog,
     'requirements': a.requirements, 'trophies': '0', 'tags': a.tags,
-    'ai': a.ai, 'score': '0', 'url': a.url, 'data': a.data,
+    'score': '0', 'url': a.url, 'data': a.data,
 }
 if a.psp:
     del entry['score']
