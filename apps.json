@@ -27,7 +27,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/ScoobyDouche/VitaKotor/releases/download/v0.1.11/KOTOR.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "ScummVM",
