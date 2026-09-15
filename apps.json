@@ -794,8 +794,8 @@
         "icon": "4286890aeb69ef4c1aa23bc4eaf89e29675873de5be5db4d02c4aa4766830254.png",
         "version": "v.1.0.1",
         "author": "Rinnegatamante",
-        "type": "1",
-        "description": "Lighthouse for PSVITA.",
+        "type": "2",
+        "description": "Port of Banjo-Kazooie for PSVITA.",
         "id": "1531",
         "date": "2026-08-30",
         "titleid": "BANJO0064",
@@ -811,13 +811,14 @@
         "hash": "261493bf3a147aff63323213c096e8d8",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Banjo-Kazooie N64 (baserom.us.z64) in ux0:data/lighthouse",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/Lighthouse/releases/download/v.1.0.1/Lighthouse.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "BG2V",
