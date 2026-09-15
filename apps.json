@@ -26,7 +26,8 @@
         "tags": "",
         "score": "0",
         "url": "https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellowVita-v0.1.vpk",
-        "data": "https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellow-data.zip"
+        "data": "https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellow-data.zip",
+        "requirements_checked": "1"
     },
     {
         "name": "Void Stranger",
@@ -55,7 +56,8 @@
         "tags": "",
         "score": "0",
         "url": "https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v1.0/VoidStranger-v1.0.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "KOTOR",
