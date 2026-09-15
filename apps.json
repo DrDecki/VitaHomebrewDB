@@ -10327,7 +10327,8 @@
         "tags": "retro,2d,metroidvania,platform,f2p",
         "score": "85.7",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1203-CSE2.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Juniper's Knot Vita",
@@ -12867,7 +12868,8 @@
         "tags": "",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1136-OnslaughtArena.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Roulette Strategy Simulator VITA",
@@ -16546,12 +16548,13 @@
         "hash": "e7cdabe2020d05627ccbef52b93f831e",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- fd_fix.skprx OR repatch_ex.skprx.\n- Game Data Files: PC",
+        "requirements": "",
         "trophies": "0",
         "tags": "",
         "score": "71",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/879-fsnrnue.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Backrooms",
@@ -26133,7 +26136,8 @@
         "tags": "",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/615-SQRXZ0004.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "The Orange Sunflower",
@@ -28256,7 +28260,8 @@
         "tags": "",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/492-GirlsAreWeird.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Vitamon GO",
@@ -28666,7 +28671,8 @@
         "tags": "",
         "score": "0",
         "url": "https://github.com/nop90-PSVITA/SDLLopan-VITA/releases/download/v1.0/SDLLopan.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Zombiebound",
