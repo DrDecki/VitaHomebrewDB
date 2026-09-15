@@ -22293,12 +22293,13 @@
         "hash": "21b9e886765474d8d17054526f08131b",
         "hash2": "",
         "changelog": "- Fix ADV box height\n- Follow system select button preference",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: Steam episodes, StreamingAssets folder converted with the included PC tool, in ux0:data/HIGURASHI/Games",
         "trophies": "0",
         "tags": "",
         "score": "79",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/271-Higurashi-Vita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Grave",
