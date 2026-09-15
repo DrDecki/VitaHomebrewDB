@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1096)
+## PSVITA homebrews (1097)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -192,7 +192,7 @@ Every entry, with the download it currently points at. The ones added since
 | CSD2Vita | hatoving | v.1.0 | 4.9 MB | [download](https://github.com/hatoving/csd2-old-vita/releases/download/1.0/CSD2VITA0.vpk) | [repo](https://github.com/hatoving/csd2) |
 | Cspot_vita | michal4132 | v.0.2.2 | 1.6 MB | [download](https://github.com/michal4132/cspot_vita/releases/download/v0.2.2/cspot_vita.vpk) | [repo](https://github.com/michal4132/cspot_vita) |
 | CSPSV | Cello0314 | v.1.0 | 2.3 MB | [download](https://github.com/CelloPoly314/CSPSV/releases/download/v1.0/CSPSP.vpk) | [repo](https://github.com/CelloPoly314/CSPSV) |
-| CTR: High Octane | Rinnegatamante | v.1.3.1 | 3.4 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.3.1/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
+| CTR: High Octane | Rinnegatamante | v.1.4.1 | 3.4 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.4.1/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
 | Cubic Conundrum | forthw & JeffRuLz345 | v.1.0 | 19.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/407-CubicConundrum.vpk) | — |
 | Cubik Adventure | LuckTheGamers | Demo v.2 | 25.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/471-Cubik_20Adventure.vpk) | — |
 | Cup Critters | FantaHourglass | v.1.0 | 34.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/452-Cup_20Critters.vpk) | — |
@@ -472,6 +472,7 @@ Every entry, with the download it currently points at. The ones added since
 | Kill Em All | RetroGamer74 | v.0.92 | 483.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/469-469.vpk) | [repo](https://github.com/RetroGamer74/Kill-em-All/releases) |
 | King of Machines | m1s3ry | v.1.0 | 6.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/628-King-of-Machines.vpk) | [repo](https://hwilson.itch.io/king-of-machines) |
 | Kogre's Mountain | crait | v.1.0 | 46.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/557-KogresMountain.vpk) | [repo](http://www.crait.net/) |
+| KOTOR | ScoobyDouche | v.0.1.11 | 2.4 MB | [download](https://github.com/ScoobyDouche/VitaKotor/releases/download/v0.1.11/KOTOR.vpk) | [repo](https://github.com/ScoobyDouche/VitaKotor) |
 | La Deuda | SoyKhaler | v.1.0 | 38.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1252-LaDeuda.vpk) | — |
 | Labyrinth 3D | Rinnegatamante | v.1.4 | 8.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/198-Labyrinth_3D.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=46845) |
 | Lango Vita | Parallel Productions | v.0.1.0 | 26.3 MB | [download](https://github.com/ParallelProductions/Lango_GodotRPG-Vita/releases/download/v0.1.0-vita/Lango.vpk) | [repo](https://github.com/ParallelProductions/Lango_GodotRPG-Vita) |
@@ -1048,7 +1049,7 @@ Every entry, with the download it currently points at. The ones added since
 | ViTetris | bytelett | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1135-ViTetris.vpk) | [repo](https://github.com/m-bartlett/vita-tetris) |
 | Vitohlyad | gl33ntwine & Danil_linaD | v.0.9 | 18.7 MB | [download](https://github.com/v-atamanenko/vitohlyad/releases/download/v0.9/vitohlyad.vpk) | [repo](https://github.com/v-atamanenko/vitohlyad) |
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
-| ViTube | shorelight82 | v.1.2 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v1.2/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
+| ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | Voice Recorder Vita | VitaHEX games | v.1.0 | 2.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/304-VoiceRecorder.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48444) |
 | vOpenTyrian | cpasjuste | 16-09-19 | 5.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk) | [repo](https://github.com/Cpasjuste/vopentyrian) |
 | VPKMirror | NamelessGhoul0 | v.1.1 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/82-VPKMirror.vpk) | — |
@@ -1421,4 +1422,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1398 entries, 30.5 GB in total.
+1399 entries, 30.5 GB in total.
