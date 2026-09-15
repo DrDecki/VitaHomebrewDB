@@ -40,7 +40,7 @@ scene; those are listed separately in [ADDED.md](ADDED.md).
 | Asset | Recovered |
 | --- | ---: |
 | Metadata | 100% (1289 entries) |
-| Icons | 100% (1426) |
+| Icons | 100% (1427) |
 | Screenshots | 99% (2173 of 2186) |
 | Trailers | 100% (62 of 62) |
 | Data files | 100% (137 of 137) |
