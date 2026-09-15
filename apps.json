@@ -519,7 +519,7 @@
         "icon": "fd15528e097b07e30c86ae15a0fb5acc0aae665d1f083d1ccb88960b753f7d78.png",
         "version": "v.2.0.1",
         "author": "KiddRwxSsj",
-        "type": "1",
+        "type": "2",
         "description": "NAOH: Arcade Collection for PSVITA.",
         "id": "1540",
         "date": "2026-08-30",
@@ -536,13 +536,14 @@
         "hash": "8e4cb03eb5aa636f66405b59c198ec5e",
         "hash2": "",
         "changelog": "- First Release",
-        "requirements": "",
+        "requirements": "- Game Data Files: Neo Geo ROMs in ux0:data/NaohAC",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/KiddRwxSsj/naoh-ac/releases/download/2.0.1/naoh_arcade_collection2.0.1.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "OpenMoHAA",
@@ -17486,7 +17487,7 @@
         "icon": "b64a2a41f3fc048e838455b310a04c4997af92779bcf5d1d915cb52367e8c0c9.png",
         "version": "Demo",
         "author": "tayfuntuna",
-        "type": "1",
+        "type": "2",
         "description": "Procedurally-generated, point and click survival-adventure game.",
         "id": "849",
         "date": "2022-08-05",
@@ -17509,7 +17510,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/849-there_demo.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Pako Forever",
@@ -18222,7 +18224,7 @@
         "icon": "76b43983ba3420015ea6a34f49bc2ebcbb1d30a0205a657c8b2f5ded9ab36a88.png",
         "version": "v.1.0",
         "author": "bokoyoss",
-        "type": "1",
+        "type": "2",
         "description": "Gameboy styled boss-rush made with GMS2.",
         "id": "818",
         "date": "2022-05-01",
@@ -18245,7 +18247,8 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/818-BlueBayouVita.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "osu!octave",
@@ -29939,7 +29942,7 @@
         "icon": "7c036a38589673e1439a493a5da5d2162802bb9ad8bcfd5a499fdb9b5824a0b9.png",
         "version": "v.1.0",
         "author": "VitaHEX games",
-        "type": "1",
+        "type": "2",
         "description": "3D arcade driving game.",
         "id": "292",
         "date": "2017-08-06",
@@ -29956,13 +29959,14 @@
         "hash": "1147f128e270e8a19776630c56f15fb5",
         "hash2": "8a29cbf7aa5c37784f190e9f52ad8811",
         "changelog": "",
-        "requirements": "",
+        "requirements": "- libshacccg.suprx in ur0:data\n- Game Data Files: Android in ux0:data/crazytaxi",
         "trophies": "0",
         "tags": "",
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/292-CRAZYTAXI.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Lua Player Plus Vita",
