@@ -18488,12 +18488,14 @@
         "hash": "78e8ab786347eef148c23cfc9084d864",
         "hash2": "",
         "changelog": "- First Release.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: free game from locomalito.com, data.win patched to game.win with the included xdelta tool and dropped into the VPK's games folder",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-Issyos.vpk",
-        "data": ""
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-CurseOfIssyos.vpk",
+        "data": "",
+        "pc_data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-Issyos.xdelta",
+        "requirements_checked": "1"
     },
     {
         "name": "Protect the Earth",

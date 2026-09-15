@@ -879,7 +879,7 @@ Every entry, with the download it currently points at. The ones added since
 | The Blues Brothers: Jukebox Adventure | gl33ntwine | v.1.0 | 1.2 MB | [download](https://github.com/v-atamanenko/blues-vita/releases/download/1.0/bb-jukebox.vpk) | [repo](https://github.com/v-atamanenko/blues-vita) |
 | The Call | Paulo | v.1.0.1 | 41.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/446-The_20Call.vpk) | — |
 | The Conduit HD Vita | TheFloW & Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/TheOfficialFloW/conduit_vita/releases/download/v1.0/CONDUIT.vpk) | [repo](https://github.com/TheOfficialFloW/conduit_vita) |
-| The Curse of Issyos | ivanproff | v.1.0 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-Issyos.vpk) | [repo](https://www.reddit.com/r/vitahacks/comments/ssftqg/the_curse_of_issyos_port/) |
+| The Curse of Issyos | ivanproff | v.1.0 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-CurseOfIssyos.vpk) | [repo](https://www.reddit.com/r/vitahacks/comments/ssftqg/the_curse_of_issyos_port/) |
 | The Enchanted Forest | RetroGamer74 | v.1.1 | 74.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/429-elfforest.vpk) | — |
 | The Four of Us Are Dying | noradninja | v.1.0 | 109.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/TFoUAD.vpk) | [repo](https://github.com/noradninja/The-Four-of-Us-Are-Dying) |
 | The Four of Us Are Dying | noradninja | v.0.2 | 114.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1104-The-Four-of-Us-Are-Dying.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/20/) |
