@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1098)
+## PSVITA homebrews (1100)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -923,6 +923,7 @@ Every entry, with the download it currently points at. The ones added since
 | uMario | WeegeeDEVELOPER | v.1.2.7 | 17.9 MB | [download](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port/releases/download/1.2.7/uMario.vpk) | [repo](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port) |
 | uMario Vita | Hammerill | v.1.00 | 24.4 MB | [download](https://github.com/hammerill/uMario_Vita/releases/download/1.00/uMario.vpk) | [repo](https://github.com/Hammerill/uMario_Vita) |
 | Undead Slayer | Hao**qi | v.1.0 | 59.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/805-UndeadSlayer.vpk) | — |
+| Undertale Yellow | WolffsRoom | v.0.1 | 1.8 MB | [download](https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellowVita-v0.1.vpk) | [repo](https://github.com/WolffsRoom/UndertaleYellowVita) |
 | UniPCemu | Superfury1 | 2022.10.19 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/798-UniPCemu.vpk) | [repo](https://bitbucket.org/superfury/unipcemu/src/default/) |
 | Unreal Vita | fgsfds | psvita-r7 | 2.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1242-unreal.vpk) | [repo](https://github.com/fgsfdsfgs/UE1) |
 | Unsighted Vita | PatnosD | v.0.3 | 15.4 MB | [download](https://github.com/PatnosDD/Unsighted-Ps-Vita/releases/download/V0.3/Unsighted.vpk) | [repo](https://github.com/PatnosDD/Unsighted-Ps-Vita) |
@@ -1052,6 +1053,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
 | ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | Voice Recorder Vita | VitaHEX games | v.1.0 | 2.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/304-VoiceRecorder.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48444) |
+| Void Stranger | WolffsRoom | v.1.0 | 1.9 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v1.0/VoidStranger-v1.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
 | vOpenTyrian | cpasjuste | 16-09-19 | 5.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk) | [repo](https://github.com/Cpasjuste/vopentyrian) |
 | VPKMirror | NamelessGhoul0 | v.1.1 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/82-VPKMirror.vpk) | — |
 | VSOI | gnmmarechal | v.0.1 | 1.8 MB | [download](https://github.com/gnmmarechal/VSOI/releases/download/v0.1/VSOI.vpk) | [repo](https://github.com/gnmmarechal/VSOI) |
@@ -1423,4 +1425,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1400 entries, 30.5 GB in total.
+1402 entries, 30.5 GB in total.
