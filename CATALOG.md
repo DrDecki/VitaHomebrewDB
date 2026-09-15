@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1097)
+## PSVITA homebrews (1098)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -707,6 +707,7 @@ Every entry, with the download it currently points at. The ones added since
 | Relic Looter Vita | Rinnegatamante | v.1.0 | 2.6 MB | [download](https://github.com/Rinnegatamante/relic-looter-vita/releases/download/v.1.0/relic.vpk) | [repo](https://github.com/Rinnegatamante/relic-looter-vita) |
 | ReLink | theorywrong | v.1.0 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/229-ReLink.vpk) | [repo](https://github.com/theorywrong/ps4relink) |
 | REminiscence Vita | Enrique Somolinos Perez | v.0.4.2 | 0.8 MB | [download](https://github.com/enriquesomolinos/REminiscence-Vita/releases/download/v0.4.2/REminiscence-0.4.2.vpk) | [repo](https://github.com/enriquesomolinos/REminiscence-Vita) |
+| Renegade Vita | TheGh0stShip | v.A3.5-dev134 | 3.4 MB | [download](https://github.com/TheGh0stShip/Renegade-Vita-Demo/releases/download/A3.5-dev134/RenegadeVita-A3.5-dev134.vpk) | [repo](https://github.com/TheGh0stShip/Renegade-Vita-Demo) |
 | rePatch Manager | Eyeman | v.1.10 | 3.8 MB | [download](https://github.com/Eyeman420/rePatch-Manager/releases/download/v1.10/rePatch.Manager.vpk) | [repo](https://github.com/Eyeman420/rePatch-Manager) |
 | Resident Evil CODE:Vita | Markus95 | v.0.5 | 62.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/83-Resident_Evil_CODE_Vita.vpk) | — |
 | Resolutiion Vita | Rocroverss | v.1.0 | 15.0 MB | [download](https://github.com/Rocroverss/resolutiion-patch-psvita/releases/download/v1.0.reihen/Resolution.vpk) | [repo](https://github.com/Rocroverss/resolutiion-patch-psvita) |
@@ -1422,4 +1423,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1399 entries, 30.5 GB in total.
+1400 entries, 30.5 GB in total.
