@@ -8135,12 +8135,13 @@
         "hash": "78e3126348a2f37ee08bbf53dccba7c3",
         "hash2": "",
         "changelog": "- Automatically updated nightly build.",
-        "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+        "requirements": "- Game Data Files: episodes and worlds in ux0:data/TheXTech",
         "trophies": "0",
         "tags": "",
         "score": "82",
         "url": "https://github.com/TheXTech/TheXTech/releases/download/v1.3.7.3-1/thextech-vita-v1.3.7.3.zip",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "LifeLua",
