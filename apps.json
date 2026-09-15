@@ -8314,12 +8314,13 @@
         "hash": "7cfda5415fa6d3b817e3b5ce1e6d6bdd",
         "hash2": "",
         "changelog": "- Re-enabled sound but no music, and also compressed every sound file to a smaller bandwith.\n- Flame shader disabled.",
-        "requirements": "- Game Data Files: PC",
+        "requirements": "- Game Data Files: Steam, patched to game.love with the PC tool, in ux0:app/BALA00001",
         "trophies": "0",
         "tags": "",
         "score": "90.6",
         "url": "https://github.com/Daexxxx/Balatro-Vita/releases/download/v0.13/Balatro.vpk",
-        "data": ""
+        "data": "",
+        "requirements_checked": "1"
     },
     {
         "name": "Crazy Cattle Vita",
