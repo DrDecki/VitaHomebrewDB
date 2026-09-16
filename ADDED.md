@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (87)
+## PSVITA homebrews (88)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -20,6 +20,7 @@ what it was on the day the service went down.
 | Caffeine Installer | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/Caffeine-for-Vita/releases/download/v1.0.0/CaffeineForVita.vpk) | [repo](https://github.com/M-Essa11/Caffeine-for-Vita) |
 | Castlevania Attack | Rocroverss | v.1.0 | 14.5 MB | [download](https://github.com/Rocroverss/Castlevania-Attack-Demo/releases/download/v1.0/Castlevania.Attack.vpk) | [repo](https://github.com/Rocroverss/Castlevania-Attack-Demo) |
 | CEX 2 REX 2.0 | LiEnby | v.2.0.1 | 0.2 MB | [download](https://git.silica.codes/Li/cex-2-rex/releases/download/2.0.1/CEX2REX.vpk) | [repo](https://git.silica.codes/Li/cex-2-rex) |
+| Class of '09 Native | TheSpasticGamer | v.0.28 | 3.0 MB | [download](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port/releases/download/Release/ClassOf09-Native-0.28-Installer.vpk) | [repo](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port) |
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | Cordless | bren \& Harommel Rabbid | v.1.0.0 | 3.1 MB | [download](https://github.com/Brendonm17/Cordless/releases/download/v1.0.0/Cordless.vpk) | [repo](https://github.com/Brendonm17/Cordless) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [repo](https://git.silica.codes/Li/creeperdiver) |
@@ -137,4 +138,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-113 entries, 0.9 GB in total.
+114 entries, 0.9 GB in total.

@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1100)
+## PSVITA homebrews (1101)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -160,6 +160,7 @@ Every entry, with the download it currently points at. The ones added since
 | chro.mono 2 | thp | v.1.0 | 5.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/477-chromono2.vpk) | [repo](https://thp.itch.io/chromono-vita) |
 | Circuit Dude | crait | v.2.6.6 | 14.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/626-CircuitDude.vpk) | [repo](http://www.crait.net/) |
 | Clasherball | Sungrand Studios | Demo | 77.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1214-clasherball.vpk) | [repo](https://sungrandstudios.itch.io/clasherball) |
+| Class of '09 Native | TheSpasticGamer | v.0.28 | 3.0 MB | [download](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port/releases/download/Release/ClassOf09-Native-0.28-Installer.vpk) | [repo](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port) |
 | Clonage Bulle ePSP | Markus95 | v.1.1 | 5.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/187-Clonage_Bulle_ePSP.vpk) | — |
 | COD: BOZ Vita | devnoname120 | v.2.02 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/boz_vita.vpk) | [repo](https://x.com/devnoname120) |
 | Coffee Talk Vita | PatnosD | v.1.35 | 14.3 MB | [download](https://github.com/PatnosDD/Coffee-Talk-PS-VITA/releases/download/Release/coffeetalk.vpk) | [repo](https://github.com/PatnosDD/Coffee-Talk-PS-VITA) |
@@ -1425,4 +1426,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1402 entries, 30.5 GB in total.
+1403 entries, 30.5 GB in total.
