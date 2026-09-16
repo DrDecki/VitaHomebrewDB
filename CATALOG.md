@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1102)
+## PSVITA homebrews (1103)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -469,6 +469,7 @@ Every entry, with the download it currently points at. The ones added since
 | Katawa Shoujo r7 | avonder | v.01.15 | 426.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1086-katawa2.vpk) | [repo](https://ks.renai.us/viewtopic.php?f=3&t=13530) |
 | KatzenKlein Redux Vita | Rocroverss | v.1.0 | 2.4 MB | [download](https://github.com/Rocroverss/katzenklein-redux-psvita-port/releases/download/v1.0.reihen/kkr.vpk) | [repo](https://github.com/Rocroverss/katzenklein-redux-psvita-port) |
 | Keep In Mind Remastered | PatnosD | v.1.0 | 14.0 MB | [download](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA/releases/download/Release/KeepInMindRemastered.vpk) | [repo](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA) |
+| KeeperFX | DannyDLux90 | v.1.02 | 5.0 MB | [download](https://github.com/DannyDLux90/KeeperFX-Vita/releases/download/release/KeeperFX-Vita-v1.02-PUBLIC-no-game-data.vpk) | [repo](https://github.com/DannyDLux90/KeeperFX-Vita) |
 | Kero Blaster Vita | KAAAsS | v.1.2 | 2.0 MB | [download](https://github.com/kaaass/Kero-Blaster-vita/releases/download/v1.2/Kero-Blaster.vpk) | [repo](https://github.com/kaaass/Kero-Blaster-vita) |
 | Kill Em All | RetroGamer74 | v.0.92 | 483.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/469-469.vpk) | [repo](https://github.com/RetroGamer74/Kill-em-All/releases) |
 | King of Machines | m1s3ry | v.1.0 | 6.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/628-King-of-Machines.vpk) | [repo](https://hwilson.itch.io/king-of-machines) |
@@ -1427,4 +1428,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1404 entries, 30.5 GB in total.
+1405 entries, 30.5 GB in total.
