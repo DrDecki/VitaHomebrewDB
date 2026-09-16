@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1101)
+## PSVITA homebrews (1102)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -549,6 +549,7 @@ Every entry, with the download it currently points at. The ones added since
 | MSweep | Creckeryop | v.1.2.1 | 0.7 MB | [download](https://github.com/Creckeryop/MSweep/releases/download/v1.2.1/MSweep.vpk) | [repo](https://github.com/Creckeryop/MSweep) |
 | MVPlayer | AntHJ | v.1.4 | 4.3 MB | [download](https://github.com/AntHJ/MVPlayer/releases/download/v1.4/MVPLAYER0.vpk) | [repo](https://github.com/AntHJ/MVPlayer/releases/) |
 | My Bakku Pakku | LazyOx199 | v.2.5 | 51.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/463-bakkupakku.vpk) | [repo](https://t.co/ODuyQXjCAs) |
+| Mystery House | Artem Isaiev | v.1.0.2 | 12.7 MB | [download](https://artemisaiev.github.io/mh/Mystery-House-1.0.2.vpk) | [repo](https://aisaiev.itch.io/mystery-house) |
 | Nanosaur 2 Vita | Rinnegatamante | v.1.0 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1241-Nanosaur2.vpk) | [repo](https://github.com/Rinnegatamante/Nanosaur2) |
 | Nanosaur Vita | Rinnegatamante | v.1.0 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/851-Nanosaur.vpk) | [repo](https://github.com/Rinnegatamante/Nanosaur) |
 | NanoSpeed Gamer | Lapy | v.1.0 | 37.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/556-NanospeedGamer.vpk) | — |
@@ -1426,4 +1427,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1403 entries, 30.5 GB in total.
+1404 entries, 30.5 GB in total.
