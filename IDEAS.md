@@ -11,7 +11,8 @@ VitaDB went offline on 31.07.2026, came back partially, went away again, and ret
 full weeks later. Nothing was lost, but for a while nobody knew that. Worth not repeating here.
 
 archive.org is the obvious second home but has suspended bulk uploads before, so it cannot
-be the only one.
+be the only one. Considered again at 25 GB across 839 files and decided against for now: not
+worth the setup and maintenance.
 
 ## Watching sources
 
