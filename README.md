@@ -114,6 +114,8 @@ archive.org, which closed over a hundred gaps, and for tracking down sources by 
 and to **Cimmerian-Iter** for pushing to verify every recovered file against the size VitaDB
 recorded.
 
+## Removal requests
+
 If you are an author and want your application removed, open an issue and it will be taken
 down.
 
