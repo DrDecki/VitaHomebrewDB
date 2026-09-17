@@ -74,7 +74,8 @@ Every entry carries a direct download URL in its `url` field, so a client does n
 redirect endpoint. Most point at a release asset on the author's own repository; what the
 authors no longer host is mirrored here, either on the `mirror` release tag or, for small
 files, served straight from GitHub Pages. A few sit on archive.org items. Every URL is
-checked regularly and all of them answer.
+checked regularly and all of them answer. Entries that only exist as a nightly build are not
+added; see [REMOVED.md](REMOVED.md) for why.
 
 Download counts are frozen at their 2026-07-31 values, because static hosting cannot count.
 Sorting by popularity still works, it just describes the day the site went down.
