@@ -103,7 +103,7 @@ The scripts are in this repository: `add_app.py` adds an entry, `build_db.py` re
 `minimal.json` and `icons.zip`, `stats.py` and `mkindex.py` rewrite the README tables and
 the listings, `mkwanted.py` rebuilds `WANTED.md`.
 
-## Credits and takedowns
+## Credits
 
 VitaDB was created and run by **Rinnegatamante**. The catalog is his work and that of every
 homebrew author in it. This repository just keeps it reachable.
