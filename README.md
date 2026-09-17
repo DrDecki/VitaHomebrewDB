@@ -96,7 +96,7 @@ Themes are unaffected. They have always been hosted separately at
 Open an [issue](https://github.com/DrDecki/VitaHomebrewDB/issues) with a link to a
 tagged release, or say so on [Discord](https://discord.gg/bwEVFMnDDA). Author, version and
 a one-line description help, but a link on its own is fine. Everything else is read out of
-the VPK. A nightly build on its own is not enough, see [REMOVED.md](REMOVED.md) for why.
+the VPK. Nightly builds are not allowed, see [REMOVED.md](https://github.com/DrDecki/VitaHomebrewDB/blob/main/REMOVED.md) for why.
 
 Entries are added by hand, not automatically.
 
