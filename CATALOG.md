@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1104)
+## PSVITA homebrews (1107)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -28,6 +28,7 @@ Every entry, with the download it currently points at. The ones added since
 | AdrBubbleBooterInstaller | Leecherman | v.0.6 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/307-AdrBubbleBooterInstaller_v1.3.vpk) | [repo](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) |
 | Adrenaline | TheFloW | v.7 | 0.4 MB | [download](https://github.com/TheOfficialFloW/Adrenaline/releases/download/v7/Adrenaline.vpk) | [repo](https://github.com/TheOfficialFloW/Adrenaline) |
 | AdrenalineEasyInstaller | Freakler | v.1.15 | 6.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/36-AdrenalineEasyInstaller.vpk) | [repo](https://github.com/Freakler/vita-AdrenalineEasyInstaller) |
+| AdvancedSlop | Grarak | v.0.1.0 | 3.2 MB | [download](https://github.com/Grarak/AdvancedSlop/releases/download/0.1.0/advancedslop.vpk) | [repo](https://github.com/Grarak/AdvancedSlop) |
 | Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [repo](https://github.com/MetalSyntax/Advena-Vita) |
 | AdvRemap | ShadowPrince | Alpha 1 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/117-advremap.vpk) | [repo](https://github.com/ShadowPrince/advremap) |
 | Aerofoil Vita | Rinnegatamante | v.1.0 | 2.0 MB | [download](https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/Aerofoil.vpk) | [repo](https://github.com/Rinnegatamante/Aerofoil-Vita) |
@@ -656,6 +657,7 @@ Every entry, with the download it currently points at. The ones added since
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [repo](https://github.com/Ivoah/portalban) |
 | Postal Vita | Rinnegatamante | v.1.2 | 2.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/415-Postal.vpk) | [repo](https://github.com/Rinnegatamante/PostalVita) |
 | Potatoom 3 | Rinnegatamante | v.0.5 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1052-dhewm3.vpk) | [repo](https://github.com/Rinnegatamante/d3es-vita) |
+| Powerpuff Girls Mojo Madness | SpliffCurryBeats | v.0.1.1 | 2.2 MB | [download](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita/-/releases/v0.1.1/downloads/PowerpuffVita_v0.1.1.vpk) | [repo](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita) |
 | PrBoom Plus | fgsfds | v.1.2 | 2.2 MB | [download](https://github.com/fgsfdsfgs/prboom-plus/releases/download/v2.5.1.7um-vita-r1.2/prboom-plus-r1.2.vpk) | [repo](https://github.com/fgsfdsfgs/prboom-plus) |
 | Prehistorik 2 | gl33ntwine | v.1.0 | 1.1 MB | [download](https://github.com/v-atamanenko/blues-vita/releases/download/1.0/prehistorik-2.vpk) | [repo](https://github.com/v-atamanenko/blues-vita) |
 | Prince Of Persia | cpasjuste | v.1.12 | 5.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/166-Prince-Of-Persia.vpk) | [repo](https://github.com/Cpasjuste/SDLPoP) |
@@ -713,6 +715,7 @@ Every entry, with the download it currently points at. The ones added since
 | Renegade Vita | TheGh0stShip | v.A3.5-dev134 | 3.4 MB | [download](https://github.com/TheGh0stShip/Renegade-Vita-Demo/releases/download/A3.5-dev134/RenegadeVita-A3.5-dev134.vpk) | [repo](https://github.com/TheGh0stShip/Renegade-Vita-Demo) |
 | rePatch Manager | Eyeman | v.1.10 | 3.8 MB | [download](https://github.com/Eyeman420/rePatch-Manager/releases/download/v1.10/rePatch.Manager.vpk) | [repo](https://github.com/Eyeman420/rePatch-Manager) |
 | Resident Evil CODE:Vita | Markus95 | v.0.5 | 62.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/83-Resident_Evil_CODE_Vita.vpk) | — |
+| Resident Evil Gaiden | Rinnegatamante | v.1.0 | 24.8 MB | [download](https://github.com/Rinnegatamante/regaiden-recomp/releases/download/v.1.0/ResidentEvilGaiden.vpk) | [repo](https://github.com/Rinnegatamante/regaiden-recomp) |
 | Resolutiion Vita | Rocroverss | v.1.0 | 15.0 MB | [download](https://github.com/Rocroverss/resolutiion-patch-psvita/releases/download/v1.0.reihen/Resolution.vpk) | [repo](https://github.com/Rocroverss/resolutiion-patch-psvita) |
 | Resurgent | Markus95 | v.1.0 | 10.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/723-Resurgent_fr.vpk) | — |
 | Resurgent | m1s3ry | v.1.0.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/718-Resurgent.vpk) | [repo](https://tristan-harris.itch.io/resurgent) |
@@ -1217,7 +1220,7 @@ Every entry, with the download it currently points at. The ones added since
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [repo](https://git.silica.codes/Li/trophax) |
 | TurboPad | Rinnegatamante | v.0.3 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TurboPad.zip) | [repo](https://github.com/Rinnegatamante/TurboPad/) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [repo](https://github.com/SJK132/uac-pstv-host) |
-| UDCD UVC | xerpi | v.1.7 | 0.0 MB | [download](https://github.com/xerpi/vita-udcd-uvc/releases/download/1.7/udcd_uvc.skprx) | [repo](https://github.com/xerpi/vita-udcd-uvc) |
+| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [repo](https://github.com/devnoname120/vita-udcd-uvc) |
 | Ultimate VSH Menu | joel16 | Test Build | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/244-ultimatevshmenuvita.7z) | — |
 | Uncharted Trainer | vosman | v.1.03 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/86-unchartedtrainervita.7z) | — |
 | Unit13 Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/85-unit13trainervita.7z) | — |
@@ -1429,4 +1432,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1406 entries, 30.5 GB in total.
+1409 entries, 30.6 GB in total.

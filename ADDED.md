@@ -4,10 +4,11 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (91)
+## PSVITA homebrews (94)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
+| AdvancedSlop | Grarak | v.0.1.0 | 3.2 MB | [download](https://github.com/Grarak/AdvancedSlop/releases/download/0.1.0/advancedslop.vpk) | [repo](https://github.com/Grarak/AdvancedSlop) |
 | Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [repo](https://github.com/MetalSyntax/Advena-Vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [repo](https://github.com/Grarak/azahar) |
@@ -67,8 +68,10 @@ what it was on the day the service went down.
 | PKGj | blastrock | v.0.57 | 1.4 MB | [download](https://github.com/blastrock/pkgj/releases/download/v0.57/pkgj.vpk) | [repo](https://github.com/blastrock/pkgj) |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [repo](https://github.com/celticg/AS-Pocket-Mortys-vita) |
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [repo](https://github.com/Ivoah/portalban) |
+| Powerpuff Girls Mojo Madness | SpliffCurryBeats | v.0.1.1 | 2.2 MB | [download](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita/-/releases/v0.1.1/downloads/PowerpuffVita_v0.1.1.vpk) | [repo](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita) |
 | Prince of Persia Classic | MetalSyntax | v.01.28 | 1.3 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
 | Renegade Vita | TheGh0stShip | v.A3.5-dev134 | 3.4 MB | [download](https://github.com/TheGh0stShip/Renegade-Vita-Demo/releases/download/A3.5-dev134/RenegadeVita-A3.5-dev134.vpk) | [repo](https://github.com/TheGh0stShip/Renegade-Vita-Demo) |
+| Resident Evil Gaiden | Rinnegatamante | v.1.0 | 24.8 MB | [download](https://github.com/Rinnegatamante/regaiden-recomp/releases/download/v.1.0/ResidentEvilGaiden.vpk) | [repo](https://github.com/Rinnegatamante/regaiden-recomp) |
 | RuneScape | Brendonm17 | v.1.1.1 | 13.6 MB | [download](https://github.com/Brendonm17/rsc-c-vita/releases/download/v1.1.1/rsc-c-vita.vpk) | [repo](https://github.com/Brendonm17/rsc-c-vita) |
 | ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
@@ -141,4 +144,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-117 entries, 0.9 GB in total.
+120 entries, 0.9 GB in total.

@@ -721,7 +721,7 @@
     },
     {
         "name": "UDCD UVC",
-        "version": "v.1.7",
+        "version": "v.1.8",
         "author": "xerpi",
         "description": "Allows PSVITA streaming via USB.",
         "id": "395",
@@ -730,18 +730,18 @@
         "long_description": "This plugin uses the UDCD (USB Device Controller Driver) service of the PSVita OS to simulate an UVC (USB Video Class) device such a Webcam or a game capture card.",
         "downloads": "6460",
         "status": "0",
-        "source": "https://github.com/xerpi/vita-udcd-uvc",
-        "release_page": "https://github.com/xerpi/vita-udcd-uvc/releases",
+        "source": "https://github.com/devnoname120/vita-udcd-uvc",
+        "release_page": "https://github.com/devnoname120/vita-udcd-uvc/releases",
         "trailer": "",
-        "size": "6159",
+        "size": "12680",
         "data_size": "0",
-        "hash": "",
+        "hash": "3708359ee533129ce66d8fa202a8327b",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/xerpi/vita-udcd-uvc/releases/download/1.7/udcd_uvc.skprx"
+        "url": "https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx"
     },
     {
         "name": "ds4touch",
