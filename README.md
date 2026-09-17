@@ -109,8 +109,7 @@ VitaDB was created and run by **Rinnegatamante**. The catalog is his work and th
 homebrew author in it. This repository just keeps it reachable.
 
 Thanks to **FundedBlade** for pointing at the GameBrew wiki and the PSP homebrew library on
-archive.org, which closed over a hundred gaps, and to **josephinoo** for building
-[VitaForge](https://github.com/josephinoo/vitaForge) against this catalog.
+archive.org, which closed over a hundred gaps.
 
 If you are an author and want your application removed, open an issue and it will be taken
 down.
