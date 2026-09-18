@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (94)
+## PSVITA homebrews (95)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -26,6 +26,7 @@ what it was on the day the service went down.
 | Cordless | bren \& Harommel Rabbid | v.1.0.0 | 3.1 MB | [download](https://github.com/Brendonm17/Cordless/releases/download/v1.0.0/Cordless.vpk) | [repo](https://github.com/Brendonm17/Cordless) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [repo](https://git.silica.codes/Li/creeperdiver) |
 | CTR: High Octane | Rinnegatamante | v.1.4.1 | 3.4 MB | [download](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.4.1/ctr.vpk) | [repo](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) |
+| D2Vita | Franckrst | v.0.1.1 | 8.4 MB | [download](https://github.com/Franckrst/D2Vita/releases/download/v0.1.1/d2vita.vpk) | [repo](https://github.com/Franckrst/D2Vita) |
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [repo](https://drdecki.itch.io/deckis-platformer) |
 | DESTINIA | MetalSyntax | v.1.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Destinia-vita/releases/download/1.0/destinia.vpk) | [repo](https://github.com/MetalSyntax/Destinia-vita) |
 | Destinia Vita | withLogic | v.0.1.1 | 2.3 MB | [download](https://github.com/withLogic/destinia-vita/releases/download/v0.1.1/Destinia.vpk) | [repo](https://github.com/withLogic/destinia-vita) |
@@ -144,4 +145,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-120 entries, 0.9 GB in total.
+121 entries, 0.9 GB in total.

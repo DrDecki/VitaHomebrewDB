@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1107)
+## PSVITA homebrews (1108)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -204,6 +204,7 @@ Every entry, with the download it currently points at. The ones added since
 | Custom Themes Manager | Red Squirrel | v.4.02 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/98-CTManager.vpk) | [repo](https://bitbucket.org/Red_Squirrel/custom-themes-manager/) |
 | Cut the Rope Vita | SpanishFreddy | v.1.0 | 22.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1041-cut_the_rope.vpk) | [repo](https://github.com/SpanishFreddy/Cut-The-Rope-Vita) |
 | Cybershot | SemvdH | v.0.1 | 0.1 MB | [download](https://github.com/SemvdH/cybershot-PSVita/releases/download/v0.1/cybershot.vpk) | [repo](https://github.com/SemvdH/cybershot-PSVita) |
+| D2Vita | Franckrst | v.0.1.1 | 8.4 MB | [download](https://github.com/Franckrst/D2Vita/releases/download/v0.1.1/d2vita.vpk) | [repo](https://github.com/Franckrst/D2Vita) |
 | DARIUSBURST SP Vita | Rinnegatamante | v.1.1 | 2.4 MB | [download](https://github.com/Rinnegatamante/dariusburst-vita/releases/download/v.1.0/dariusburst.vpk) | [repo](https://github.com/Rinnegatamante/dariusburst-vita) |
 | Dark Lands Vita | Rocroverss | v.1.0 | 1.7 MB | [download](https://github.com/Rocroverss/Dark-Lands-psvita/releases/download/v1.0/dla.vpk) | [repo](https://github.com/Rocroverss/Dark-Lands-psvita) |
 | Dark Paradigm | ParkingLotStudio | v.0.08a | 120.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/594-DarkParadigm.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/darkparadigm/) |
@@ -1432,4 +1433,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1409 entries, 30.6 GB in total.
+1410 entries, 30.6 GB in total.
