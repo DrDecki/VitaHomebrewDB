@@ -367,7 +367,7 @@ Every entry, with the download it currently points at. The ones added since
 | GoHAN | OneRice07 | v.2.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/250-GoHAN.vpk) | — |
 | GoHAN Parallel | OneRice07 | v.2.1.0 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/251-GoHAN_Parallel.vpk) | — |
 | Going Nowhere | koleq | b27 | 65.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/767-GoingNowhere.vpk) | — |
-| GoldenBalloon | zm2283145 | v.1.7.1 | 4.3 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/v1.7.1/GoldenBalloon-Vita-v1.7.1.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
+| GoldenBalloon | zm2283145 | v.1.7.2 | 4.5 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/v1.7.2/GoldenBalloon-Vita-v1.7.2.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
 | GoldenIdol-Vita | Wolff | v.0.8.7 | 19.5 MB | [download](https://github.com/WolffsRoom/GoldenIdol-PSVita/releases/download/v0.8.7/GoldenIdol-Vita-v0.8.7.vpk) | [repo](https://github.com/WolffsRoom/GoldenIdol-PSVita) |
 | Golfing Over It with Alva Majo | PatnosD | v.1.0 | 12.6 MB | [download](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA/releases/download/Release/GolfingOverIt.vpk) | [repo](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) |
 | Gone Home | Soup'um | v.1.0.1 | 508.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1147-Gone_Home_for_PlayStation_Vita_V1.0.1.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/67/) |

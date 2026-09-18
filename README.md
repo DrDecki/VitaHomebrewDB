@@ -41,10 +41,8 @@ scene; those are listed separately in [ADDED.md](ADDED.md).
 | --- | ---: |
 | Metadata | 100% (1289 entries) |
 | Icons | 100% (1435) |
-| Screenshots | 99% (2173 of 2186) |
-| Trailers | 100% (62 of 62) |
-| Data files | 100% (137 of 137) |
-| In-game trophies | 100% (28 of 28 sets) |
+| Data files | 0 missing |
+| In-game trophies | 28 sets |
 
 Nothing is missing right now. [WANTED.md](WANTED.md) fills up again
 if a link breaks or an entry turns up without one.
