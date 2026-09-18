@@ -5,7 +5,7 @@
         "version": "v.0.6.0-build.7.1",
         "author": "zm2283145",
         "type": "2",
-        "description": "Static recompilation port of Super Smash Bros. Melee (NTSC-U 1.02) for PSVITA.",
+        "description": "Port of Super Smash Bros. Melee (NTSC-U 1.02) for PSVITA, built on the doldecomp decompilation and recompiled to run natively.",
         "id": "1573",
         "date": "2026-09-18",
         "titleid": "MLVITA002",
