@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (95)
+## PSVITA homebrews (96)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -77,6 +77,7 @@ what it was on the day the service went down.
 | ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
+| Smash Melee Vita | zm2283145 | v.0.6.0-build.7.1 | 2.3 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/vita-v0.6.0-build.7.1/SmashMeleevita.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [repo](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [repo](https://github.com/elliottwahl/Steel-Blossom-PSP) |
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [repo](https://github.com/theheroGAC/SuperTux-PSVITA) |
@@ -145,4 +146,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-121 entries, 0.9 GB in total.
+122 entries, 0.9 GB in total.

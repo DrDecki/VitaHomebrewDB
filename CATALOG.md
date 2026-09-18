@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1108)
+## PSVITA homebrews (1109)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -793,6 +793,7 @@ Every entry, with the download it currently points at. The ones added since
 | Slendrina the Cellar | MaloneCZSD | v.1.2 | 32.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1285-SlendrinaCellar.vpk) | [repo](https://maloneczsd.itch.io/slendrina-the-cellar-vita) |
 | Slime-vBall | Island_Games | v.1.0.0 | 0.4 MB | [download](https://github.com/island-games/slime-vball/releases/download/v1.0.0/Slime-vBall.vpk) | [repo](https://github.com/island-games/slime-vball) |
 | Slither.io Vita | SpanishFreddy | v.1.0 | 38.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1063-Slither.io_Vita.vpk) | [repo](https://github.com/SpanishFreddy/Slither.io-Vita) |
+| Smash Melee Vita | zm2283145 | v.0.6.0-build.7.1 | 2.3 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/vita-v0.6.0-build.7.1/SmashMeleevita.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | Smash Rush Vita | Rinnegatamante | v.1.0 | 2.4 MB | [download](https://github.com/Rinnegatamante/smashrush-vita/releases/download/v.1.0/smashrush.vpk) | [repo](https://github.com/Rinnegatamante/smashrush-vita) |
 | Smash TV HD-2D | captkuso | v.1.0 | 22.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1190-smash_tv.vpk) | [repo](https://captkuso.itch.io/smash-tv-hd-2d) |
 | SMB2SE Vita | Rinnegatamante | v.1.22 | 1.8 MB | [download](https://github.com/Rinnegatamante/smb2se-vita/releases/download/v.122/smb2se.vpk) | [repo](https://github.com/Rinnegatamante/smb2se-vita) |
@@ -1433,4 +1434,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1410 entries, 30.6 GB in total.
+1411 entries, 30.6 GB in total.
