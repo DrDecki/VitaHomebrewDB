@@ -36,7 +36,7 @@ Every entry, with the download it currently points at. The ones added since
 | Age of War Vita | mrdivdiz | v.1.1 | 46.8 MB | [download](https://github.com/mrdivdiz/aowv/releases/download/v1.1/aowv2.vpk) | [repo](https://github.com/mrdivdiz/aowv/releases) |
 | AGWOAN | Borad Games | Demo | 3.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/457-AGWOAN-PSV.vpk) | [repo](https://drive.google.com/file/d/1r23ZFlm_0RnJdARX2FEJ9JbbsciDeAnM/view) |
 | Air Pressure | majonessyltetoy | v.1.0.0 | 25.6 MB | [download](https://github.com/majonessyltetoy/airpressure/releases/download/v1.0.0/airpressure.vpk) | [repo](https://github.com/majonessyltetoy/airpressure) |
-| Aleph One Vita | DrDecki | v.1.4 | 6.5 MB | [download](https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/alephone.vpk) | [repo](https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-) |
+| Aleph One Vita | DrDecki | v.2.0 | 6.5 MB | [download](https://github.com/DrDecki/Aleph-One-PsVita/releases/download/AlephOneVita2.0/alephone.vpk) | [repo](https://github.com/DrDecki/Aleph-One-PsVita) |
 | Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [repo](https://github.com/withLogic/alex4) |
 | Alisa Vita | Rinnegatamante & PatnosD | v.1.2 | 52.5 MB | [download](https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk) | [repo](https://github.com/Rinnegatamante/Alisa-Vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
