@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1122)
+## PSVITA homebrews (1125)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -37,6 +37,7 @@ Every entry, with the download it currently points at. The ones added since
 | AGWOAN | Borad Games | Demo | 3.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/457-AGWOAN-PSV.vpk) | [repo](https://drive.google.com/file/d/1r23ZFlm_0RnJdARX2FEJ9JbbsciDeAnM/view) |
 | Air Pressure | majonessyltetoy | v.1.0.0 | 25.6 MB | [download](https://github.com/majonessyltetoy/airpressure/releases/download/v1.0.0/airpressure.vpk) | [repo](https://github.com/majonessyltetoy/airpressure) |
 | Aleph One Vita | DrDecki | v.1.4 | 6.5 MB | [download](https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/alephone.vpk) | [repo](https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-) |
+| Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [repo](https://github.com/withLogic/alex4) |
 | Alisa Vita | Rinnegatamante & PatnosD | v.1.2 | 52.5 MB | [download](https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk) | [repo](https://github.com/Rinnegatamante/Alisa-Vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
 | An Untitled Story | JeffRulz345 | v.1.0 | 44.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/412-AnUntitledStory.vpk) | [repo](https://drive.google.com/open?id=1WnmCXBQxEASaanJ0jX8fJoeK6NWbxTV7) |
@@ -55,6 +56,7 @@ Every entry, with the download it currently points at. The ones added since
 | AntiBlacklist | Rinnegatamante | v.1.2 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/11-AntiBlacklist.vpk) | [repo](https://github.com/Rinnegatamante/AntiBlacklist) |
 | Aperture Reconstructed | MRKane | v.0.4.00 | 71.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1302-ApertureReconstructed.vpk) | [repo](https://mrkane.itch.io/aperturereconstructed) |
 | Apollo Save Tool | bucanero | v.2.3.2 | 5.9 MB | [download](https://github.com/bucanero/apollo-vita/releases/download/v2.3.2/apollo-vita.vpk) | [repo](https://github.com/bucanero/apollo-vita) |
+| Apotris | Rocroverss | v.1.0 | 7.5 MB | [download](https://github.com/Rocroverss/apotris-psvita/releases/download/v1.0/Apotris.v1.0-audio.vpk) | [repo](https://github.com/Rocroverss/apotris-psvita) |
 | App DB Tool | luck & kylon | v.6.0 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/204-appdbtool.vpk) | [repo](https://bitbucket.org/kylon/appdbtool) |
 | Application Storage Manager | Lupo511 | v.0.02 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/217-AppStorageManager.vpk) | [repo](https://bitbucket.org/Lupo511/appstoragemanager/src) |
 | AppLocker | AntHJ | v.1.2 | 3.4 MB | [download](https://github.com/AntHJ/AppLocker/releases/download/v1.2/AppLocker-v1.2.vpk) | [repo](https://github.com/AntHJ/AppLocker/releases) |
@@ -136,6 +138,7 @@ Every entry, with the download it currently points at. The ones added since
 | Bugdom 2 Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1251-Bugdom2.vpk) | [repo](https://github.com/Rinnegatamante/Bugdom2) |
 | Bully Vita | TheFloW & Rinnegatamante | v.1.0 | 0.9 MB | [download](https://github.com/TheOfficialFloW/bully_vita/releases/download/v1.0/Bully.vpk) | [repo](https://github.com/TheOfficialFloW/bully_vita) |
 | button-swapper | xyzz | v.1.0 | 0.0 MB | [download](https://github.com/xyzz/vita-button-swapper/releases/download/1.0/button-swapper.vpk) | [repo](https://github.com/xyzz/vita-button-swapper) |
+| C-Dogs SDL | abduct | v.preview-1 | 1.9 MB | [download](https://github.com/abduct/cdogs-sdl/releases/download/vita-preview-1/C-Dogs-SDL-Vita.vpk) | [repo](https://github.com/abduct/cdogs-sdl/tree/vita-port) |
 | Caffeine Installer | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/Caffeine-for-Vita/releases/download/v1.0.0/CaffeineForVita.vpk) | [repo](https://github.com/M-Essa11/Caffeine-for-Vita) |
 | Call of Vita: Hackzone | VitaDev Games | v.0.1.30a | 143.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/992-call_of_vita.vpk) | — |
 | Candy Crisis Vita | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1043-candy.vpk) | [repo](https://github.com/Rinnegatamante/CandyCrisis) |
@@ -1277,7 +1280,7 @@ Every entry, with the download it currently points at. The ones added since
 | World of Final Fantasy Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/90-wofftrainervita.7z) | — |
 | X1Vita | M Ibrahim | v.1.0 | 0.0 MB | [download](https://github.com/Ibrahim778/X1Vita/releases/download/V1.0/X1Vita.skprx) | [repo](https://github.com/Ibrahim778/X1Vita) |
 
-## PSP homebrews (127)
+## PSP homebrews (128)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -1367,6 +1370,7 @@ Every entry, with the download it currently points at. The ones added since
 | PSPQuakeIII | Crow_bar | v.1.0 | 73.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/894-Quake3PSP.zip) | [repo](https://github.com/Fighter19/Quake3PSP-mirror) |
 | PSPRadio | Raf & Sandberg & jpfouch48 | v.1.18.1400 | 4.8 MB | [download](https://archive.org/download/pspradio-1.18.1400.7z/Old%20Versions/PSPRadio0[1].37-Final.zip) | — |
 | PSPSeq | Ethan Bordeaux | v.3.01 | 7.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/958-pspseq.7z) | — |
+| PSPWave | violinmelody | v.1.1.0 | 0.1 MB | [download](https://github.com/violinmelody/PSPWave/releases/download/1.1.0/PSPWave.zip) | [repo](https://github.com/violinmelody/PSPWave) |
 | PSPwindows | slasherzor | v.2 | 3.7 MB | [download](https://archive.org/download/pspwindowsv-2.7z/PSPwindowsv2.zip) | — |
 | Quake Arena Arcade | Lupus | v.0.75 R4 | 32.7 MB | [download](https://archive.org/download/psp_qaa_r4_SLIM.7z/psp_qaa_r4_SLIM.zip) | — |
 | Quartal | Team Unsilenced | v.2.5 Beta | 80.0 MB | [download](https://archive.org/download/quartal-beta-2.5.-7z/Old%20Versions/Quartal_FIRST_SLICE.zip) | — |
@@ -1447,4 +1451,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1424 entries, 30.7 GB in total.
+1428 entries, 30.7 GB in total.
