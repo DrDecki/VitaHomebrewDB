@@ -4,13 +4,14 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (103)
+## PSVITA homebrews (109)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
 | AdvancedSlop | Grarak | v.0.1.0 | 3.2 MB | [download](https://github.com/Grarak/AdvancedSlop/releases/download/0.1.0/advancedslop.vpk) | [repo](https://github.com/Grarak/AdvancedSlop) |
 | Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [repo](https://github.com/MetalSyntax/Advena-Vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [repo](https://github.com/FridiNaTor1/HPL2-handyman) |
+| Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [repo](https://github.com/memory-hunter/arcaea-vita) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [repo](https://github.com/Grarak/azahar) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | BattleShip | robin994 | v.1.4 | 7.1 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.4/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
@@ -57,10 +58,12 @@ what it was on the day the service went down.
 | MGBAVitaEX | Zushikina-kun | v.2.1.6 | 0.8 MB | [download](https://github.com/Zushikina-kun/GBVitaEX/releases/download/v2.1.6/MGBAVitaEX-v2.1.6.vpk) | [repo](https://github.com/Zushikina-kun/GBVitaEX) |
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [repo](https://github.com/minecraftpe-vita/minecraftpe-vita) |
 | Minecraft: Story Mode | LeZergan | v.1.11 | 3.3 MB | [download](https://github.com/LeZergan/mcsm-vita/releases/download/v1.11/MCSM-1.11.vpk) | [repo](https://github.com/LeZergan/mcsm-vita) |
+| Monster Shooter | RaZorGaToR | v.1.2 | 0.9 MB | [download](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita/releases/download/v1.2/monstershooter.vpk) | [repo](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita) |
 | Moonlight Relay | dubleyu | v.0.15.20-beta | 3.0 MB | [download](https://github.com/dubleyu/vita-moonlight-relay/releases/download/v0.15.20-beta/Moonlight-Relay-v0.15.20.vpk) | [repo](https://github.com/dubleyu/vita-moonlight-relay) |
 | Mystery House | Artem Isaiev | v.1.0.2 | 12.7 MB | [download](https://artemisaiev.github.io/mh/Mystery-House-1.0.2.vpk) | [repo](https://aisaiev.itch.io/mystery-house) |
 | NAOH™: Arcade Collection | KiddRwxSsj | v.2.0.1 | 33.2 MB | [download](https://github.com/KiddRwxSsj/naoh-ac/releases/download/2.0.1/naoh_arcade_collection2.0.1.vpk) | [repo](https://github.com/KiddRwxSsj/naoh-ac) |
 | NeoVitaDB Downloader | robin994 \& Rinnegatamante | v.2.9.1 | 3.8 MB | [download](https://github.com/robin994/NeoVitaDB-Downloader/releases/download/v2.9.1/NeoVitaDB.vpk) | [repo](https://github.com/robin994/NeoVitaDB-Downloader) |
+| NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [repo](https://github.com/veitorman/nfs2se-vita) |
 | Non-Competitive Singing Potatoes | dos \& Holy Pangolin | v.1.0 | 21.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/SingingPotatoes.vpk) | [repo](https://dos.itch.io/potatoes) |
 | NoSleep | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/nosleep/releases/download/v0.1/NoSleep.vpk) | [repo](https://git.silica.codes/Li/nosleep) |
 | NXENGINE-EVO | nxengine | v.2.6.5 | 10.0 MB | [download](https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5/NXEngine-Evo-v2.6.5-Vita.vpk) | [repo](https://github.com/nxengine/nxengine-evo) |
@@ -80,11 +83,13 @@ what it was on the day the service went down.
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
 | Smash Melee Vita | zm2283145 | v.0.8.14 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.14/SmashMeleevita-0.8.14.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
+| Sonic R | FreddySP | v.1.1 | 3.9 MB | [download](https://github.com/fr3dsp/sonic-r-vita/releases/download/v1.1/sonicr_vita.vpk) | [repo](https://github.com/fr3dsp/sonic-r-vita) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [repo](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
 | SSSPlayer | SergioSSantiago | v.1.1.34 | 46.8 MB | [download](https://github.com/SergioSSantiago/SSSPlayer/releases/download/v1.1.34/SSSPlayer-1.1.34.vpk) | [repo](https://github.com/SergioSSantiago/SSSPlayer) |
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [repo](https://github.com/elliottwahl/Steel-Blossom-PSP) |
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [repo](https://github.com/theheroGAC/SuperTux-PSVITA) |
 | Test Drive Vita | smart-pickle | v.0.1 | 0.8 MB | [download](https://github.com/smart-pickle/TestDrive-Vita/releases/download/v0.1/TestDriveVita.vpk) | [repo](https://github.com/smart-pickle/TestDrive-Vita) |
+| The Binding of Isaac: Repentance | 0xl0cal | v.0.1.1-alpha | 16.7 MB | [download](https://github.com/0xl0cal/repentogxm/releases/download/v0.1.1-alpha/repentogxm-v0.1.1-alpha.vpk) | [repo](https://github.com/0xl0cal/repentogxm) |
 | The Four of Us Are Dying | noradninja | v.1.0 | 109.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/TFoUAD.vpk) | [repo](https://github.com/noradninja/The-Four-of-Us-Are-Dying) |
 | The House 1 and 2 | WolffsRoom | v.1.0 | 3.0 MB | [download](https://github.com/WolffsRoom/TheHouse2Vita/releases/download/v1.0/TheHouse2Vita-v1.0.vpk) | [repo](https://github.com/WolffsRoom/TheHouse2Vita) |
 | The Impossible Game | MetalSyntax | v.1.1.0 | 0.8 MB | [download](https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v.1.1.0/theimpossiblegame.vpk) | [repo](https://github.com/MetalSyntax/The-Impossible-Game-vita) |
@@ -96,6 +101,7 @@ what it was on the day the service went down.
 | VagaChatVITA | Frxn5J | v.0.1.0 | 2.4 MB | [download](https://github.com/Frxn5J/VagaChatVITA/releases/download/0.1.0/VagaChatVITA.vpk) | [repo](https://github.com/Frxn5J/VagaChatVITA) |
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [repo](https://github.com/kyokuheishin/vita-ns-controller) |
 | Vita RomM | denkacn | v.0.8.0.s | 2.3 MB | [download](https://github.com/denkacn/vita-romm/releases/download/v0.8.0.s/vita_romm.vpk) | [repo](https://github.com/denkacn/vita-romm) |
+| Vita-PrBoom++ | TonyFideo & fgsfds | v.2.6.66-1.1 | 3.0 MB | [download](https://github.com/TonyFideo/Vita-PrBoom-PlusPlus/releases/download/2.6.66-1.1/vita-prboom++.vpk) | [repo](https://github.com/TonyFideo/Vita-PrBoom-PlusPlus) |
 | VitaBrightEX LUT Editor | Zushikina-kun | v.4.2 | 0.4 MB | [download](https://github.com/Zushikina-kun/VitaBrightEX/releases/download/v1.3/VitaBrightEX-LUT-Editor-v4.2.vpk) | [repo](https://github.com/Zushikina-kun/VitaBrightEX) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [repo](https://github.com/SKGleba/VitaDeploy) |
 | VitaForge | josephinoo | v.0.1.3 | 5.2 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.3/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
@@ -153,4 +159,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-129 entries, 1.0 GB in total.
+135 entries, 1.0 GB in total.
