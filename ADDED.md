@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (96)
+## PSVITA homebrews (103)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -32,6 +32,7 @@ what it was on the day the service went down.
 | Destinia Vita | withLogic | v.0.1.1 | 2.3 MB | [download](https://github.com/withLogic/destinia-vita/releases/download/v0.1.1/Destinia.vpk) | [repo](https://github.com/withLogic/destinia-vita) |
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [repo](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
+| FTP for Vita | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/FTP-for-Vita/releases/download/v1.0.0/FTPForVita.vpk) | [repo](https://github.com/M-Essa11/FTP-for-Vita) |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [repo](https://github.com/oestriot/GcToolKit) |
 | GoldenBalloon | zm2283145 | v.1.7.2 | 4.5 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/v1.7.2/GoldenBalloon-Vita-v1.7.2.vpk) | [repo](https://github.com/zm2283145/goldenballoon-vita-port) |
 | GrooveSpeed | smart-pickle | v.1.0 | 2.3 MB | [download](https://github.com/smart-pickle/GrooveSpeed-Vita/releases/download/v1.0/GrooveSpeedVita.vpk) | [repo](https://github.com/smart-pickle/GrooveSpeed-Vita) |
@@ -51,6 +52,7 @@ what it was on the day the service went down.
 | Last Train Home | Rocroverss | v.1.0 | 5.3 MB | [download](https://github.com/Rocroverss/Last-Train-Home/releases/download/v1.0/last_train_home.vpk) | [repo](https://github.com/Rocroverss/Last-Train-Home) |
 | Lego Island | isledecomp | v.0.1 | 6.8 MB | [download](https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk) | [repo](https://github.com/isledecomp/isle-portable) |
 | Lighthouse | Rinnegatamante | v.1.0.1 | 8.1 MB | [download](https://github.com/Rinnegatamante/Lighthouse/releases/download/v.1.0.1/Lighthouse.vpk) | [repo](https://github.com/Rinnegatamante/Lighthouse) |
+| LinuxOnVita | devwithzachary | v.1.2.0 | 23.2 MB | [download](https://github.com/devwithzachary/LinuxOnVita/releases/download/1.2.0/LinuxOnVita.vpk) | [repo](https://github.com/devwithzachary/LinuxOnVita) |
 | MarmaladeBoy_LCD | Bunkai9448 | v.1.0 | 3.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/MarmaladeBoy_LCD.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | MGBAVitaEX | Zushikina-kun | v.2.1.6 | 0.8 MB | [download](https://github.com/Zushikina-kun/GBVitaEX/releases/download/v2.1.6/MGBAVitaEX-v2.1.6.vpk) | [repo](https://github.com/Zushikina-kun/GBVitaEX) |
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [repo](https://github.com/minecraftpe-vita/minecraftpe-vita) |
@@ -79,14 +81,19 @@ what it was on the day the service went down.
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
 | Smash Melee Vita | zm2283145 | v.0.8.14 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.14/SmashMeleevita-0.8.14.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [repo](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
+| SSSPlayer | SergioSSantiago | v.1.1.34 | 46.8 MB | [download](https://github.com/SergioSSantiago/SSSPlayer/releases/download/v1.1.34/SSSPlayer-1.1.34.vpk) | [repo](https://github.com/SergioSSantiago/SSSPlayer) |
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [repo](https://github.com/elliottwahl/Steel-Blossom-PSP) |
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [repo](https://github.com/theheroGAC/SuperTux-PSVITA) |
+| Test Drive Vita | smart-pickle | v.0.1 | 0.8 MB | [download](https://github.com/smart-pickle/TestDrive-Vita/releases/download/v0.1/TestDriveVita.vpk) | [repo](https://github.com/smart-pickle/TestDrive-Vita) |
 | The Four of Us Are Dying | noradninja | v.1.0 | 109.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/TFoUAD.vpk) | [repo](https://github.com/noradninja/The-Four-of-Us-Are-Dying) |
 | The House 1 and 2 | WolffsRoom | v.1.0 | 3.0 MB | [download](https://github.com/WolffsRoom/TheHouse2Vita/releases/download/v1.0/TheHouse2Vita-v1.0.vpk) | [repo](https://github.com/WolffsRoom/TheHouse2Vita) |
+| The Impossible Game | MetalSyntax | v.1.1.0 | 0.8 MB | [download](https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v.1.1.0/theimpossiblegame.vpk) | [repo](https://github.com/MetalSyntax/The-Impossible-Game-vita) |
 | Touhou Koumakyou | Wavy667 | v.0.1 | 2.6 MB | [download](https://github.com/Wavy667/th06-vita/releases/download/v0.1/th06-vita.vpk) | [repo](https://github.com/Wavy667/th06-vita) |
 | Trifle Psychotic | KiddRwxSsj | v.1.0.0 | 21.7 MB | [download](https://github.com/KiddRwxSsj/trifle-psychotic-vita/releases/download/1.0.0/TriflePsychotic.vpk) | [repo](https://github.com/KiddRwxSsj/trifle-psychotic-vita) |
 | TrophaxSE | LiEnby | v.1.5 | 0.2 MB | [download](https://git.silica.codes/Li/trophaxse/releases/download/v1.5/TrophaxSE.vpk) | [repo](https://git.silica.codes/Li/trophaxse) |
+| UFO 40 | naniiic137 | v.0.5.1 | 1.7 MB | [download](https://github.com/naniiic137/ufo-40/releases/download/v0.5.1/ufo40.vpk) | [repo](https://github.com/naniiic137/ufo-40) |
 | Undertale Yellow | WolffsRoom | v.0.1 | 1.8 MB | [download](https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellowVita-v0.1.vpk) | [repo](https://github.com/WolffsRoom/UndertaleYellowVita) |
+| VagaChatVITA | Frxn5J | v.0.1.0 | 2.4 MB | [download](https://github.com/Frxn5J/VagaChatVITA/releases/download/0.1.0/VagaChatVITA.vpk) | [repo](https://github.com/Frxn5J/VagaChatVITA) |
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [repo](https://github.com/kyokuheishin/vita-ns-controller) |
 | Vita RomM | denkacn | v.0.8.0.s | 2.3 MB | [download](https://github.com/denkacn/vita-romm/releases/download/v0.8.0.s/vita_romm.vpk) | [repo](https://github.com/denkacn/vita-romm) |
 | VitaBrightEX LUT Editor | Zushikina-kun | v.4.2 | 0.4 MB | [download](https://github.com/Zushikina-kun/VitaBrightEX/releases/download/v1.3/VitaBrightEX-LUT-Editor-v4.2.vpk) | [repo](https://github.com/Zushikina-kun/VitaBrightEX) |
@@ -146,4 +153,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-122 entries, 0.9 GB in total.
+129 entries, 1.0 GB in total.
