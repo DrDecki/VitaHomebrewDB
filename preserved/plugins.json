@@ -3406,5 +3406,33 @@
         "tags": "",
         "trailer": "",
         "trophies": "0"
+    },
+    {
+        "id": "1591",
+        "name": "Ratchet & Clank: Size Matters Remastered Controls",
+        "author": "Rafitalocotron",
+        "version": "v.1.0.0",
+        "type": "4",
+        "titleid": "",
+        "icon": "",
+        "description": "Remastered controls plugin for Ratchet & Clank: Size Matters on PSVITA/Adrenaline.",
+        "long_description": "",
+        "changelog": "- First Release",
+        "requirements": "",
+        "requirements_checked": "1",
+        "url": "https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls/releases/download/v1.0.0/ratchet_remastered.prx",
+        "size": "12426",
+        "hash": "6d3406f8ffde88fa2135897b959c7b51",
+        "hash2": "",
+        "data": "",
+        "data_size": "0",
+        "date": "2026-09-20",
+        "downloads": "0",
+        "release_page": "https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls/releases",
+        "source": "https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls",
+        "screenshots": "",
+        "status": "0",
+        "tags": "",
+        "trailer": ""
     }
 ]

@@ -85,7 +85,7 @@ what it was on the day the service went down.
 | ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
-| Smash Melee Vita | zm2283145 | v.0.8.14 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.14/SmashMeleevita-0.8.14.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
+| Smash Melee Vita | zm2283145 | v.0.8.15 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.15/SmashMeleevita-0.8.15.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | Sonic R | FreddySP | v.1.1 | 3.9 MB | [download](https://github.com/fr3dsp/sonic-r-vita/releases/download/v1.1/sonicr_vita.vpk) | [repo](https://github.com/fr3dsp/sonic-r-vita) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [repo](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
 | SSSPlayer | SergioSSantiago | v.1.1.34 | 46.8 MB | [download](https://github.com/SergioSSantiago/SSSPlayer/releases/download/v1.1.34/SSSPlayer-1.1.34.vpk) | [repo](https://github.com/SergioSSantiago/SSSPlayer) |
@@ -121,7 +121,7 @@ what it was on the day the service went down.
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [repo](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [repo](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (19)
+## Plugins (20)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -136,6 +136,7 @@ what it was on the day the service went down.
 | novsync | junminlee2004 | v.1.0 | 0.0 MB | [download](https://github.com/junminlee2004/novsync/releases/download/v1.0/novsync.suprx) | [repo](https://github.com/junminlee2004/novsync) |
 | Pocketstation Unlocker | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/PocketstationUnlocker/releases/download/v1.1/pocketstationunlocker.skprx) | [repo](https://git.silica.codes/Li/PocketstationUnlocker) |
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [repo](https://git.silica.codes/Li/qaspoofer) |
+| Ratchet & Clank: Size Matters Remastered Controls | Rafitalocotron | v.1.0.0 | 0.0 MB | [download](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls/releases/download/v1.0.0/ratchet_remastered.prx) | [repo](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls) |
 | ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [repo](https://git.silica.codes/Li/ScoreHax) |
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [repo](https://git.silica.codes/Li/trophax) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [repo](https://github.com/SJK132/uac-pstv-host) |
@@ -163,4 +164,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.3 | 1.3 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.3/sign_pss_win64.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.2 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.2/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-139 entries, 1.0 GB in total.
+140 entries, 1.0 GB in total.

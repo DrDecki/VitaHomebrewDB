@@ -622,7 +622,7 @@ Every entry, with the download it currently points at. The ones added since
 | OttoMatic Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1253-OttoMatic.vpk) | [repo](https://github.com/Rinnegatamante/OttoMatic) |
 | Overcome | Lapy | v.1.01 | 38.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/458-Overcome.vpk) | — |
 | Pac-man: Deadline | MRKane | v.1.0 | 67.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PacManDeadline.vpk) | [repo](https://mrkane.itch.io/pac-man-deadline) |
-| Pacman CE DX Vita | mcallbosco | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1409-pacmancedx.vpk) | [repo](https://github.com/mcallbosco/pacman-cedx-vita) |
+| Pacman CE DX Vita | mcallbosco | v.3 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1409-pacmancedx.vpk) | [repo](https://github.com/mcallbosco/pacman-cedx-vita) |
 | Pako Forever | PatnosD | v.1.0.8 | 36.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/844-pako.vpk) | — |
 | PanComOS | hatoving | v.1.1 | 13.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/637-PanComOS.vpk) | — |
 | PanelPop | sharkwouter | v.0.0.3 | 8.8 MB | [download](https://github.com/sharkwouter/panel-pop/releases/download/0.0.3-vita/panel-pop.vpk) | [repo](https://github.com/sharkwouter/panel-pop) |
@@ -801,7 +801,7 @@ Every entry, with the download it currently points at. The ones added since
 | Slendrina the Cellar | MaloneCZSD | v.1.2 | 32.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1285-SlendrinaCellar.vpk) | [repo](https://maloneczsd.itch.io/slendrina-the-cellar-vita) |
 | Slime-vBall | Island_Games | v.1.0.0 | 0.4 MB | [download](https://github.com/island-games/slime-vball/releases/download/v1.0.0/Slime-vBall.vpk) | [repo](https://github.com/island-games/slime-vball) |
 | Slither.io Vita | SpanishFreddy | v.1.0 | 38.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1063-Slither.io_Vita.vpk) | [repo](https://github.com/SpanishFreddy/Slither.io-Vita) |
-| Smash Melee Vita | zm2283145 | v.0.8.14 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.14/SmashMeleevita-0.8.14.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
+| Smash Melee Vita | zm2283145 | v.0.8.15 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.15/SmashMeleevita-0.8.15.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | Smash Rush Vita | Rinnegatamante | v.1.0 | 2.4 MB | [download](https://github.com/Rinnegatamante/smashrush-vita/releases/download/v.1.0/smashrush.vpk) | [repo](https://github.com/Rinnegatamante/smashrush-vita) |
 | Smash TV HD-2D | captkuso | v.1.0 | 22.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1190-smash_tv.vpk) | [repo](https://captkuso.itch.io/smash-tv-hd-2d) |
 | SMB2SE Vita | Rinnegatamante | v.1.22 | 1.8 MB | [download](https://github.com/Rinnegatamante/smb2se-vita/releases/download/v.122/smb2se.vpk) | [repo](https://github.com/Rinnegatamante/smb2se-vita) |
@@ -1133,7 +1133,7 @@ Every entry, with the download it currently points at. The ones added since
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [repo](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [repo](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (142)
+## Plugins (143)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -1209,6 +1209,7 @@ Every entry, with the download it currently points at. The ones added since
 | psvgamesd | motoharu | v.2.0 | 0.0 MB | [download](https://github.com/motoharu-gosuto/psvgamesd/releases/download/v2.0/psvgamesd.skprx) | [repo](https://github.com/motoharu-gosuto/psvgamesd) |
 | PSVshell | Electry | v.1.1 | 0.0 MB | [download](https://github.com/Electry/PSVshell/releases/download/v1.1/PSVshell.skprx) | [repo](https://github.com/Electry/PSVshell) |
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [repo](https://git.silica.codes/Li/qaspoofer) |
+| Ratchet & Clank: Size Matters Remastered Controls | Rafitalocotron | v.1.0.0 | 0.0 MB | [download](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls/releases/download/v1.0.0/ratchet_remastered.prx) | [repo](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls) |
 | remaPSV2 | Mer1e & Rinnegatamante & S1ngyy | v.2.0.2 | 0.0 MB | [download](https://github.com/MERLev/remaPSV2/releases/download/2.0.2/remaPSV2.suprx) | [repo](https://github.com/MERLev/remaPSV2) |
 | ReNpDrm | CelesteBlue | v.5 BETA | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/355-renpdrm.zip) | [repo](http://renpdrm.customprotocol.com/release_page.php) |
 | rePatch reLoaded | SonicMastr | v.2.1 | 0.0 MB | [download](https://github.com/SonicMastr/rePatch-reLoaded/releases/download/v2.1/repatch_ex.skprx) | [repo](https://github.com/SonicMastr/rePatch-reLoaded) |
@@ -1451,4 +1452,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1428 entries, 30.7 GB in total.
+1429 entries, 30.7 GB in total.
