@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1125)
+## PSVITA homebrews (1126)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -1044,6 +1044,7 @@ Every entry, with the download it currently points at. The ones added since
 | Vitamin | TheFloW | v.2.0 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/56-Vitamin.vpk) | — |
 | Vitamon GO | VitaHEX games | v.0.1.0 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/353-VitamonGO.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48745) |
 | ViTanks | Spartanfox | v.0.4 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/472-RT.vpk) | — |
+| VitaOS | mvizensk | v.1.0.0 | 4.8 MB | [download](https://github.com/mvizensk/VitaOS/releases/download/v1.0.0/VitaOS.vpk) | [repo](https://github.com/mvizensk/VitaOS) |
 | VitaOxiPad | theSame & santarl & saidsay-so | v.1.3.0 | 0.2 MB | [download](https://github.com/DvaMishkiLapa/VitaOxiPad/releases/download/v1.3.0/VitaOxiPad.vpk) | [repo](https://github.com/DvaMishkiLapa/VitaOxiPad) |
 | VitaPad | Rinnegatamante | v.1.3 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/50-VitaPad.vpk) | [repo](https://github.com/Rinnegatamante/VitaPad) |
 | vitaPDF | joel16 | v.1.03 | 30.5 MB | [download](https://github.com/joel16/vitaPDF/releases/download/v1.03/vitaPDF.vpk) | [repo](https://github.com/joel16/vitaPDF) |
@@ -1452,4 +1453,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1429 entries, 30.7 GB in total.
+1430 entries, 30.7 GB in total.
