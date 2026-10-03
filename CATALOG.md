@@ -275,7 +275,7 @@ Every entry, with the download it currently points at. The ones added since
 | Eldritch Vita | Rinnegatamante | v.1.2 | 4.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-Eldritch.vpk) | [repo](https://github.com/Rinnegatamante/eldritch-vita) |
 | ElevenMPV | joel16 | v.2.10 | 2.3 MB | [download](https://github.com/joel16/ElevenMPV/releases/download/v2.10/ElevenMPV.vpk) | [repo](https://github.com/joel16/ElevenMPV) |
 | Emu4Vita Arch | yizhigai | v.1.10 | 18.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1094-Emu4VitaArch.vpk) | [repo](https://gitee.com/yizhigai/Emu4Vita) |
-| Emu4Vita++ | noword | v.0.79 | 188.2 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.79/Emu4VitaPlus_v0.79.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
+| Emu4Vita++ | noword | v.0.80 | 187.7 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.80/Emu4VitaPlus_v0.80.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
 | EnbornX Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/enbornx_vita/releases/download/v.1.0/enbornx.vpk) | [repo](https://github.com/Rinnegatamante/enbornx_vita) |
 | Enigma | rsn8887 | v.1.11 | 5.0 MB | [download](https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk) | [repo](https://github.com/rsn8887/Enigma) |
 | enso ex Installer | SKGleba & Team Molecule | v.5.0 | 0.1 MB | [download](https://github.com/SKGleba/enso_ex/releases/download/v5.0/enso_ex.vpk) | [repo](https://github.com/SKGleba/enso_ex) |
