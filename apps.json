@@ -4143,7 +4143,7 @@
     {
         "name": "Emu4Vita++",
         "icon": "5d477df9a54e8716a41c634947fefbc5f8fb1bd9d024cf5d6c1d2d177facfc0d.png",
-        "version": "v.0.79",
+        "version": "v.0.80",
         "author": "noword",
         "type": "5",
         "description": "Libretro frontend for PSVITA.",
@@ -4157,16 +4157,16 @@
         "source": "https://github.com/noword/Emu4VitaPlus",
         "release_page": "https://github.com/noword/Emu4VitaPlus/releases",
         "trailer": "",
-        "size": "197348129",
+        "size": "196787098",
         "data_size": "0",
-        "hash": "ade0e532e2a6049eec4a0e4eaf3401a9",
+        "hash": "",
         "hash2": "",
         "changelog": "- Fix bugs\n- Support multi touch\n- Enable URI game launch similar to Retroarch, thanks to hamadrehman for providing the code.",
         "requirements": "",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.79/Emu4VitaPlus_v0.79.vpk",
+        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.80/Emu4VitaPlus_v0.80.vpk",
         "data": ""
     },
     {
