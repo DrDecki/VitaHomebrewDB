@@ -275,7 +275,7 @@ Every entry, with the download it currently points at. The ones added since
 | Eldritch Vita | Rinnegatamante | v.1.2 | 4.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-Eldritch.vpk) | [repo](https://github.com/Rinnegatamante/eldritch-vita) |
 | ElevenMPV | joel16 | v.2.10 | 2.3 MB | [download](https://github.com/joel16/ElevenMPV/releases/download/v2.10/ElevenMPV.vpk) | [repo](https://github.com/joel16/ElevenMPV) |
 | Emu4Vita Arch | yizhigai | v.1.10 | 18.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1094-Emu4VitaArch.vpk) | [repo](https://gitee.com/yizhigai/Emu4Vita) |
-| Emu4Vita++ | noword | v.0.79 | 188.2 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.79/Emu4VitaPlus_v0.79.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
+| Emu4Vita++ | noword | v.0.81 | 191.2 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.81/Emu4VitaPlus_v0.81.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
 | EnbornX Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/enbornx_vita/releases/download/v.1.0/enbornx.vpk) | [repo](https://github.com/Rinnegatamante/enbornx_vita) |
 | Enigma | rsn8887 | v.1.11 | 5.0 MB | [download](https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk) | [repo](https://github.com/rsn8887/Enigma) |
 | enso ex Installer | SKGleba & Team Molecule | v.5.0 | 0.1 MB | [download](https://github.com/SKGleba/enso_ex/releases/download/v5.0/enso_ex.vpk) | [repo](https://github.com/SKGleba/enso_ex) |
@@ -671,7 +671,7 @@ Every entry, with the download it currently points at. The ones added since
 | Prehistorik 2 | gl33ntwine | v.1.0 | 1.1 MB | [download](https://github.com/v-atamanenko/blues-vita/releases/download/1.0/prehistorik-2.vpk) | [repo](https://github.com/v-atamanenko/blues-vita) |
 | Prince Of Persia | cpasjuste | v.1.12 | 5.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/166-Prince-Of-Persia.vpk) | [repo](https://github.com/Cpasjuste/SDLPoP) |
 | Prince of Persia 2 Vita | usineur | v.1.3 | 1.7 MB | [download](https://github.com/usineur/pop2-vita/releases/download/v1.3/pop2.vpk) | [repo](https://github.com/usineur/pop2-vita) |
-| Prince of Persia Classic | MetalSyntax | v.01.28 | 1.3 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
+| Prince of Persia Classic | MetalSyntax | v.01.45 | 3.0 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.45/popclassic-v01.46.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
 | Pro Camera Vita | VitaHEX games | v.1.1 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/297-ProCameraVita.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48379) |
 | Procedural Planets | Primer0 & Ruben_Wolfe | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/91-Procedural_Planets.vpk) | [repo](https://drive.google.com/file/d/0B4QqovA_rXzGT3I3ZUdpTnJtc2s/view) |
 | Professor Layton: Curious Village HD Vita | Rinnegatamante | v.1.1 | 1.5 MB | [download](https://github.com/Rinnegatamante/layton-vita/releases/download/v.1.1/layton.vpk) | [repo](https://github.com/Rinnegatamante/layton-vita) |
@@ -914,7 +914,7 @@ Every entry, with the download it currently points at. The ones added since
 | The Other Her | SoySilver | v.1.0 | 27.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1338-TheOtherHer.vpk) | [repo](https://soysilver.itch.io/the-other-her) |
 | The World Ends With You Vita | hatoving | v.1.1 | 35.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1112-TWEWY.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/28/) |
 | Theme Manager EX | kylon | v.2.1 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/84-vtheme.vpk) | [repo](https://bitbucket.org/kylon/theme-manager-ex-theme-engine) |
-| TheXTech | TheXTech Team | v.1.3.7.3-1 | 4.6 MB | [download](https://github.com/TheXTech/TheXTech/releases/download/v1.3.7.3-1/thextech-vita-v1.3.7.3.zip) | [repo](https://github.com/TheXTech/TheXTech) |
+| TheXTech | TheXTech Team | v.1.7.4 | 4.6 MB | [download](https://github.com/TheXTech/TheXTech/releases/download/v1.7.4/thextech-vita-v1.7.4.zip) | [repo](https://github.com/TheXTech/TheXTech) |
 | Thimbleweed Park Vita | Rinnegatamante | v.1.2 | 2.6 MB | [download](https://github.com/Rinnegatamante/thimbleweed-vita/releases/download/v.1.2/thimbleweed.vpk) | [repo](https://github.com/Rinnegatamante/thimbleweed-vita) |
 | Thrust Shot | VitaHEX games | v.0.2 | 66.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/672-thrustshot.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/thrust_shot/) |
 | Tic-Tac-Toe | MEGAgameBoy | v.1.2.2 | 37.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/816-Tic-Tac-Toe.vpk) | — |
@@ -1079,7 +1079,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
 | ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | Voice Recorder Vita | VitaHEX games | v.1.0 | 2.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/304-VoiceRecorder.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48444) |
-| Void Stranger | WolffsRoom | v.1.0 | 1.9 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v1.0/VoidStranger-v1.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
+| Void Stranger | WolffsRoom | v.2.0 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.0/VoidStranger-v2.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
 | vOpenTyrian | cpasjuste | 16-09-19 | 5.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk) | [repo](https://github.com/Cpasjuste/vopentyrian) |
 | VPKMirror | NamelessGhoul0 | v.1.1 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/82-VPKMirror.vpk) | — |
 | VSOI | gnmmarechal | v.0.1 | 1.8 MB | [download](https://github.com/gnmmarechal/VSOI/releases/download/v0.1/VSOI.vpk) | [repo](https://github.com/gnmmarechal/VSOI) |

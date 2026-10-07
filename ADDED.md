@@ -78,7 +78,7 @@ what it was on the day the service went down.
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [repo](https://github.com/celticg/AS-Pocket-Mortys-vita) |
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [repo](https://github.com/Ivoah/portalban) |
 | Powerpuff Girls Mojo Madness | SpliffCurryBeats | v.0.1.1 | 2.2 MB | [download](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita/-/releases/v0.1.1/downloads/PowerpuffVita_v0.1.1.vpk) | [repo](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita) |
-| Prince of Persia Classic | MetalSyntax | v.01.28 | 1.3 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.28/popclassic-v01.28.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
+| Prince of Persia Classic | MetalSyntax | v.01.45 | 3.0 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.45/popclassic-v01.46.vpk) | [repo](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
 | Renegade Vita | TheGh0stShip | v.A3.5-dev134 | 3.4 MB | [download](https://github.com/TheGh0stShip/Renegade-Vita-Demo/releases/download/A3.5-dev134/RenegadeVita-A3.5-dev134.vpk) | [repo](https://github.com/TheGh0stShip/Renegade-Vita-Demo) |
 | Resident Evil Gaiden | Rinnegatamante | v.1.0 | 24.8 MB | [download](https://github.com/Rinnegatamante/regaiden-recomp/releases/download/v.1.0/ResidentEvilGaiden.vpk) | [repo](https://github.com/Rinnegatamante/regaiden-recomp) |
 | RuneScape | Brendonm17 | v.1.1.1 | 13.6 MB | [download](https://github.com/Brendonm17/rsc-c-vita/releases/download/v1.1.1/rsc-c-vita.vpk) | [repo](https://github.com/Brendonm17/rsc-c-vita) |
@@ -113,7 +113,7 @@ what it was on the day the service went down.
 | VitaOS | mvizensk | v.1.0.0 | 4.8 MB | [download](https://github.com/mvizensk/VitaOS/releases/download/v1.0.0/VitaOS.vpk) | [repo](https://github.com/mvizensk/VitaOS) |
 | VitaTransfer | vusalif | v.0.30 | 0.2 MB | [download](https://github.com/vusalif/VitaTransfer/releases/download/1/VitaTransfer.vpk) | [repo](https://github.com/vusalif/VitaTransfer) |
 | ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
-| Void Stranger | WolffsRoom | v.1.0 | 1.9 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v1.0/VoidStranger-v1.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
+| Void Stranger | WolffsRoom | v.2.0 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.0/VoidStranger-v2.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
 | WoozyLLM | LuckyI13I | v.0.1P-fix1 | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | Zenonia 1 | withLogic | v.0.1.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk) | [repo](https://github.com/withLogic/zenonia1-remaster-vita) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [repo](https://github.com/withLogic/zenonia2-remaster-vita) |
