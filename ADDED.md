@@ -85,7 +85,7 @@ what it was on the day the service went down.
 | ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [repo](https://github.com/scummvm/scummvm) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [repo](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
-| Smash Melee Vita | zm2283145 | v.0.8.15 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.15/SmashMeleevita-0.8.15.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
+| Smash Melee Vita | zm2283145 | v.0.8.16 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.16/SmashMeleevita-0.8.16.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | Sonic R | FreddySP | v.1.1 | 3.9 MB | [download](https://github.com/fr3dsp/sonic-r-vita/releases/download/v1.1/sonicr_vita.vpk) | [repo](https://github.com/fr3dsp/sonic-r-vita) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [repo](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
 | SSSPlayer | SergioSSantiago | v.1.1.34 | 46.8 MB | [download](https://github.com/SergioSSantiago/SSSPlayer/releases/download/v1.1.34/SSSPlayer-1.1.34.vpk) | [repo](https://github.com/SergioSSantiago/SSSPlayer) |
@@ -113,7 +113,7 @@ what it was on the day the service went down.
 | VitaOS | mvizensk | v.1.0.0 | 4.8 MB | [download](https://github.com/mvizensk/VitaOS/releases/download/v1.0.0/VitaOS.vpk) | [repo](https://github.com/mvizensk/VitaOS) |
 | VitaTransfer | vusalif | v.0.30 | 0.2 MB | [download](https://github.com/vusalif/VitaTransfer/releases/download/1/VitaTransfer.vpk) | [repo](https://github.com/vusalif/VitaTransfer) |
 | ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
-| Void Stranger | WolffsRoom | v.2.0 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.0/VoidStranger-v2.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
+| Void Stranger | WolffsRoom | v.2.1 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.1/VoidStranger-v2.1.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
 | WoozyLLM | LuckyI13I | v.0.1P-fix1 | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | Zenonia 1 | withLogic | v.0.1.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk) | [repo](https://github.com/withLogic/zenonia1-remaster-vita) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [repo](https://github.com/withLogic/zenonia2-remaster-vita) |
