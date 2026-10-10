@@ -691,7 +691,7 @@ Every entry, with the download it currently points at. The ones added since
 | PSV IDPS Dumper | Yoti | v.1.1 | 0.3 MB | [download](https://github.com/Yoti/psv_idpsdump/releases/download/v1.1/PSV_IDPS_Dumper_v1.1.vpk) | [repo](https://github.com/Yoti/psv_idpsdump) |
 | PSV MIDI Player | snkilc | v.1.0 | 0.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1382-psv-midi-player.vpk) | [repo](https://gbatemp.net/threads/psv-midi-player-v1-0-native-fluidsynth-based-midi-player-for-vita.680692/) |
 | PSVibe | NamelessGhoul0 | v.2-final | 0.2 MB | [download](https://github.com/NamelessGhoul0/PSVibe/releases/download/v2-final/PSVibe.v2-final.vpk) | [repo](https://github.com/NamelessGhoul0/PSVibe) |
-| PSVident | Freakler | v.1.00 | 0.2 MB | [download](https://github.com/Freakler/vita-PSVident/releases/download/1.00/PSVident_v100.vpk) | [repo](https://github.com/Freakler/vita-PSVident) |
+| PSVident | Freakler | v.1.01 | 0.2 MB | [download](https://github.com/Freakler/vita-PSVident/releases/download/1.01/PSVident_v101.vpk) | [repo](https://github.com/Freakler/vita-PSVident) |
 | Punch Club Vita | PatnosD | v.1.0 | 16.3 MB | [download](https://github.com/PatnosDD/Punch-Club-Ps-Vita/releases/download/V1.0/PunchClub.vpk) | [repo](https://github.com/PatnosDD/Punch-Club-Ps-Vita) |
 | PUP-Extractor | Princess-Of-Sleeping | v.1.3 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/PSV-PUP-Extractor/releases/download/1.3/PUP-Extractor.vpk) | [repo](https://github.com/Princess-of-Sleeping/PSV-PUP-Extractor) |
 | Pureya Vita | PatnosD | v.1.0 | 16.1 MB | [download](https://github.com/PatnosDD/Pureya-PS-VITA/releases/download/v1.0/pureya.vpk) | [repo](https://github.com/PatnosDD/Pureya-PS-VITA) |
@@ -801,7 +801,7 @@ Every entry, with the download it currently points at. The ones added since
 | Slendrina the Cellar | MaloneCZSD | v.1.2 | 32.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1285-SlendrinaCellar.vpk) | [repo](https://maloneczsd.itch.io/slendrina-the-cellar-vita) |
 | Slime-vBall | Island_Games | v.1.0.0 | 0.4 MB | [download](https://github.com/island-games/slime-vball/releases/download/v1.0.0/Slime-vBall.vpk) | [repo](https://github.com/island-games/slime-vball) |
 | Slither.io Vita | SpanishFreddy | v.1.0 | 38.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1063-Slither.io_Vita.vpk) | [repo](https://github.com/SpanishFreddy/Slither.io-Vita) |
-| Smash Melee Vita | zm2283145 | v.0.8.15 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.15/SmashMeleevita-0.8.15.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
+| Smash Melee Vita | zm2283145 | v.0.8.16 | 6.4 MB | [download](https://github.com/zm2283145/melee-Vita/releases/download/v0.8.16/SmashMeleevita-0.8.16.vpk) | [repo](https://github.com/zm2283145/melee-Vita) |
 | Smash Rush Vita | Rinnegatamante | v.1.0 | 2.4 MB | [download](https://github.com/Rinnegatamante/smashrush-vita/releases/download/v.1.0/smashrush.vpk) | [repo](https://github.com/Rinnegatamante/smashrush-vita) |
 | Smash TV HD-2D | captkuso | v.1.0 | 22.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1190-smash_tv.vpk) | [repo](https://captkuso.itch.io/smash-tv-hd-2d) |
 | SMB2SE Vita | Rinnegatamante | v.1.22 | 1.8 MB | [download](https://github.com/Rinnegatamante/smb2se-vita/releases/download/v.122/smb2se.vpk) | [repo](https://github.com/Rinnegatamante/smb2se-vita) |
@@ -1079,7 +1079,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
 | ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [repo](https://github.com/shorelight82/vitube-vpk) |
 | Voice Recorder Vita | VitaHEX games | v.1.0 | 2.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/304-VoiceRecorder.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=48444) |
-| Void Stranger | WolffsRoom | v.2.0 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.0/VoidStranger-v2.0.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
+| Void Stranger | WolffsRoom | v.2.1 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.1/VoidStranger-v2.1.vpk) | [repo](https://github.com/WolffsRoom/VoidStrangerVita) |
 | vOpenTyrian | cpasjuste | 16-09-19 | 5.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/13-vOpenTyrian.vpk) | [repo](https://github.com/Cpasjuste/vopentyrian) |
 | VPKMirror | NamelessGhoul0 | v.1.1 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/82-VPKMirror.vpk) | — |
 | VSOI | gnmmarechal | v.0.1 | 1.8 MB | [download](https://github.com/gnmmarechal/VSOI/releases/download/v0.1/VSOI.vpk) | [repo](https://github.com/gnmmarechal/VSOI) |
