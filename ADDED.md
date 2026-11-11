@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (323)
+## PSVITA homebrews (324)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -40,6 +40,7 @@ what it was on the day the service went down.
 | C-Dogs SDL | abduct | v.preview-1 | 1.9 MB | [download](https://github.com/abduct/cdogs-sdl/releases/download/vita-preview-1/C-Dogs-SDL-Vita.vpk) | [repo](https://github.com/abduct/cdogs-sdl/tree/vita-port) |
 | C2-Vita | Paxrisen | v.C2-Vita-v1.0 | 8.5 MB | [download](https://github.com/Paxrisen/C2-Vita/releases/download/C2-Vita-v1.0/C2-Vita_1.0.vpk) | [repo](https://github.com/Paxrisen/C2-Vita) |
 | Caffeine Installer | M-Essa11 | v.1.0.1 | 0.1 MB | [download](https://github.com/M-Essa11/Caffeine-for-Vita/releases/download/v1.0.1/CaffeineForVita.vpk) | [repo](https://github.com/M-Essa11/Caffeine-for-Vita) |
+| Call of Duty World at War Zombies | devnoname120 | v.1.0 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/waw.vpk) | — |
 | Call of Mini Zombies | AJ170 | v.1.01 | 14.4 MB | [download](https://github.com/AJ170/Call-of-Mini-Zombies-1-PSVita-Port/releases/download/1.01/CoMZombies_v1.01-stub.vpk) | [repo](https://github.com/AJ170/Call-of-Mini-Zombies-1-PSVita-Port) |
 | Carmageddon 2 | bojan1986819 | v.1.0 | 2.7 MB | [download](https://github.com/bojan1986819/Carpocalypse2/releases/download/v1.0/carpocalypse2-vita-v1.0.vpk) | [repo](https://github.com/bojan1986819/Carpocalypse2) |
 | Carnivores Dinosaur Hunter | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Carnivores-Dinosaur-Hunter-vita/releases/download/v1.2.0/carnivoresdinosaurhunter.vpk) | [repo](https://github.com/MetalSyntax/Carnivores-Dinosaur-Hunter-vita) |
@@ -375,4 +376,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [repo](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.3 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip) | [repo](https://github.com/oestriot/VCI-TOOLS) |
 
-351 entries, 3.2 GB in total.
+352 entries, 3.2 GB in total.

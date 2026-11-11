@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1336)
+## PSVITA homebrews (1337)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -157,6 +157,7 @@ Every entry, with the download it currently points at. The ones added since
 | C-Dogs SDL | abduct | v.preview-1 | 1.9 MB | [download](https://github.com/abduct/cdogs-sdl/releases/download/vita-preview-1/C-Dogs-SDL-Vita.vpk) | [repo](https://github.com/abduct/cdogs-sdl/tree/vita-port) |
 | C2-Vita | Paxrisen | v.C2-Vita-v1.0 | 8.5 MB | [download](https://github.com/Paxrisen/C2-Vita/releases/download/C2-Vita-v1.0/C2-Vita_1.0.vpk) | [repo](https://github.com/Paxrisen/C2-Vita) |
 | Caffeine Installer | M-Essa11 | v.1.0.1 | 0.1 MB | [download](https://github.com/M-Essa11/Caffeine-for-Vita/releases/download/v1.0.1/CaffeineForVita.vpk) | [repo](https://github.com/M-Essa11/Caffeine-for-Vita) |
+| Call of Duty World at War Zombies | devnoname120 | v.1.0 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/waw.vpk) | — |
 | Call of Mini Zombies | AJ170 | v.1.01 | 14.4 MB | [download](https://github.com/AJ170/Call-of-Mini-Zombies-1-PSVita-Port/releases/download/1.01/CoMZombies_v1.01-stub.vpk) | [repo](https://github.com/AJ170/Call-of-Mini-Zombies-1-PSVita-Port) |
 | Call of Vita: Hackzone | VitaDev Games | v.0.1.30a | 143.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/992-call_of_vita.vpk) | — |
 | Candy Crisis Vita | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1043-candy.vpk) | [repo](https://github.com/Rinnegatamante/CandyCrisis) |
@@ -1663,4 +1664,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1640 entries, 32.9 GB in total.
+1641 entries, 32.9 GB in total.
