@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1202)
+## PSVITA homebrews (1239)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -77,6 +77,7 @@ Every entry, with the download it currently points at. The ones added since
 | Attack of the Lettuce Munching Caterpillars | Gremlin Software | v.1.0 | 13.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/564-Caterpillars.vpk) | [repo](https://github.com/softwaregremlin/Attack-of-the-Lettuce-Munching-Caterpillars) |
 | Augustus | devnoname120 & Julius Team & Keriew | v.4.0.0 | 14.9 MB | [download](https://github.com/Keriew/augustus/releases/download/v4.0.0/augustus-4.0.0-vita.vpk) | [repo](https://github.com/Keriew/augustus) |
 | AvP Gold | Rinnegatamante | v.0.8 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/569-avp.vpk) | [repo](https://github.com/Rinnegatamante/AvP-Gold-Vita) |
+| Azahar | TutuiFC | v.0.2.5 | 5.5 MB | [download](https://github.com/TutuiFC/TuizaVita-3ds-emu/releases/download/v0.2.5/TuizaVita-0.2.5.vpk) | [repo](https://github.com/TutuiFC/TuizaVita-3ds-emu) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [repo](https://github.com/Grarak/azahar) |
 | Baba Is You Vita | gl33ntwine | v.1.4 | 1.5 MB | [download](https://github.com/v-atamanenko/baba-is-you-vita/releases/download/v1.4/BABAISYOU.vpk) | [repo](https://github.com/v-atamanenko/baba-is-you-vita/) |
 | Babel Rising 3D Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/Rinnegatamante/babel-vita/releases/download/v.1.0/babel.vpk) | [repo](https://github.com/Rinnegatamante/babel-vita) |
@@ -89,6 +90,7 @@ Every entry, with the download it currently points at. The ones added since
 | Barony Vita | bren | v.0.0.2-5.0.2 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/barony.vpk) | [repo](https://github.com/Brendonm17/Barony-Vita) |
 | Bartender | Island_Games | v.1.0 | 1.9 MB | [download](https://github.com/island-games/Bartender/releases/download/v1.0/Bartender.vpk) | [repo](https://github.com/island-games/Bartender/releases) |
 | Basilisk II | meetpatty & rsn8887 | v.0.33h | 1.4 MB | [download](https://github.com/rsn8887/basiliskii-vita/releases/download/0.33hgit-rsn8887/BasiliskII_Vita_v0.33h.vpk) | [repo](https://github.com/rsn8887/basiliskii-vita) |
+| Batman AC Lockdown | KiddRwxSsj | v.1.0 | 0.9 MB | [download](https://github.com/KiddRwxSsj/batman-acl-vita/releases/download/1.0/aclockdownvita1.0.vpk) | [repo](https://github.com/KiddRwxSsj/batman-acl-vita) |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | Battery Indicator | Ruben_Wolfe | v.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/78-BatteryIndicator.vpk) | [repo](https://wololo.net/talk/viewtopic.php?f=116&t=46986) |
 | BattleShip | robin994 | v.1.4 | 7.1 MB | [download](https://github.com/robin994/battleship-vita/releases/download/1.4/battleship.vpk) | [repo](https://github.com/robin994/battleship-vita) |
@@ -143,6 +145,7 @@ Every entry, with the download it currently points at. The ones added since
 | bstone-vita | 01y | v.0.3-vita | 1.4 MB | [download](https://github.com/01y/bstone-vita/releases/download/0.3-vita/bstone-0.3.vpk) | [repo](https://github.com/01y/bstone-vita) |
 | Bubble Recall | AntHJ | v.1.0 | 3.6 MB | [download](https://github.com/AntHJ/Bubble-Recall/releases/download/v1.0/Bubble.Recall.vpk) | [repo](https://github.com/AntHJ/Bubble-Recall/releases) |
 | BubblePunk | CyberTokyo | v.0.2 | 73.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1265-BubblePunk-Vita.vpk) | [repo](https://cybertokyo.itch.io/bubblepunk) |
+| Buckshot Roulette | voidchecksam | v.1.0.3 | 2.7 MB | [download](https://github.com/voidchecksam/BuckshotRoulettePortable-BSHT/releases/download/v1.0.3/BuckshotRoulettePortable-BSHT-v1.0.3.vpk) | [repo](https://github.com/voidchecksam/BuckshotRoulettePortable-BSHT) |
 | Bugdom | ywnico | v.1.3.4-vita.1 | 48.1 MB | [download](https://github.com/ywnico/bugdom-vita/releases/download/1.3.4-vita.1/Bugdom-1.3.4-vita.1.vpk) | [repo](https://github.com/ywnico/bugdom-vita) |
 | Bugdom 2 Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1251-Bugdom2.vpk) | [repo](https://github.com/Rinnegatamante/Bugdom2) |
 | Bully Vita | TheFloW & Rinnegatamante | v.1.0 | 0.9 MB | [download](https://github.com/TheOfficialFloW/bully_vita/releases/download/v1.0/Bully.vpk) | [repo](https://github.com/TheOfficialFloW/bully_vita) |
@@ -156,8 +159,10 @@ Every entry, with the download it currently points at. The ones added since
 | Car Crossing | Team789er | v.1.0.0 | 7.3 MB | [download](https://github.com/Team789er/Car-Crossing-PSVita/releases/download/1.0.0/Classic.Car.Crossing.vpk) | [repo](https://github.com/Team789er/Car-Crossing-PSVita/releases/) |
 | CardUnlock | cnsldv | v.1.0 | 0.1 MB | [download](https://github.com/cnsldv/CardUnlock/releases/download/v1.0/CardUnlock.vpk) | [repo](https://github.com/cnsldv/CardUnlock) |
 | CardWars-Vita | Parindraaa | v.5 | 16.2 MB | [download](https://github.com/parindraaa867/AT-CardWars-Vita/releases/download/v5/CardWars_Stub.vpk) | [repo](https://github.com/parindraaa867/AT-CardWars-Vita) |
+| Carmageddon 2 | bojan1986819 | v.1.0 | 2.7 MB | [download](https://github.com/bojan1986819/Carpocalypse2/releases/download/v1.0/carpocalypse2-vita-v1.0.vpk) | [repo](https://github.com/bojan1986819/Carpocalypse2) |
 | Cars Vita | SiulPop | v.1.2 | 6.1 MB | [download](https://github.com/SiulPop/Cars-vita/releases/download/v1.2/cars.VPK) | [repo](https://github.com/SiulPop/Cars-vita) |
 | Cartoon Combatt: Flying Circus | MRKane | v.0.45.5 Beta | 39.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1159-CCFCVitaBuild.vpk) | — |
+| Castle Crashers | unclejahjah | v.2026.11.05 | 0.7 MB | [download](https://github.com/unclejahjah/cc-vita/releases/download/v2026.11.05/cc-vita.vpk) | [repo](https://github.com/unclejahjah/cc-vita) |
 | Castle of Illusion | jwfeniello | v.0.12 | 2.7 MB | [download](https://github.com/jwfeniello/Castle-of-Illusion-Vita/releases/download/v0.12/castle_of_illusion_vita.vpk) | [repo](https://github.com/jwfeniello/Castle-of-Illusion-Vita) |
 | Castlevania Attack | Rocroverss | v.1.0 | 14.5 MB | [download](https://github.com/Rocroverss/Castlevania-Attack-Demo/releases/download/v1.0/Castlevania.Attack.vpk) | [repo](https://github.com/Rocroverss/Castlevania-Attack-Demo) |
 | Cat Quest Vita | PatnosD | v.1.0 | 16.4 MB | [download](https://github.com/PatnosDD/Cat-Quest-Ps-Vita/releases/download/V1.0/CatQuest.vpk) | [repo](https://github.com/PatnosDD/Cat-Quest-Ps-Vita) |
@@ -192,6 +197,7 @@ Every entry, with the download it currently points at. The ones added since
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | CopyIcons | cy33hc | v.1.01 | 0.1 MB | [download](https://github.com/cy33hc/copyicons/releases/download/1.01/CopyIcons.vpk) | [repo](https://github.com/cy33hc/copyicons) |
 | Cordless | bren \& Harommel Rabbid | v.1.0.0 | 3.1 MB | [download](https://github.com/Brendonm17/Cordless/releases/download/v1.0.0/Cordless.vpk) | [repo](https://github.com/Brendonm17/Cordless) |
+| Costume Quest | Galetote | v.1.0 | 1.0 MB | [download](https://github.com/ggdrn/CostumeQuestVita/releases/download/1.0/CostumeQuestVita-v1.0.0.vpk) | [repo](https://github.com/ggdrn/CostumeQuestVita) |
 | Covid 19 Apocalypse | Gremlin Software | v.1.0 | 1.7 MB | [download](https://github.com/softwaregremlin/Covid-19-Apocalypse/releases/download/v1%2C0/covid19Apocalypse.vpk) | [repo](https://github.com/softwaregremlin/Covid-19-Apocalypse) |
 | Crab Island | Aramallo | v.1.0 | 5.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/695-crabisland.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/crabisland/) |
 | Cradle Song Vita | grimiku | v.0.98 | 121.2 MB | [download](https://github.com/Grimiku/Cradle-Song-Vita/releases/download/Latest/Cradle.Song.Vita-00.98.vpk) | [repo](https://github.com/Grimiku/Cradle-Song-Vita) |
@@ -219,6 +225,7 @@ Every entry, with the download it currently points at. The ones added since
 | Custom LiveArea | AntHJ | v.1.0 | 4.8 MB | [download](https://github.com/AntHJ/Custom-LiveArea/releases/download/v1.0/Custom.LiveArea.vpk) | [repo](https://github.com/AntHJ/Custom-LiveArea/releases) |
 | Custom Themes Manager | Red Squirrel | v.4.02 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/98-CTManager.vpk) | [repo](https://bitbucket.org/Red_Squirrel/custom-themes-manager/) |
 | Cut the Rope Vita | SpanishFreddy | v.1.0 | 22.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1041-cut_the_rope.vpk) | [repo](https://github.com/SpanishFreddy/Cut-The-Rope-Vita) |
+| CWebView Example | That-One-Bit | v.0.0.1-Mistletoe | 105.6 MB | [download](https://github.com/That-One-Bit/CWebView/releases/download/v0.0.1-Mistletoe/CWebView.vpk) | [repo](https://github.com/That-One-Bit/CWebView) |
 | Cybershot | SemvdH | v.0.1 | 0.1 MB | [download](https://github.com/SemvdH/cybershot-PSVita/releases/download/v0.1/cybershot.vpk) | [repo](https://github.com/SemvdH/cybershot-PSVita) |
 | D2Vita | Franckrst | v.0.1.1 | 8.4 MB | [download](https://github.com/Franckrst/D2Vita/releases/download/v0.1.1/d2vita.vpk) | [repo](https://github.com/Franckrst/D2Vita) |
 | DARIUSBURST SP Vita | Rinnegatamante | v.1.1 | 2.4 MB | [download](https://github.com/Rinnegatamante/dariusburst-vita/releases/download/v.1.0/dariusburst.vpk) | [repo](https://github.com/Rinnegatamante/dariusburst-vita) |
@@ -249,6 +256,7 @@ Every entry, with the download it currently points at. The ones added since
 | Devil May Cry 4 Refrain Vita | yizhigai & SpriteLisen & KAAAsS | BETA | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1377-dmc4.vpk) | [repo](https://gitee.com/Moqi01/acrodea_runtime) |
 | devilutionX | devilutionX Team | v.1.5.5 | 7.2 MB | [download](https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-vita.vpk) | [repo](https://github.com/diasurgical/devilutionX) |
 | devilutionX | gokuhs | v.0.5.0 Beta 1 | 2.9 MB | [download](https://github.com/gokuhs/devilutionX/releases/download/0.5.0/devilutionx.vpk) | [repo](https://github.com/gokuhs/devilutionX) |
+| Digimon World | danicannt | v.0.1.0-test | 2.7 MB | [download](https://github.com/danicannt/dw-vita/releases/download/v0.1.0-test/dw1-vita.vpk) | [repo](https://github.com/danicannt/dw-vita) |
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | Diver Down Vita | VSM GAMMER | v.1.0 | 20.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1126-DIVER_DOWN.vpk) | — |
 | DJ Escher | dos | v.1.0 | 17.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1446-djescher-vita.vpk) | [repo](https://gitlab.com/dosowisko.net/djescher/) |
@@ -256,6 +264,7 @@ Every entry, with the download it currently points at. The ones added since
 | Doki Doki Literature Club Vita | SonicMastr | v.1.0.1 | 16.4 MB | [download](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita/releases/download/v1.01/Doki.Doki.Literature.Club-01.01.vpk) | [repo](https://github.com/SonicMastr/Doki-Doki-Literature-Club-Vita) |
 | Dolmexica Infinite | Captain Dreamcast | v.1.6 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1091-dolmexica_infinite.vpk) | [repo](https://github.com/CaptainDreamcast/DolmexicaInfinite/) |
 | Dome Romantik Vita | PatnosD | v.1.0 | 37.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1076-Dome_Romantik.vpk) | — |
+| Doodle Jump | 1theronin | v.10 | 1.9 MB | [download](https://github.com/RONIN0095/doodlejump-vita/releases/download/v.10/doodlejump.vpk) | [repo](https://github.com/RONIN0095/doodlejump-vita) |
 | Doom II RPG Vita | Rinnegatamante | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1247-DOOMIIRPG.vpk) | [repo](https://github.com/Rinnegatamante/DoomIIRPG-RE) |
 | Doom RPG Vita | jakubito | v.1.1.0 | 3.8 MB | [download](https://github.com/jakubito/DoomRPG-RE-vita/releases/download/v1.1.0/DoomRPG_vita_v1.1.0.vpk) | [repo](https://github.com/jakubito/DoomRPG-RE-vita) |
 | DooM Vita | gambikules | v.1.0.1 | 121.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/456-DooM_Vita.vpk) | — |
@@ -263,6 +272,7 @@ Every entry, with the download it currently points at. The ones added since
 | Door Kickers: Action Squad Vita | elliencode | v.1.01 | 1.9 MB | [download](https://github.com/elliencode/actionsquad-psv/releases/download/v1.01/com.khg.actionsquad-v1.01.vpk) | [repo](https://github.com/elliencode/actionsquad-psv-internal/) |
 | Dr Fink's Robot Lab Vita | Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/Rinnegatamante/fink_vita/releases/download/v.1.0/fink.vpk) | [repo](https://github.com/Rinnegatamante/fink_vita) |
 | Dragon Ball Tap Battle Vita | VegettoSan | v.1.2 | 2.6 MB | [download](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita/releases/download/1.2/DBTapBattle-1.2.vpk) | [repo](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita) |
+| Dragon Ball Z: BT3 | arielxflores | v.1.1 | 2.5 MB | [download](https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.1/Tenkaichi3Decomp-Vita.vpk) | [repo](https://github.com/arielxflores/Tenkaichi3Decomp-Vita) |
 | dRally Vita | Enrique Somolinos Perez | v.1.2 | 2.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/823-Death_rally.vpk) | [repo](https://github.com/enriquesomolinos/dRally-vita/tree/psvita) |
 | Dream Punk | bokoyoss | v.1.1 | 76.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1151-dream_punk.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/73/) |
 | Drone Sim Vita | Haasman0 | v.1.0 | 47.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1115-Drone-Sim-Vita.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/29/) |
@@ -271,6 +281,7 @@ Every entry, with the download it currently points at. The ones added since
 | Dstroy Vita | Rinnegatamante | v.1.1 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/383-DstroyVita.vpk) | [repo](https://github.com/Rinnegatamante/DstroyVita) |
 | DSVita | Grarak | v.0.9.4 | 3.8 MB | [download](https://github.com/Grarak/DSVita/releases/download/0.9.4/dsvita.vpk) | [repo](https://github.com/Grarak/DSVita) |
 | Duck Hunt Remake | Lapy | v.1.0 | 30.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/483-Duck_20Hunt_20Remake.vpk) | — |
+| Duke Nukem Advance | ShayVD | v.1.0 | 3.0 MB | [download](https://github.com/ShayVD/duke-nukem-advance-tc-vita/releases/download/v1.0/dna-vita.vpk) | [repo](https://github.com/ShayVD/duke-nukem-advance-tc-vita) |
 | Dune Legacy | Northfear | v.0.97.02-vita.1 | 4.3 MB | [download](https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy.vpk) | [repo](https://github.com/Northfear/dunelegacy-vita) |
 | Dungeon Survivor | LuckTheGamers | v.1.0 | 43.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/501-Dungeon_Survivor.vpk) | — |
 | DungeonRush | xfangfang | v.01.00 | 3.4 MB | [download](https://github.com/xfangfang/DungeonRush-PSV/releases/download/01.00/dungeonrush_01.00.vpk) | [repo](https://github.com/xfangfang/DungeonRush-PSV/releases) |
@@ -282,12 +293,15 @@ Every entry, with the download it currently points at. The ones added since
 | EasySwitchVita | Kirezar | v.1.0 | 2.2 MB | [download](https://github.com/Kirezar/EasySwitchVita/releases/download/1.0/EasySwitchVita.vpk) | [repo](https://github.com/Kirezar/EasySwitchVita) |
 | EasyVPK | Electric & THEN00P | v.2.1.0 | 2.8 MB | [download](https://github.com/Electric1447/EasyVPK/releases/download/v2.1.0/easyvpk.vpk) | [repo](https://github.com/Electric1447/EasyVPK) |
 | Echo Moth | Paulo | v.1.0 | 33.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/453-Echo_20Moth.vpk) | — |
+| Ecstatica | xesf | v.0.9.7 | 0.6 MB | [download](https://github.com/xesf/ecstatica/releases/download/v0.9.7/ecstatica-vita-e1-v0.9.7.vpk) | [repo](https://github.com/ecstatica-game/ecstatica) |
+| Ecstatica | xesf | v.0.9.7 | 0.6 MB | [download](https://github.com/xesf/ecstatica/releases/download/v0.9.7/ecstatica-vita-e1-v0.9.7.vpk) | [repo](https://github.com/ecstatica-game/ecstatica) |
 | EDuke32 Vita | Rinnegatamante | v.1.6 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/397-EDuke32.vpk) | [repo](https://github.com/Rinnegatamante/EDuke32-Vita) |
 | El Enviado | SoyKhaler | v.1.1 | 81.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1326-enviado.vpk) | [repo](https://soykhaler.itch.io/el-enviado) |
 | El Pollo | Lapy | v.2.0 | 34.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/443-El_20Pollo.vpk) | — |
 | El Pollo de Lapy | Lapy | v.1.0 | 29.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/444-El_20Pollo_20de_20Lapy.vpk) | — |
 | Elasto Mania | bosshunter | v.1.1 | 0.5 MB | [download](https://github.com/bosshunter/elma-vita/releases/download/v1.1/elma.vpk) | [repo](https://github.com/bosshunter/elma-vita) |
 | Eldritch Vita | Rinnegatamante | v.1.2 | 4.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-Eldritch.vpk) | [repo](https://github.com/Rinnegatamante/eldritch-vita) |
+| ElectroBench | Ayoub Lakrad | v.0.5 | 0.9 MB | [download](https://github.com/deadbeef7/ElectroBench/releases/download/v0.5/ElectroBench-vita.vpk) | [repo](https://github.com/deadbeef7/ElectroBench) |
 | ElevenMPV | joel16 | v.2.10 | 2.3 MB | [download](https://github.com/joel16/ElevenMPV/releases/download/v2.10/ElevenMPV.vpk) | [repo](https://github.com/joel16/ElevenMPV) |
 | Emu4Vita Arch | yizhigai | v.1.10 | 18.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1094-Emu4VitaArch.vpk) | [repo](https://gitee.com/yizhigai/Emu4Vita) |
 | Emu4Vita++ | noword | v.0.81 | 191.2 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.81/Emu4VitaPlus_v0.81.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
@@ -363,6 +377,7 @@ Every entry, with the download it currently points at. The ones added since
 | FTP for Vita | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/FTP-for-Vita/releases/download/v1.0.0/FTPForVita.vpk) | [repo](https://github.com/M-Essa11/FTP-for-Vita) |
 | FTPlaystation | Red7s | v.0.1 | 1.9 MB | [download](https://github.com/StonedModder/FTPlaystation/releases/download/0.1/FTPlaystation.vpk) | [repo](https://github.com/ItsDeidara/FTPlaystation) |
 | Funky Smugglers Vita | Rinnegatamante | v.1.1 | 1.0 MB | [download](https://github.com/Rinnegatamante/funky_vita/releases/download/v.1.1/funky.vpk) | [repo](https://github.com/Rinnegatamante/funky_vita) |
+| Fury3 | StaticLift | v.1.01 | 3.0 MB | [download](https://github.com/StaticLift/fury3/releases/download/v1.01/fury3.vpk) | [repo](https://github.com/StaticLift/fury3) |
 | G&W Octopus | JacobsPlayground | v.1.0 | 30.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/496-OC029.vpk) | [repo](https://gbatemp.net/threads/relaese-g-w-octopus.545137/#post-8743198) |
 | Galactic Federation | Island_Games | v.0.1 | 7.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/206-Galactic_20Federation.vpk) | [repo](https://github.com/thesuicidalrobot/Galactic-Federation/releases) |
 | Galactic Missile Defense | MDashK | v.1.0.0 | 4.8 MB | [download](https://github.com/MDashK/Galactic-Missile-Defense-Vita/releases/download/v1.0.0/GAMIDEF00.VPK) | [repo](https://github.com/MDashK/Galactic-Missile-Defense-Vita) |
@@ -407,10 +422,12 @@ Every entry, with the download it currently points at. The ones added since
 | Gunman Clive | usineur | v.1.0 | 1.8 MB | [download](https://github.com/usineur/clive-vita/releases/download/v1.0/clive.vpk) | [repo](https://github.com/usineur/clive-vita) |
 | HackInformer App | HackInformer Staff | v.1.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/227-HackInformer.vpk) | — |
 | Halo 2D | VegettoSan | v.1.76 | 50.2 MB | [download](https://github.com/VegettoSan/Halo2D_PsVita/releases/download/1.76/Halo2D.vpk) | [repo](https://github.com/VegettoSan/Halo2D_PsVita) |
+| Halo CE | BirchWoodGod | v.1.1.2 | 6.6 MB | [download](https://github.com/BirchWoodGod/halo-ce-vita/releases/download/v1.1.2/halo-ce-vita-1.1.2-vita.vpk) | [repo](https://github.com/BirchWoodGod/halo-ce-vita) |
 | Halyard | Wasabules | v.0.1.0 | 5.2 MB | [download](https://github.com/Wasabules/Halyard/releases/download/v0.1.0/halyard.vpk) | [repo](https://github.com/Wasabules/Halyard) |
 | HandyVITA | frangarcj | v.1.4 | 0.2 MB | [download](https://github.com/frangarcj/HandyVITA/releases/download/1.4-Henkaku/HandyVITA.vpk) | [repo](https://github.com/frangarcj/HandyVITA) |
 | Happy Blocks | HisArmMan | v.1.0 | 10.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/692-happyblocks.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/happyblocks/) |
 | Happy Land | MyLegGuy | v.1.1 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/100-HappyLand.vpk) | [repo](https://github.com/goodgamesipromise/HappyLand) |
+| HardRPG | Asukate | v.0.5.2-alpha | 24.2 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.5.2-alpha/HardRPG-0.5.2.vpk) | [repo](https://github.com/Asukate/mkxp-z-vita) |
 | Harvester Vita | Parallel Productions | v.0.10 | 21.0 MB | [download](https://github.com/ParallelProductions/godot-2d-space-game-PSVita/releases/download/v0.1.0/Harvester.vpk) | [repo](https://github.com/ParallelProductions/godot-2d-space-game-PSVita) |
 | Hassey Collection | Rinnegatamante | v.0.9 | 4.7 MB | [download](https://github.com/Rinnegatamante/hassey-collection/releases/download/v.0.9/hassey.vpk) | [repo](https://github.com/Rinnegatamante/hassey-collection) |
 | Have a Good One! | Eva Vital & Isaque Sanches | v.1.0 | 56.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/682-HaveAGoodOne.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/goodone/) |
@@ -527,6 +544,7 @@ Every entry, with the download it currently points at. The ones added since
 | LinuxOnVita | devwithzachary | v.1.2.0 | 23.2 MB | [download](https://github.com/devwithzachary/LinuxOnVita/releases/download/1.2.0/LinuxOnVita.vpk) | [repo](https://github.com/devwithzachary/LinuxOnVita) |
 | Lisa: The Painful | Pinol0 | v.0.2.0-alpha | 4.3 MB | [download](https://github.com/Pinol0/LISA-Vita/releases/download/v0.2.0-alpha/LISA-Vita-alpha0.2.vpk) | [repo](https://github.com/Pinol0/LISA-Vita) |
 | Little Fighter 2 Vita | DannyDLux90 | v.PreRelease | 36.6 MB | [download](https://github.com/DannyDLux90/LF2Vita/releases/download/PreRelease/LittleFighter2-Vita-0.60.vpk) | [repo](https://github.com/DannyDLux90/LF2Vita) |
+| LocalSend | resashkin | v.1.15.4-vita.2 | 19.2 MB | [download](https://github.com/flutter-vita/localsend/releases/download/v1.15.4-vita.2/LocalSend-1.15.4-vita.2.vpk) | [repo](https://github.com/flutter-vita/localsend) |
 | Log Reset for YoYo Loader | DRok17 | v.1.0 | 3.3 MB | [download](https://github.com/DRok17/Log-Reset-for-YYL/releases/download/v1.0/YYLLOGDEL.vpk) | [repo](https://github.com/DRok17/Log-Reset-for-YYL) |
 | Loonies 8192 | thp | r66 | 12.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/704-loonies8192.vpk) | [repo](https://thp.itch.io/loonies-8192) |
 | Lost on Island | VitaDev Games | v.1.0.0a | 83.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/595-LostOnIsland.vpk) | — |
@@ -613,6 +631,7 @@ Every entry, with the download it currently points at. The ones added since
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [repo](https://github.com/veitorman/nfs2se-vita) |
 | NFSHP Vita | Electry | v.1.0 | 1.6 MB | [download](https://github.com/Electry/nfshp_vita/releases/download/v1.0/NFSHP.vpk) | [repo](https://github.com/Electry/nfshp_vita) |
 | Night in the Woods | PatnosD | v.0.5 | 14.2 MB | [download](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA/releases/download/Release/NightInTheWoods.vpk) | [repo](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA) |
+| Nitronic Rush | arielxflores | v.1.0 | 1.2 MB | [download](https://github.com/arielxflores/NitronicRush-Vita/releases/download/v1.0/NitronicRush-Vita.vpk) | [repo](https://github.com/arielxflores/NitronicRush-Vita) |
 | nKaruga | Rinnegatamante | v.1.0 | 7.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/788-nKaruga.vpk) | [repo](https://github.com/Rinnegatamante/nKaruga) |
 | No More Dungeons! | VitaHEX Games | v.1.0 | 42.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/460-No-More-Dungeons.vpk) | [repo](http://wololo.net/talk/viewtopic.php?p=424367#p424367) |
 | Noboru | Creckeryop | v.0.911 | 9.6 MB | [download](https://github.com/Creckeryop/NOBORU/releases/download/0.911/Noboru.vpk) | [repo](https://github.com/Creckeryop/NOBORU) |
@@ -685,6 +704,7 @@ Every entry, with the download it currently points at. The ones added since
 | Picoloop | yoyz | v.0.77a | 6.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/191-picoloop.vpk) | [repo](https://github.com/yoyz/picoloop) |
 | PiCrest | Creckeryop | v.1.15 | 2.4 MB | [download](https://github.com/Creckeryop/PiCrest/releases/download/1.15/PiCrest.vpk) | [repo](https://github.com/Creckeryop/PiCrest) |
 | Picture Poker | 4brm01 | v.1.0 | 14.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1429-PicturePoker.vpk) | [repo](https://github.com/4brm01/Picture-Poker) |
+| Pikmin | bren | v.0.0.1 | 3.5 MB | [download](https://github.com/Brendonm17/Open-Nectar-Vita/releases/download/v0.0.1/Pikmin-Vita-v0.0.1.vpk) | [repo](https://github.com/Brendonm17/Open-Nectar-Vita) |
 | Pikuniku Vita | gl00mm | v.1.00 | 14.3 MB | [download](https://github.com/gl00mm/Pikuniku_PSVITA/releases/download/Pikuniku_PSVITA-v1.00/pikuniku.vpk) | [repo](https://github.com/gl00mm/Pikuniku_PSVITA) |
 | Pingo | Grzybojad | v.2.1 | 8.0 MB | [download](https://github.com/Grzybojad/Pingo/releases/download/2.1/Pingo.vpk) | [repo](https://github.com/Grzybojad/Pingo) |
 | Pinkshake | cojam | v.1 | 93.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1153-pinkshake.vpk) | [repo](https://cojam.itch.io/pinkshake) |
@@ -696,6 +716,7 @@ Every entry, with the download it currently points at. The ones added since
 | Please, Don't Touch Anything | hatoving | v.1.07 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/640-PleaseDontTouchAnything.vpk) | [repo](https://github.com/hatoving/GMSVitaPortInstructions) |
 | Plugins Manager | kylon | v.2.5 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/300-plgmn.vpk) | [repo](https://bitbucket.org/kylon/plugins-manager-vita/overview) |
 | PlumbersDontWearTies-SDL-vita | Serph | v.1.0 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/770-PlumbersDontWearTies.vpk) | [repo](https://github.com/Serph/PlumbersDontWearTies-SDL-vita) |
+| Plus-Vita | Calligula87 | v.001 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v001/plus-vita-v001.vpk) | [repo](https://github.com/Calligula87/plus-vita) |
 | pNES | cpasjuste | v.7.1 | 3.8 MB | [download](https://github.com/Cpasjuste/pemu/releases/download/v7.1/pnes.vpk) | [repo](https://github.com/Cpasjuste/pemu/tree/master/pnes) |
 | PNGLive | WolfgirlBreeder | v.0.4 BETA | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1113-pnglive.vpk) | — |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [repo](https://github.com/celticg/AS-Pocket-Mortys-vita) |
@@ -811,6 +832,7 @@ Every entry, with the download it currently points at. The ones added since
 | SanicBall PSVita | SpanishFreddy | v.3 | 124.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1027-sanicball.vpk) | [repo](https://github.com/SpanishFreddy/SanicBall-PSVita-Port) |
 | Save Cloud Vita | iamcco | v.2026.04.06 | 5.7 MB | [download](https://github.com/save-cloud/save-cloud-vita/releases/download/v2024.02.28/save-cloud-2026-04-06.vpk) | [repo](https://github.com/save-cloud/save-cloud-vita/) |
 | Save Keeper | falkenhawk | v.1.3.1 | 3.0 MB | [download](https://github.com/falkenhawk/vita-save-keeper/releases/download/v1.3.1/save-keeper.vpk) | [repo](https://github.com/falkenhawk/vita-save-keeper) |
+| Save Manager++ | rreha & kylon & d3m3vilurr | v.5.3.0 | 0.6 MB | [download](https://github.com/rreha/vita-savemgrpp/releases/download/v5.3.0/vita-savemgrpp.vpk) | [repo](https://github.com/rreha/vita-savemgrpp) |
 | Save Sync | unveroleone & iamcco | v.0.1.8 | 7.7 MB | [download](https://github.com/unveroleone/save-sync/releases/download/v0.1.8/vita-save-cloud.vpk) | [repo](https://github.com/unveroleone/vita-save-sync) |
 | Save The Bees | NathanKewley | R1 | 17.8 MB | [download](https://github.com/NathanKewley/godot_save_the_bees/releases/download/release-1/SaveTheBees.vpk) | [repo](https://github.com/NathanKewley/godot_save_the_bees/tree/port/psp-vita) |
 | Save The Scene | Lapy | v.1.03 | 49.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/445-Save_20the_20Scene.vpk) | [repo](https://github.com/Lapy055/Save_the_Scene) |
@@ -835,14 +857,17 @@ Every entry, with the download it currently points at. The ones added since
 | Shiromino | Tear | pre-v2 | 20.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/406-shiromino.vpk) | [repo](https://github.com/Tearff/shiromino) |
 | Shockolate | Northfear | v.0.8.2-vita.1 | 2.3 MB | [download](https://github.com/Northfear/systemshock-vita/releases/download/v0.8.2-vita.1/systemshock.vpk) | [repo](https://github.com/Northfear/systemshock-vita) |
 | Shooter Space | MetalSyntax | v.1.1.0 | 1.4 MB | [download](https://github.com/MetalSyntax/Space-Shooter-Vita/releases/download/v1.1.0/ShooterSpace.vpk) | [repo](https://github.com/MetalSyntax/Space-Shooter-Vita) |
+| ShotgunK2Vita | Botarguirix | v.0.78-alpha | 0.6 MB | [download](https://github.com/Botarguirix/ShotgunK2Vita/releases/download/v0.78-alpha/ShotgunKing2Vita-steam.vpk) | [repo](https://github.com/Botarguirix/ShotgunK2Vita) |
 | Shutdown Shortcut | luck | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/69-Shutdown.vpk) | — |
 | Silent Hill | khajit2412 | v.0.7 | 5.1 MB | [download](https://github.com/khajit2412/SilentVitaHill/releases/download/v0.7/SilentHillVita.vpk) | [repo](https://github.com/khajit2412/SilentVitaHill) |
+| Silent Hill 4: The Room | vallfrr | v.1.0.1 | 5.5 MB | [download](https://github.com/vallfrr/sh4vita/releases/download/v1.0.1/sh4vita.vpk) | [repo](https://github.com/vallfrr/sh4vita) |
 | Silly Tower | cpasjuste | v.1.3 | 35.5 MB | [download](https://github.com/Cpasjuste/sillytower/releases/download/1.3/SillyTower-1.3.vpk) | [repo](https://github.com/Cpasjuste/sillytower) |
 | Silver Falls Survive | Sungrand Studios | v.0.1 Beta | 173.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1162-SFSurvive_v0_1beta.vpk) | [repo](https://silverfallsgame.com/survive/) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [repo](https://git.silica.codes/Li/simpleaccountswitcher) |
 | Simple FPS Platformer | MEGAgameBoy | v.1.6 | 61.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/783-SimpleFPSplatformer.vpk) | — |
 | Simple Text Editor | jakibaki | v.1.1.1 | 61.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/33-SimpleFPSplatformer.vpk) | [repo](https://wololo.net/talk/viewtopic.php?f=116&t=47018) |
 | Siren Head Dating Sim | Rayc | v.1.01 | 30.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1139-siren_head.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/53/) |
+| Skate Vita | irolup | v.0.3.0-beta | 6.7 MB | [download](https://github.com/irolup/skate-3-vita/releases/download/v0.3.0-beta/skate-3-vita-0.3.0-beta.vpk) | [repo](https://github.com/irolup/skate-3-vita) |
 | Skyrift | Onur Kuru | v.1.3.0 | 0.9 MB | [download](https://github.com/onurkuru/skyrift/releases/download/v1.3.0/skyrift.vpk) | [repo](https://github.com/onurkuru/skyrift) |
 | Sleepwalker's Journey Vita | Rinnegatamante | v.1.2 | 1.0 MB | [download](https://github.com/Rinnegatamante/sleepwalkers-vita/releases/download/v.1.2/sleepwalkers.vpk) | [repo](https://github.com/Rinnegatamante/sleepwalkers-vita/) |
 | Slender - The Eight Pages | Soup'um | v.1.0 | 56.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/880-slender8.vpk) | — |
@@ -866,6 +891,8 @@ Every entry, with the download it currently points at. The ones added since
 | Solarus Launcher | LAB0ULANGE | v.2.1 | 14.1 MB | [download](https://github.com/LAB0ULANGE/solarus-vita/releases/download/v2.1/SolarusLauncher.vpk) | [repo](https://github.com/LAB0ULANGE/solarus-vita) |
 | Solstice | withLogic | v.1.0.4 | 59.4 MB | [download](https://github.com/withLogic/solstice-godot/releases/download/v1.0.4/Solstice.vpk) | [repo](https://github.com/withLogic/solstice-godot) |
 | Sonic 1 | Xeeynamo | v.1.1.0 | 0.8 MB | [download](https://github.com/Xeeynamo/Sonic-1-2-2013-Decompilation/releases/download/v1.1.0/Sonic1-xeeynamo-v110.vpk) | [repo](https://github.com/Xeeynamo/Sonic-1-2-2013-Decompilation) |
+| Sonic 1 Forever | MDashK | v.1.0 | 1.8 MB | [download](https://github.com/MDashK/TeamForever-v4-1.3-vita/releases/download/v1.0/Sonic1Forever.vpk) | [repo](https://github.com/MDashK/TeamForever-v4-1.3-vita) |
+| Sonic 1 Forever | MDashK | v.1.0 | 1.8 MB | [download](https://github.com/MDashK/TeamForever-v4-1.3-vita/releases/download/v1.0/Sonic1Forever.vpk) | [repo](https://github.com/MDashK/TeamForever-v4-1.3-vita) |
 | Sonic 1 SMS Remake | MDashK & Creative Araya | v.1.9.2 | 30.3 MB | [download](https://github.com/MDashK/sonic-1-sms-remake-vita/releases/download/v1.9.2-vita/SOSR00001.VPK) | [repo](https://github.com/MDashK/sonic-1-sms-remake-vita) |
 | Sonic 1 Vita | SonicMastr | v.1.1.0 | 0.9 MB | [download](https://github.com/SonicMastr/Sonic-1-2-Vita/releases/download/1.1.0/Sonic1.vpk) | [repo](https://github.com/SonicMastr/Sonic-1-2-Vita) |
 | Sonic 2 | Xeeynamo | v.1.1.0 | 0.8 MB | [download](https://github.com/Xeeynamo/Sonic-1-2-2013-Decompilation/releases/download/v1.1.0/Sonic2-xeeynamo-v110.vpk) | [repo](https://github.com/Xeeynamo/Sonic-1-2-2013-Decompilation) |
@@ -911,6 +938,7 @@ Every entry, with the download it currently points at. The ones added since
 | StepMania 5 | Luckyl13l | v.b112 | 42.3 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b112/StepMania5-Vita50-b112.vpk) | [repo](https://github.com/LuckyI13I/stepmania-psvita) |
 | Stock App Remover | AntHJ | v.1.0 | 4.4 MB | [download](https://github.com/AntHJ/Stock-App-Remover/releases/download/v1.0/Stock.App.Remover.vpk) | [repo](https://github.com/AntHJ/Stock-App-Remover/releases) |
 | StratagemHeroVita | MEGAgameBoy | v.1.0 | 46.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1205-StratagemHeroVita.vpk) | — |
+| Street Fighter IV CE | John Lay | v.1.0.0 | 2.6 MB | [download](https://github.com/john-lay/sf4-vita/releases/download/v1.0.0/sf4-vita-1.0.vpk) | [repo](https://github.com/john-lay/sf4-vita) |
 | Street Fighter IV CE | frangarcj | v.1.0-rc3 | 1.2 MB | [download](https://github.com/frangarcj/sf4ce_vita/releases/download/v1.0-rc3/SF4CE.vpk) | [repo](https://github.com/frangarcj/sf4ce_vita) |
 | SuDokuL | Mode8fx | v.1.5 | 3.3 MB | [download](https://github.com/Mode8fx/SuDokuL/releases/download/v1.5/SuDokuL-v1.5-vita.vpk) | [repo](https://github.com/Mode8fx/SuDokuL) |
 | Sunshine Cat | SpanishFreddy | v.2 | 53.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1026-sunshine.vpk) | [repo](https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port) |
@@ -922,6 +950,7 @@ Every entry, with the download it currently points at. The ones added since
 | Super Hexagon Vita | mcallbosco | v.1.0 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1408-superhexagon_vita.vpk) | [repo](https://github.com/mcallbosco/super-hexagon-vita) |
 | Super Mario All-Stars Vita | Rinnegatamante | v.1.0 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1280-allstars.vpk) | [repo](https://github.com/Rinnegatamante/smw) |
 | Super Mario BOOM | MEGAgameBoy | v.1.0 | 17.4 MB | [download](https://github.com/MEGAgameBoy/Super-Mario-Boom-PS-Vita-Port/releases/download/1.0/smb1.0.VPK) | [repo](https://github.com/MEGAgameBoy/Super-Mario-Boom-PS-Vita-Port) |
+| Super Mario Strikers Vita | robin994 | v.1.5.0 | 3.7 MB | [download](https://github.com/robin994/strikersVita/releases/download/v1.5.0/strikers_vita.vpk) | [repo](https://github.com/robin994/strikersVita) |
 | Super Mario UniMaker | MEGAgameBoy | v.1.2.3.4 | 281.0 MB | [download](https://github.com/MEGAgameBoy/Super-Mario-UniMaker-PS-Vita-Port/releases/download/1.2.3.4/unimaker.vpk) | [repo](https://github.com/MEGAgameBoy/Super-Mario-UniMaker-PS-Vita-Port) |
 | Super Mario World Vita | Rinnegatamante | v.1.1.1 | 1.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1215-smworld.vpk) | [repo](https://github.com/Rinnegatamante/smw) |
 | Super Mega Runners Vita | Regular Character | v.1.00 | 14.1 MB | [download](https://github.com/RegularCharacter07/SuperMegaRunnersVita/releases/download/1.0/smrun.vpk) | [repo](https://github.com/RegularCharacter07/SuperMegaRunnersVita) |
@@ -960,6 +989,7 @@ Every entry, with the download it currently points at. The ones added since
 | The Call | Paulo | v.1.0.1 | 41.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/446-The_20Call.vpk) | — |
 | The Conduit HD Vita | TheFloW & Rinnegatamante | v.1.0 | 2.2 MB | [download](https://github.com/TheOfficialFloW/conduit_vita/releases/download/v1.0/CONDUIT.vpk) | [repo](https://github.com/TheOfficialFloW/conduit_vita) |
 | The Curse of Issyos | ivanproff | v.1.0 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/784-CurseOfIssyos.vpk) | [repo](https://www.reddit.com/r/vitahacks/comments/ssftqg/the_curse_of_issyos_port/) |
+| The Dark Meadow | DungEater66 | v.r76 | 1.5 MB | [download](https://github.com/DungEater66/darkmeadow-vita/releases/download/r76/DarkMeadow_r76.vpk) | [repo](https://github.com/DungEater66/darkmeadow-vita) |
 | The Dark Queen of Mortholme | Rocroverss | v.1.0 | 25.1 MB | [download](https://github.com/Rocroverss/The-Dark-Queen-Of-Mortholme-psvita/releases/download/v1.0/The-Dark-Queen-Of-Mortholme.vpk) | [repo](https://github.com/Rocroverss/The-Dark-Queen-Of-Mortholme-psvita) |
 | The Enchanted Forest | RetroGamer74 | v.1.1 | 74.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/429-elfforest.vpk) | — |
 | The Four of Us Are Dying | noradninja | v.1.0 | 109.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/TFoUAD.vpk) | [repo](https://github.com/noradninja/The-Four-of-Us-Are-Dying) |
@@ -968,12 +998,14 @@ Every entry, with the download it currently points at. The ones added since
 | The Hallway | VitaHEX games | v.1.0.1 | 108.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/428-TheHallway.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=49690) |
 | The House 1 and 2 | WolffsRoom | v.1.0 | 3.0 MB | [download](https://github.com/WolffsRoom/TheHouse2Vita/releases/download/v1.0/TheHouse2Vita-v1.0.vpk) | [repo](https://github.com/WolffsRoom/TheHouse2Vita) |
 | The Impossible Game | MetalSyntax | v.1.1.0 | 0.8 MB | [download](https://github.com/MetalSyntax/The-Impossible-Game-vita/releases/download/v.1.1.0/theimpossiblegame.vpk) | [repo](https://github.com/MetalSyntax/The-Impossible-Game-vita) |
+| The King of Fighters '95 | seba371375 | v.1.0.0 | 13.6 MB | [download](https://github.com/seba371375/kof95sr/releases/download/v1.0.0/kof95.vpk) | [repo](https://github.com/seba371375/kof95sr) |
 | The Ledge | James Beaufort | v.0.34 | 61.3 MB | [download](https://github.com/beaufortribbons/The-Ledge-Vita/releases/download/v0.34/The-Ledge-Vita-0.34.vpk) | [repo](https://github.com/beaufortribbons/The-Ledge-Vita) |
 | The Legend of Edgar | Riviera71 | v.1.34 | 91.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1141-edgar.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/55/) |
 | The Legend of Lumina Vita | Rocroverss | v.1.0 | 15.8 MB | [download](https://github.com/Rocroverss/The-legend-of-lumina-patch-psvita/releases/download/first/TLOL.vpk) | [repo](https://github.com/Rocroverss/The-legend-of-lumina-patch-psvita) |
 | The Lost Catacomb | WIDEGCG | v.1.0 | 43.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/506-The_20lost_20catacomb.vpk) | — |
 | The Orange Sunflower | Modello | v.1.0 | 43.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/455-OrangeSunflower.vpk) | — |
 | The Other Her | SoySilver | v.1.0 | 27.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1338-TheOtherHer.vpk) | [repo](https://soysilver.itch.io/the-other-her) |
+| THE RHYTHM OF FIGHTERS | MDashK | v.1.0 | 2.7 MB | [download](https://github.com/MDashK/rof-vita/releases/download/v1.0/rof.vpk) | [repo](https://github.com/MDashK/rof-vita) |
 | The World Ends With You Vita | hatoving | v.1.1 | 35.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1112-TWEWY.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/28/) |
 | Theme Manager EX | kylon | v.2.1 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/84-vtheme.vpk) | [repo](https://bitbucket.org/kylon/theme-manager-ex-theme-engine) |
 | TheXTech | TheXTech Team | v.1.7.4 | 4.6 MB | [download](https://github.com/TheXTech/TheXTech/releases/download/v1.7.4/thextech-vita-v1.7.4.zip) | [repo](https://github.com/TheXTech/TheXTech) |
@@ -984,6 +1016,7 @@ Every entry, with the download it currently points at. The ones added since
 | Tile World Vita | koolaidxk1d | v.1.00 | 1.5 MB | [download](https://github.com/koolaidxk1d/tworld-vita/releases/download/1.0.0/tworld-vita.vpk) | [repo](https://github.com/koolaidxk1d/tworld-vita) |
 | Tiny Crate Vita | Thatoneham & Harmony Honey | v.Main | 22.5 MB | [download](https://github.com/thatoneham/Tiny-Crate-Vita/releases/download/Main/Tiny.Crate.vpk) | [repo](https://github.com/thatoneham/Tiny-Crate-Vita) |
 | Tinycraft | MEGAgameBoy | v.1.1 | 24.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1146-tinycraft.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/63/) |
+| tls_fixer | devnoname120 | v.0.2.3 | 5.2 MB | [download](https://github.com/devnoname120/vita_tls_fixer/releases/download/v0.2.3/tls_fixer.vpk) | [repo](https://github.com/devnoname120/vita_tls_fixer) |
 | TNT Recompiled | SeveerJ | v.100 | 1.8 MB | [download](https://github.com/SeveerJ/tnt64-recomp/releases/download/V.100/TNTRecompiled.vpk) | [repo](https://github.com/SeveerJ/tnt64-recomp) |
 | To Pieces | lkclip | v.0.62 | 67.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/465-ToPieces.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=49745) |
 | Tomb Raider 1 & 2 Classic Collection | Rinnegatamante | v.1.2 | 8.9 MB | [download](https://github.com/Rinnegatamante/raider-vita/releases/download/v.1.2/Raider.vpk) | [repo](https://github.com/Rinnegatamante/raider-vita) |
@@ -1000,6 +1033,7 @@ Every entry, with the download it currently points at. The ones added since
 | Trogdor: Reburninated | Mode8fx | v.2.4 | 9.9 MB | [download](https://github.com/Mode8fx/Trogdor-Reburninated/releases/download/v2.4/Trogdor-Reburninated-v2.4-vita.zip) | [repo](https://github.com/Mips96/Trogdor-Reburninated) |
 | TrophaxSE | LiEnby | v.1.5 | 0.2 MB | [download](https://git.silica.codes/Li/trophaxse/releases/download/v1.5/TrophaxSE.vpk) | [repo](https://git.silica.codes/Li/trophaxse) |
 | Tropical Zone | VitaHEX games | v.0.1 | 68.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/602-Tropical_Zone.vpk) | — |
+| Tsukihime | OZZ0AB | v.1.06 | 3.0 MB | [download](https://github.com/OZZ0AB/tsukihime-vita/releases/download/v1.06/TsukihimeVita-01.06.vpk) | [repo](https://github.com/OZZ0AB/tsukihime-vita) |
 | Tux Football Vita | Island_Games | v.1.0 | 8.1 MB | [download](https://github.com/island-games/Tux-Football-Vita/releases/download/1.0/TuxFootball.vpk) | [repo](https://github.com/island-games/Tux-Football-Vita) |
 | Tweebbo | Tweebbo | v.1.4.13 | 87.2 MB | [download](https://github.com/Tweebbo/Tweebbo-Vita/releases/download/v1.4.13/tweebbo.vpk) | [repo](https://github.com/Tweebbo/Tweebbo-Vita) |
 | TWoM Vita | TheFloW & Rinnegatamante | v.1.0 | 1.1 MB | [download](https://github.com/TheOfficialFloW/twom_vita/releases/download/v1.0/TWOM.vpk) | [repo](https://github.com/TheOfficialFloW/twom_vita) |
@@ -1136,6 +1170,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaSPH | sjoerdwouters | v.1.0 | 0.7 MB | [download](https://github.com/sjoerdev/fluid-simulation-vitagl/releases/download/v1.0/VitaSPH.vpk) | [repo](https://github.com/sjoerdev/fluid-simulation-vitagl) |
 | VitaSSH | Rompelhd | v.1.0.0 | 1.1 MB | [download](https://github.com/rompelhd/VitaSSH/releases/download/v.1.0.0/VitaSSH-1.0.0.vpk) | [repo](https://github.com/rompelhd/VitaSSH) |
 | VitaSudoku | Rinnegatamante | v.1.3 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/129-VitaSudoku.vpk) | [repo](https://wololo.net/talk/viewtopic.php?f=116&t=46423) |
+| vitaterm | jmverges | v.0.2.0 | 1.2 MB | [download](https://github.com/jmverges/vitaterm/releases/download/v0.2.0/vitaterm.vpk) | [repo](https://github.com/jmverges/vitaterm) |
 | VitaTester | NamelessGhoul0 | v.1.3 | 0.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/121-VitaTester-mod.vpk) | [repo](https://github.com/NamelessGhoul0/VitaTester) |
 | VitaTester MOD | Avellea & Pookette & NamelessGhoul0 | v.1.00 | 0.8 MB | [download](https://github.com/Avellea/VitaTester/releases/download/1.0/VitaTester.vpk) | [repo](https://github.com/Avellea/VitaTester) |
 | VitaToolbox | Orion | v.0.2 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/52-VitaToolbox.vpk) | [repo](http://www.psx-place.com/threads/vita-toolbox-v-0-2-new-functions-added-by-orion.10457/) |
@@ -1146,6 +1181,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaWave | Stalgix | v.1.0 | 43.1 MB | [download](https://github.com/Jyotiraditya-Samal/Vitawave/releases/download/v1.0.0-stable/VitaWave.vpk) | [repo](https://github.com/Jyotiraditya-Samal/Vitawave) |
 | vitaWolfen | Rinnegatamante | v.1.7 | 7.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/31-vitaWolfen.vpk) | [repo](https://github.com/Rinnegatamante/vitaWolfen) |
 | vitaXash3D | fgsfds | v.4 fix | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/365-vitaXash3D.vpk) | [repo](https://github.com/fgsfdsfgs/vitaXash3D) |
+| VitaXMB | dekiller82 | v.1.10.2 | 11.8 MB | [download](https://github.com/dekiller82/VitaXMB/releases/download/v1.10.2/VitaXMB-v1.10.2.vpk) | [repo](https://github.com/dekiller82/VitaXMB) |
 | ViTetris | bytelett | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1135-ViTetris.vpk) | [repo](https://github.com/m-bartlett/vita-tetris) |
 | Vitohlyad | gl33ntwine & Danil_linaD | v.0.9 | 18.7 MB | [download](https://github.com/v-atamanenko/vitohlyad/releases/download/v0.9/vitohlyad.vpk) | [repo](https://github.com/v-atamanenko/vitohlyad) |
 | VitOut | Dane64 | v.2.0 | 0.0 MB | [download](https://github.com/Dane64/VitOut/releases/download/2.0/VitOut.vpk) | [repo](https://github.com/Dane64/VitOut) |
@@ -1163,6 +1199,7 @@ Every entry, with the download it currently points at. The ones added since
 | Wasteland Kings | Vlambeer & JeffRuLz345 | v.1.0 | 8.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/409-WastelandKings.vpk) | — |
 | Water Closet | withLogic | v.1.0 | 9.7 MB | [download](https://github.com/withLogic/waterCloset/releases/download/v1.0/watercloset.vpk) | [repo](https://github.com/withLogic/waterCloset) |
 | We Are Broken | m1s3ry | v.1.0.1 | 206.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/634-WeAreBroken.vpk) | [repo](https://raulqueisso.itch.io/we-are-broken) |
+| Wesnoth | Nathan Kewley | v.0.1 | 450.0 MB | [download](https://github.com/NathanKewley/wesnoth-vita/releases/download/v0.1/wesnoth-01.18.vpk) | [repo](https://github.com/NathanKewley/wesnoth-vita) |
 | WhatsApp | figarocool | v.2.0.4 | 7.7 MB | [download](https://github.com/figarocool/whatsapp-vita/releases/download/v2.0.4/whatsapp-vita.vpk) | [repo](https://github.com/figarocool/whatsapp-vita) |
 | Where The F*ck Did I Get These Sunglasses | Catarina Lopes & Isaque Sanches & Mariana Domingos & Tiago Quendera | v.1.0 | 55.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/686-WTFDIGTS.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/sunglass/) |
 | Whitelister | Kankertje | v.1.1 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/178-whitelister.vpk) | [repo](http://wololo.net/talk/viewtopic.php?f=116&t=46154) |
@@ -1529,4 +1566,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [repo](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [repo](https://github.com/Electry/VitaPresence) |
 
-1506 entries, 31.6 GB in total.
+1543 entries, 32.3 GB in total.
