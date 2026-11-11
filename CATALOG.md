@@ -40,7 +40,7 @@ Every entry, with the download it currently points at. The ones added since
 | Age of War Vita | mrdivdiz | v.1.1 | 46.8 MB | [download](https://github.com/mrdivdiz/aowv/releases/download/v1.1/aowv2.vpk) | [repo](https://github.com/mrdivdiz/aowv/releases) |
 | AGWOAN | Borad Games | Demo | 3.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/457-AGWOAN-PSV.vpk) | [repo](https://drive.google.com/file/d/1r23ZFlm_0RnJdARX2FEJ9JbbsciDeAnM/view) |
 | Air Pressure | majonessyltetoy | v.1.0.0 | 25.6 MB | [download](https://github.com/majonessyltetoy/airpressure/releases/download/v1.0.0/airpressure.vpk) | [repo](https://github.com/majonessyltetoy/airpressure) |
-| Aleph One Vita | DrDecki | v.2.0 | 6.5 MB | [download](https://github.com/DrDecki/Aleph-One-PsVita/releases/download/AlephOneVita2.0/alephone.vpk) | [repo](https://github.com/DrDecki/Aleph-One-PsVita) |
+| Aleph One Vita | DrDecki | v.2.1.1 | 6.5 MB | [download](https://github.com/DrDecki/Aleph-One-PsVita/releases/download/AlephOneVita2.1.1/alephone.vpk) | [repo](https://github.com/DrDecki/Aleph-One-PsVita) |
 | Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [repo](https://github.com/withLogic/alex4) |
 | Alien Hominid | unclejahjah | v.build-2026-11-05 | 0.4 MB | [download](https://github.com/unclejahjah/ahhd-vita/releases/download/build-2026-11-05/ahhd_vita.vpk) | [repo](https://github.com/unclejahjah/ahhd-vita) |
 | Alisa Vita | Rinnegatamante & PatnosD | v.1.2 | 52.5 MB | [download](https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk) | [repo](https://github.com/Rinnegatamante/Alisa-Vita) |
@@ -539,7 +539,7 @@ Every entry, with the download it currently points at. The ones added since
 | Katawa Shoujo r7 | avonder | v.01.15 | 426.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1086-katawa2.vpk) | [repo](https://ks.renai.us/viewtopic.php?f=3&t=13530) |
 | KatzenKlein Redux Vita | Rocroverss | v.1.0 | 2.4 MB | [download](https://github.com/Rocroverss/katzenklein-redux-psvita-port/releases/download/v1.0.reihen/kkr.vpk) | [repo](https://github.com/Rocroverss/katzenklein-redux-psvita-port) |
 | Keep In Mind Remastered | PatnosD | v.1.0 | 14.0 MB | [download](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA/releases/download/Release/KeepInMindRemastered.vpk) | [repo](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA) |
-| KeeperFX | DannyDLux90 | v.1.02 | 5.0 MB | [download](https://github.com/DannyDLux90/KeeperFX-Vita/releases/download/release/KeeperFX-Vita-v1.02-PUBLIC-no-game-data.vpk) | [repo](https://github.com/DannyDLux90/KeeperFX-Vita) |
+| KeeperFX | DannyDLux90 | v.1.03 | 4.8 MB | [download](https://github.com/DannyDLux90/KeeperFX-Vita/releases/download/release-1.03/KeeperFX-Vita-v1.03.vpk) | [repo](https://github.com/DannyDLux90/KeeperFX-Vita) |
 | Kero Blaster Vita | KAAAsS | v.1.2 | 2.0 MB | [download](https://github.com/kaaass/Kero-Blaster-vita/releases/download/v1.2/Kero-Blaster.vpk) | [repo](https://github.com/kaaass/Kero-Blaster-vita) |
 | Kill Em All | RetroGamer74 | v.0.92 | 483.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/469-469.vpk) | [repo](https://github.com/RetroGamer74/Kill-em-All/releases) |
 | King of Machines | m1s3ry | v.1.0 | 6.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/628-King-of-Machines.vpk) | [repo](https://hwilson.itch.io/king-of-machines) |
@@ -1237,7 +1237,7 @@ Every entry, with the download it currently points at. The ones added since
 | vitaQuakeII | Rinnegatamante | v.2.4 | 5.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/278-vitaQuakeII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeII) |
 | vitaQuakeIII | Rinnegatamante | v.1.3 | 4.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/375-vitaQuakeIII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeIII) |
 | VitaRebootShutdown | McCallum99 | v.1.08 | 0.2 MB | [download](https://github.com/McCallum99/PSVitaRebootShutdown/releases/download/v1.08/VitaRebootShutdown.vpk) | [repo](https://github.com/McCallum99/PSVitaRebootShutdown) |
-| VitaRPS5 | mauricio-gg & ywnico & AAGaming | v.3.1.1 | 3.9 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.1/VitakiFork-v3.1.1.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
+| VitaRPS5 | mauricio-gg & ywnico & AAGaming | v.4.2.2 | 3.4 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v4.2.2/VitaRPS5-v4.2.2.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
 | vitaRTCW | Rinnegatamante | v.0.9 | 4.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/459-vitaRTCW.vpk) | [repo](https://github.com/Rinnegatamante/vitaRTCW/) |
 | VitaRW | tomtomdu80 | #04d791c | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/151-VitaRW.vpk) | [repo](https://github.com/tomtomdu80/VitaRW) |
 | VitaScreenFlasher | NamelessGhoul0 | v.1.1 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/122-VitaScreenFlasher.vpk) | [repo](https://github.com/NamelessGhoul0/VitaScreenFlasher) |

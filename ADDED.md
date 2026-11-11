@@ -114,7 +114,7 @@ what it was on the day the service went down.
 | JAVITA: Jedi Academy | NDRW | v.1.0.1 | 3.6 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.0.1/JAVITA_1.0.1.vpk) | [repo](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [repo](https://github.com/largepelotas/JaVitaScript-Snake) |
 | JK2VITA: Jedi Outcast | NDRW | v.release-1.0.1 | 3.3 MB | [download](https://github.com/NDRWhun/JK2VITA/releases/download/release-1.0.1/JK2VITA_1.0.1.vpk) | [repo](https://github.com/NDRWhun/JK2VITA) |
-| KeeperFX | DannyDLux90 | v.1.02 | 5.0 MB | [download](https://github.com/DannyDLux90/KeeperFX-Vita/releases/download/release/KeeperFX-Vita-v1.02-PUBLIC-no-game-data.vpk) | [repo](https://github.com/DannyDLux90/KeeperFX-Vita) |
+| KeeperFX | DannyDLux90 | v.1.03 | 4.8 MB | [download](https://github.com/DannyDLux90/KeeperFX-Vita/releases/download/release-1.03/KeeperFX-Vita-v1.03.vpk) | [repo](https://github.com/DannyDLux90/KeeperFX-Vita) |
 | Kingdom Hearts 358/2 Days | Galetote | v.1.0 | 3.8 MB | [download](https://github.com/ggdrn/KH-DAYS-VITA/releases/download/1.0/khdays-vita-1.0.0.vpk) | [repo](https://github.com/ggdrn/KH-DAYS-VITA) |
 | Kingdom Hearts: Chain of Memories | Galetote | v.0.08.08 | 4.8 MB | [download](https://github.com/ggdrn/KH_COM_VITA/releases/download/v0.08.08/khcom_v0.08.08.vpk) | [repo](https://github.com/ggdrn/KH_COM_VITA) |
 | KOTOR | ScoobyDouche | v.0.4.3 | 2.6 MB | [download](https://github.com/ScoobyDouche/VitaKotor/releases/download/v0.4.3/KOTOR-nolog.vpk) | [repo](https://github.com/ScoobyDouche/VitaKotor) |
