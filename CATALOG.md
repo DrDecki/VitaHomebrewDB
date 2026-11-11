@@ -263,7 +263,7 @@ Every entry, with the download it currently points at. The ones added since
 | Dethrace Vita | Rinnegatamante | v.1.0 | 2.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1244-dethrace.vpk) | [repo](https://github.com/Rinnegatamante/dethrace) |
 | Devil May Cry 4 Refrain Vita | yizhigai & SpriteLisen & KAAAsS | BETA | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1377-dmc4.vpk) | [repo](https://gitee.com/Moqi01/acrodea_runtime) |
 | devilutionX | devilutionX Team | v.1.5.5 | 7.2 MB | [download](https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-vita.vpk) | [repo](https://github.com/diasurgical/devilutionX) |
-| devilutionX | gokuhs | v.0.5.0 Beta 1 | 2.9 MB | [download](https://github.com/gokuhs/devilutionX/releases/download/0.5.0/devilutionx.vpk) | [repo](https://github.com/gokuhs/devilutionX) |
+| devilutionX (gokuhs) | gokuhs | v.0.5.0 Beta 1 | 2.9 MB | [download](https://github.com/gokuhs/devilutionX/releases/download/0.5.0/devilutionx.vpk) | [repo](https://github.com/gokuhs/devilutionX) |
 | Digimon World | danicannt | v.0.1.0-test | 2.7 MB | [download](https://github.com/danicannt/dw-vita/releases/download/v0.1.0-test/dw1-vita.vpk) | [repo](https://github.com/danicannt/dw-vita) |
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | Diver Down Vita | VSM GAMMER | v.1.0 | 20.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1126-DIVER_DOWN.vpk) | — |
@@ -823,8 +823,8 @@ Every entry, with the download it currently points at. The ones added since
 | Resident Evil CODE:Vita | Markus95 | v.0.5 | 62.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/83-Resident_Evil_CODE_Vita.vpk) | — |
 | Resident Evil Gaiden | Rinnegatamante | v.1.0 | 24.8 MB | [download](https://github.com/Rinnegatamante/regaiden-recomp/releases/download/v.1.0/ResidentEvilGaiden.vpk) | [repo](https://github.com/Rinnegatamante/regaiden-recomp) |
 | Resolutiion Vita | Rocroverss | v.1.0 | 15.0 MB | [download](https://github.com/Rocroverss/resolutiion-patch-psvita/releases/download/v1.0.reihen/Resolution.vpk) | [repo](https://github.com/Rocroverss/resolutiion-patch-psvita) |
-| Resurgent | Markus95 | v.1.0 | 10.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/723-Resurgent_fr.vpk) | — |
-| Resurgent | m1s3ry | v.1.0.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/718-Resurgent.vpk) | [repo](https://tristan-harris.itch.io/resurgent) |
+| Resurgent (m1s3ry) | m1s3ry | v.1.0.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/718-Resurgent.vpk) | [repo](https://tristan-harris.itch.io/resurgent) |
+| Resurgent (Markus95) | Markus95 | v.1.0 | 10.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/723-Resurgent_fr.vpk) | — |
 | Retroarch Bubble Builder | AntHJ | v.1.0 | 5.6 MB | [download](https://github.com/AntHJ/Retroarch-Bubble-Builder/releases/download/v1.0/Retroarch.Bubble.Builder.vpk) | [repo](https://github.com/AntHJ/Retroarch-Bubble-Builder/releases) |
 | RetroFlow Launcher | jimbob4000 & VitaHEX games | v.8.4.1 | 13.4 MB | [download](https://github.com/jimbob4000/RetroFlow-Launcher/releases/download/v8.4.1/RetroFlow_v8.4.1.vpk) | [repo](https://github.com/jimbob4000/RetroFlow-Launcher) |
 | RetroLivearea | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/380-RetroLivearea.vpk) | [repo](https://github.com/Rinnegatamante/RetroLivearea) |
