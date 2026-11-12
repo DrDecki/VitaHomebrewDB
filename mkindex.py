@@ -1,3 +1,4 @@
+import re
 import json, os
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -24,9 +25,14 @@ def tabelle(entries):
         dl = '[download](%s)' % a['url'] if live(a) else '—'
         code = (a.get('source') or '').strip()
         page = (a.get('release_page') or '').strip()
+        def host(u):
+            h = re.sub(r'^https?://(www\.)?', '', u).split('/')[0]
+            for k, v in (('github.com','github'),('gitlab.com','gitlab'),('itch.io','itch.io'),('drive.google','drive'),('archive.org','archive.org')):
+                if k in h: return v
+            return h
         links = []
-        if code: links.append('[code](%s)' % code)
-        if page and not (code and page.startswith(code)): links.append('[page](%s)' % page)
+        if code: links.append('[%s](%s)' % (host(code), code))
+        if page and not (code and page.startswith(code)): links.append('[%s](%s)' % (host(page), page))
         src = ' '.join(links) or '—'
         out.append('| %s | %s | %s | %.1f MB | %s | %s |\n' % (
             esc(a['name']), esc(a.get('author')), esc(a.get('version')), mb, dl, src))
