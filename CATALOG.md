@@ -518,7 +518,7 @@ Every entry, with the download it currently points at. The ones added since
 | iTLS-Enso | SKGleba | v.3.2.1 | 2.7 MB | [download](https://github.com/SKGleba/iTLS-Enso/releases/download/v3.2.1/iTLS-Enso.vpk) | [code](https://github.com/SKGleba/iTLS-Enso) |
 | J2Vita | KiddRwxSsj | v.0.9.2 | 36.6 MB | [download](https://github.com/KiddRwxSsj/j2vita/releases/download/v0.9.2/j2vita.vpk) | [code](https://github.com/KiddRwxSsj/j2vita) |
 | Jailbreaker Vita | VSM GAMMER | v.1.0 | 25.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1075-Jailbreaker.vpk) | — |
-| JAVITA: Jedi Academy | NDRW | v.1.0.1 | 3.6 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.0.1/JAVITA_1.0.1.vpk) | [code](https://github.com/NDRWhun/JAVITA) |
+| JAVITA: Jedi Academy | NDRW | v.1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [code](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [code](https://github.com/largepelotas/JaVitaScript-Snake) |
 | JellyCar | Drakon | v.1.1 | 32.9 MB | [download](https://github.com/DrakonPL/JellyCar/releases/download/1.1/JellyCarVita.vpk) | [code](https://github.com/DrakonPL/JellyCar) |
 | Jet Car Stunts 2 Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/jetcarstunts_vita/releases/download/v.1.0/jetcarstunts.vpk) | [code](https://github.com/Rinnegatamante/jetcarstunts_vita) |
@@ -1123,7 +1123,7 @@ Every entry, with the download it currently points at. The ones added since
 | Ultimate Spider-Man | boomannotjeff | v.1.1 | 10.6 MB | [download](https://github.com/boomannotjeff/usm_vita/releases/download/1.1/usm.vpk) | [code](https://github.com/boomannotjeff/usm_vita) |
 | uMario | WeegeeDEVELOPER | v.1.2.7 | 17.9 MB | [download](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port/releases/download/1.2.7/uMario.vpk) | [code](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port) |
 | uMario Vita | Hammerill | v.1.00 | 24.4 MB | [download](https://github.com/hammerill/uMario_Vita/releases/download/1.00/uMario.vpk) | [code](https://github.com/Hammerill/uMario_Vita) |
-| UMD Player | xesf | v.0.9.14 | 1.0 MB | [download](https://github.com/xesf/umd-player/releases/download/v0.9.14/umdplayer-v0.9.14.vpk) | [code](https://github.com/xesf/umd-player) |
+| UMD Player | xesf | v.0.9.15 | 1.0 MB | [download](https://github.com/xesf/umd-player/releases/download/v0.9.15/umdplayer-v0.9.15.vpk) | [code](https://github.com/xesf/umd-player) |
 | Umineko | stoicpingu | v.1.4 | 5.5 MB | [download](https://github.com/stoicpingu/umineko-vita/releases/download/v1.4/umineko.vpk) | [code](https://github.com/stoicpingu/umineko-vita) |
 | Undead Slayer | Hao**qi | v.1.0 | 59.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/805-UndeadSlayer.vpk) | — |
 | Undertale Yellow | WolffsRoom | v.0.1 | 1.8 MB | [download](https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellowVita-v0.1.vpk) | [code](https://github.com/WolffsRoom/UndertaleYellowVita) |

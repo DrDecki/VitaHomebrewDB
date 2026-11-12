@@ -163,7 +163,7 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         a['size'] = str(len(blob) if blob is not None else best['size'])
         a['hash'] = hashlib.md5(blob).hexdigest() if blob is not None else ''
         if best_tag:
-            a['version'] = 'v.' + best_tag.lstrip('vV.')
+            a['version'] = 'v.' + re.sub(r'^[^\d]*', '', best_tag)
         changes.append('- **%s** %s -> %s  \n  `%s` -> `%s` (%.1f MB, match %.2f)%s' % (
             a['name'], old_v, a.get('version'), old_f, best['name'], best['size'] / 1048576.0, best_score,
             '  **no hash, too large to fetch here**' if blob is None else ''))
