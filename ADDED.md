@@ -114,7 +114,7 @@ what it was on the day the service went down.
 | Insaniquarium! | KartingSackboy06 | v.1.00a | 7.1 MB | [download](https://github.com/KartingSackboy06/insaniquarium-vita/releases/download/v1.00a/InsaniquariumVita.vpk) | [repo](https://github.com/KartingSackboy06/insaniquarium-vita) |
 | Iron Coast: Scrap Tide | Onur Kuru | v.0.3.0 | 31.7 MB | [download](https://github.com/onurkuru/ironcoast/releases/download/v0.3.0/Iron-Coast-PSVita-v0.3.0.vpk) | [repo](https://github.com/onurkuru/ironcoast) |
 | J2Vita | KiddRwxSsj | v.0.9.2 | 36.6 MB | [download](https://github.com/KiddRwxSsj/j2vita/releases/download/v0.9.2/j2vita.vpk) | [repo](https://github.com/KiddRwxSsj/j2vita) |
-| JAVITA: Jedi Academy | NDRW | v.1.0.1 | 3.6 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.0.1/JAVITA_1.0.1.vpk) | [repo](https://github.com/NDRWhun/JAVITA) |
+| JAVITA: Jedi Academy | NDRW | v.release-1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [repo](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [repo](https://github.com/largepelotas/JaVitaScript-Snake) |
 | JK2VITA: Jedi Outcast | NDRW | v.release-1.0.1 | 3.3 MB | [download](https://github.com/NDRWhun/JK2VITA/releases/download/release-1.0.1/JK2VITA_1.0.1.vpk) | [repo](https://github.com/NDRWhun/JK2VITA) |
 | Kabuto Park | bren | v.1.0.0 | 17.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/KabutoPark_Vita.vpk) | [repo](https://brendonm17.itch.io/kabuto-park-vita) |
@@ -279,7 +279,7 @@ what it was on the day the service went down.
 | TwinsanityEvolved | menaman123 | v.0.9.3 | 5.0 MB | [download](https://github.com/menaman123/TwinsanityEvolved/releases/download/v0.9.3/twinsanityevolved-v0.9.3-vita.vpk) | [repo](https://github.com/menaman123/TwinsanityEvolved) |
 | UFO 40 | naniiic137 | v.1.0.0 | 5.0 MB | [download](https://github.com/naniiic137/ufo-40/releases/download/v1.0.0/ufo40.vpk) | [repo](https://github.com/naniiic137/ufo-40) |
 | Ultimate Spider-Man | boomannotjeff | v.1.1 | 10.6 MB | [download](https://github.com/boomannotjeff/usm_vita/releases/download/1.1/usm.vpk) | [repo](https://github.com/boomannotjeff/usm_vita) |
-| UMD Player | xesf | v.0.9.14 | 1.0 MB | [download](https://github.com/xesf/umd-player/releases/download/v0.9.14/umdplayer-v0.9.14.vpk) | [repo](https://github.com/xesf/umd-player) |
+| UMD Player | xesf | v.0.9.15 | 1.0 MB | [download](https://github.com/xesf/umd-player/releases/download/v0.9.15/umdplayer-v0.9.15.vpk) | [repo](https://github.com/xesf/umd-player) |
 | Umineko | stoicpingu | v.1.4 | 5.5 MB | [download](https://github.com/stoicpingu/umineko-vita/releases/download/v1.4/umineko.vpk) | [repo](https://github.com/stoicpingu/umineko-vita) |
 | Undertale Yellow | WolffsRoom | v.0.1 | 1.8 MB | [download](https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellowVita-v0.1.vpk) | [repo](https://github.com/WolffsRoom/UndertaleYellowVita) |
 | VagaChatVITA | Frxn5J | v.0.1.0 | 2.4 MB | [download](https://github.com/Frxn5J/VagaChatVITA/releases/download/0.1.0/VagaChatVITA.vpk) | [repo](https://github.com/Frxn5J/VagaChatVITA) |
