@@ -17,13 +17,17 @@ cats = [('PSVITA homebrews', 'apps.json'), ('Plugins', 'preserved/plugins.json')
         ('PSP homebrews', 'psp_apps.json'), ('PC tools', 'preserved/tools.json')]
 
 def tabelle(entries):
-    out = ['| Name | Author | Version | Size | Download | Source |\n',
+    out = ['| Name | Author | Version | Size | Download | Links |\n',
            '| --- | --- | --- | ---: | --- | --- |\n']
     for a in sorted(entries, key=lambda x: x['name'].lower()):
         mb = int(a.get('size') or 0) / 1048576.0
         dl = '[download](%s)' % a['url'] if live(a) else '—'
-        src = a.get('source') or a.get('release_page') or ''
-        src = '[repo](%s)' % src if src else '—'
+        code = (a.get('source') or '').strip()
+        page = (a.get('release_page') or '').strip()
+        links = []
+        if code: links.append('[code](%s)' % code)
+        if page and not (code and page.startswith(code)): links.append('[page](%s)' % page)
+        src = ' '.join(links) or '—'
         out.append('| %s | %s | %s | %.1f MB | %s | %s |\n' % (
             esc(a['name']), esc(a.get('author')), esc(a.get('version')), mb, dl, src))
     return out
