@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (337)
+## PSVITA homebrews (334)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -82,7 +82,6 @@ what it was on the day the service went down.
 | Ecstatica 2 | xesf | v.0.9.7 | 0.6 MB | [download](https://github.com/ecstatica-game/ecstatica/releases/download/v0.9.7/ecstatica-vita-e2-v0.9.7.vpk) | [github](https://github.com/ecstatica-game/ecstatica) |
 | Elasto Mania | bosshunter | v.1.1 | 0.5 MB | [download](https://github.com/bosshunter/elma-vita/releases/download/v1.1/elma.vpk) | [github](https://github.com/bosshunter/elma-vita) |
 | ElectroBench | Ayoub Lakrad | v.0.5 | 0.9 MB | [download](https://github.com/deadbeef7/ElectroBench/releases/download/v0.5/ElectroBench-vita.vpk) | [github](https://github.com/deadbeef7/ElectroBench) |
-| Engram Vita | badmanwazzy37 | v.1.0 | 0.0 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.0/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
 | EnManga | En5an | v.1.0-beta | 12.5 MB | [download](https://github.com/En5an/EnManga/releases/download/v1.0-beta/EnManga-Beta-v1.0.vpk) | [github](https://github.com/En5an/EnManga) |
 | Final Fantasy VI | frangarcj | v.1.0.0 | 16.9 MB | [download](https://github.com/frangarcj/ff6_vita/releases/download/v1.0.0/FF6.vpk) | [github](https://github.com/frangarcj/ff6_vita) |
 | FINAL FANTASY VII | Galetote | v.1.2.0 | 3.0 MB | [download](https://github.com/ggdrn/METEOR-VII-VITA/releases/download/v1.2.0/ff7_vita_v1.2.0.vpk) | [github](https://github.com/ggdrn/METEOR-VII-VITA) |
@@ -220,7 +219,6 @@ what it was on the day the service went down.
 | Sally Face | PupueStudios | v.1.1 | 15.8 MB | [download](https://github.com/PupueStudios/Sally-Face-Vita/releases/download/v1.1/sallyface.vpk) | [github](https://github.com/PupueStudios/Sally-Face-Vita) |
 | Save Manager++ | rreha & kylon & d3m3vilurr | v.5.3.0 | 0.6 MB | [download](https://github.com/rreha/vita-savemgrpp/releases/download/v5.3.0/vita-savemgrpp.vpk) | [github](https://github.com/rreha/vita-savemgrpp) |
 | SC64VITA | edenas | v.1.0 | 3.0 MB | [download](https://github.com/edenas/SC64VITA/releases/download/v1.0/SC64VITA-v1.0.vpk) | [github](https://github.com/edenas/SC64VITA) |
-| Screenshot NoShard | devnoname120 | v.1.2.0 | 0.0 MB | [download](https://github.com/devnoname120/screenshot-noshard/releases/download/v1.2.0/screenshot_noshard.suprx) | [github](https://github.com/devnoname120/screenshot-noshard) |
 | Scribblenauts Remix | clickbate | v.pk | 2.0 MB | [download](https://github.com/jwfeniello/scribblenauts-remix-vita/releases/download/vpk/Scribblenauts.Remix.vpk) | [github](https://github.com/jwfeniello/scribblenauts-remix-vita) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [git.silica.codes](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Shadow Fight 2 | franciscoclou | v.1.0 | 1.2 MB | [download](https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2.vpk) | [github](https://github.com/franciscoclou/shadowfight2-vita) |
@@ -285,7 +283,6 @@ what it was on the day the service went down.
 | TrophaxSE | LiEnby | v.1.5 | 0.2 MB | [download](https://git.silica.codes/Li/trophaxse/releases/download/v1.5/TrophaxSE.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophaxse) |
 | Tsukihime | OZZ0AB | v.1.06 | 3.0 MB | [download](https://github.com/OZZ0AB/tsukihime-vita/releases/download/v1.06/TsukihimeVita-01.06.vpk) | [github](https://github.com/OZZ0AB/tsukihime-vita) |
 | Tuiza | TutuiFC | v.0.2.5 | 5.5 MB | [download](https://github.com/TutuiFC/TuizaVita-3ds-emu/releases/download/v0.2.5/TuizaVita-0.2.5.vpk) | [github](https://github.com/TutuiFC/TuizaVita-3ds-emu) |
-| Turbo Storage | juanjsebgarcia | v.0.4.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-storage/releases/download/v0.4.0/storageturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-storage) |
 | Tweebbo | Tweebbo | v.1.4.13 | 87.2 MB | [download](https://github.com/Tweebbo/Tweebbo-Vita/releases/download/v1.4.13/tweebbo.vpk) | [github](https://github.com/Tweebbo/Tweebbo-Vita) |
 | TwinsanityEvolved | menaman123 | v.0.9.3 | 5.0 MB | [download](https://github.com/menaman123/TwinsanityEvolved/releases/download/v0.9.3/twinsanityevolved-v0.9.3-vita.vpk) | [github](https://github.com/menaman123/TwinsanityEvolved) |
 | UFO 40 | naniiic137 | v.1.0.0 | 5.0 MB | [download](https://github.com/naniiic137/ufo-40/releases/download/v1.0.0/ufo40.vpk) | [github](https://github.com/naniiic137/ufo-40) |
@@ -346,16 +343,20 @@ what it was on the day the service went down.
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (20)
+## Plugins (29)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
 | AnalogsEnhancerKai | t0mizwf26 & yakit4k0 & Rinnegatamante | v.1.2.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/AnalogsEnhancerKai.zip) | [github](https://github.com/t0mizwf26/AnalogsEnhancerKai) |
+| Engram | badmanwazzy37 | v.1.5 | 0.1 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.5/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
+| fpsvita | esp1esp1 | v.0.4.1 | 0.1 MB | [download](https://github.com/esp1esp1/fpsvita/releases/download/v0.4.1/fpsvita-v0.4.1.zip) | [github](https://github.com/esp1esp1/fpsvita) |
 | Framecapper | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Framecapper.zip) | [github](https://github.com/Rinnegatamante/Framecapper) |
 | FreePSM | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/freepsm/releases/download/v1.1/FreePSM-v1.1.suprx) | [git.silica.codes](https://git.silica.codes/Li/freepsm) |
 | GR544P | junminlee2004 | v.4.0 | 0.0 MB | [download](https://github.com/junminlee2004/GR544P/releases/download/v4.0/GR544P.suprx) | [github](https://github.com/junminlee2004/GR544P) |
 | iduSpoof | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/iduspoof/releases/download/v1.0/iduSpoof.suprx) | [git.silica.codes](https://git.silica.codes/Li/iduspoof) |
+| JamaisVu | delon5 | v.2.0.0-rc3 | 1.1 MB | [download](https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc3/JamaisVu-2.0.0-rc3.zip) | [github](https://github.com/delon5/JamaisVu) |
 | LiveArea NoLimits | devnoname120 | v.2.1.0 | 0.0 MB | [download](https://github.com/devnoname120/livearea_nolimits/releases/download/v2.1.0/livearea_nolimits.suprx) | [github](https://github.com/devnoname120/livearea_nolimits) |
+| LiveArea Search | devnoname120 | v.1.0.2 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.2/livearea-search-v1.0.2.zip) | [github](https://github.com/devnoname120/livearea-search) |
 | noavls | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/noavls/releases/download/v0.1/noavls.skprx) | [git.silica.codes](https://git.silica.codes/Li/noavls) |
 | NoPspEmuDrm | LiEnby | v.1.06 | 0.0 MB | [download](https://github.com/LiEnby/NoPspEmuDrm/releases/download/v1.06/NoPspEmuDrm_kern.skprx) | [github](https://github.com/LiEnby/NoPspEmuDrm) |
 | novsync | junminlee2004 | v.1.0 | 0.0 MB | [download](https://github.com/junminlee2004/novsync/releases/download/v1.0/novsync.suprx) | [github](https://github.com/junminlee2004/novsync) |
@@ -363,13 +364,18 @@ what it was on the day the service went down.
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [git.silica.codes](https://git.silica.codes/Li/qaspoofer) |
 | Ratchet & Clank: Size Matters Remastered Controls | Rafitalocotron | v.1.0.0 | 0.0 MB | [download](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls/releases/download/v1.0.0/ratchet_remastered.prx) | [github](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls) |
 | ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [git.silica.codes](https://git.silica.codes/Li/ScoreHax) |
+| Screenshot NoShard | devnoname120 | v.1.2.0 | 0.0 MB | [download](https://github.com/devnoname120/screenshot-noshard/releases/download/v1.2.0/screenshot_noshard.suprx) | [github](https://github.com/devnoname120/screenshot-noshard) |
+| Start Screen Music | rodi | v.1.0.1 | 0.0 MB | [download](https://github.com/rodingley/startscreenmusic_vita/releases/download/v1.0.1/startscreenmusic.suprx) | [github](https://github.com/rodingley/startscreenmusic_vita) |
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [git.silica.codes](https://git.silica.codes/Li/trophax) |
+| Turbo Storage | juanjsebgarcia | v.0.4.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-storage/releases/download/v0.4.0/storageturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-storage) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [github](https://github.com/SJK132/uac-pstv-host) |
 | videoDebug | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/videodebug/releases/download/1.0/videoDebug.skprx) | [git.silica.codes](https://git.silica.codes/Li/videodebug) |
+| Vita JP Overlay | Dartv | v.0.7 | 0.2 MB | [download](https://github.com/Dartv/vita-jp-overlay/releases/download/v0.7/VitaJPOverlay-0.7.zip) | [github](https://github.com/Dartv/vita-jp-overlay) |
 | Vita MP4 Recorder | Rinnegatamante | v.0.5 | 0.0 MB | [download](https://github.com/Rinnegatamante/Vita-MP4-Recorder/releases/download/v.0.5/VitaMP4Recorder.suprx) | [github](https://github.com/Rinnegatamante/Vita-MP4-Recorder) |
 | VitaBrightEX | Zushikina-kun & devnoname120 | v.1.3 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/VitaBrightEX.zip) | [github](https://github.com/Zushikina-kun/VitaBrightEX) |
 | VitaBtFix | gabew100 | v.1.1 | 0.0 MB | [download](https://github.com/gabew100/VitaBtFix/releases/download/v1.1/vitabtfix.skprx) | [github](https://github.com/gabew100/VitaBtFix) |
 | vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [git.silica.codes](https://git.silica.codes/Li/vshPatch) |
+| Wi-Fi Turbo | juanjsebgarcia | v.0.7.1 | 0.1 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-wifi/releases/download/v0.7.1/wifiturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-wifi) |
 
 ## PSP homebrews (2)
 
@@ -389,4 +395,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.3 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-365 entries, 3.2 GB in total.
+371 entries, 3.2 GB in total.

@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1350)
+## PSVITA homebrews (1347)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -323,7 +323,6 @@ Every entry, with the download it currently points at. The ones added since
 | Emu4Vita Arch | yizhigai | v.1.10 | 18.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1094-Emu4VitaArch.vpk) | [gitee.com](https://gitee.com/yizhigai/Emu4Vita) |
 | Emu4Vita++ | noword | v.0.81 | 191.2 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.81/Emu4VitaPlus_v0.81.vpk) | [github](https://github.com/noword/Emu4VitaPlus) |
 | EnbornX Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/enbornx_vita/releases/download/v.1.0/enbornx.vpk) | [github](https://github.com/Rinnegatamante/enbornx_vita) |
-| Engram Vita | badmanwazzy37 | v.1.0 | 0.0 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.0/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
 | Enigma | rsn8887 | v.1.16 | 5.0 MB | [download](https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk) | [github](https://github.com/rsn8887/Enigma) |
 | EnManga | En5an | v.1.0-beta | 12.5 MB | [download](https://github.com/En5an/EnManga/releases/download/v1.0-beta/EnManga-Beta-v1.0.vpk) | [github](https://github.com/En5an/EnManga) |
 | enso ex Installer | SKGleba & Team Molecule | v.5.0 | 0.1 MB | [download](https://github.com/SKGleba/enso_ex/releases/download/v5.0/enso_ex.vpk) | [github](https://github.com/SKGleba/enso_ex) |
@@ -905,7 +904,6 @@ Every entry, with the download it currently points at. The ones added since
 | Save The Scene | Lapy | v.1.03 | 49.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/445-Save_20the_20Scene.vpk) | [github](https://github.com/Lapy055/Save_the_Scene) |
 | SC64VITA | edenas | v.1.0 | 3.0 MB | [download](https://github.com/edenas/SC64VITA/releases/download/v1.0/SC64VITA-v1.0.vpk) | [github](https://github.com/edenas/SC64VITA) |
 | Scratch Everywhere! | NateXS & Dogo6647 | Beta Build 40 | 4.0 MB | [download](https://github.com/ScratchEverywhere/ScratchEverywhere/releases/download/0.40/scratch-vita.vpk) | [github](https://github.com/ScratchEverywhere/ScratchEverywhere) |
-| Screenshot NoShard | devnoname120 | v.1.2.0 | 0.0 MB | [download](https://github.com/devnoname120/screenshot-noshard/releases/download/v1.2.0/screenshot_noshard.suprx) | [github](https://github.com/devnoname120/screenshot-noshard) |
 | Scribblenauts Remix | clickbate | v.pk | 2.0 MB | [download](https://github.com/jwfeniello/scribblenauts-remix-vita/releases/download/vpk/Scribblenauts.Remix.vpk) | [github](https://github.com/jwfeniello/scribblenauts-remix-vita) |
 | Sculptor Vita | Rayc | v.1.2 | 41.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1042-Sculptor.vpk) | [github](https://github.com/RaycGaming/SculptorVita) |
 | ScummVM | ScummVM Team | v.2026.3.0 | 138.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk) | [github](https://github.com/scummvm/scummvm) [scummvm.org](https://www.scummvm.org/downloads/) |
@@ -1122,7 +1120,6 @@ Every entry, with the download it currently points at. The ones added since
 | Tropical Zone | VitaHEX games | v.0.1 | 68.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/602-Tropical_Zone.vpk) | — |
 | Tsukihime | OZZ0AB | v.1.06 | 3.0 MB | [download](https://github.com/OZZ0AB/tsukihime-vita/releases/download/v1.06/TsukihimeVita-01.06.vpk) | [github](https://github.com/OZZ0AB/tsukihime-vita) |
 | Tuiza | TutuiFC | v.0.2.5 | 5.5 MB | [download](https://github.com/TutuiFC/TuizaVita-3ds-emu/releases/download/v0.2.5/TuizaVita-0.2.5.vpk) | [github](https://github.com/TutuiFC/TuizaVita-3ds-emu) |
-| Turbo Storage | juanjsebgarcia | v.0.4.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-storage/releases/download/v0.4.0/storageturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-storage) |
 | Tux Football Vita | Island_Games | v.1.0 | 8.1 MB | [download](https://github.com/island-games/Tux-Football-Vita/releases/download/1.0/TuxFootball.vpk) | [github](https://github.com/island-games/Tux-Football-Vita) |
 | Tweebbo | Tweebbo | v.1.4.13 | 87.2 MB | [download](https://github.com/Tweebbo/Tweebbo-Vita/releases/download/v1.4.13/tweebbo.vpk) | [github](https://github.com/Tweebbo/Tweebbo-Vita) |
 | TwinsanityEvolved | menaman123 | v.0.9.3 | 5.0 MB | [download](https://github.com/menaman123/TwinsanityEvolved/releases/download/v0.9.3/twinsanityevolved-v0.9.3-vita.vpk) | [github](https://github.com/menaman123/TwinsanityEvolved) |
@@ -1358,7 +1355,7 @@ Every entry, with the download it currently points at. The ones added since
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (143)
+## Plugins (152)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1383,12 +1380,14 @@ Every entry, with the download it currently points at. The ones added since
 | DSMotion | OperationNT | v.1.2 | 0.0 MB | [download](https://github.com/OperationNT414C/DSMotion/releases/download/1.2/dsmotion.skprx) | [github](https://github.com/OperationNT414C/DSMotion/releases) |
 | dt2s | Joel16 | v.1.1 | 0.0 MB | [download](https://github.com/joel16/dt2s-vita/releases/download/v1.1/dt2s.suprx) | [github](https://github.com/joel16/dt2s-vita) [psx-place.com](https://www.psx-place.com/threads/dt2s-vita-double-tap-2-sleep-for-ps-vita.31638/#post-265969) |
 | DukeMod Plugin | forcefiftythree | v.000 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/212-dukemod_plugin.zip) | — |
+| Engram | badmanwazzy37 | v.1.5 | 0.1 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.5/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
 | FakeCamera | OperationNT | v.1.2.1 | 0.0 MB | [download](https://github.com/OperationNT414C/FakeCamera/releases/download/1.2.1/fakecamera.suprx) | [github](https://github.com/OperationNT414C/FakeCamera) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48367) |
 | FakeCameraBMP | OperationNT | v.1.2.1 | 0.0 MB | [download](https://github.com/OperationNT414C/FakeCamera/releases/download/1.2.1/fakecamerabmp.suprx) | [github](https://github.com/OperationNT414C/FakeCamera) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48367) |
 | fakegc | SKGleba | v.1.0 | 1.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/669-fakegcvita.7z) | [github](https://github.com/SKGleba/VitaTools/tree/main/fakegc/source) [github](https://github.com/SKGleba/VitaTools) |
 | FdFix | TheFloW | v.1.0 | 0.0 MB | [download](https://github.com/TheOfficialFloW/FdFix/releases/download/v1.0/fd_fix.skprx) | [github](https://github.com/TheOfficialFloW/FdFix) |
 | fontRedirect | cxziaho | v.1.0 | 0.0 MB | [download](https://github.com/cxziaho/fontRedirect/releases/download/1.0/fontRedirect.suprx) | [github](https://github.com/cxziaho/fontRedirect) |
 | forcelang | xdanieldzd | v.0.1 | 0.0 MB | [download](https://github.com/xdanieldzd/forcelang/releases/download/v0.1/forcelang.suprx) | [github](https://github.com/xdanieldzd/forcelang) |
+| fpsvita | esp1esp1 | v.0.4.1 | 0.1 MB | [download](https://github.com/esp1esp1/fpsvita/releases/download/v0.4.1/fpsvita-v0.4.1.zip) | [github](https://github.com/esp1esp1/fpsvita) |
 | Framecapper | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Framecapper.zip) | [github](https://github.com/Rinnegatamante/Framecapper) |
 | Framecounter | Rinnegatamante | v.1.2 | 0.0 MB | [download](https://github.com/Rinnegatamante/Framecounter/releases/download/v.1.0/Framecounter.rar) | [github](https://github.com/Rinnegatamante/Framecounter) [wololo.net](http://wololo.net/talk/viewtopic.php?t=48014) |
 | FreePSM | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/freepsm/releases/download/v1.1/FreePSM-v1.1.suprx) | [git.silica.codes](https://git.silica.codes/Li/freepsm) |
@@ -1402,11 +1401,13 @@ Every entry, with the download it currently points at. The ones added since
 | idstorage dumper | zecoxao | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/254-idstorage_dumper.zip) | — |
 | iduSpoof | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/iduspoof/releases/download/v1.0/iduSpoof.suprx) | [git.silica.codes](https://git.silica.codes/Li/iduspoof) |
 | InfiniteNet | Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/InfiniteNet.suprx) | [github](https://github.com/Rinnegatamante/InfiniteNet) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48336) |
+| JamaisVu | delon5 | v.2.0.0-rc3 | 1.1 MB | [download](https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc3/JamaisVu-2.0.0-rc3.zip) | [github](https://github.com/delon5/JamaisVu) |
 | Killzone Trainer | vosman | v.1.12 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/87-killzonetrainervita.7z) | — |
 | kubridge | TheFloW & Bythos | v.0.3.1 | 0.0 MB | [download](https://github.com/bythos14/kubridge/releases/download/v0.3.1_hotfix/kubridge.skprx) | [github](https://github.com/bythos14/kubridge) |
 | kuio | Rinnegatamante | v.1.2 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/kuio.zip) | [github](https://github.com/Rinnegatamante/kuio) |
 | Lastseconds | theorywrong | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/280-lastsecondsvita.7z) | — |
 | LiveArea NoLimits | devnoname120 | v.2.1.0 | 0.0 MB | [download](https://github.com/devnoname120/livearea_nolimits/releases/download/v2.1.0/livearea_nolimits.suprx) | [github](https://github.com/devnoname120/livearea_nolimits) |
+| LiveArea Search | devnoname120 | v.1.0.2 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.2/livearea-search-v1.0.2.zip) | [github](https://github.com/devnoname120/livearea-search) |
 | Mac Address Spoofer | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/656-macaddressspoofervita.7z) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/mac_address_spoofer/) |
 | mikuar | Avellea | v.1.1 | 0.0 MB | [download](https://github.com/Avellea/mikuar/releases/download/1.1/mikuar.suprx) | [github](https://github.com/Avellea/mikuar) |
 | MiniVitaTV | TheFloW | beta 4 | 0.0 MB | [download](https://github.com/TheOfficialFloW/MiniVitaTV/releases/download/v0.5/ds3.skprx) | [github](https://github.com/TheOfficialFloW/MiniVitaTV) |
@@ -1448,6 +1449,7 @@ Every entry, with the download it currently points at. The ones added since
 | ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [git.silica.codes](https://git.silica.codes/Li/ScoreHax) |
 | Screenie | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/Screenie.zip) | [github](https://github.com/Rinnegatamante/Screenie) |
 | Screenshot Enabler | reprep & yifanlu | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/220-screenshot.zip) | — |
+| Screenshot NoShard | devnoname120 | v.1.2.0 | 0.0 MB | [download](https://github.com/devnoname120/screenshot-noshard/releases/download/v1.2.0/screenshot_noshard.suprx) | [github](https://github.com/devnoname120/screenshot-noshard) |
 | Shellbat | nowrep | r10 | 0.0 MB | [download](https://github.com/nowrep/vita-shellbat/releases/download/r10/shellbat.suprx) | [github](https://github.com/nowrep/vita-shellbat) |
 | shellbat Codiak Mod | Codiak101 | v.2.0 | 0.0 MB | [download](https://github.com/Codiak101/vita-shellbat/releases/download/v2.0/shellbat.suprx) | [github](https://github.com/Codiak101/vita-shellbat) |
 | ShellDateSecBat | OperationNT | v.2 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/302-shellsecbat.suprx) | — |
@@ -1455,6 +1457,7 @@ Every entry, with the download it currently points at. The ones added since
 | ShowInfo | Yoti | v.0.6 | 0.0 MB | [download](https://github.com/Yoti/psv_showinfo/releases/download/v0.6-full/ShowInfo.suprx) | [github](https://github.com/Yoti/psv_showinfo/tree/full-user) [github](https://github.com/Yoti/psv_showinfo/releases/) |
 | ShowInfo Lite | Yoti | v.0.6-full | 0.0 MB | [download](https://github.com/Yoti/psv_showinfo/releases/download/v0.6-full/ShowInfo.suprx) | [github](https://github.com/Yoti/psv_showinfo/tree/lite-user) [github](https://github.com/Yoti/psv_showinfo/releases) |
 | Soul Sacrifice Delta Trainer | vosman | v.1.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/74-soulsd.zip) | — |
+| Start Screen Music | rodi | v.1.0.1 | 0.0 MB | [download](https://github.com/rodingley/startscreenmusic_vita/releases/download/v1.0.1/startscreenmusic.suprx) | [github](https://github.com/rodingley/startscreenmusic_vita) |
 | StorageMgr | CelesteBlue | v.3.2 | 0.0 MB | [download](https://github.com/TeamFAPS/PSVita-StorageMgr/releases/download/v3.2/storagemgr.skprx) | [github](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) |
 | SysDualTouch | Voxel9 | v.0.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/646-sysdualtouchvita.7z) | [github](https://github.com/Voxel9/Vita-SysDualTouch) |
 | taiHen | Team Molecule | v.0.11 | 0.1 MB | [download](https://github.com/yifanlu/taiHEN/releases/download/v0.11/taihen.skprx) | [github](https://github.com/yifanlu/taiHEN) |
@@ -1462,6 +1465,7 @@ Every entry, with the download it currently points at. The ones added since
 | TrackPlug | Rinnegatamante | v.1.1 | 2.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TrackPlug.zip) | [github](https://github.com/Rinnegatamante/TrackPlug) |
 | TriggerRemap | Emiougus | v.1.0 | 0.0 MB | [download](https://github.com/Emiougus/TriggerRemap/releases/download/v1.0/TriggerRemap.suprx) | [github](https://github.com/Emiougus/TriggerRemap) |
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [git.silica.codes](https://git.silica.codes/Li/trophax) |
+| Turbo Storage | juanjsebgarcia | v.0.4.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-storage/releases/download/v0.4.0/storageturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-storage) |
 | TurboPad | Rinnegatamante | v.0.3 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TurboPad.zip) | [github](https://github.com/Rinnegatamante/TurboPad/) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48065&p=418081#p418081) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [github](https://github.com/SJK132/uac-pstv-host) |
 | UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [github](https://github.com/devnoname120/vita-udcd-uvc) |
@@ -1478,6 +1482,7 @@ Every entry, with the download it currently points at. The ones added since
 | ViBeS | Rinnegatamante | v.1.0 | 0.0 MB | [download](https://github.com/Rinnegatamante/ViBeS/releases/download/v.1.0/ViBeS.suprx) | [github](https://github.com/Rinnegatamante/ViBeS) |
 | videoDebug | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/videodebug/releases/download/1.0/videoDebug.skprx) | [git.silica.codes](https://git.silica.codes/Li/videodebug) |
 | viimote | xerpi | v.1.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/40-viimotevita.7z) | [github](https://github.com/xerpi/viimote) |
+| Vita JP Overlay | Dartv | v.0.7 | 0.2 MB | [download](https://github.com/Dartv/vita-jp-overlay/releases/download/v0.7/VitaJPOverlay-0.7.zip) | [github](https://github.com/Dartv/vita-jp-overlay) |
 | Vita MP4 Recorder | Rinnegatamante | v.0.5 | 0.0 MB | [download](https://github.com/Rinnegatamante/Vita-MP4-Recorder/releases/download/v.0.5/VitaMP4Recorder.suprx) | [github](https://github.com/Rinnegatamante/Vita-MP4-Recorder) |
 | Vita Nearest Neighbour | MuxaJlbl4 | v.1.0 | 0.0 MB | [download](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour/releases/download/1.0/VitaNearestNeighbour.suprx) | [github](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) |
 | Vita Recorder | Rinnegatamante | v.0.1.1 | 0.1 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/VitaRecorder.suprx) | [github](https://github.com/Rinnegatamante/Vita-Recorder) [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/vita_recorder) |
@@ -1502,6 +1507,7 @@ Every entry, with the download it currently points at. The ones added since
 | Watermark Disabler | reprep | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/225-watermarkdisablervita.7z) | — |
 | WDNF | EchoDev & Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/WDNF.suprx) | — |
 | WDNR | Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/WDNR.suprx) | [github](https://github.com/Rinnegatamante/WDNR) |
+| Wi-Fi Turbo | juanjsebgarcia | v.0.7.1 | 0.1 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-wifi/releases/download/v0.7.1/wifiturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-wifi) |
 | Wipeout 2048 Trainer | vosman | v.1.04 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/89-wipeout2048trainervita.7z) | — |
 | World of Final Fantasy Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/90-wofftrainervita.7z) | — |
 | X1Vita | M Ibrahim | v.3.3 | 0.0 MB | [download](https://github.com/Ibrahim778/X1Vita/releases/download/V3.3/X1Vita.skprx) | [github](https://github.com/Ibrahim778/X1Vita) [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/x1vita/) |
@@ -1677,4 +1683,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-1654 entries, 32.9 GB in total.
+1660 entries, 32.9 GB in total.
