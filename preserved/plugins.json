@@ -2209,7 +2209,7 @@
     },
     {
         "name": "psp2shell",
-        "version": "#cd019a7",
+        "version": "v.2022.03.09",
         "author": "cpasjuste",
         "description": "Debug remote shell for PSVITA.",
         "id": "267",
@@ -2221,15 +2221,15 @@
         "source": "https://github.com/cpasjuste/psp2shell",
         "release_page": "https://github.com/cpasjuste/psp2shell/releases",
         "trailer": "",
-        "size": "66085",
+        "size": "23119",
         "data_size": "0",
-        "hash": "54ccd471455075a788407b9dfe2a8191",
+        "hash": "d1e0cc5f7ae4b523a2e9ae12234fc83e",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/267-psp2shellvita.7z"
+        "url": "https://github.com/Cpasjuste/psp2shell/releases/download/2022.03.09/psp2shell-2022.03.09.zip"
     },
     {
         "name": "VITAbattery",
