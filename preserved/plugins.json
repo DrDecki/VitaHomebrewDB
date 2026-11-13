@@ -1537,7 +1537,7 @@
     },
     {
         "name": "vita-ps4linkcontrols",
-        "version": "r3",
+        "version": "r7",
         "author": "nowrep",
         "description": "Change keymap for Remote Play app.",
         "id": "324",
@@ -1549,15 +1549,15 @@
         "source": "https://github.com/nowrep/vita-ps4linkcontrols",
         "release_page": "https://github.com/nowrep/vita-ps4linkcontrols/releases",
         "trailer": "",
-        "size": "2341",
+        "size": "2658",
         "data_size": "0",
-        "hash": "",
+        "hash": "23c6d07b208a023c0ca5336043c7737d",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/nowrep/vita-ps4linkcontrols/releases/download/r3/ps4linkcontrols.suprx"
+        "url": "https://github.com/nowrep/vita-ps4linkcontrols/releases/download/r7/ps4linkcontrols.suprx"
     },
     {
         "name": "NoNpDrm",

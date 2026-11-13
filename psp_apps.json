@@ -590,7 +590,7 @@
     {
         "name": "CrossCraft SurvivalTest",
         "icon": "68beb1a0497c25713bd01814c977c6836bd1c79a6c972b1093593bd31fc1f1dc.png",
-        "version": "ST3",
+        "version": "ST4",
         "author": "Iridescence & MotoLegacy",
         "type": "11",
         "description": "Recreation of Minecraft Java Edition: Classic Survival Test.",
@@ -604,15 +604,15 @@
         "source": "https://github.com/CrossCraft/CrossCraft-SurvivalTest",
         "release_page": "https://github.com/CrossCraft/CrossCraft-SurvivalTest/releases",
         "trailer": "",
-        "size": "36864192",
+        "size": "9746437",
         "data_size": "0",
-        "hash": "0575beec9ad02b47c7d642a89a88dbf5",
+        "hash": "9ca3b3ece8647b3837e05eda5c198312",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/CrossCraft/CrossCraft-SurvivalTest/releases/download/ST3/CrossCraft-PSP.zip",
+        "url": "https://github.com/CrossCraft/CrossCraft-SurvivalTest/releases/download/ST4/CrossCraft-PSP.zip",
         "data": ""
     },
     {
