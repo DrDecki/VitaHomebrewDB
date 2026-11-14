@@ -55,3 +55,30 @@ def _ensure_added():
             print('added nachgetragen: %d in %s' % (len(fehlt), f))
 
 _ensure_added()
+
+
+def _ensure_updated():
+    import datetime, json, re, subprocess
+    now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    rescue = re.compile(r'rinnegatamante\.eu|get_hb_url|archive\.org|gamebrew|cbps', re.I)
+    def key(a):
+        v = re.sub(r'^[v.\s]+', '', (a.get('version') or '').strip().lower())
+        u = a.get('url') or ''
+        return v, re.sub(r'^\d+-', '', u.split('?')[0].rstrip('/').rsplit('/', 1)[-1].lower()), u
+    for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
+        r = subprocess.run(['git', 'show', 'HEAD:' + f], capture_output=True)
+        if r.returncode != 0: continue
+        try: head = {str(a['id']): a for a in json.loads(r.stdout)}
+        except Exception: continue
+        d = json.load(open(f, encoding='utf-8')); n = 0
+        for a in d:
+            h = head.get(str(a['id']))
+            if not h or a.get('updated') != h.get('updated'): continue
+            o, k = key(h), key(a)
+            if o[0] != k[0] or (o[1] != k[1] and not rescue.search(o[2])):
+                a['updated'] = now; n += 1
+        if n:
+            json.dump(d, open(f, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
+            print('updated gesetzt: %d in %s' % (n, f))
+
+_ensure_updated()

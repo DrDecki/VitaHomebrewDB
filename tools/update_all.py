@@ -37,7 +37,7 @@ for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/too
         n += 1
         if WRITE:
             b = urllib.request.urlopen(urllib.request.Request(x['browser_download_url'], headers={'User-Agent': 'v'}), timeout=900).read()
-            a.update(version=nv, url=x['browser_download_url'], size=str(len(b)), hash=hashlib.md5(b).hexdigest()); dirty = True
+            a.update(updated=__import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), version=nv, url=x['browser_download_url'], size=str(len(b)), hash=hashlib.md5(b).hexdigest()); dirty = True
         time.sleep(0.2)
     if dirty: json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
 print('\n%d Aktualisierungen%s' % (n, '' if WRITE else ' (Probelauf)'))
