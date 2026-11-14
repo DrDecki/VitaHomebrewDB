@@ -160,6 +160,7 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
                 continue
         old_v, old_f = a.get('version', '?'), cur
         a['url'] = best['browser_download_url']
+        if changes and len(changes) < 50: time.sleep(60)
         a['updated'] = __import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         a['size'] = str(len(blob) if blob is not None else best['size'])
         a['hash'] = hashlib.md5(blob).hexdigest() if blob is not None else ''

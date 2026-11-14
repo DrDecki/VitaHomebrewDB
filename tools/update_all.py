@@ -1,5 +1,6 @@
-import hashlib, json, os, re, subprocess, sys, time, urllib.request
+import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 WRITE = '--write' in sys.argv
 BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'symbols')
 def gh(p):
@@ -7,10 +8,9 @@ def gh(p):
     return json.loads(r.stdout) if r.returncode == 0 else None
 def vernum(s): return [int(x) for x in re.findall(r'\d+', s or '')[:4]]
 def slug(s): return re.sub(r'[^a-z0-9]', '', (s or '').lower())
-n = 0
-for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
-    p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8')); dirty = False
-    for a in d:
+todo = []
+for f in FILES:
+    for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
         if 'nightly' in (a.get('version') or '').lower(): continue
         m = re.search(r'github\.com/([^/\s]+/[^/\s?#]+)', (a.get('source') or '') + ' ' + (a.get('release_page') or ''))
         if not m: continue
@@ -34,10 +34,17 @@ for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/too
         nv, av, bv = 'v.' + kern, vernum(kern), vernum(a.get('version'))
         if [i for i in av if i] == [i for i in bv if i] or av <= bv: continue
         print('  %-28s %-14s -> %-12s %s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26]), flush=True)
-        n += 1
-        if WRITE:
-            b = urllib.request.urlopen(urllib.request.Request(x['browser_download_url'], headers={'User-Agent': 'v'}), timeout=900).read()
-            a.update(updated=__import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), version=nv, url=x['browser_download_url'], size=str(len(b)), hash=hashlib.md5(b).hexdigest()); dirty = True
+        todo.append((f, a['id'], nv, x['browser_download_url']))
         time.sleep(0.2)
-    if dirty: json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
-print('\n%d Aktualisierungen%s' % (n, '' if WRITE else ' (Probelauf)'))
+print('\n%d Aktualisierungen%s' % (len(todo), '' if WRITE else ' (Probelauf)'))
+if not WRITE: sys.exit()
+for k, (f, i, nv, url) in enumerate(todo):
+    if k and len(todo) < 50: time.sleep(60)
+    b = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'v'}), timeout=900).read()
+    p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8'))
+    for a in d:
+        if a['id'] == i:
+            a.update(version=nv, url=url, size=str(len(b)), hash=hashlib.md5(b).hexdigest(),
+                     updated=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'))
+    json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
+    print('  geschrieben: %s %s' % (i, nv), flush=True)

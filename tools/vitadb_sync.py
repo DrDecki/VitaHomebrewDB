@@ -1,4 +1,4 @@
-import datetime, hashlib, json, os, re, subprocess, sys, urllib.request
+import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WRITE = '--write' in sys.argv
 SKIP = {'Shards of Dawn'}
@@ -14,6 +14,7 @@ for e in ('list_hbs_by_titleid', 'list_plugins_json', 'list_psp_hbs_json', 'list
     for a in json.load(urllib.request.urlopen(req, timeout=90)): vd[a['name']] = a
 t = open(os.path.join(ROOT, 'vitadb_issue.md'), encoding='utf-8').read()
 neu = re.findall(r'^- \*\*(.+?)\*\* by (.+?) \*\((.+?), (.+?)\)\*  —  (.+)$', t, re.M)
+done = 0
 for name, author, kat, datum, src in neu:
     v = vd.get(name, {})
     if name in SKIP or 'nightly' in (v.get('version') or '').lower():
@@ -31,6 +32,8 @@ for name, author, kat, datum, src in neu:
     ver = 'v.' + re.sub(r'^[^\d]*', '', r['tag_name'])
     print('  OK    %-34s %-12s %s' % (name[:34], ver[:12], a['name'][:30]), flush=True)
     if not WRITE: continue
+    if done and len(neu) < 50: time.sleep(60)
+    done += 1
     args = ['python3', 'add_app.py', '--url', a['browser_download_url'], '--type', TYP.get(v.get('type'), 'original'),
             '--author', author, '--desc', (v.get('description') or name + ' for PSVITA.').strip(),
             '--source', 'https://github.com/' + repo, '--release-page', 'https://github.com/%s/releases' % repo, '--version', ver]
