@@ -49,6 +49,8 @@ for name, author, kat, datum, src in neu:
           'date': datetime.date.today().isoformat(), 'downloads': '0', 'release_page': 'https://github.com/%s/releases' % repo,
           'source': 'https://github.com/' + repo, 'screenshots': '', 'status': '0', 'tags': '', 'trailer': '',
           'trophies': '0', 'ai': '0', 'score': '0'})
+        for _x in d:
+            if not _x.get('added'): _x['added'] = __import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
         res = ['added "%s" as id %s (ohne Icon)' % (name, nid)]
     print('        %s' % res[0])

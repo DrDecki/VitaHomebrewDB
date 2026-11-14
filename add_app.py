@@ -107,6 +107,8 @@ if a.psp:
 
 apps.insert(0, entry)
 with open(os.path.join(ROOT, target), 'w') as f:
+    for _x in apps:
+        if not _x.get('added'): _x['added'] = __import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     json.dump(apps, f, indent=4, ensure_ascii=False)
 
 os.unlink(tmp.name)

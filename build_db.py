@@ -41,3 +41,17 @@ print('icon coverage: %d/%d needed present' % (len(needed) - len(missing), len(n
 if missing:
     print('MISSING: %s' % sorted(missing)[:5])
     sys.exit(1)
+
+
+def _ensure_added():
+    import datetime, json, os
+    now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
+        d = json.load(open(f, encoding='utf-8'))
+        fehlt = [a for a in d if not a.get('added')]
+        if fehlt:
+            for a in fehlt: a['added'] = now
+            json.dump(d, open(f, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
+            print('added nachgetragen: %d in %s' % (len(fehlt), f))
+
+_ensure_added()

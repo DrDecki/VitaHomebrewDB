@@ -63,5 +63,7 @@ for i, e in enumerate(neu):
     e['screenshots'] = ';'.join(shots)
     if i % 200 == 0: print('  Screenshots %d / %d' % (i, len(neu)), flush=True)
 psp += neu
+for _x in psp:
+    if not _x.get('added'): _x['added'] = __import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 json.dump(psp, open(os.path.join(ROOT, 'psp_apps.json'), 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
 print('  %d Eintraege in psp_apps.json geschrieben' % len(neu))
