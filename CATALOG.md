@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1355)
+## PSVITA homebrews (1357)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -44,7 +44,8 @@ Every entry, with the download it currently points at. The ones added since
 | Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [github](https://github.com/withLogic/alex4) |
 | Alien Hominid | unclejahjah | v.build-2026-11-05 | 0.4 MB | [download](https://github.com/unclejahjah/ahhd-vita/releases/download/build-2026-11-05/ahhd_vita.vpk) | [github](https://github.com/unclejahjah/ahhd-vita) |
 | Alisa Vita | Rinnegatamante & PatnosD | v.1.2 | 52.5 MB | [download](https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk) | [github](https://github.com/Rinnegatamante/Alisa-Vita) |
-| Ambidextro | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
+| Ambidextro (Rocroverss) | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
+| Ambidextro (WolffsRoom) | WolffsRoom | v.0.1.0-beta.1 | 21.9 MB | [download](https://github.com/WolffsRoom/ambidextro-vita/releases/download/v0.1.0-beta.1/AmbidextroVita-v0.1.0-beta.1.vpk) | [github](https://github.com/WolffsRoom/ambidextro-vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [github](https://github.com/FridiNaTor1/HPL2-handyman) |
 | An Untitled Story | JeffRulz345 | v.1.0 | 44.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/412-AnUntitledStory.vpk) | [drive](https://drive.google.com/open?id=1WnmCXBQxEASaanJ0jX8fJoeK6NWbxTV7) [reddit.com](https://www.reddit.com/r/vitahacks/comments/abzr7c/release_an_untitled_story_gms_port/) |
 | Anarch Vita | Sugardrenaline | v.1.1 | 0.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1125-anarch.vpk) | [gitlab](https://gitlab.com/sugardrenaline/anarch/) |
@@ -256,6 +257,7 @@ Every entry, with the download it currently points at. The ones added since
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [itch.io](https://drdecki.itch.io/deckis-platformer) |
 | Defender II Vita | Rocroverss | v.1.01 | 2.3 MB | [download](https://github.com/Rocroverss/Defender-II-PS-Vita-Port/releases/download/v1.01/defender2_vita_1.01.vpk) | [github](https://github.com/Rocroverss/Defender-II-PS-Vita-Port) |
 | Defendguin | Island_Games | v.1.0 | 2.8 MB | [download](https://github.com/island-games/Defendguin/releases/download/v1.0/Defendguin.vpk) | [github](https://github.com/island-games/Defendguin) |
+| Deltarune Lightners | WolffsRoom | v.1.0 | 22.8 MB | [download](https://github.com/WolffsRoom/DeltaruneLightnersVita/releases/download/v1.0/deltalightplusvita.vpk) | [github](https://github.com/WolffsRoom/DeltaruneLightnersVita) |
 | Deltarune Vita | WolffsRoom | v.0.81 | 9.7 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.81/Deltarune-v0.81.vpk) | [github](https://github.com/WolffsRoom/DeltaruneVita) |
 | Demon Front Vita | Tobic-99 | v.0.1 | 2.6 MB | [download](https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk) | [github](https://github.com/Tobic-99/demonfront-vita) |
 | Demons Down | WIDEGCG | v.1.0 | 45.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/679-DemonsDown.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/demonsdown/) |
@@ -1691,4 +1693,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-1668 entries, 32.9 GB in total.
+1670 entries, 33.0 GB in total.

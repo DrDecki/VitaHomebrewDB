@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (342)
+## PSVITA homebrews (344)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -16,7 +16,8 @@ what it was on the day the service went down.
 | Adventure Time | BM-Hicham19 | v.ready-to-play | 0.5 MB | [download](https://github.com/BM-Hicham19/ATVITA/releases/download/ready-to-play/AdventureTimeVita.vpk) | [github](https://github.com/BM-Hicham19/ATVITA) |
 | Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [github](https://github.com/withLogic/alex4) |
 | Alien Hominid | unclejahjah | v.build-2026-11-05 | 0.4 MB | [download](https://github.com/unclejahjah/ahhd-vita/releases/download/build-2026-11-05/ahhd_vita.vpk) | [github](https://github.com/unclejahjah/ahhd-vita) |
-| Ambidextro | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
+| Ambidextro (Rocroverss) | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
+| Ambidextro (WolffsRoom) | WolffsRoom | v.0.1.0-beta.1 | 21.9 MB | [download](https://github.com/WolffsRoom/ambidextro-vita/releases/download/v0.1.0-beta.1/AmbidextroVita-v0.1.0-beta.1.vpk) | [github](https://github.com/WolffsRoom/ambidextro-vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [github](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Apotris | Rocroverss | v.1.0 | 7.5 MB | [download](https://github.com/Rocroverss/apotris-psvita/releases/download/v1.0/Apotris.v1.0-audio.vpk) | [github](https://github.com/Rocroverss/apotris-psvita) |
 | Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [github](https://github.com/memory-hunter/arcaea-vita) |
@@ -64,6 +65,7 @@ what it was on the day the service went down.
 | D2Vita | Franckrst | v.0.2.3 | 7.7 MB | [download](https://github.com/Franckrst/D2Vita/releases/download/v0.2.3/d2vita.vpk) | [github](https://github.com/Franckrst/D2Vita) |
 | Dancing Every Night | Docteurbob | v.1.1.0 | 22.1 MB | [download](https://github.com/m-a-fr/dancing-every-night/releases/download/v1.1.0/DancingEveryNight-1.1.0.vpk) | [github](https://github.com/m-a-fr/dancing-every-night) |
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [itch.io](https://drdecki.itch.io/deckis-platformer) |
+| Deltarune Lightners | WolffsRoom | v.1.0 | 22.8 MB | [download](https://github.com/WolffsRoom/DeltaruneLightnersVita/releases/download/v1.0/deltalightplusvita.vpk) | [github](https://github.com/WolffsRoom/DeltaruneLightnersVita) |
 | Demon Front Vita | Tobic-99 | v.0.1 | 2.6 MB | [download](https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk) | [github](https://github.com/Tobic-99/demonfront-vita) |
 | Descent ディセント | KiddRwxSsj | v.1.0.3 | 1.7 MB | [download](https://github.com/KiddRwxSsj/descent-vita/releases/download/1.0.3/Descent1.0.3.vpk) | [github](https://github.com/KiddRwxSsj/descent-vita) |
 | DESTINIA | MetalSyntax | v.1.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Destinia-vita/releases/download/1.0/destinia.vpk) | [github](https://github.com/MetalSyntax/Destinia-vita) |
@@ -403,4 +405,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.3 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-379 entries, 3.3 GB in total.
+381 entries, 3.3 GB in total.
