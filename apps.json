@@ -1278,7 +1278,7 @@
     {
         "name": "Void Trader",
         "icon": "5f4f8003ee5c956c0af25477622c521eac8fafdf45fe0b507e464ca01f2afb97.png",
-        "version": "v.1.5.8",
+        "version": "v.1.6.0",
         "author": "Syncriel",
         "type": "1",
         "description": "Space trading game for PSVita.",
@@ -1292,16 +1292,16 @@
         "source": "https://github.com/Syncriel/void-trader",
         "release_page": "https://github.com/Syncriel/void-trader/releases",
         "trailer": "",
-        "size": "1626706",
+        "size": "1638479",
         "data_size": "0",
-        "hash": "03742a4bf4b38836720dd7fde57c67e5",
+        "hash": "4e7b0d3c7c325b56ea7d2e6a538e22e1",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- libshacccg.suprx",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/Syncriel/void-trader/releases/download/v1.5.8/voidtrader-v1.5.8.vpk",
+        "url": "https://github.com/Syncriel/void-trader/releases/download/v1.6.0/voidtrader-v1.6.0.vpk",
         "data": ""
     },
     {
