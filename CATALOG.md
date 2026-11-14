@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1357)
+## PSVITA homebrews (1358)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -765,6 +765,7 @@ Every entry, with the download it currently points at. The ones added since
 | Pinkshake | cojam | v.1 | 93.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1153-pinkshake.vpk) | [itch.io](https://cojam.itch.io/pinkshake) |
 | Pixel Acres | ETX Vantage | v.0.8.1 | 38.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PixelAcresVita.vpk) | [etxvantage.com](https://etxvantage.com/products/pixel-acres) |
 | Pixel Chess | Macperek | v.1.0 | 0.3 MB | [download](https://github.com/Macperek/PixelChess/releases/download/v1.0/PixelChess.vpk) | [github](https://github.com/Macperek/PixelChess) |
+| Pizza Tower SAGE 2019 | WolffsRoom | v.0.55 | 7.6 MB | [download](https://github.com/WolffsRoom/PizzaTowerSage2019Vita/releases/download/v0.55/PizzaTowerSAGE-v0.55.vpk) | [github](https://github.com/WolffsRoom/PizzaTowerSage2019Vita) |
 | PKGi | mmozeiko | v.0.05 | 0.2 MB | [download](https://github.com/mmozeiko/pkgi/releases/download/v0.05/pkgi-v0.05.vpk) | [github](https://github.com/mmozeiko/pkgi) |
 | PKGInstaller Launcher | SKGleba | v.1.0 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/381-PKGInstallerLauncher.vpk) | [gbatemp.net](https://gbatemp.net/threads/release-pkginstaller-launcher-install-pkgs-from-desired-partition.487118/) |
 | PKGj | blastrock | v.0.57 | 1.4 MB | [download](https://github.com/blastrock/pkgj/releases/download/v0.57/pkgj.vpk) | [github](https://github.com/blastrock/pkgj) |
@@ -1693,4 +1694,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-1670 entries, 33.0 GB in total.
+1671 entries, 33.0 GB in total.
