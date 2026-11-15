@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (355)
+## PSVITA homebrews (354)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -316,7 +316,6 @@ what it was on the day the service went down.
 | Vita IPTV | emrhky | v.1.1.0 | 1.7 MB | [download](https://github.com/emrhky/VitaIPTV/releases/download/v1.1.0/VitaIPTV.vpk) | [github](https://github.com/emrhky/VitaIPTV) |
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [github](https://github.com/kyokuheishin/vita-ns-controller) |
 | Vita RomM | denkacn | v.0.8.1 | 2.3 MB | [download](https://github.com/denkacn/vita-romm/releases/download/v0.8.1/vita_romm.vpk) | [github](https://github.com/denkacn/vita-romm) |
-| Vita Slim's Editor | myname24 | v.2.0.1 | 1.5 MB | [download](https://github.com/myname24/vita-slims-editor/releases/download/V2.0.1/vitaslimseditor.vpk) | [github](https://github.com/myname24/vita-slims-editor) |
 | Vita Slim's Editor | myname24 | v.2.0.1 | 1.5 MB | [download](https://github.com/myname24/vita-slims-editor/releases/download/V2.0.1/vitaslimseditor.vpk) | [github](https://github.com/myname24/vita-slims-editor) |
 | Vita Steam Link | vankash | Beta | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/VitaSteamLink.vpk) | [vankash.de](https://vankash.de/steamonvita/) |
 | Vita-PrBoom++ | TonyFideo & fgsfds | v.2.6.66-1.1 | 3.0 MB | [download](https://github.com/TonyFideo/Vita-PrBoom-PlusPlus/releases/download/2.6.66-1.1/vita-prboom++.vpk) | [github](https://github.com/TonyFideo/Vita-PrBoom-PlusPlus) |
@@ -3384,4 +3383,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.3 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3360 entries, 24.0 GB in total.
+3359 entries, 24.0 GB in total.
