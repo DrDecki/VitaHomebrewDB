@@ -193,7 +193,7 @@ what it was on the day the service went down.
 | PKGj | blastrock | v.0.57 | 1.4 MB | [download](https://github.com/blastrock/pkgj/releases/download/v0.57/pkgj.vpk) | [github](https://github.com/blastrock/pkgj) |
 | Plague Inc. Vita | danroxn | v.1.0 | 4.0 MB | [download](https://github.com/danroxn/plague_vita/releases/download/v1.0/plague-vita.vpk) | [github](https://github.com/danroxn/plague_vita) |
 | Plants vs Zombies 2 | LeZergan | v.1.1-rc29 | 1.1 MB | [download](https://github.com/LeZergan/pvz2vita/releases/download/v1.1-rc29/pvz2-vita-latest.vpk) | [github](https://github.com/LeZergan/pvz2vita) |
-| Plus-Vita | Calligula87 | v.001 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v001/plus-vita-v001.vpk) | [github](https://github.com/Calligula87/plus-vita) |
+| Plus-Vita | Calligula87 | v.002 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v002/plus-vita-v002.vpk) | [github](https://github.com/Calligula87/plus-vita) |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [github](https://github.com/celticg/AS-Pocket-Mortys-vita) |
 | Pocket Shelf | fthdgn | v.shelf-v0.6.1-beta.2 | 2.5 MB | [download](https://github.com/fthdgn-gh/pocket-shelf/releases/download/shelf-v0.6.1-beta.2/pocket-shelf.vpk) | [github](https://github.com/fthdgn-gh/pocket-shelf) |
 | Pokemon Colosseum | Rinnegatamante | v.1.1 | 4.9 MB | [download](https://github.com/Rinnegatamante/colosseum-vita/releases/download/v.1.1/PokemonColosseum.vpk) | [github](https://github.com/Rinnegatamante/colosseum-vita) |
@@ -210,7 +210,7 @@ what it was on the day the service went down.
 | Raging Thunder 2 | MetalSyntax | v.1.1.2 | 1.1 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-2-vita/releases/download/v1.1.2/ragingthunder2.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-2-vita) |
 | RALA:/:sutura | solmare | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ralasutura.vpk) | [itch.io](https://solmare.itch.io/ralasutura) |
 | Rally Mayhem | rsn8887 | v.1.2.0 | 1.9 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.2.0/RallyMayhem-1.2.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
-| RAP-Vita | Paxrisen | v.1.0 | 1.0 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.0/Rap-Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
+| RAP-Vita | Paxrisen | v.1.1 | 1.0 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.1/Rap-Vita_v1.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
 | Rayman Fiesta Run | MetalSyntax | v.0.1 | 1.9 MB | [download](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita/releases/download/v0.1/raymanfiesta.vpk) | [github](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita) |
 | Rayman Jungle Run | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.2.0/raymanjunglerun.vpk) | [github](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita) |
 | Real Racing HD | MetalSyntax | v.1.0.0 | 2.2 MB | [download](https://github.com/MetalSyntax/Real-Racing-HD-vita/releases/download/v1.0.0/realracinghd.vpk) | [github](https://github.com/MetalSyntax/Real-Racing-HD-vita) |
@@ -282,7 +282,7 @@ what it was on the day the service went down.
 | tls_fixer | devnoname120 | v.0.2.3 | 5.2 MB | [download](https://github.com/devnoname120/vita_tls_fixer/releases/download/v0.2.3/tls_fixer.vpk) | [github](https://github.com/devnoname120/vita_tls_fixer) |
 | TMNT | ZekLab | v.0.5 | 0.9 MB | [download](https://github.com/ZekLab/TMNT-2003-PSVita-Port/releases/download/v0.5/TMNTVita.vpk) | [github](https://github.com/ZekLab/TMNT-2003-PSVita-Port) |
 | TNT Recompiled | SeveerJ | v.100 | 1.8 MB | [download](https://github.com/SeveerJ/tnt64-recomp/releases/download/V.100/TNTRecompiled.vpk) | [github](https://github.com/SeveerJ/tnt64-recomp) |
-| TNTV | T64NCollection | v.1.01 | 0.7 MB | [download](https://github.com/T64NCollection/TNTV/releases/download/v1.01/TNTV_v1.01.vpk) | [github](https://github.com/T64NCollection/TNTV) |
+| TNTV | T64NCollection | v.1.05 | 0.7 MB | [download](https://github.com/T64NCollection/TNTV/releases/download/v1.05/TNTV_v1.05.vpk) | [github](https://github.com/T64NCollection/TNTV) |
 | Tony Hawk's Pro Skater | DarthSully | v.0.30 | 1.8 MB | [download](https://github.com/DarthSully/Tony-Hawk-Slop-Skater/releases/download/v0.30/thps.vpk) | [github](https://github.com/DarthSully/Tony-Hawk-Slop-Skater) |
 | Top Tennis | figarocool | v.1.4 | 0.7 MB | [download](https://github.com/figarocool/Top-Tennis-game-Factory/releases/download/v1.4/TopTennis.vpk) | [github](https://github.com/figarocool/Top-Tennis-game-Factory) |
 | Touhou Koumakyou | Wavy667 | v.0.1 | 2.6 MB | [download](https://github.com/Wavy667/th06-vita/releases/download/v0.1/th06-vita.vpk) | [github](https://github.com/Wavy667/th06-vita) |
@@ -334,7 +334,7 @@ what it was on the day the service went down.
 | VivoTube | hamburger101 | v.1.3.4 | 6.6 MB | [download](https://github.com/hamburger101/VivoTube/releases/download/v1.3.4/VivoTube.vpk) | [github](https://github.com/hamburger101/VivoTube) |
 | vkQuake2 | DrDecki | v.1.1 | 2.4 MB | [download](https://github.com/DrDecki/vkquake2-vita/releases/download/v1.1/vkquake2.vpk) | [github](https://github.com/DrDecki/vkquake2-vita) |
 | Void Stranger | WolffsRoom | v.2.1 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.1/VoidStranger-v2.1.vpk) | [github](https://github.com/WolffsRoom/VoidStrangerVita) |
-| Void Trader | Syncriel | v.1.6.1 | 1.6 MB | [download](https://github.com/Syncriel/void-trader/releases/download/v1.6.1/voidtrader-v1.6.1.vpk) | [github](https://github.com/Syncriel/void-trader) |
+| Void Trader | Syncriel | v.1.6.2 | 1.6 MB | [download](https://github.com/Syncriel/void-trader/releases/download/v1.6.2/voidtrader-v1.6.2.vpk) | [github](https://github.com/Syncriel/void-trader) |
 | Vreed | ocelot-oss | v.0.10.0-beta.1 | 31.1 MB | [download](https://github.com/ocelot-oss/Vreed/releases/download/v0.10.0-beta.1/Vreed.vpk) | [github](https://github.com/ocelot-oss/Vreed) |
 | WaddleVita | HoloFlix | v.0.2.0 | 10.0 MB | [download](https://github.com/HoloFlix/WaddleVita/releases/download/0.2.0/WaddleVita.vpk) | [github](https://github.com/HoloFlix/WaddleVita) |
 | Wesnoth | Nathan Kewley | v.0.1 | 450.0 MB | [download](https://github.com/NathanKewley/wesnoth-vita/releases/download/v0.1/wesnoth-01.18.vpk) | [github](https://github.com/NathanKewley/wesnoth-vita) |
@@ -365,9 +365,9 @@ what it was on the day the service went down.
 | FreePSM | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/freepsm/releases/download/v1.1/FreePSM-v1.1.suprx) | [git.silica.codes](https://git.silica.codes/Li/freepsm) |
 | GR544P | junminlee2004 | v.4.0 | 0.0 MB | [download](https://github.com/junminlee2004/GR544P/releases/download/v4.0/GR544P.suprx) | [github](https://github.com/junminlee2004/GR544P) |
 | iduSpoof | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/iduspoof/releases/download/v1.0/iduSpoof.suprx) | [git.silica.codes](https://git.silica.codes/Li/iduspoof) |
-| JamaisVu | delon5 | v.2.0.0-rc3 | 1.1 MB | [download](https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc3/JamaisVu-2.0.0-rc3.zip) | [github](https://github.com/delon5/JamaisVu) |
+| JamaisVu | delon5 | v.2.0.0-rc4 | 1.1 MB | [download](https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc4/JamaisVu-2.0.0-rc4.zip) | [github](https://github.com/delon5/JamaisVu) |
 | LiveArea NoLimits | devnoname120 | v.2.1.0 | 0.0 MB | [download](https://github.com/devnoname120/livearea_nolimits/releases/download/v2.1.0/livearea_nolimits.suprx) | [github](https://github.com/devnoname120/livearea_nolimits) |
-| LiveArea Search | devnoname120 | v.1.0.2 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.2/livearea-search-v1.0.2.zip) | [github](https://github.com/devnoname120/livearea-search) |
+| LiveArea Search | devnoname120 | v.1.0.3 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.3/livearea-search-v1.0.3.zip) | [github](https://github.com/devnoname120/livearea-search) |
 | noavls | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/noavls/releases/download/v0.1/noavls.skprx) | [git.silica.codes](https://git.silica.codes/Li/noavls) |
 | NoPspEmuDrm | LiEnby | v.1.06 | 0.0 MB | [download](https://github.com/LiEnby/NoPspEmuDrm/releases/download/v1.06/NoPspEmuDrm_kern.skprx) | [github](https://github.com/LiEnby/NoPspEmuDrm) |
 | novsync | junminlee2004 | v.1.0 | 0.0 MB | [download](https://github.com/junminlee2004/novsync/releases/download/v1.0/novsync.suprx) | [github](https://github.com/junminlee2004/novsync) |
