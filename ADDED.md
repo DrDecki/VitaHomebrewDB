@@ -249,7 +249,7 @@ what it was on the day the service went down.
 | Sonic 1 Forever | MDashK | v.1.0 | 1.8 MB | [download](https://github.com/MDashK/TeamForever-v4-1.3-vita/releases/download/v1.0/Sonic1Forever.vpk) | [github](https://github.com/MDashK/TeamForever-v4-1.3-vita) |
 | Sonic 2 Absolute | MDashK | v.1.2 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Sonic2Absolute.vpk) | [github](https://github.com/MDashK/TeamForever-v4-1.3-vita) |
 | Sonic CD Redux | PupueStudios | v.1.0 | 2.1 MB | [download](https://github.com/PupueStudios/SCD-Vita-Redux/releases/download/v1.0/SonicCDRedux.vpk) | [github](https://github.com/PupueStudios/SCD-Vita-Redux) |
-| Sonic R | FreddySP | v.2.0 | 4.1 MB | [download](https://github.com/PupueStudios/sonic-r-vita/releases/download/v2.0/sonicr_vita.vpk) | [github](https://github.com/fr3dsp/sonic-r-vita) |
+| Sonic R | PupueStudios | v.2.0 | 4.1 MB | [download](https://github.com/PupueStudios/sonic-r-vita/releases/download/v2.0/sonicr_vita.vpk) | [github](https://github.com/fr3dsp/sonic-r-vita) |
 | Sonic Robo Blast 2 | KiddRwxSsj | v.0.5.0 | 7.1 MB | [download](https://github.com/KiddRwxSsj/srb2-vita/releases/download/0.5.0/srb2.vpk) | [github](https://github.com/KiddRwxSsj/srb2-vita) |
 | Space Taxi Mayhem | rsn8887 | v.1.5.0 | 3.2 MB | [download](https://github.com/rsn8887/SpaceTaxiMayhem/releases/download/v1.5.0/SpaceTaxiMayhem-1.5.0-Vita.vpk) | [github](https://github.com/rsn8887/SpaceTaxiMayhem) |
 | Spelunky Vita Configurator | r3au | v.1.0 | 2.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/SpelunkyVitaConfigurator.vpk) | — |

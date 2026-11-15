@@ -985,7 +985,7 @@ Every entry, with the download it currently points at. The ones added since
 | Sonic CD Redux | PupueStudios | v.1.0 | 2.1 MB | [download](https://github.com/PupueStudios/SCD-Vita-Redux/releases/download/v1.0/SonicCDRedux.vpk) | [github](https://github.com/PupueStudios/SCD-Vita-Redux) |
 | Sonic CD Vita | SonicMastr | v.0.2 Alpha | 0.9 MB | [download](https://github.com/SonicMastr/Sonic-CD-Vita/releases/download/0.2/SonicCD.vpk) | [github](https://github.com/SonicMastr/Sonic-CD-Vita) |
 | Sonic Mania Vita | SonicMastr | v.1.1 | 2.0 MB | [download](https://github.com/SonicMastr/Sonic-Mania-Vita/releases/download/1.1/SonicMania.vpk) | [github](https://github.com/SonicMastr/Sonic-Mania-Vita) |
-| Sonic R | FreddySP | v.2.0 | 4.1 MB | [download](https://github.com/PupueStudios/sonic-r-vita/releases/download/v2.0/sonicr_vita.vpk) | [github](https://github.com/fr3dsp/sonic-r-vita) |
+| Sonic R | PupueStudios | v.2.0 | 4.1 MB | [download](https://github.com/PupueStudios/sonic-r-vita/releases/download/v2.0/sonicr_vita.vpk) | [github](https://github.com/fr3dsp/sonic-r-vita) |
 | Sonic Robo Blast 2 | KiddRwxSsj | v.0.5.0 | 7.1 MB | [download](https://github.com/KiddRwxSsj/srb2-vita/releases/download/0.5.0/srb2.vpk) | [github](https://github.com/KiddRwxSsj/srb2-vita) |
 | Sonic SMS 3 Timelines | MDashK | v.1.0 | 12.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1102-SOSR00003.vpk) | [archive.org](https://web.archive.org/web/20260630012901/https://fuhen.homebrew-contest.com/submissions/16/) |
 | SONIC THE HEDGEHOG RUN | bayashi | v.1.0 | 10.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1195-sonic_run.vpk) | — |
