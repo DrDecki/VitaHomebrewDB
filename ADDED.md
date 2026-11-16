@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (358)
+## PSVITA homebrews (357)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -197,7 +197,6 @@ what it was on the day the service went down.
 | Pinball NS | astro-plane | v.1.1 | 0.5 MB | [download](https://github.com/astro-plane/Pinball-NS-VITA-EDITION/releases/download/v1.1/PinballNS.vpk) | [github](https://github.com/astro-plane/Pinball-NS-VITA-EDITION) |
 | Pixel Acres | ETX Vantage | v.0.8.1 | 38.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PixelAcresVita.vpk) | [etxvantage.com](https://etxvantage.com/products/pixel-acres) |
 | Pizza Tower SAGE 2019 | WolffsRoom | v.0.55 | 7.6 MB | [download](https://github.com/WolffsRoom/PizzaTowerSage2019Vita/releases/download/v0.55/PizzaTowerSAGE-v0.55.vpk) | [github](https://github.com/WolffsRoom/PizzaTowerSage2019Vita) |
-| PKGj | blastrock | v.0.57 | 1.4 MB | [download](https://github.com/blastrock/pkgj/releases/download/v0.57/pkgj.vpk) | [github](https://github.com/blastrock/pkgj) |
 | Plague Inc. Vita | danroxn | v.1.0 | 4.0 MB | [download](https://github.com/danroxn/plague_vita/releases/download/v1.0/plague-vita.vpk) | [github](https://github.com/danroxn/plague_vita) |
 | Plants vs Zombies 2 | LeZergan | v.1.1-rc29 | 1.1 MB | [download](https://github.com/LeZergan/pvz2vita/releases/download/v1.1-rc29/pvz2-vita-latest.vpk) | [github](https://github.com/LeZergan/pvz2vita) |
 | Plus-Vita | Calligula87 | v.002 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v002/plus-vita-v002.vpk) | [github](https://github.com/Calligula87/plus-vita) |
@@ -3387,4 +3386,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.3 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3363 entries, 24.1 GB in total.
+3362 entries, 24.1 GB in total.
