@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1367)
+## PSVITA homebrews (1371)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -71,7 +71,7 @@ Every entry, with the download it currently points at. The ones added since
 | Area Play Vita Edition | NexArea-Official | v.1.0 | 2.3 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.0/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
 | Ars Poetica | Joao Eiras Antunes | v.1.0 | 61.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/681-ArsPoetica.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/arspoetica/) |
-| Art3m1sPSV | DeQxJ00 | v.1.4.9 | 28.6 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.4.9/Art3m1sPSV-v1.4.9.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
+| Art3m1sPSV | DeQxJ00 | v.1.5.2 | 28.9 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.2/Art3m1sPSV-v1.5.2.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
 | Arx Libertatis | KingTorro | v.2.0 | 4.0 MB | [download](https://github.com/TheLostPantheon/ArxLibertatis/releases/download/v2.0/arx-vita.vpk) | [github](https://github.com/TheLostPantheon/ArxLibertatis) |
 | Assessment Examination Vita | PatnosD | v.1.0 | 102.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1309-AssessmentExamination.vpk) | [itch.io](https://patnosd.itch.io/assessment-examination) |
 | Asteroids | KimsoftStudio | v.0.1 Beta | 2.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/513-asteroidsvh.VPK) | [github](https://github.com/KimsoftStudio/asteroidsvh/releases) |
@@ -419,6 +419,7 @@ Every entry, with the download it currently points at. The ones added since
 | Geometrizer | frangarcj | vita-20260711 | 1.3 MB | [download](https://github.com/frangarcj/geometrizer/releases/download/vita-20260711/geometrizer.vpk) | [github](https://github.com/frangarcj/geometrizer) |
 | Geometry Dash Vita | hatoving | v.1.02 | 1.1 MB | [download](https://github.com/hatoving/gdash-vita/releases/download/v1.02/gdash.vpk) | [github](https://github.com/hatoving/gdash-vita) |
 | Get the F off my lawn | Paulo | v.1.0 | 47.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/449-Get_20the_20F_20off_20my_20lawn.vpk) | — |
+| GH Vita | irxd | v.0.1.1 | 3.8 MB | [download](https://github.com/irxd/guitar-hero-vita/releases/download/v0.1.1/ghvita-v0.1.1.vpk) | [github](https://github.com/irxd/guitar-hero-vita) |
 | Ghost of Tsushima Mini Games | Lapy | v.1.00 | 59.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/991-got.vpk) | — |
 | Ghostship Vita | Rinnegatamante | v.1.3 | 6.5 MB | [download](https://github.com/Rinnegatamante/Ghostship/releases/download/v.1.3/Ghostship.vpk) | [github](https://github.com/Rinnegatamante/Ghostship) |
 | Girls Are Weird | 10TR!LL!ON Percent% | v.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/492-GirlsAreWeird.vpk) | [siinclaiir.wordpress.com](https://siinclaiir.wordpress.com/2017/12/01/girls-are-weird-psvita-port/) |
@@ -676,6 +677,7 @@ Every entry, with the download it currently points at. The ones added since
 | Neverputt Vita | Rinnegatamante | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-neverputt.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverputt-vita-port-of-neverputt-for-psvita-pstv.38248/) |
 | NextBot For PSVita | SoyKhaler | v.0.1 | 23.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-Nextbot4Vita.vpk) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
+| NFS Underground 2 | danos-x5 | v.0.8.0 | 9.4 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.0/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS3VITA | NDRW | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
 | NFSHP Vita | Electry | v.1.0 | 1.6 MB | [download](https://github.com/Electry/nfshp_vita/releases/download/v1.0/NFSHP.vpk) | [github](https://github.com/Electry/nfshp_vita) |
 | Night in the Woods | PatnosD | v.0.5 | 14.2 MB | [download](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA/releases/download/Release/NightInTheWoods.vpk) | [github](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA) |
@@ -714,6 +716,7 @@ Every entry, with the download it currently points at. The ones added since
 | OpenMW Vita | KingTorro | v.2.4.1 | 167.1 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.4.1/openmw-2.4.1.vpk) | [github](https://github.com/TheLostPantheon/openmw) |
 | OpenNow Vita | josephinoo | v.0.3.3 | 9.0 MB | [download](https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.3/opennow-vita.vpk) | [github](https://github.com/OpenCloudGaming/OpenNOW-vita) |
 | OpenRCT2-CE Vita | technicaljicama | v.1 | 4.5 MB | [download](https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk) | [github](https://github.com/technicaljicama/OpenRCT2-CE) |
+| OpenRCT2Vita | Paxrisen | v.2Vitav1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenSeason | InquisitionImplied | v.1.0 | 30.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/466-OpenSeason.vpk) | [twitter.com](https://twitter.com/Yoyogames28/status/1120550464121122816) |
 | OpenSonic Vita | KiddRwxSsj | v.1.0.7 | 10.4 MB | [download](https://github.com/KiddRwxSsj/opensonic-vita/releases/download/1.0.7/opensonic-vita.vpk) | [github](https://github.com/KiddRwxSsj/opensonic-vita) |
 | OpenSupaplex | sergiou87 | v.7.2.2 | 4.4 MB | [download](https://github.com/sergiou87/open-supaplex/releases/download/v7.2.2/OpenSupaplex.vpk) | [github](https://github.com/sergiou87/open-supaplex) |
@@ -1100,6 +1103,7 @@ Every entry, with the download it currently points at. The ones added since
 | The Other Her | SoySilver | v.1.0 | 27.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1338-TheOtherHer.vpk) | [itch.io](https://soysilver.itch.io/the-other-her) |
 | THE RHYTHM OF FIGHTERS | MDashK | v.1.4.1 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rof.vpk) | [github](https://github.com/MDashK/rof-vita) |
 | The Sims | marcocatena | v.1.1 | 4.3 MB | [download](https://github.com/marcocatena/TheSimsVita-release/releases/download/v1.1/TheSimsVita-v1.1.vpk) | [github](https://github.com/marcocatena/TheSimsVita-release) |
+| The Two Towers | pineVerdad | v.230 | 9.4 MB | [download](https://github.com/federicopellegrino994/lotr-two-towers-vita/releases/download/v230/TwoTowers.vpk) | [github](https://github.com/federicopellegrino994/lotr-two-towers-vita) |
 | The World Ends With You Vita | hatoving | v.1.1 | 35.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1112-TWEWY.vpk) | [archive.org](https://web.archive.org/web/20251215234641/https://fuhen.homebrew-contest.com/submissions/28/) |
 | Theme Manager EX | kylon | v.2.1 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/84-vtheme.vpk) | [bitbucket.org](https://bitbucket.org/kylon/theme-manager-ex-theme-engine) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=47868) |
 | TheXTech | TheXTech Team | v.1.7.4.1 | 4.6 MB | [download](https://github.com/TheXTech/TheXTech/releases/download/v1.7.4.1/thextech-vita-v1.7.4.1.zip) | [github](https://github.com/TheXTech/TheXTech) [wohlsoft.ru](https://wohlsoft.ru/projects/TheXTech/) |
@@ -1280,7 +1284,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaRW | tomtomdu80 | #04d791c | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/151-VitaRW.vpk) | [github](https://github.com/tomtomdu80/VitaRW) [wololo.net](http://wololo.net/2016/08/19/release-vitarw-gives-us-write-access-vitas-protected-partitions-wheres-downgrader/) |
 | VitaScreenFlasher | NamelessGhoul0 | v.1.1 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/122-VitaScreenFlasher.vpk) | [github](https://github.com/NamelessGhoul0/VitaScreenFlasher) |
 | VitaSDR | hiraethclub | v.0.3.0 | 1.2 MB | [download](https://github.com/hiraethsystems/VitaSDR/releases/download/v0.3.0/VitaSDR.vpk) | [github](https://github.com/hiraethclub/VitaSDR) |
-| VitaSend | trashman | v.0.9.8 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v0.9.8/VitaSend-v098.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
+| VitaSend | trashman | v.1.0.0 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v1.0.0/VitaSend-v100.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
 | VitaShell | TheFloW | v.2.02 | 1.8 MB | [download](https://github.com/TheOfficialFloW/VitaShell/releases/download/v2.02/VitaShell.vpk) | [github](https://github.com/TheOfficialFloW/VitaShell) |
 | VitaShell Theme Manager | Ruben_Wolfe | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/173-vitashellthememanager.vpk) | [wololo.net](https://wololo.net/talk/viewtopic.php?f=116&t=46936) |
 | vitaSnake | Grzybojad | v.1.5 | 1.8 MB | [download](https://github.com/Grzybojad/vitaSnake/releases/download/v1.5/vitaSnake.vpk) | [github](https://github.com/Grzybojad/vitaSnake) |
@@ -1427,7 +1431,7 @@ Every entry, with the download it currently points at. The ones added since
 | kuio | Rinnegatamante | v.1.2 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/kuio.zip) | [github](https://github.com/Rinnegatamante/kuio) |
 | Lastseconds | theorywrong | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/280-lastsecondsvita.7z) | — |
 | LiveArea NoLimits | devnoname120 | v.2.1.0 | 0.0 MB | [download](https://github.com/devnoname120/livearea_nolimits/releases/download/v2.1.0/livearea_nolimits.suprx) | [github](https://github.com/devnoname120/livearea_nolimits) |
-| LiveArea Search | devnoname120 | v.1.0.3 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.3/livearea-search-v1.0.3.zip) | [github](https://github.com/devnoname120/livearea-search) |
+| LiveArea Search | devnoname120 | v.1.0.4 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.4/livearea-search-v1.0.4.zip) | [github](https://github.com/devnoname120/livearea-search) |
 | Mac Address Spoofer | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/656-macaddressspoofervita.7z) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/mac_address_spoofer/) |
 | mikuar | Avellea | v.1.1 | 0.0 MB | [download](https://github.com/Avellea/mikuar/releases/download/1.1/mikuar.suprx) | [github](https://github.com/Avellea/mikuar) |
 | MiniVitaTV | TheFloW | beta 4 | 0.0 MB | [download](https://github.com/TheOfficialFloW/MiniVitaTV/releases/download/v0.5/ds3.skprx) | [github](https://github.com/TheOfficialFloW/MiniVitaTV) |
@@ -4671,4 +4675,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4648 entries, 53.7 GB in total.
+4652 entries, 53.7 GB in total.

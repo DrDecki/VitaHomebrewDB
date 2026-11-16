@@ -2,6 +2,7 @@ import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 WRITE = '--write' in sys.argv
+ONLY = sys.argv[sys.argv.index('--only') + 1] if '--only' in sys.argv else None
 BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'symbols')
 def gh(p):
     r = subprocess.run(['gh', 'api', p], capture_output=True, text=True, timeout=90)
@@ -12,6 +13,7 @@ todo = []
 for f in FILES:
     for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
         if 'nightly' in (a.get('version') or '').lower(): continue
+        if ONLY and slug(a['name']) != slug(ONLY): continue
         m = re.search(r'github\.com/([^/\s]+/[^/\s?#]+)', (a.get('source') or '') + ' ' + (a.get('release_page') or ''))
         if not m: continue
         rel = gh('repos/%s/releases?per_page=4' % re.sub(r'(\.git)?/*$', '', m.group(1)))

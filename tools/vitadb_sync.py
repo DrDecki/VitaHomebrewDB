@@ -1,6 +1,7 @@
 import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WRITE = '--write' in sys.argv
+ONLY = sys.argv[sys.argv.index('--only') + 1] if '--only' in sys.argv else None
 SKIP = {'Shards of Dawn'}
 BAD = re.compile(r'-logging|-debug|-test|_test|blank|source|symbols', re.I)
 TYP = {'1': 'original', '2': 'port', '4': 'utility', '5': 'emulator'}
@@ -17,6 +18,7 @@ neu = re.findall(r'^- \*\*(.+?)\*\* by (.+?) \*\((.+?), (.+?)\)\*  —  (.+)$', 
 done = 0
 for name, author, kat, datum, src in neu:
     v = vd.get(name, {})
+    if ONLY and name != ONLY: continue
     if name in SKIP or 'nightly' in (v.get('version') or '').lower():
         print('  SKIP  %-34s nightly' % name[:34]); continue
     if kat != 'Vita homebrews':
