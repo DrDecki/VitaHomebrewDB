@@ -3780,14 +3780,14 @@
         "id": "1827",
         "name": "LiveArea Search",
         "author": "devnoname120",
-        "version": "v.1.0.3",
+        "version": "v.1.0.4",
         "description": "Native scePaf LiveArea application search plugin for PlayStation Vita.",
         "long_description": "",
         "changelog": "- First Release",
         "requirements": "",
-        "url": "https://github.com/devnoname120/livearea-search/releases/download/v1.0.3/livearea-search-v1.0.3.zip",
-        "size": "50653",
-        "hash": "806f16fda4856552c3c0488d881f5088",
+        "url": "https://github.com/devnoname120/livearea-search/releases/download/v1.0.4/livearea-search-v1.0.4.zip",
+        "size": "45423",
+        "hash": "5537b110a6ed513fa3a5406534dc3ba8",
         "hash2": "",
         "data_size": "0",
         "date": "2026-11-13",
@@ -3800,7 +3800,7 @@
         "trailer": "",
         "trophies": "0",
         "added": "2026-11-13T21:41:34Z",
-        "updated": "2026-11-15T12:22:51Z"
+        "updated": "2026-11-16T13:13:23Z"
     },
     {
         "id": "1828",

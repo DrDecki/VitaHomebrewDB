@@ -23,7 +23,7 @@ what it was on the day the service went down.
 | Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [github](https://github.com/memory-hunter/arcaea-vita) |
 | Area Play Vita Edition | NexArea-Official | v.1.0 | 2.3 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.0/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
-| Art3m1sPSV | DeQxJ00 | v.1.4.9 | 28.6 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.4.9/Art3m1sPSV-v1.4.9.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
+| Art3m1sPSV | DeQxJ00 | v.1.5.2 | 28.9 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.2/Art3m1sPSV-v1.5.2.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [github](https://github.com/Grarak/azahar) |
 | Badland 2 | MetalSyntax | v.1.2.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Badland-2-vita/releases/download/v1.2.0/badland2.vpk) | [github](https://github.com/MetalSyntax/Badland-2-vita) |
 | Batman AC Lockdown | KiddRwxSsj | v.1.0 | 0.9 MB | [download](https://github.com/KiddRwxSsj/batman-acl-vita/releases/download/1.0/aclockdownvita1.0.vpk) | [github](https://github.com/KiddRwxSsj/batman-acl-vita) |
@@ -214,7 +214,7 @@ what it was on the day the service went down.
 | Raging Thunder 2 | MetalSyntax | v.1.1.2 | 1.1 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-2-vita/releases/download/v1.1.2/ragingthunder2.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-2-vita) |
 | RALA:/:sutura | solmare | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ralasutura.vpk) | [itch.io](https://solmare.itch.io/ralasutura) |
 | Rally Mayhem | rsn8887 | v.1.2.0 | 1.9 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.2.0/RallyMayhem-1.2.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
-| RAP-Vita | Paxrisen | v.1.1 | 1.0 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.1/Rap-Vita_v1.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
+| RAP-Vita | Paxrisen | v.1.2 | 1.1 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.2/Rap-Vita_v1.2.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
 | Rayman Fiesta Run | MetalSyntax | v.0.1 | 1.9 MB | [download](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita/releases/download/v0.1/raymanfiesta.vpk) | [github](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita) |
 | Rayman Jungle Run | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.2.0/raymanjunglerun.vpk) | [github](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita) |
 | Real Racing HD | MetalSyntax | v.1.0.0 | 2.2 MB | [download](https://github.com/MetalSyntax/Real-Racing-HD-vita/releases/download/v1.0.0/realracinghd.vpk) | [github](https://github.com/MetalSyntax/Real-Racing-HD-vita) |
@@ -261,7 +261,7 @@ what it was on the day the service went down.
 | Star Wars Battlefront II | tezla55 | v.beta | 6.5 MB | [download](https://github.com/tezla55/swbf2-vita/releases/download/beta/swbf2-vita.vpk) | [github](https://github.com/tezla55/swbf2-vita) |
 | Star Wars Episode I: The Phantom Menace | Bit | v.2.0 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/StarWarsPhantom.vpk) | [psx-place.com](https://www.psx-place.com/threads/star-wars-episode-i-the-phantom-menace-ps-vita-port.51309/) |
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [github](https://github.com/elliottwahl/Steel-Blossom-PSP) |
-| StepMania 5 | Luckyl13l | v.b112 | 42.3 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b112/StepMania5-Vita50-b112.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
+| StepMania 5 | Luckyl13l | v.123 | 41.7 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b123/StepMania5-Vita50-b123.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
 | Storage Manager | StaticLift | v.1.0 | 0.5 MB | [download](https://github.com/StaticLift/vita-storage-manager/releases/download/v1.0/VitaStorageManager.vpk) | [github](https://github.com/StaticLift/vita-storage-manager) |
 | Street Fighter IV CE (frangarcj) | frangarcj | v.1.0-rc3 | 1.2 MB | [download](https://github.com/frangarcj/sf4ce_vita/releases/download/v1.0-rc3/SF4CE.vpk) | [github](https://github.com/frangarcj/sf4ce_vita) |
 | Street Fighter IV CE (John Lay) | John Lay | v.1.0.0 | 2.6 MB | [download](https://github.com/john-lay/sf4-vita/releases/download/v1.0.0/sf4-vita-1.0.vpk) | [github](https://github.com/john-lay/sf4-vita) |
@@ -333,7 +333,7 @@ what it was on the day the service went down.
 | VitaOS | mvizensk | v.1.9.2 | 5.6 MB | [download](https://github.com/hotdog-face/VitaOS/releases/download/v1.9.2/VitaOS.vpk) | [github](https://github.com/mvizensk/VitaOS) |
 | VitaPlane | ing156 | v.0.39.05 | 34.1 MB | [download](https://github.com/ing156/VitaPlane/releases/download/v0.39.05/VitaPlane-0.39.05.vpk) | [github](https://github.com/ing156/VitaGram) |
 | VitaSDR | hiraethclub | v.0.3.0 | 1.2 MB | [download](https://github.com/hiraethsystems/VitaSDR/releases/download/v0.3.0/VitaSDR.vpk) | [github](https://github.com/hiraethclub/VitaSDR) |
-| VitaSend | trashman | v.0.9.8 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v0.9.8/VitaSend-v098.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
+| VitaSend | trashman | v.1.0.0 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v1.0.0/VitaSend-v100.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
 | VitaSpot | 0oPerryo0 | v.0.0.4 | 16.3 MB | [download](https://github.com/0oPerryo0/VitaSpot/releases/download/v0.0.4/VitaSpot.vpk) | [github](https://github.com/0oPerryo0/VitaSpot) |
 | vitaterm | jmverges | v.0.2.0 | 1.2 MB | [download](https://github.com/jmverges/vitaterm/releases/download/v0.2.0/vitaterm.vpk) | [github](https://github.com/jmverges/vitaterm) |
 | VitaTransfer | vusalif | v.1 | 0.2 MB | [download](https://github.com/vusalif/VitaTransfer/releases/download/1/VitaTransfer.vpk) | [github](https://github.com/vusalif/VitaTransfer) |
@@ -376,7 +376,7 @@ what it was on the day the service went down.
 | iduSpoof | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/iduspoof/releases/download/v1.0/iduSpoof.suprx) | [git.silica.codes](https://git.silica.codes/Li/iduspoof) |
 | JamaisVu | delon5 | v.2.0.0-rc4 | 1.1 MB | [download](https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc4/JamaisVu-2.0.0-rc4.zip) | [github](https://github.com/delon5/JamaisVu) |
 | LiveArea NoLimits | devnoname120 | v.2.1.0 | 0.0 MB | [download](https://github.com/devnoname120/livearea_nolimits/releases/download/v2.1.0/livearea_nolimits.suprx) | [github](https://github.com/devnoname120/livearea_nolimits) |
-| LiveArea Search | devnoname120 | v.1.0.3 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.3/livearea-search-v1.0.3.zip) | [github](https://github.com/devnoname120/livearea-search) |
+| LiveArea Search | devnoname120 | v.1.0.4 | 0.0 MB | [download](https://github.com/devnoname120/livearea-search/releases/download/v1.0.4/livearea-search-v1.0.4.zip) | [github](https://github.com/devnoname120/livearea-search) |
 | noavls | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/noavls/releases/download/v0.1/noavls.skprx) | [git.silica.codes](https://git.silica.codes/Li/noavls) |
 | NoPspEmuDrm | LiEnby | v.1.06 | 0.0 MB | [download](https://github.com/LiEnby/NoPspEmuDrm/releases/download/v1.06/NoPspEmuDrm_kern.skprx) | [github](https://github.com/LiEnby/NoPspEmuDrm) |
 | novsync | junminlee2004 | v.1.0 | 0.0 MB | [download](https://github.com/junminlee2004/novsync/releases/download/v1.0/novsync.suprx) | [github](https://github.com/junminlee2004/novsync) |
