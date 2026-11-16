@@ -92,7 +92,7 @@
     {
         "name": "OpenRCT2Vita",
         "icon": "9ae1639352be0e0b98ef3b32bf61a815ad88ae8f00c5f11c38fae3804ddab2e7.png",
-        "version": "v.2Vitav1.0",
+        "version": "v.1.0",
         "author": "Paxrisen",
         "type": "2",
         "description": "Port of OpenRCT2 for PSVita.",
@@ -117,7 +117,8 @@
         "score": "0",
         "url": "https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk",
         "data": "",
-        "added": "2026-11-16T17:02:00Z"
+        "added": "2026-11-16T17:02:00Z",
+        "updated": "2026-11-16T17:11:21Z"
     },
     {
         "name": "Ultimate Mortal Kombat 3",
@@ -752,7 +753,7 @@
     {
         "name": "RAP-Vita",
         "icon": "5a8aa19bdaf1ef5da6a9b7d095beb5f9b6c6f5f3a60e0591ab43ee20fe3f8dc9.png",
-        "version": "v.1.1",
+        "version": "v.1.2.1",
         "author": "Paxrisen",
         "type": "2",
         "description": "Port of Raptor: Call of the Shadows for PSVita.",
@@ -766,19 +767,19 @@
         "source": "https://github.com/Paxrisen/RAP-Vita",
         "release_page": "https://github.com/Paxrisen/RAP-Vita/releases",
         "trailer": "",
-        "size": "1040691",
+        "size": "1139099",
         "data_size": "0",
-        "hash": "600cfc1d6b2e97d8239aeceb260932df",
+        "hash": "748c2792cbb56ac69a04bdd0d28540fb",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: PC",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.1/Rap-Vita_v1.1.vpk",
+        "url": "https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.2.1/Rap-Vita_v1.2.1.vpk",
         "data": "",
         "added": "2026-11-13T21:39:57Z",
-        "updated": "2026-11-15T11:58:35Z"
+        "updated": "2026-11-16T17:10:12Z"
     },
     {
         "name": "Mii Maker Vita",
@@ -5638,7 +5639,7 @@
     {
         "name": "StepMania 5",
         "icon": "5c5f19e6b2554db06984eced1bef4a3c40848b275039fd86328b0b0c8bcc02b8.png",
-        "version": "v.b112",
+        "version": "v.b123",
         "author": "Luckyl13l",
         "type": "2",
         "description": "Port of StepMania 5 for PSVita.",
@@ -5652,18 +5653,19 @@
         "source": "https://github.com/LuckyI13I/stepmania-psvita",
         "release_page": "https://github.com/LuckyI13I/stepmania-psvita/releases",
         "trailer": "",
-        "size": "44320258",
+        "size": "43763397",
         "data_size": "0",
-        "hash": "29b1cd519cfedae328b001fabb490751",
+        "hash": "b50e06c435dfc878b35d1a00af527835",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- libshacccg.suprx",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/LuckyI13I/stepmania-psvita/releases/download/b112/StepMania5-Vita50-b112.vpk",
+        "url": "https://github.com/LuckyI13I/stepmania-psvita/releases/download/b123/StepMania5-Vita50-b123.vpk",
         "data": "",
-        "added": "2026-11-11T19:58:54Z"
+        "added": "2026-11-11T19:58:54Z",
+        "updated": "2026-11-16T17:11:20Z"
     },
     {
         "name": "Raging Thunder",

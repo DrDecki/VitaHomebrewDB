@@ -180,7 +180,7 @@ what it was on the day the service went down.
 | OmniBook | ninuzzomagno | v.1.96 | 34.2 MB | [download](https://github.com/ninuzzomagno/OmniBook/releases/download/v1.96/OmniBook.vpk) | [github](https://github.com/ninuzzomagno/OmniBook) |
 | Open1602 | Colie286 | v.1.11 | 7.2 MB | [download](https://github.com/Colie286/Open1602-Vita/releases/download/v1.11/Open1602-1.11.vpk) | [github](https://github.com/Colie286/Open1602-Vita) |
 | OpenMoHAA | ChatProductions \& HenryKun55 | v.0.4 | 10.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/OpenMoHAA.vpk) | [github](https://github.com/ChatProductions/openmohaavita) |
-| OpenRCT2Vita | Paxrisen | v.2Vitav1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
+| OpenRCT2Vita | Paxrisen | v.1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenTyrian 2000 Engaged | wlfn1116 | v.1.5.3 | 6.7 MB | [download](https://github.com/wlfn1116/OpenTyrian2000-Engaged/releases/download/1.5.3/OpenTyrian2000-Engaged-Vita.vpk) | [github](https://github.com/wlfn1116/OpenTyrian2000-Engaged) |
 | Orbis Minor | Drakon | v.0.2.2 | 11.5 MB | [download](https://github.com/DrakonPL/OrbisMinor/releases/download/0.2.2/OrbisMinor-0.2.2-vita.vpk) | [github](https://github.com/DrakonPL/OrbisMinor) |
 | Orcs & Elves II | sweetpalma | v.1.2.0 | 1.0 MB | [download](https://github.com/sweetpalma/oe-2-vita/releases/download/v1.2.0/oe2.vpk) | [github](https://github.com/sweetpalma/oe-2-vita) |
@@ -217,7 +217,7 @@ what it was on the day the service went down.
 | Raging Thunder 2 | MetalSyntax | v.1.1.2 | 1.1 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-2-vita/releases/download/v1.1.2/ragingthunder2.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-2-vita) |
 | RALA:/:sutura | solmare | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ralasutura.vpk) | [itch.io](https://solmare.itch.io/ralasutura) |
 | Rally Mayhem | rsn8887 | v.1.2.0 | 1.9 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.2.0/RallyMayhem-1.2.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
-| RAP-Vita | Paxrisen | v.1.1 | 1.0 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.1/Rap-Vita_v1.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
+| RAP-Vita | Paxrisen | v.1.2.1 | 1.1 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.2.1/Rap-Vita_v1.2.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
 | Rayman Fiesta Run | MetalSyntax | v.0.1 | 1.9 MB | [download](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita/releases/download/v0.1/raymanfiesta.vpk) | [github](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita) |
 | Rayman Jungle Run | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.2.0/raymanjunglerun.vpk) | [github](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita) |
 | Real Racing HD | MetalSyntax | v.1.0.0 | 2.2 MB | [download](https://github.com/MetalSyntax/Real-Racing-HD-vita/releases/download/v1.0.0/realracinghd.vpk) | [github](https://github.com/MetalSyntax/Real-Racing-HD-vita) |
@@ -264,7 +264,7 @@ what it was on the day the service went down.
 | Star Wars Battlefront II | tezla55 | v.beta | 6.5 MB | [download](https://github.com/tezla55/swbf2-vita/releases/download/beta/swbf2-vita.vpk) | [github](https://github.com/tezla55/swbf2-vita) |
 | Star Wars Episode I: The Phantom Menace | Bit | v.2.0 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/StarWarsPhantom.vpk) | [psx-place.com](https://www.psx-place.com/threads/star-wars-episode-i-the-phantom-menace-ps-vita-port.51309/) |
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [github](https://github.com/elliottwahl/Steel-Blossom-PSP) |
-| StepMania 5 | Luckyl13l | v.b112 | 42.3 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b112/StepMania5-Vita50-b112.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
+| StepMania 5 | Luckyl13l | v.b123 | 41.7 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b123/StepMania5-Vita50-b123.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
 | Storage Manager | StaticLift | v.1.0 | 0.5 MB | [download](https://github.com/StaticLift/vita-storage-manager/releases/download/v1.0/VitaStorageManager.vpk) | [github](https://github.com/StaticLift/vita-storage-manager) |
 | Street Fighter IV CE (frangarcj) | frangarcj | v.1.0-rc3 | 1.2 MB | [download](https://github.com/frangarcj/sf4ce_vita/releases/download/v1.0-rc3/SF4CE.vpk) | [github](https://github.com/frangarcj/sf4ce_vita) |
 | Street Fighter IV CE (John Lay) | John Lay | v.1.0.0 | 2.6 MB | [download](https://github.com/john-lay/sf4-vita/releases/download/v1.0.0/sf4-vita-1.0.vpk) | [github](https://github.com/john-lay/sf4-vita) |

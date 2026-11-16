@@ -716,7 +716,7 @@ Every entry, with the download it currently points at. The ones added since
 | OpenMW Vita | KingTorro | v.2.4.1 | 167.1 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.4.1/openmw-2.4.1.vpk) | [github](https://github.com/TheLostPantheon/openmw) |
 | OpenNow Vita | josephinoo | v.0.3.3 | 9.0 MB | [download](https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.3/opennow-vita.vpk) | [github](https://github.com/OpenCloudGaming/OpenNOW-vita) |
 | OpenRCT2-CE Vita | technicaljicama | v.1 | 4.5 MB | [download](https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk) | [github](https://github.com/technicaljicama/OpenRCT2-CE) |
-| OpenRCT2Vita | Paxrisen | v.2Vitav1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
+| OpenRCT2Vita | Paxrisen | v.1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenSeason | InquisitionImplied | v.1.0 | 30.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/466-OpenSeason.vpk) | [twitter.com](https://twitter.com/Yoyogames28/status/1120550464121122816) |
 | OpenSonic Vita | KiddRwxSsj | v.1.0.7 | 10.4 MB | [download](https://github.com/KiddRwxSsj/opensonic-vita/releases/download/1.0.7/opensonic-vita.vpk) | [github](https://github.com/KiddRwxSsj/opensonic-vita) |
 | OpenSupaplex | sergiou87 | v.7.2.2 | 4.4 MB | [download](https://github.com/sergiou87/open-supaplex/releases/download/v7.2.2/OpenSupaplex.vpk) | [github](https://github.com/sergiou87/open-supaplex) |
@@ -842,7 +842,7 @@ Every entry, with the download it currently points at. The ones added since
 | RALA:/:sutura | solmare | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ralasutura.vpk) | [itch.io](https://solmare.itch.io/ralasutura) |
 | Rally Mayhem | rsn8887 | v.1.2.0 | 1.9 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.2.0/RallyMayhem-1.2.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
 | Random Vita Game Launcher | jimbob4000 | v.1.0 | 4.5 MB | [download](https://github.com/jimbob4000/Random-Vita-Game-Launcher/releases/download/v1.0/Random_Vita_Game_Launcher_v1.0.vpk) | [github](https://github.com/jimbob4000/Random-Vita-Game-Launcher) |
-| RAP-Vita | Paxrisen | v.1.1 | 1.0 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.1/Rap-Vita_v1.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
+| RAP-Vita | Paxrisen | v.1.2.1 | 1.1 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.2.1/Rap-Vita_v1.2.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
 | Rayman Fiesta Run | MetalSyntax | v.0.1 | 1.9 MB | [download](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita/releases/download/v0.1/raymanfiesta.vpk) | [github](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita) |
 | Rayman Jungle Run | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.2.0/raymanjunglerun.vpk) | [github](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita) |
 | RCT Classic Vita | Rinnegatamante | v.1.0 | 3.6 MB | [download](https://github.com/Rinnegatamante/rct-vita/releases/download/v.1.0/rct.vpk) | [github](https://github.com/Rinnegatamante/rct-vita) |
@@ -1026,7 +1026,7 @@ Every entry, with the download it currently points at. The ones added since
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [github](https://github.com/elliottwahl/Steel-Blossom-PSP) |
 | Stellar Shift | WIDEGCG | v.1.0 | 62.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1334-StellarShift.vpk) | [itch.io](https://millermorais.itch.io/stellarshift) |
 | StemLoader | Voxel | v.0.2 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/279-StemLoader.vpk) | [github](https://github.com/Voxel9/Stem-Loader) |
-| StepMania 5 | Luckyl13l | v.b112 | 42.3 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b112/StepMania5-Vita50-b112.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
+| StepMania 5 | Luckyl13l | v.b123 | 41.7 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b123/StepMania5-Vita50-b123.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
 | Stock App Remover | AntHJ | v.1.0 | 4.4 MB | [download](https://github.com/AntHJ/Stock-App-Remover/releases/download/v1.0/Stock.App.Remover.vpk) | [github](https://github.com/AntHJ/Stock-App-Remover/releases) |
 | Storage Manager | StaticLift | v.1.0 | 0.5 MB | [download](https://github.com/StaticLift/vita-storage-manager/releases/download/v1.0/VitaStorageManager.vpk) | [github](https://github.com/StaticLift/vita-storage-manager) |
 | StratagemHeroVita | MEGAgameBoy | v.1.0 | 46.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1205-StratagemHeroVita.vpk) | — |
