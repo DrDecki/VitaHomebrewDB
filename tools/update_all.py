@@ -3,7 +3,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 WRITE = '--write' in sys.argv
 ONLY = sys.argv[sys.argv.index('--only') + 1] if '--only' in sys.argv else None
-BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'symbols')
+BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'symbols', 'no-demo', 'nodemo')
 def gh(p):
     r = subprocess.run(['gh', 'api', p], capture_output=True, text=True, timeout=90)
     return json.loads(r.stdout) if r.returncode == 0 else None
