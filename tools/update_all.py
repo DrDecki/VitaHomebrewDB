@@ -32,7 +32,7 @@ for f in FILES:
         if not best: continue
         r, x = best
         kern = re.sub(r'^(v|ver|version|release)[-_. ]*', '', r['tag_name'], flags=re.I)
-        if not re.match(r'^[0-9]+(\.[0-9]+)*[a-z]?$', kern, re.I): continue
+        if not re.match(r'^[0-9]+(\.[0-9]+)*[a-z]?(-?(alpha|beta|rc)[.-]?[0-9]*)?$', kern, re.I): continue
         nv, av, bv = 'v.' + kern, vernum(kern), vernum(a.get('version'))
         if [i for i in av if i] == [i for i in bv if i] or av <= bv: continue
         print('  %-28s %-14s -> %-12s %s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26]), flush=True)

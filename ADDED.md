@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (357)
+## PSVITA homebrews (359)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -23,7 +23,7 @@ what it was on the day the service went down.
 | Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [github](https://github.com/memory-hunter/arcaea-vita) |
 | Area Play Vita Edition | NexArea-Official | v.1.0 | 2.3 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.0/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
-| Art3m1sPSV | DeQxJ00 | v.1.5.2 | 28.9 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.2/Art3m1sPSV-v1.5.2.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
+| Art3m1sPSV | DeQxJ00 | v.1.5.4 | 13.9 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.4/Art3m1sPSV-v1.5.4-no-demo.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [github](https://github.com/Grarak/azahar) |
 | Badland 2 | MetalSyntax | v.1.2.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Badland-2-vita/releases/download/v1.2.0/badland2.vpk) | [github](https://github.com/MetalSyntax/Badland-2-vita) |
 | Batman AC Lockdown | KiddRwxSsj | v.1.0 | 0.9 MB | [download](https://github.com/KiddRwxSsj/batman-acl-vita/releases/download/1.0/aclockdownvita1.0.vpk) | [github](https://github.com/KiddRwxSsj/batman-acl-vita) |
@@ -104,7 +104,7 @@ what it was on the day the service went down.
 | Halyard | Wasabules | v.0.1.0 | 5.2 MB | [download](https://github.com/Wasabules/Halyard/releases/download/v0.1.0/halyard.vpk) | [github](https://github.com/Wasabules/Halyard) |
 | Happy Wheels | teedoofgames | v.0.1.3 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/HappyWheels.vpk) | [itch.io](https://teedoofgames.itch.io/happy-wheels-psvita) |
 | Hard Time III | ValencyLK | v.1 | 2.4 MB | [download](https://github.com/ValencyLK/hardtime3-vita/releases/download/V1/hardtime3.vpk) | [github](https://github.com/ValencyLK/hardtime3-vita) |
-| HardRPG | Asukate | v.0.5.3-alpha | 24.2 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.5.3-alpha/HardRPG-0.5.3.vpk) | [github](https://github.com/Asukate/mkxp-z-vita) |
+| HardRPG | Asukate | v.0.6.0-alpha | 29.4 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.6.0-alpha/HardRPG-0.6.0.vpk) | [github](https://github.com/Asukate/mkxp-z-vita) |
 | He-Man | DominicanNY | v.1.0 | 2.1 MB | [download](https://github.com/gmejia11/he-man_vita/releases/download/v1.0/heman.vpk) | [github](https://github.com/gmejia11/he-man_vita) |
 | Heavy Weapon Deluxe | Chillaxhson | v.1.1.0 | 3.0 MB | [download](https://github.com/Chillaxhson/heavy-weapon-deluxe-vita/releases/download/v1.1.0/HeavyWeaponDeluxe-v1.1.0.vpk) | [github](https://github.com/Chillaxhson/heavy-weapon-deluxe-vita) |
 | Hebdomad: Seven Vigils | Thanh Minh | v.1.1.0 | 2.1 MB | [download](https://github.com/0x4d696e68/Hebdomad/releases/download/v1.1.0/hebdomad.vpk) | [github](https://github.com/0x4d696e68/Hebdomad) |
@@ -175,10 +175,12 @@ what it was on the day the service went down.
 | Noisy Mansion | Extintor Incendiandose | v.1.0 | 34.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Noisy_Mansion.vpk) | [itch.io](https://jalm24.itch.io/noisy-mansion-ps-vita) |
 | Non-Competitive Singing Potatoes | dos \& Holy Pangolin | v.1.0 | 21.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/SingingPotatoes.vpk) | [itch.io](https://dos.itch.io/potatoes) |
 | NoSleep | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/nosleep/releases/download/v0.1/NoSleep.vpk) | [git.silica.codes](https://git.silica.codes/Li/nosleep) |
+| Not Tetris 2 | wld-16 | v.0.7 | 4.8 MB | [download](https://github.com/wld-16/nottetris2/releases/download/v0.7/nottetris2.vpk) | [github](https://github.com/wld-16/nottetris2) |
 | NovelReader | basitalitech | v.0.7.0 | 6.5 MB | [download](https://github.com/basitalitech/NovelReader/releases/download/v0.7.0/NovelReader.vpk) | [github](https://github.com/basitalitech/NovelReader) |
 | NXENGINE-EVO | nxengine | v.2.6.5 | 10.0 MB | [download](https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5/NXEngine-Evo-v2.6.5-Vita.vpk) | [github](https://github.com/nxengine/nxengine-evo) |
 | OmniBook | ninuzzomagno | v.1.96 | 34.2 MB | [download](https://github.com/ninuzzomagno/OmniBook/releases/download/v1.96/OmniBook.vpk) | [github](https://github.com/ninuzzomagno/OmniBook) |
 | Open1602 | Colie286 | v.1.11 | 7.2 MB | [download](https://github.com/Colie286/Open1602-Vita/releases/download/v1.11/Open1602-1.11.vpk) | [github](https://github.com/Colie286/Open1602-Vita) |
+| OpenCMR2 | Drakon | v.1.8.7 | 1.9 MB | [download](https://github.com/DrakonPL/OpenCMR2Vita/releases/download/1.8.7/opencmr2.vpk) | [github](https://github.com/DrakonPL/OpenCMR2Vita) |
 | OpenMoHAA | ChatProductions \& HenryKun55 | v.0.4 | 10.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/OpenMoHAA.vpk) | [github](https://github.com/ChatProductions/openmohaavita) |
 | OpenRCT2Vita | Paxrisen | v.1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenTyrian 2000 Engaged | wlfn1116 | v.1.5.3 | 6.7 MB | [download](https://github.com/wlfn1116/OpenTyrian2000-Engaged/releases/download/1.5.3/OpenTyrian2000-Engaged-Vita.vpk) | [github](https://github.com/wlfn1116/OpenTyrian2000-Engaged) |
@@ -210,12 +212,12 @@ what it was on the day the service went down.
 | Prince of Persia 2 | Cardas26 | v.1.0.0 | 3.2 MB | [download](https://github.com/Cardas26/psp2-pop2/releases/download/v1.0.0/pop2-diagnostics.vpk) | [github](https://github.com/Cardas26/psp2-pop2) |
 | Prince of Persia 3D | xesf | v.0.3.0 | 0.7 MB | [download](https://github.com/xesf/k2boy/releases/download/v0.3.0/k2boy.vpk) | [github](https://github.com/xesf/k2boy) |
 | Prince of Persia Classic | MetalSyntax | v.01.55 | 1.9 MB | [download](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.55/popclassic-v01.55.vpk) | [github](https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port) |
-| PS Vita Recovery | DrinkingSubset | v.1.2.1 | 0.6 MB | [download](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project/releases/download/v1.2.1/VitaRecovery_v1.2.1.vpk) | [github](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) |
+| PS Vita Recovery | DrinkingSubset | v.1.2.3 | 0.6 MB | [download](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project/releases/download/v1.2.3/VitaRecovery_v1.2.3.vpk) | [github](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) |
 | PSVitaman | Biodam | v.1.0.0 | 0.6 MB | [download](https://github.com/Biodam/psvitaman/releases/download/v1.0.0/PSVitaman.vpk) | [github](https://github.com/Biodam/psvitaman) |
 | Raging Thunder | MetalSyntax | v.1.0.2 | 0.9 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-vita/releases/download/v1.0.2/ragingthunder.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-vita) |
 | Raging Thunder 2 | MetalSyntax | v.1.1.2 | 1.1 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-2-vita/releases/download/v1.1.2/ragingthunder2.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-2-vita) |
 | RALA:/:sutura | solmare | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ralasutura.vpk) | [itch.io](https://solmare.itch.io/ralasutura) |
-| Rally Mayhem | rsn8887 | v.1.2.0 | 1.9 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.2.0/RallyMayhem-1.2.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
+| Rally Mayhem | rsn8887 | v.1.3.0 | 2.0 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.3.0/RallyMayhem-1.3.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
 | RAP-Vita | Paxrisen | v.1.2.1 | 1.1 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.2.1/Rap-Vita_v1.2.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
 | Rayman Fiesta Run | MetalSyntax | v.0.1 | 1.9 MB | [download](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita/releases/download/v0.1/raymanfiesta.vpk) | [github](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita) |
 | Rayman Jungle Run | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.2.0/raymanjunglerun.vpk) | [github](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita) |
@@ -3386,4 +3388,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.3 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3362 entries, 24.1 GB in total.
+3364 entries, 24.1 GB in total.

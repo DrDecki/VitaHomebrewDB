@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1370)
+## PSVITA homebrews (1372)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -71,7 +71,7 @@ Every entry, with the download it currently points at. The ones added since
 | Area Play Vita Edition | NexArea-Official | v.1.0 | 2.3 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.0/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
 | Ars Poetica | Joao Eiras Antunes | v.1.0 | 61.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/681-ArsPoetica.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/arspoetica/) |
-| Art3m1sPSV | DeQxJ00 | v.1.5.2 | 28.9 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.2/Art3m1sPSV-v1.5.2.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
+| Art3m1sPSV | DeQxJ00 | v.1.5.4 | 13.9 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.4/Art3m1sPSV-v1.5.4-no-demo.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
 | Arx Libertatis | KingTorro | v.2.0 | 4.0 MB | [download](https://github.com/TheLostPantheon/ArxLibertatis/releases/download/v2.0/arx-vita.vpk) | [github](https://github.com/TheLostPantheon/ArxLibertatis) |
 | Assessment Examination Vita | PatnosD | v.1.0 | 102.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1309-AssessmentExamination.vpk) | [itch.io](https://patnosd.itch.io/assessment-examination) |
 | Asteroids | KimsoftStudio | v.0.1 Beta | 2.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/513-asteroidsvh.VPK) | [github](https://github.com/KimsoftStudio/asteroidsvh/releases) |
@@ -457,7 +457,7 @@ Every entry, with the download it currently points at. The ones added since
 | Happy Land | MyLegGuy | v.1.1 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/100-HappyLand.vpk) | [github](https://github.com/goodgamesipromise/HappyLand) [gekihen.customprotocol.com](http://gekihen.customprotocol.com/en/project/Happy-Land) |
 | Happy Wheels | teedoofgames | v.0.1.3 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/HappyWheels.vpk) | [itch.io](https://teedoofgames.itch.io/happy-wheels-psvita) |
 | Hard Time III | ValencyLK | v.1 | 2.4 MB | [download](https://github.com/ValencyLK/hardtime3-vita/releases/download/V1/hardtime3.vpk) | [github](https://github.com/ValencyLK/hardtime3-vita) |
-| HardRPG | Asukate | v.0.5.3-alpha | 24.2 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.5.3-alpha/HardRPG-0.5.3.vpk) | [github](https://github.com/Asukate/mkxp-z-vita) |
+| HardRPG | Asukate | v.0.6.0-alpha | 29.4 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.6.0-alpha/HardRPG-0.6.0.vpk) | [github](https://github.com/Asukate/mkxp-z-vita) |
 | Harvester Vita | Parallel Productions | v.0.10 | 21.0 MB | [download](https://github.com/ParallelProductions/godot-2d-space-game-PSVita/releases/download/v0.1.0/Harvester.vpk) | [github](https://github.com/ParallelProductions/godot-2d-space-game-PSVita) |
 | Hassey Collection | Rinnegatamante | v.0.9 | 4.7 MB | [download](https://github.com/Rinnegatamante/hassey-collection/releases/download/v.0.9/hassey.vpk) | [github](https://github.com/Rinnegatamante/hassey-collection) |
 | Have a Good One! | Eva Vital & Isaque Sanches | v.1.0 | 56.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/682-HaveAGoodOne.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/goodone/) |
@@ -691,6 +691,7 @@ Every entry, with the download it currently points at. The ones added since
 | Non-Competitive Singing Potatoes | dos \& Holy Pangolin | v.1.0 | 21.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/SingingPotatoes.vpk) | [itch.io](https://dos.itch.io/potatoes) |
 | NoSleep | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/nosleep/releases/download/v0.1/NoSleep.vpk) | [git.silica.codes](https://git.silica.codes/Li/nosleep) |
 | Not A Hero Vita | Rinnegatamante | v.1.0.1 | 2.4 MB | [download](https://github.com/Rinnegatamante/not_a_hero-vita/releases/download/v.1.0.1/notahero.vpk) | [github](https://github.com/Rinnegatamante/not_a_hero-vita) |
+| Not Tetris 2 | wld-16 | v.0.7 | 4.8 MB | [download](https://github.com/wld-16/nottetris2/releases/download/v0.7/nottetris2.vpk) | [github](https://github.com/wld-16/nottetris2) |
 | Not Trust! | VitaCreatorDeveloper | v.1 | 43.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1031-not_trust.vpk) | [itch.io](https://vitacreatordeveloper.itch.io/not-trust-psp) |
 | Notepad Vita | VitaHEX games | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/310-Notepad.vpk) | [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48500) |
 | Notepad++ (VE) | Arkanite | v.0.31 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/210-Notepad.vpk) | — |
@@ -708,6 +709,7 @@ Every entry, with the download it currently points at. The ones added since
 | Onslaught Arena | PsJuan | v.1.0 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1136-OnslaughtArena.vpk) | [archive.org](https://web.archive.org/web/20251215223542/https://fuhen.homebrew-contest.com/submissions/50/) |
 | Open1602 | Colie286 | v.1.11 | 7.2 MB | [download](https://github.com/Colie286/Open1602-Vita/releases/download/v1.11/Open1602-1.11.vpk) | [github](https://github.com/Colie286/Open1602-Vita) |
 | OpenBOR | cpasjuste & rsn8887 & Plombo | v.4704-rsn8887git-1.2 | 1.0 MB | [download](https://github.com/rsn8887/openbor/releases/download/v4704-rsn8887git-1.2/OpenBOR.vpk) | [github](https://github.com/rsn8887/openbor) [gbatemp.net](https://gbatemp.net/threads/release-openbor-vita-port-by-cpasjuste.527852/) |
+| OpenCMR2 | Drakon | v.1.8.7 | 1.9 MB | [download](https://github.com/DrakonPL/OpenCMR2Vita/releases/download/1.8.7/opencmr2.vpk) | [github](https://github.com/DrakonPL/OpenCMR2Vita) |
 | OpenHCL | JeffRulz345 | v2021.11.08 | 10.0 MB | [download](https://github.com/JeffRuLz/OpenHCL/releases/download/untagged-289a342ec6863598160c/OpenHCL_Vita.vpk) | [github](https://github.com/JeffRuLz/OpenHCL) |
 | OpenJazz | usineur | v.1.1 | 0.7 MB | [download](https://github.com/usineur/openjazz/releases/download/1.1/OpenJazz.vpk) | [github](https://github.com/usineur/openjazz) |
 | OpenMoHAA | ChatProductions \& HenryKun55 | v.0.4 | 10.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/OpenMoHAA.vpk) | [github](https://github.com/ChatProductions/openmohaavita) |
@@ -812,7 +814,7 @@ Every entry, with the download it currently points at. The ones added since
 | Protect the Earth | GlitcherOG | v.1.0 | 24.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/781-EarthProtect.vpk) | [itch.io](https://glitcherog.itch.io/protect-the-earth) |
 | Prototype Vita | Rinnegatamante | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1092-Prototype.vpk) | [github](https://github.com/Rinnegatamante/prototype-vita) |
 | PS Scene Quiz | Lapy | v.1.0 | 83.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/489-quiz.vpk) | — |
-| PS Vita Recovery | DrinkingSubset | v.1.2.1 | 0.6 MB | [download](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project/releases/download/v1.2.1/VitaRecovery_v1.2.1.vpk) | [github](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) |
+| PS Vita Recovery | DrinkingSubset | v.1.2.3 | 0.6 MB | [download](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project/releases/download/v1.2.3/VitaRecovery_v1.2.3.vpk) | [github](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) |
 | PS Vita Sync | laochun | v.0.01 | 1.0 MB | [download](https://github.com/add-le/ps-vita-sync/releases/download/v0.01/ps_vita_sync.vpk) | [github](https://github.com/add-le/ps-vita-sync) |
 | ps4linkcontrols-gui | keltar | v.0.1 | 0.3 MB | [download](https://github.com/keltar/ps4linkcontrols-gui/releases/download/0.1/ps4linkcontrols-gui.vpk) | [github](https://github.com/keltar/ps4linkcontrols-gui) |
 | Psee Demo | aDeCon Production | v.0.1 | 32.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1187-psee.vpk) | [anfloppyarts.com](https://www.anfloppyarts.com/psee) |
@@ -839,7 +841,7 @@ Every entry, with the download it currently points at. The ones added since
 | Raging Thunder | MetalSyntax | v.1.0.2 | 0.9 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-vita/releases/download/v1.0.2/ragingthunder.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-vita) |
 | Raging Thunder 2 | MetalSyntax | v.1.1.2 | 1.1 MB | [download](https://github.com/MetalSyntax/Raging-Thunder-2-vita/releases/download/v1.1.2/ragingthunder2.vpk) | [github](https://github.com/MetalSyntax/Raging-Thunder-2-vita) |
 | RALA:/:sutura | solmare | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/ralasutura.vpk) | [itch.io](https://solmare.itch.io/ralasutura) |
-| Rally Mayhem | rsn8887 | v.1.2.0 | 1.9 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.2.0/RallyMayhem-1.2.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
+| Rally Mayhem | rsn8887 | v.1.3.0 | 2.0 MB | [download](https://github.com/rsn8887/RallyMayhem/releases/download/v1.3.0/RallyMayhem-1.3.0-Vita.vpk) | [github](https://github.com/rsn8887/RallyMayhem) |
 | Random Vita Game Launcher | jimbob4000 | v.1.0 | 4.5 MB | [download](https://github.com/jimbob4000/Random-Vita-Game-Launcher/releases/download/v1.0/Random_Vita_Game_Launcher_v1.0.vpk) | [github](https://github.com/jimbob4000/Random-Vita-Game-Launcher) |
 | RAP-Vita | Paxrisen | v.1.2.1 | 1.1 MB | [download](https://github.com/Paxrisen/RAP-Vita/releases/download/RAP-Vita1.2.1/Rap-Vita_v1.2.1.vpk) | [github](https://github.com/Paxrisen/RAP-Vita) |
 | Rayman Fiesta Run | MetalSyntax | v.0.1 | 1.9 MB | [download](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita/releases/download/v0.1/raymanfiesta.vpk) | [github](https://github.com/MetalSyntax/Rayman-Fiesta-Run-vita) |
@@ -4674,4 +4676,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4651 entries, 53.7 GB in total.
+4653 entries, 53.7 GB in total.
