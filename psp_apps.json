@@ -1113,7 +1113,7 @@
     {
         "name": "OpenBOR",
         "icon": "509a9d2bb25aa6f0412c3def068f4969a2af314506d1d143a5ce74b2aec3938f.png",
-        "version": "v.4.0 Build 7533",
+        "version": "v.7533",
         "author": "SamuraiX",
         "type": "15",
         "description": "Fighting game engine.",
@@ -1138,7 +1138,7 @@
         "url": "https://github.com/DCurrent/openbor/releases/download/v7533/OpenBOR.v4.0.Build.7533.rar",
         "data": "",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-18T16:48:26Z"
+        "updated": "2026-11-18T17:05:58Z"
     },
     {
         "name": "PicoDrive",
