@@ -758,14 +758,14 @@
         "id": "1461",
         "name": "VCI-TOOLS",
         "author": "oestriot",
-        "version": "v.1.3",
+        "version": "v.1.4",
         "description": "Convert PSVITA game cart dumps between formats.",
         "long_description": "Extracts and converts vci, psv and Vita disk images. A Linux build is in the same release.",
         "changelog": "- First Release",
         "requirements": "",
-        "url": "https://github.com/oestriot/VCI-TOOLS/releases/download/v1.3/vci-tools-windows.zip",
-        "size": "2906921",
-        "hash": "38f58d6803a098d957b6ee005dc6bf67",
+        "url": "https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip",
+        "size": "2912858",
+        "hash": "0f785061f120ebe3ab45ba18d3ad7b06",
         "hash2": "",
         "data_size": "0",
         "date": "2026-08-05",
@@ -778,7 +778,7 @@
         "trailer": "",
         "trophies": "0",
         "added": "2026-08-05T22:31:52Z",
-        "updated": "2026-11-11T21:05:52Z"
+        "updated": "2026-11-18T16:11:28Z"
     },
     {
         "id": "1462",
