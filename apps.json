@@ -784,7 +784,7 @@
     {
         "name": "NFS Underground 2",
         "icon": "e296ec540ee0cb69268b26222b630a068bd3a999369e1bbfa8923d2541085a5d.png",
-        "version": "v.0.8.2",
+        "version": "v.0.8.3",
         "author": "danos-x5",
         "type": "2",
         "description": "Port of Need for Speed Underground 2 for PSVita.",
@@ -798,19 +798,19 @@
         "source": "https://github.com/danos-x5/NFSUG2_VITA",
         "release_page": "https://github.com/danos-x5/NFSUG2_VITA/releases",
         "trailer": "",
-        "size": "9778411",
+        "size": "9759628",
         "data_size": "0",
-        "hash": "889ae0199b367000a29a6bb501948914",
+        "hash": "c35509761822f1e5eeb1050ccc26549d",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: PC",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.2/NFSU2VITA.vpk",
+        "url": "https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk",
         "data": "",
         "added": "2026-11-16T17:06:16Z",
-        "updated": "2026-11-18T15:46:23Z"
+        "updated": "2026-11-18T22:32:12Z"
     },
     {
         "name": "GH Vita",
