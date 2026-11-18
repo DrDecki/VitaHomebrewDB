@@ -3107,7 +3107,7 @@ Every entry, with the download it currently points at. The ones added since
 | Open Remote Play Exporter | dashhacker242 | v.1.0 | 1.8 MB | [download](https://archive.org/download/orp-exporter.-7z/ORP_Exporter.zip) | [archive.org](https://archive.org/details/orp-exporter.-7z) |
 | Open Source FlashConnect | Chiri_13 | v.1.0 | 0.1 MB | [download](https://archive.org/download/flash-connect.-7z/FlashConnect.zip) | [archive.org](https://archive.org/details/flash-connect.-7z) |
 | Open Ugh! | Bart ten Brinke | v.1.0 | 39.6 MB | [download](https://archive.org/download/open_ugh_psp_v1.0/open_ugh_psp_v1.0.zip) | [archive.org](https://archive.org/details/open_ugh_psp_v1.0) |
-| OpenBOR | SamuraiX | v.7533 | 1.3 MB | [download](https://github.com/DCurrent/openbor/releases/download/v7533/OpenBOR.v4.0.Build.7533.rar) | — |
+| OpenBOR | SamuraiX | v.4.0 Build 7533 | 1.3 MB | [download](https://github.com/DCurrent/openbor/releases/download/v7533/OpenBOR.v4.0.Build.7533.rar) | — |
 | OpenBricks | Ryp | v.1.1 | 1.6 MB | [download](https://archive.org/download/open-bricks.-7z/OpenBricks1.1.zip) | [archive.org](https://archive.org/details/open-bricks.-7z) |
 | openChoice | XArt Software & Designs | v.1.0 | 0.2 MB | [download](https://archive.org/download/openchoice.7z/openchoice.zip) | [archive.org](https://archive.org/details/openchoice.7z) |
 | OpenHCL | JeffRuLz | v.1.0 | 9.3 MB | [download](https://archive.org/download/open-hcl.-7z/OpenHCL.zip) | [archive.org](https://archive.org/details/open-hcl.-7z) |

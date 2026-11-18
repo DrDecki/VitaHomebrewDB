@@ -27,7 +27,7 @@ def prefetch(keys):
             repo = data.get('r%d' % n)
             if not repo: continue
             GHCACHE[k] = [{'tag_name': x['tagName'], 'prerelease': x['isPrerelease'], 'draft': x['isDraft'],
-                           'assets': [{'name': y['name'], 'browser_download_url': y['downloadUrl'], 'size': y['size']}
+                           'assets': [{'name': y['name'], 'browser_download_url': urllib.parse.quote(y['downloadUrl'], safe=':/%?=&'), 'size': y['size']}
                                       for y in x['releaseAssets']['nodes']]} for x in repo['releases']['nodes']]
         print('  vorab geladen: %d / %d Repos' % (min(i + 50, len(keys)), len(keys)), flush=True)
 def releases(host, key):
