@@ -7,8 +7,7 @@ BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'sy
 NOTVITA = ('psp', 'windows', 'linux', 'macos', 'android', 'ios', '3ds', 'switch', 'builder', 'importer', 'source')
 MIRROR = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
 HOSTS = [('github', r'https?://github\.com/([^/\s]+)/([^/\s?#]+)'),
-         ('gitlab', r'https?://gitlab\.com/([^/\s]+)/([^/\s?#]+)'),
-         ('gitea', r'https?://git\.silica\.codes/([^/\s]+)/([^/\s?#]+)')]
+         ('gitlab', r'https?://gitlab\.com/([^/\s]+)/([^/\s?#]+)')]
 DEAD = {}
 def get(u):
     host = u.split('/')[2]
