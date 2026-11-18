@@ -4,14 +4,13 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (381)
+## PSVITA homebrews (380)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
 | 60 Seconds | PupueStudios & PatnosD | v.1.0 | 15.8 MB | [download](https://github.com/PupueStudios/60-Seconds-Vita/releases/download/v1.0/60seconds.vpk) | [github](https://github.com/PupueStudios/60-Seconds-Vita) |
 | A Place Beyond | bcaa777 | v.0.12-test21 | 216.3 MB | [download](https://github.com/bcaa777/a-place-beyond-psp-vita/releases/download/v0.12-test21/APlaceBeyond-bootlog.vpk) | [github](https://github.com/bcaa777/a-place-beyond-psp-vita) |
 | ABSvita | DarthTigerson | v.0.1.2 | 1.9 MB | [download](https://github.com/DarthTigerson/ABSvita/releases/download/v0.1.2/ABSvita.vpk) | [github](https://github.com/DarthTigerson/ABSvita) |
-| Adrenaline Bubbles Manager | ONElua | v.6.24 | 10.0 MB | [download](https://github.com/ONElua/AdrenalineBubbleManager/releases/download/6.24/AdrenalineBubbleManager.vpk) | [github](https://github.com/onelua/adrenalinebubblemanager) |
 | AdvancedSlop | Grarak | v.0.1.0 | 3.2 MB | [download](https://github.com/Grarak/AdvancedSlop/releases/download/0.1.0/advancedslop.vpk) | [github](https://github.com/Grarak/AdvancedSlop) |
 | Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [github](https://github.com/MetalSyntax/Advena-Vita) |
 | Adventure Time | BM-Hicham19 | v.ready-to-play | 0.5 MB | [download](https://github.com/BM-Hicham19/ATVITA/releases/download/ready-to-play/AdventureTimeVita.vpk) | [github](https://github.com/BM-Hicham19/ATVITA) |
@@ -25,7 +24,6 @@ what it was on the day the service went down.
 | Area Play Vita Edition | NexArea-Official | v.1.0 | 2.3 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.0/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
 | Art3m1sPSV | DeQxJ00 | v.1.5.4 | 29.0 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.4/Art3m1sPSV-v1.5.4.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
-| Autoplugin 2 | ONElua | v.2.20 | 12.1 MB | [download](https://github.com/ONElua/AutoPlugin2/releases/download/2.20/AutoPlugin2.vpk) | [github](https://github.com/onelua/autoplugin2) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [github](https://github.com/Grarak/azahar) |
 | Badland 2 | MetalSyntax | v.1.2.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Badland-2-vita/releases/download/v1.2.0/badland2.vpk) | [github](https://github.com/MetalSyntax/Badland-2-vita) |
 | Batman AC Lockdown | KiddRwxSsj | v.1.0 | 0.9 MB | [download](https://github.com/KiddRwxSsj/batman-acl-vita/releases/download/1.0/aclockdownvita1.0.vpk) | [github](https://github.com/KiddRwxSsj/batman-acl-vita) |
@@ -349,6 +347,7 @@ what it was on the day the service went down.
 | VitaForge | josephinoo | v.0.1.12 | 5.5 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.12/vitaforge.vpk) | [github](https://github.com/josephinoo/vitaForge) |
 | VitaJ2ME | MetalSyntax | v.1.0.1 | 3.7 MB | [download](https://github.com/MetalSyntax/vita-j2me-emulator/releases/download/v1.0.1/VitaJ2ME-v1.0.1.vpk) | [github](https://github.com/MetalSyntax/vita-j2me-emulator) |
 | vitals | nyirish & devnoname120 | v.2.1 | 3.9 MB | [download](https://github.com/nyirsh/vitals/releases/download/2.1/vitals-psv-app.vpk) | [github](https://github.com/nyirsh/vitals) |
+| vitaMania! | lolhop | v.0.1.0a | 1.8 MB | [download](https://github.com/lolhop/vitaMania/releases/download/v0.1.0a/VitaMania.vpk) | [github](https://github.com/lolhop/vitamania) |
 | VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [github](https://github.com/spyro-98/VitaMaps) |
 | VitaMediaDeck | spyro-98 | v.1.4.3 | 6.0 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v1.4.3/VitaMediaDeck-1.4.3.vpk) | [github](https://github.com/spyro-98/VitaMediaDeck) |
 | VitaOS | mvizensk | v.1.9.2 | 5.6 MB | [download](https://github.com/hotdog-face/VitaOS/releases/download/v1.9.2/VitaOS.vpk) | [github](https://github.com/mvizensk/VitaOS) |
@@ -424,7 +423,7 @@ what it was on the day the service went down.
 | vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [git.silica.codes](https://git.silica.codes/Li/vshPatch) |
 | Wi-Fi Turbo | juanjsebgarcia | v.0.7.2 | 0.1 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-wifi/releases/download/v0.7.2/wifiturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-wifi) |
 
-## PSP homebrews (2970)
+## PSP homebrews (2969)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1922,7 +1921,6 @@ what it was on the day the service went down.
 | OMGWTFOTL | Weetabix | v.1.0 | 28.0 MB | [download](https://archive.org/download/omgwtfotl.-7z/OMGWTFOTL.zip) | [archive.org](https://archive.org/details/omgwtfotl.-7z) |
 | Once upon a Time in the East | Fit | v.1.0 | 1.2 MB | [download](https://archive.org/download/once_upon-psp.7z/once_upon-psp.zip) | [archive.org](https://archive.org/details/once_upon-psp.7z) |
 | OneInstaller | David Nuñez A. | v.1.0 | 1.9 MB | [download](https://archive.org/download/one-installer.-7z/OneInstaller.zip) | [archive.org](https://archive.org/details/one-installer.-7z) |
-| ONEMenu | ONELua Team | v.1.0 | 2.5 MB | [download](https://archive.org/download/onemenu.-vfinal.-7z/ONEMenu.VFinal.zip) | [archive.org](https://archive.org/details/onemenu.-vfinal.-7z) |
 | OneShell | Gdljjrod, Davis_Nuñez, Mills | v.1.0 | 10.5 MB | [download](https://archive.org/download/1-shell.-7z/1Shell.zip) | [archive.org](https://archive.org/details/1-shell.-7z) |
 | OnScreenMessure | NoePDA_psp | v.1.0 | 0.9 MB | [download](https://archive.org/download/on-screen-messure.-7z/OnScreenMessure.zip) | [archive.org](https://archive.org/details/on-screen-messure.-7z) |
 | ONScripter DC for PSP | し～くる (shinshin319) | v.2.54 | 0.8 MB | [download](https://archive.org/download/onscripter-for-psp-20051010v-3/exp-20051030%282.54%29.zip) | [archive.org](https://archive.org/details/onscripter-for-psp-20051010v-3) |
@@ -3410,4 +3408,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3386 entries, 24.5 GB in total.
+3384 entries, 24.5 GB in total.

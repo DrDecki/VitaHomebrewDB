@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1394)
+## PSVITA homebrews (1393)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -30,7 +30,6 @@ Every entry, with the download it currently points at. The ones added since
 | AccountSwitcher | pendor | v.2.4 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/28-AccountSwitcher.vpk) | [wololo.net](http://wololo.net/talk/viewtopic.php?p=408201) |
 | AdrBubbleBooterInstaller | Leecherman | v.0.6 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/307-AdrBubbleBooterInstaller_v1.3.vpk) | [sites.google.com](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) |
 | Adrenaline | TheFloW | v.7 | 0.4 MB | [download](https://github.com/TheOfficialFloW/Adrenaline/releases/download/v7/Adrenaline.vpk) | [github](https://github.com/TheOfficialFloW/Adrenaline) |
-| Adrenaline Bubbles Manager | ONElua | v.6.24 | 10.0 MB | [download](https://github.com/ONElua/AdrenalineBubbleManager/releases/download/6.24/AdrenalineBubbleManager.vpk) | [github](https://github.com/onelua/adrenalinebubblemanager) |
 | AdrenalineEasyInstaller | Freakler | v.1.15 | 6.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/36-AdrenalineEasyInstaller.vpk) | [github](https://github.com/Freakler/vita-AdrenalineEasyInstaller) |
 | AdvancedSlop | Grarak | v.0.1.0 | 3.2 MB | [download](https://github.com/Grarak/AdvancedSlop/releases/download/0.1.0/advancedslop.vpk) | [github](https://github.com/Grarak/AdvancedSlop) |
 | Advena | MetalSyntax | v.1.0.0 | 1.0 MB | [download](https://github.com/MetalSyntax/Advena-Vita/releases/download/v1.0.0/advena.vpk) | [github](https://github.com/MetalSyntax/Advena-Vita) |
@@ -81,7 +80,6 @@ Every entry, with the download it currently points at. The ones added since
 | Atomiks Vita | withLogic | v.1.0.0 | 1.7 MB | [download](https://github.com/withLogic/atomiks-psvita/releases/download/1.0.0/atomiks.vpk) | [github](https://github.com/withLogic/atomiks-psvita) |
 | Attack of the Lettuce Munching Caterpillars | Gremlin Software | v.1.0 | 13.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/564-Caterpillars.vpk) | [github](https://github.com/softwaregremlin/Attack-of-the-Lettuce-Munching-Caterpillars) |
 | Augustus | devnoname120 & Julius Team & Keriew | v.4.0.0 | 14.9 MB | [download](https://github.com/Keriew/augustus/releases/download/v4.0.0/augustus-4.0.0-vita.vpk) | [github](https://github.com/Keriew/augustus) |
-| Autoplugin 2 | ONElua | v.2.20 | 12.1 MB | [download](https://github.com/ONElua/AutoPlugin2/releases/download/2.20/AutoPlugin2.vpk) | [github](https://github.com/onelua/autoplugin2) |
 | AvP Gold | Rinnegatamante | v.0.8 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/569-avp.vpk) | [github](https://github.com/Rinnegatamante/AvP-Gold-Vita) [psx-place.com](https://www.psx-place.com/threads/avp-gold.30555/) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [github](https://github.com/Grarak/azahar) |
 | Baba Is You Vita | gl33ntwine | v.1.4 | 1.5 MB | [download](https://github.com/v-atamanenko/baba-is-you-vita/releases/download/v1.4/BABAISYOU.vpk) | [github](https://github.com/v-atamanenko/baba-is-you-vita/) |
@@ -575,6 +573,7 @@ Every entry, with the download it currently points at. The ones added since
 | Last Train Home | Rocroverss | v.1.0 | 5.3 MB | [download](https://github.com/Rocroverss/Last-Train-Home/releases/download/v1.0/last_train_home.vpk) | [github](https://github.com/Rocroverss/Last-Train-Home) |
 | Late Shift Vita | Rinnegatamante | v.1.0.1 | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1121-lateshift.vpk) | [github](https://github.com/Rinnegatamante/OpenFMV) |
 | LCD Color Saturation | Electric | v.1.2.0 | 0.2 MB | [download](https://github.com/Electric1447/lcd-color-saturation/releases/download/v1.2.0/lcdsat.vpk) | [github](https://github.com/Electric1447/lcd-color-saturation) |
+| LDhewm3 ReARMed | Rinnegatamante | v.0.5 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1052-dhewm3.vpk) | [github](https://github.com/Rinnegatamante/d3es-vita) |
 | Leap of Faith | Markus95 | v.1.0 | 14.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/721-Leap_of_Faith.vpk) | — |
 | Left 4 Dead 2D | AlexDev2 | v.0.1.1 | 38.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1111-left-4-dead-2-2d-ps-vita-1.1-2.vpk) | [gamejolt.com](https://gamejolt.com/games/l4d2psp/794205) |
 | Left Seat | Kyle Knowles | v.2.2.1 | 0.5 MB | [download](https://github.com/Av8t4/Leftseat/releases/download/v2.2.1/leftseat.vpk) | [github](https://github.com/Av8t4/Leftseat) |
@@ -804,7 +803,6 @@ Every entry, with the download it currently points at. The ones added since
 | Poppy Kart Collection | Rinnegatamante | v.1.0 | 2.9 MB | [download](https://github.com/Rinnegatamante/Poppy-Kart-Collection/releases/download/v.1.0/PoppyKart.vpk) | [github](https://github.com/Rinnegatamante/Poppy-Kart-Collection) |
 | Portalban | Ivoah | v.1.0.1 | 1.1 MB | [download](https://github.com/Ivoah/portalban/releases/download/v1.0.1/portalban.vpk) | [github](https://github.com/Ivoah/portalban) |
 | Postal Vita | Rinnegatamante | v.1.2 | 2.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/415-Postal.vpk) | [github](https://github.com/Rinnegatamante/PostalVita) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=49641) |
-| Potatoom 3 | Rinnegatamante | v.0.5 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1052-dhewm3.vpk) | [github](https://github.com/Rinnegatamante/d3es-vita) |
 | Powerpuff Girls Mojo Madness | SpliffCurryBeats | v.0.1.1 | 2.2 MB | [download](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita/-/releases/v0.1.1/downloads/PowerpuffVita_v0.1.1.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita) |
 | PrBoom Plus | fgsfds | v.1.2 | 2.2 MB | [download](https://github.com/fgsfdsfgs/prboom-plus/releases/download/v2.5.1.7um-vita-r1.2/prboom-plus-r1.2.vpk) | [github](https://github.com/fgsfdsfgs/prboom-plus) |
 | PREDATORS | AJ170 | v.1.0 | 14.2 MB | [download](https://github.com/AJ170/Predators-PSVita-Port/releases/download/1.0/PREDATORS-FinalBuild_v1.0-stub.vpk) | [github](https://github.com/AJ170/Predators-PSVita-Port) |
@@ -1280,6 +1278,7 @@ Every entry, with the download it currently points at. The ones added since
 | VITAlbum | joel16 | v.1.40 | 1.5 MB | [download](https://github.com/joel16/VITAlbum/releases/download/v1.40/VITAlbum.vpk) | [github](https://github.com/joel16/VITAlbum) |
 | vitals | nyirish & devnoname120 | v.2.1 | 3.9 MB | [download](https://github.com/nyirsh/vitals/releases/download/2.1/vitals-psv-app.vpk) | [github](https://github.com/nyirsh/vitals) |
 | Vitaman | L0Wigh | v.1.0 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/696-vitaman.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/vitaman) |
+| vitaMania! | lolhop | v.0.1.0a | 1.8 MB | [download](https://github.com/lolhop/vitaMania/releases/download/v0.1.0a/VitaMania.vpk) | [github](https://github.com/lolhop/vitamania) |
 | VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [github](https://github.com/spyro-98/VitaMaps) |
 | VitaMediaDeck | spyro-98 | v.1.4.3 | 6.0 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v1.4.3/VitaMediaDeck-1.4.3.vpk) | [github](https://github.com/spyro-98/VitaMediaDeck) |
 | Vitamin | TheFloW | v.2.0 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/56-Vitamin.vpk) | — |
@@ -1559,7 +1558,7 @@ Every entry, with the download it currently points at. The ones added since
 | World of Final Fantasy Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/90-wofftrainervita.7z) | — |
 | X1Vita | M Ibrahim | v.3.3 | 0.0 MB | [download](https://github.com/Ibrahim778/X1Vita/releases/download/V3.3/X1Vita.skprx) | [github](https://github.com/Ibrahim778/X1Vita) [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/x1vita/) |
 
-## PSP homebrews (3096)
+## PSP homebrews (3095)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -3113,7 +3112,6 @@ Every entry, with the download it currently points at. The ones added since
 | OMGWTFOTL | Weetabix | v.1.0 | 28.0 MB | [download](https://archive.org/download/omgwtfotl.-7z/OMGWTFOTL.zip) | [archive.org](https://archive.org/details/omgwtfotl.-7z) |
 | Once upon a Time in the East | Fit | v.1.0 | 1.2 MB | [download](https://archive.org/download/once_upon-psp.7z/once_upon-psp.zip) | [archive.org](https://archive.org/details/once_upon-psp.7z) |
 | OneInstaller | David Nuñez A. | v.1.0 | 1.9 MB | [download](https://archive.org/download/one-installer.-7z/OneInstaller.zip) | [archive.org](https://archive.org/details/one-installer.-7z) |
-| ONEMenu | ONELua Team | v.1.0 | 2.5 MB | [download](https://archive.org/download/onemenu.-vfinal.-7z/ONEMenu.VFinal.zip) | [archive.org](https://archive.org/details/onemenu.-vfinal.-7z) |
 | OneShell | Gdljjrod, Davis_Nuñez, Mills | v.1.0 | 10.5 MB | [download](https://archive.org/download/1-shell.-7z/1Shell.zip) | [archive.org](https://archive.org/details/1-shell.-7z) |
 | OnScreenMessure | NoePDA_psp | v.1.0 | 0.9 MB | [download](https://archive.org/download/on-screen-messure.-7z/OnScreenMessure.zip) | [archive.org](https://archive.org/details/on-screen-messure.-7z) |
 | ONScripter DC for PSP | し～くる (shinshin319) | v.2.54 | 0.8 MB | [download](https://archive.org/download/onscripter-for-psp-20051010v-3/exp-20051030%282.54%29.zip) | [archive.org](https://archive.org/details/onscripter-for-psp-20051010v-3) |
@@ -4698,4 +4696,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4675 entries, 54.2 GB in total.
+4673 entries, 54.2 GB in total.
