@@ -35,12 +35,17 @@ for f in FILES:
         if not re.match(r'^[0-9]+(\.[0-9]+)*[a-z]?(-?(alpha|beta|rc)[.-]?[0-9]*)?$', kern, re.I): continue
         nv, av, bv = 'v.' + kern, vernum(kern), vernum(a.get('version'))
         if [i for i in av if i] == [i for i in bv if i] or av <= bv: continue
-        print('  %-28s %-14s -> %-12s %s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26]), flush=True)
-        todo.append((f, a['id'], nv, x['browser_download_url']))
+        data = None
+        d0 = (a.get('data') or '').strip()
+        if d0 and '/releases/download/' in d0:
+            dn = d0.rsplit('/', 1)[-1]
+            data = next(((y['browser_download_url'], y['size']) for y in r['assets'] if y['name'] == dn), None)
+        print('  %-28s %-14s -> %-12s %s%s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26], '  +data' if data else ''), flush=True)
+        todo.append((f, a['id'], nv, x['browser_download_url'], data))
         time.sleep(0.2)
 print('\n%d Aktualisierungen%s' % (len(todo), '' if WRITE else ' (Probelauf)'))
 if not WRITE: sys.exit()
-for k, (f, i, nv, url) in enumerate(todo):
+for k, (f, i, nv, url, data) in enumerate(todo):
     if k and len(todo) < 50: time.sleep(60)
     b = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'v'}), timeout=900).read()
     p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8'))
@@ -48,5 +53,6 @@ for k, (f, i, nv, url) in enumerate(todo):
         if a['id'] == i:
             a.update(version=nv, url=url, size=str(len(b)), hash=hashlib.md5(b).hexdigest(),
                      updated=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'))
+            if data: a.update(data=data[0], data_size=str(data[1]))
     json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
     print('  geschrieben: %s %s' % (i, nv), flush=True)

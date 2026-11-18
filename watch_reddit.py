@@ -14,27 +14,25 @@ FRAGEN = ('help', 'how do i', 'how to', 'how can i', 'is there a way', 'anyone k
 
 seen = set(json.load(open(SEEN))) if os.path.exists(SEEN) else set()
 
-def entries(xml):
-    for block in re.findall(r'<entry>(.*?)</entry>', xml, re.S):
-        g = lambda p: (re.search(p, block, re.S) or [None, ''])[1]
-        yield {
-            'id': html.unescape(g(r'<id>([^<]+)</id>')),
-            'title': html.unescape(g(r'<title>([^<]*)</title>')).strip(),
-            'url': html.unescape(g(r'<link[^>]*href="([^"]+)"')),
-            'text': re.sub(r'<[^>]+>', ' ', html.unescape(g(r'<content[^>]*>(.*?)</content>')))[:1200],
-        }
+def fetch(sub):
+    u = 'https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=%s&limit=100&sort=desc' % sub
+    with urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'VitaHomebrewDB watch'}), timeout=60) as r:
+        data = json.load(r).get('data') or []
+    out = []
+    for p in data:
+        out.append({'id': p.get('name') or 't3_' + (p.get('id') or ''),
+                    'title': html.unescape(p.get('title') or '').strip(),
+                    'url': 'https://www.reddit.com' + (p.get('permalink') or ''),
+                    'text': (html.unescape(p.get('selftext') or '') + ' ' + (p.get('url') or ''))[:1200]})
+    return out
 
 kandidaten = []
 for sub in SUBS:
     try:
-        req = urllib.request.Request('https://www.reddit.com/r/%s/new/.rss?limit=50' % sub,
-                                     headers={'User-Agent': UA})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            xml = r.read().decode('utf-8', 'replace')
+        alle = fetch(sub)
     except Exception as e:
         print('r/%-14s %s' % (sub, getattr(e, 'code', type(e).__name__)))
         continue
-    alle = list(entries(xml))
     neu = 0
     for e in alle:
         if not e['id'] or e['id'] in seen:
