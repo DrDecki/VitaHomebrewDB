@@ -1,9 +1,11 @@
-import datetime, difflib, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+import datetime, difflib, hashlib, io, json, os, re, subprocess, sys, time, urllib.parse, urllib.request, zipfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 WRITE = '--write' in sys.argv
 ONLY = sys.argv[sys.argv.index('--only') + 1] if '--only' in sys.argv else None
 BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'symbols', 'no-demo', 'nodemo')
+NOTVITA = ('windows', 'linux', 'macos', 'android', 'ios', '3ds', 'switch', 'builder', 'importer', 'source')
+MIRROR = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
 HOSTS = [('github', r'https?://github\.com/([^/\s]+)/([^/\s?#]+)'),
          ('gitlab', r'https?://gitlab\.com/([^/\s]+)/([^/\s?#]+)'),
          ('gitea', r'https?://git\.silica\.codes/([^/\s]+)/([^/\s?#]+)')]
@@ -37,8 +39,7 @@ def prefetch(keys):
                                       for y in x['releaseAssets']['nodes']]} for x in repo['releases']['nodes']]
         print('  vorab geladen: %d / %d Repos' % (min(i + 50, len(keys)), len(keys)), flush=True)
 def releases(host, key):
-    if host == 'github':
-        return GHCACHE.get(key)
+    if host == 'github': return GHCACHE.get(key)
     if host == 'gitea': return get('https://git.silica.codes/api/v1/repos/%s/releases?limit=4' % key)
     raw = get('https://gitlab.com/api/v4/projects/%s/releases?per_page=4' % urllib.parse.quote(key, safe='')) or []
     return [{'tag_name': r.get('tag_name'), 'prerelease': False, 'draft': False,
@@ -54,14 +55,14 @@ def repo_of(a):
     return None, None
 def vernum(s): return [int(x) for x in re.findall(r'\d+', s or '')[:4]]
 def slug(s): return re.sub(r'[^a-z0-9]', '', (s or '').lower())
-todo = []
-_keys = []
+def ok_asset(x, ext): return os.path.splitext(x['name'])[1].lower() == ext and not any(w in x['name'].lower() for w in BAD) and 'discordapp' not in (x.get('browser_download_url') or '')
+todo, keys = [], []
 for f in FILES:
     for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
         if ONLY and slug(a['name']) != slug(ONLY): continue
         h, k = repo_of(a)
-        if h == 'github': _keys.append(k)
-prefetch(_keys)
+        if h == 'github': keys.append(k)
+prefetch(keys)
 for f in FILES:
     for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
         if 'nightly' in (a.get('version') or '').lower(): continue
@@ -71,23 +72,21 @@ for f in FILES:
         rel = releases(host, key)
         if not rel: continue
         ext = os.path.splitext(a['url'].split('?')[0])[1].lower()
-        stem = re.sub(r'\d', '', slug(os.path.splitext(a['url'].rsplit('/', 1)[-1])[0]))
-        best = None
         oname = a['url'].split('?')[0].rsplit('/', 1)[-1].lower()
+        stem = re.sub(r'\d', '', slug(os.path.splitext(oname)[0]))
+        wrap = a['url'].startswith(MIRROR) and ext == '.vpk'
+        best = None
         for r in rel:
             if r.get('prerelease') or r.get('draft'): continue
-            cands = []
-            for x in r.get('assets', []):
-                st = re.sub(r'\d', '', slug(os.path.splitext(x['name'])[0]))
-                if os.path.splitext(x['name'])[1].lower() == ext and not any(w in x['name'].lower() for w in BAD) and 'discordapp' not in (x.get('browser_download_url') or '') \
-                   and (not stem or not st or stem in st or st in stem):
-                    cands.append(x)
+            cands = [x for x in r.get('assets', []) if ok_asset(x, ext) and (lambda st: not stem or not st or stem in st or st in stem)(re.sub(r'\d', '', slug(os.path.splitext(x['name'])[0])))]
             if cands:
                 exact = [x for x in cands if x['name'].lower() == oname]
-                x = exact[0] if exact else max(cands, key=lambda c: difflib.SequenceMatcher(None, c['name'].lower(), oname).ratio())
-                best = (r, x); break
+                best = (r, exact[0] if exact else max(cands, key=lambda c: difflib.SequenceMatcher(None, c['name'].lower(), oname).ratio()), False); break
+            if wrap:
+                zs = [x for x in r.get('assets', []) if ok_asset(x, '.zip') and not any(w in x['name'].lower() for w in NOTVITA)]
+                if zs: best = (r, zs[0], True); break
         if not best: continue
-        r, x = best
+        r, x, z = best
         kern = re.sub(r'^(v|ver|version|release|vita)[-_. ]*', '', r['tag_name'] or '', flags=re.I)
         if not re.match(r'^[0-9]+(\.[0-9]+)*[a-z]?(-?(alpha|beta|rc)[.-]?[0-9]*)?$', kern, re.I): continue
         nv, av, bv = 'v.' + kern, vernum(kern), vernum(a.get('version'))
@@ -97,15 +96,23 @@ for f in FILES:
         if d0 and '/releases/download/' in d0:
             dn = d0.rsplit('/', 1)[-1]
             data = next(((y['browser_download_url'], y.get('size', 0)) for y in r['assets'] if y['name'] == dn), None)
-        print('  %-28s %-14s -> %-12s %s%s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26], '  +data' if data else ''), flush=True)
-        todo.append((f, a['id'], a['name'], a.get('version'), nv, a['url'].rsplit('/', 1)[-1], x['browser_download_url'], x['name'], data))
+        print('  %-28s %-14s -> %-12s %s%s%s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26], '  +data' if data else '', '  (aus ZIP)' if z else ''), flush=True)
+        todo.append((f, a['id'], a['name'], a.get('version'), nv, kern, oname, x['browser_download_url'], x['name'], data, z))
 print('\n%d Aktualisierungen%s' % (len(todo), '' if WRITE else ' (Probelauf)'))
 if not WRITE: sys.exit()
 done = []
-for k, (f, i, name, ov, nv, ofile, url, nfile, data) in enumerate(todo):
+for k, (f, i, name, ov, nv, kern, ofile, url, nfile, data, z) in enumerate(todo):
     if k and len(todo) < 50: time.sleep(60)
     try: b = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'v'}), timeout=900).read()
     except Exception as e: print('  %s: Download fehlgeschlagen, %s' % (name, type(e).__name__)); continue
+    if z:
+        zf = zipfile.ZipFile(io.BytesIO(b)); vi = next((m for m in zf.infolist() if m.filename.lower().endswith('.vpk')), None)
+        if not vi: print('  %s: keine VPK in der ZIP' % name); continue
+        b = zf.read(vi); nfile = '%s-%s.vpk' % (re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-'), kern)
+        tmp = os.path.join('/tmp', nfile); open(tmp, 'wb').write(b)
+        u = subprocess.run(['gh', 'release', 'upload', 'mirror', tmp, '--clobber', '--repo', 'DrDecki/VitaHomebrewDB'], capture_output=True, text=True)
+        if u.returncode: print('  %s: Upload fehlgeschlagen' % name); continue
+        url = MIRROR + nfile
     p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8'))
     for a in d:
         if a['id'] == i:
