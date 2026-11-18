@@ -4,7 +4,7 @@ FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tool
 WRITE = '--write' in sys.argv
 ONLY = sys.argv[sys.argv.index('--only') + 1] if '--only' in sys.argv else None
 BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'symbols', 'no-demo', 'nodemo')
-NOTVITA = ('windows', 'linux', 'macos', 'android', 'ios', '3ds', 'switch', 'builder', 'importer', 'source')
+NOTVITA = ('psp', 'windows', 'linux', 'macos', 'android', 'ios', '3ds', 'switch', 'builder', 'importer', 'source')
 MIRROR = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
 HOSTS = [('github', r'https?://github\.com/([^/\s]+)/([^/\s?#]+)'),
          ('gitlab', r'https?://gitlab\.com/([^/\s]+)/([^/\s?#]+)'),

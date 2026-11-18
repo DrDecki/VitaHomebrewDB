@@ -254,7 +254,7 @@ what it was on the day the service went down.
 | Silent Hill | khajit2412 | v.0.7 | 5.1 MB | [download](https://github.com/khajit2412/SilentVitaHill/releases/download/v0.7/SilentHillVita.vpk) | [github](https://github.com/khajit2412/SilentVitaHill) |
 | Silent Hill 2 | AngeloGalav | v.0.1.0-alpha.2 | 1.2 MB | [download](https://github.com/AngeloGalav/sh2-vita/releases/download/v0.1.0-alpha.2/sh2vita.vpk) | [github](https://github.com/AngeloGalav/sh2-vita) |
 | Silent Hill 3 (AngeloGalav) | AngeloGalav | v.0.0.1 | 6.5 MB | [download](https://github.com/AngeloGalav/sh3-vita/releases/download/v0.0.1/sh3.vpk) | [github](https://github.com/AngeloGalav/sh3-vita) |
-| Silent Hill 3 (vallfrr) | vallfrr | v.1.0.1 | 6.4 MB | [download](https://github.com/vallfrr/sh3vita/releases/download/v1.0.1/sh3vita.vpk) | [github](https://github.com/vallfrr/sh3vita) |
+| Silent Hill 3 (vallfrr) | vallfrr | v.1.0.2 | 6.4 MB | [download](https://github.com/vallfrr/sh3vita/releases/download/v1.0.2/sh3vita.vpk) | [github](https://github.com/vallfrr/sh3vita) |
 | Silent Hill 4: The Room | vallfrr | v.1.0.1 | 5.5 MB | [download](https://github.com/vallfrr/sh4vita/releases/download/v1.0.1/sh4vita.vpk) | [github](https://github.com/vallfrr/sh4vita) |
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [git.silica.codes](https://git.silica.codes/Li/simpleaccountswitcher) |
 | Skate Vita | irolup | v.0.3.0-beta | 6.7 MB | [download](https://github.com/irolup/skate-3-vita/releases/download/v0.3.0-beta/skate-3-vita-0.3.0-beta.vpk) | [github](https://github.com/irolup/skate-3-vita) |
@@ -3410,7 +3410,7 @@ what it was on the day the service went down.
 | Hungry Shark Evolution Vita Builder | VegettoSan | v.01.00 | 113.4 MB | [download](https://github.com/VegettoSan/Hungry-Shark-Evolution-Ps-Vita/releases/download/01.00/HSEVita_v1.0_Windows.zip) | [github](https://github.com/vegettosan/hungry-shark-evolution-ps-vita) |
 | psse-decrypt | OpenPSS | v.1.0 | 0.3 MB | [download](https://github.com/OpenPSS/psse-decrypt/releases/download/1.0/psse_decrypt.exe) | [github](https://github.com/OpenPSS/psse-decrypt) |
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
-| Stardew Valley Enhanced Vita Builder | rikujoukoro | v.1.0 | 32.9 MB | [download](https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.0/StardewVitaBuilder-windows.zip) | [github](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) |
+| Stardew Valley Enhanced Vita Builder | rikujoukoro | v.1.01 | 33.3 MB | [download](https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.01/StardewVitaBuilder-windows.zip) | [github](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) |
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 

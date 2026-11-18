@@ -222,7 +222,7 @@ Every entry, with the download it currently points at. The ones added since
 | Crazy Traffic Jam 3D | VitaHEX games | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/292-CRAZYTAXI.vpk) | [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48358) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [git.silica.codes](https://git.silica.codes/Li/creeperdiver) |
 | Cro-Mag Rally Vita | Rinnegatamante | v.1.1 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/872-CroMag.vpk) | [github](https://github.com/Rinnegatamante/CroMagRally) [psx-place.com](https://www.psx-place.com/threads/release-cro-mag-rally-port-of-cro-mag-rally-for-psvita-pstv.38232/) |
-| CrossCraft Classic | Iridescence & MotoLegacy | v.1.2.1 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/848-CrossCraft-Classic.vpk) | [github](https://github.com/CrossCraft/CrossCraft-Classic) |
+| CrossCraft Classic | Iridescence & MotoLegacy | v.1.3 | 9.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/crosscraft-classic-1.3.vpk) | [github](https://github.com/CrossCraft/CrossCraft-Classic) |
 | CrossCraft SurvivalTest | Iridescence & MotoLegacy | ST4 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/850-CrossCraft-SurvivalTest.vpk) | [github](https://github.com/CrossCraft/CrossCraft-SurvivalTest) |
 | Crossy Road Clone | MRKane | v.0.70 | 31.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1221-CrossyRoadsClone.vpk) | — |
 | Crystal Archiver | Eli Crystal | v.1.1 | 0.8 MB | [download](https://github.com/EliCrystal2001/CrystalArchiver/releases/download/v1.1/CrystalArchiver.vpk) | [github](https://github.com/EliCrystal2001/CrystalArchiver) |
@@ -360,7 +360,7 @@ Every entry, with the download it currently points at. The ones added since
 | FF4AY-Vita | Rinnegatamante & frangarcj | v.1.0.1 | 20.4 MB | [download](https://github.com/Rinnegatamante/ff4a_vita/releases/download/v.1.0.1/FF4AY.vpk) | [github](https://github.com/Rinnegatamante/ff4a_vita) |
 | FF5-Vita | frangarcj & Rinnegatamante & TheFloW | v.1.1 | 17.4 MB | [download](https://github.com/frangarcj/ff5_vita/releases/download/V1.1/FF5.vpk) | [github](https://github.com/frangarcj/ff5_vita) |
 | FFD-Vita | Rinnegatamante | v.1.2 | 15.8 MB | [download](https://github.com/Rinnegatamante/ffd-vita/releases/download/v.1.2/ffd.vpk) | [github](https://github.com/Rinnegatamante/ffd-vita) |
-| fheroes2 | Northfear & fheroes2 Team | v.1.1.15 | 7.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/354-fheroes2.vpk) | [github](https://github.com/ihhub/fheroes2) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48768) |
+| fheroes2 | Northfear & fheroes2 Team | v.1.1.18 | 14.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/fheroes2-1.1.18.vpk) | [github](https://github.com/ihhub/fheroes2) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48768) |
 | Final Fantasy VI | frangarcj | v.1.0.0 | 16.9 MB | [download](https://github.com/frangarcj/ff6_vita/releases/download/v1.0.0/FF6.vpk) | [github](https://github.com/frangarcj/ff6_vita) |
 | FINAL FANTASY VII | Galetote | v.1.3.1 | 3.0 MB | [download](https://github.com/ggdrn/METEOR-VII-VITA/releases/download/v1.3.1/ff7_vita_v1.3.1.vpk) | [github](https://github.com/ggdrn/METEOR-VII-VITA) |
 | Fingerprint | Freakler | v.0.02 | 1.0 MB | [download](https://github.com/Freakler/vita-Fingerprint/releases/download/0.02/fingerprint_v002.vpk) | [github](https://github.com/Freakler/vita-Fingerprint) |
@@ -393,7 +393,7 @@ Every entry, with the download it currently points at. The ones added since
 | Fran Bow - Chapter One | hatoving | v.2.07 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/639-FranBowChapter1.vpk) | [github](https://github.com/hatoving/GMSVitaPortInstructions) |
 | Fran Bow - Chapter Three | hatoving | v.2.02 | 2.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/657-FranBowChapter3.vpk) | [github](https://github.com/hatoving/GMSVitaPortInstructions) |
 | Fran Bow - Chapter Two | hatoving | v.2.02 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/641-FranBowChapter2.vpk) | [github](https://github.com/hatoving/GMSVitaPortInstructions) |
-| Freegemas | sharkwouter | v.22.02 | 5.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/609-freegemas.vpk) | [github](https://github.com/JoseTomasTocino/freegemas) |
+| Freegemas | sharkwouter | v.26.11 | 5.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/freegemas-26.11.vpk) | [github](https://github.com/JoseTomasTocino/freegemas) |
 | Freespace Collection | Rinnegatamante | v.1.0.1 | 9.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1110-freespace.vpk) | [github](https://github.com/Rinnegatamante/freespace-vita) |
 | Freeway Mutant | Loodanon | v.1.0 | 4.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/416-Freeway_Mutant.vpk) | [gbatemp.net](https://gbatemp.net/threads/release-freeway-mutant-gamemaker-1-4-port-gaymaker.527870/) |
 | Freeways Vita | Rinnegatamante | v.1.0 | 0.8 MB | [download](https://github.com/Rinnegatamante/freeways-vita/releases/download/v.1.0/freeways.vpk) | [github](https://github.com/Rinnegatamante/freeways-vita) |
@@ -956,7 +956,7 @@ Every entry, with the download it currently points at. The ones added since
 | Silent Hill | khajit2412 | v.0.7 | 5.1 MB | [download](https://github.com/khajit2412/SilentVitaHill/releases/download/v0.7/SilentHillVita.vpk) | [github](https://github.com/khajit2412/SilentVitaHill) |
 | Silent Hill 2 | AngeloGalav | v.0.1.0-alpha.2 | 1.2 MB | [download](https://github.com/AngeloGalav/sh2-vita/releases/download/v0.1.0-alpha.2/sh2vita.vpk) | [github](https://github.com/AngeloGalav/sh2-vita) |
 | Silent Hill 3 (AngeloGalav) | AngeloGalav | v.0.0.1 | 6.5 MB | [download](https://github.com/AngeloGalav/sh3-vita/releases/download/v0.0.1/sh3.vpk) | [github](https://github.com/AngeloGalav/sh3-vita) |
-| Silent Hill 3 (vallfrr) | vallfrr | v.1.0.1 | 6.4 MB | [download](https://github.com/vallfrr/sh3vita/releases/download/v1.0.1/sh3vita.vpk) | [github](https://github.com/vallfrr/sh3vita) |
+| Silent Hill 3 (vallfrr) | vallfrr | v.1.0.2 | 6.4 MB | [download](https://github.com/vallfrr/sh3vita/releases/download/v1.0.2/sh3vita.vpk) | [github](https://github.com/vallfrr/sh3vita) |
 | Silent Hill 4: The Room | vallfrr | v.1.0.1 | 5.5 MB | [download](https://github.com/vallfrr/sh4vita/releases/download/v1.0.1/sh4vita.vpk) | [github](https://github.com/vallfrr/sh4vita) |
 | Silly Tower | cpasjuste | v.1.3 | 35.5 MB | [download](https://github.com/Cpasjuste/sillytower/releases/download/1.3/SillyTower-1.3.vpk) | [github](https://github.com/Cpasjuste/sillytower) [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/sillytower/) |
 | Silver Falls Survive | Sungrand Studios | v.0.1 Beta | 173.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1162-SFSurvive_v0_1beta.vpk) | [silverfallsgame.com](https://silverfallsgame.com/survive/) |
@@ -4692,7 +4692,7 @@ Every entry, with the download it currently points at. The ones added since
 | SD2Vita Helper Tool | AntHJ | v.1.2 | 0.5 MB | [download](https://github.com/AntHJ/SD2Vita-Format-Tool/releases/download/1.2/SD2Vita.Format.Tool.v1.2.zip) | [github](https://github.com/AntHJ/SD2Vita-Format-Tool) |
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | Sony Homebrew Manager | MRGhidini | v.1.5 | 8.6 MB | [download](https://github.com/MRGhidini/SHM/releases/download/1.5/Sony.Homebrew.Manager.1.5.zip) | [github](https://github.com/MRGhidini/SHM) |
-| Stardew Valley Enhanced Vita Builder | rikujoukoro | v.1.0 | 32.9 MB | [download](https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.0/StardewVitaBuilder-windows.zip) | [github](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) |
+| Stardew Valley Enhanced Vita Builder | rikujoukoro | v.1.01 | 33.3 MB | [download](https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.01/StardewVitaBuilder-windows.zip) | [github](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) |
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | unpkg_vita | RikuKH3 | v.1.7 | 0.8 MB | [download](https://github.com/RikuKH3/unpkg_vita/releases/download/1.7/unpkg_vita_v17.zip) | [github](https://github.com/RikuKH3/unpkg_vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
@@ -4702,4 +4702,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4679 entries, 54.3 GB in total.
+4679 entries, 54.4 GB in total.

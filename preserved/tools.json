@@ -885,7 +885,7 @@
     },
     {
         "name": "Stardew Valley Enhanced Vita Builder",
-        "version": "v.1.0",
+        "version": "v.1.01",
         "author": "rikujoukoro",
         "description": "Builds Stardew Valley for PSVITA on your PC from your own Steam or GOG copy. A Linux and macOS build is on the release page.",
         "id": "4851",
@@ -897,17 +897,17 @@
         "source": "https://github.com/rikujoukoro/stardew-valley-enhanced-vita",
         "release_page": "https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases",
         "trailer": "",
-        "size": "34502175",
+        "size": "34943330",
         "data_size": "",
-        "hash": "475585804d7547535cab3ba658aa9989",
+        "hash": "7936c6c2716d22438cfff42534f6b638",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.0/StardewVitaBuilder-windows.zip",
+        "url": "https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.01/StardewVitaBuilder-windows.zip",
         "added": "2026-11-18T22:10:47Z",
-        "updated": "2026-11-18T22:10:47Z"
+        "updated": "2026-11-18T22:27:18Z"
     },
     {
         "name": "Hungry Shark Evolution Vita Builder",
