@@ -1,4 +1,10 @@
 import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.request
+import json as _j, os as _o, re as _r
+_BL = _j.load(open(_o.path.join(_o.path.dirname(_o.path.dirname(_o.path.abspath(__file__))), 'blocklist.json'), encoding='utf-8'))
+def blocked(name, author, src=''):
+    if any(b['match'].lower() in ((author or '') + ' ' + (src or '')).lower() for b in _BL['authors']): return True
+    return any(_r.search(b['match'], name or '', _r.I) for b in _BL['names'])
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WRITE = '--write' in sys.argv
 ONLY = sys.argv[sys.argv.index('--only') + 1] if '--only' in sys.argv else None
@@ -17,6 +23,7 @@ t = open(os.path.join(ROOT, 'vitadb_issue.md'), encoding='utf-8').read()
 neu = re.findall(r'^- \*\*(.+?)\*\* by (.+?) \*\((.+?), (.+?)\)\*  —  (.+)$', t, re.M)
 done = 0
 for name, author, kat, datum, src in neu:
+    if blocked(name, author, src): print('  SKIP  %-34s gesperrt' % name[:34]); continue
     v = vd.get(name, {})
     if ONLY and name != ONLY: continue
     if name in SKIP or 'nightly' in (v.get('version') or '').lower():

@@ -1,4 +1,10 @@
 import json, os, re, sys, urllib.request
+import json as _j, os as _o, re as _r
+_BL = _j.load(open(_o.path.join(_o.path.dirname(_o.path.abspath(__file__)), 'blocklist.json'), encoding='utf-8'))
+def blocked(name, author, src=''):
+    if any(b['match'].lower() in ((author or '') + ' ' + (src or '')).lower() for b in _BL['authors']): return True
+    return any(_r.search(b['match'], name or '', _r.I) for b in _BL['names'])
+
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 UA = 'vitadbtoo'
@@ -50,6 +56,7 @@ for label, ep, datei in ENDPOINTS:
                 uns_repo[m.group(2).lower().removesuffix('.git')] = a
 
     for a in vd:
+        if blocked(a.get('name'), a.get('author'), a.get('source') or a.get('url')): continue
         n = norm(a['name'])
         repo = None
         for feld in (a.get('source'), a.get('release_page')):

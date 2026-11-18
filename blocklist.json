@@ -1,0 +1,9 @@
+{
+    "authors": [
+        {"match": "ONElua", "reason": "License violations, banned from VitaDB"}
+    ],
+    "names": [
+        {"match": "^pkgj", "reason": "Removed to move the catalog away from piracy"},
+        {"match": "simpsons.*hit", "reason": "Based on leaked source code"}
+    ]
+}
