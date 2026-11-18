@@ -10,10 +10,29 @@ HOSTS = [('github', r'https?://github\.com/([^/\s]+)/([^/\s?#]+)'),
 def get(u):
     try: return json.load(urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'VitaHomebrewDB'}), timeout=60))
     except Exception: return None
+GHCACHE = {}
+def prefetch(keys):
+    keys = sorted(set(keys))
+    for i in range(0, len(keys), 50):
+        part = keys[i:i + 50]; q = []
+        for n, k in enumerate(part):
+            o, r = k.split('/', 1)
+            q.append('r%d: repository(owner: %s, name: %s) { releases(first: 4, orderBy: {field: CREATED_AT, direction: DESC}) '
+                     '{ nodes { tagName isPrerelease isDraft releaseAssets(first: 40) { nodes { name downloadUrl size } } } } }'
+                     % (n, json.dumps(o), json.dumps(r)))
+        res = subprocess.run(['gh', 'api', 'graphql', '-f', 'query={' + ' '.join(q) + '}'], capture_output=True, text=True, timeout=180)
+        try: data = json.loads(res.stdout).get('data') or {}
+        except Exception: data = {}
+        for n, k in enumerate(part):
+            repo = data.get('r%d' % n)
+            if not repo: continue
+            GHCACHE[k] = [{'tag_name': x['tagName'], 'prerelease': x['isPrerelease'], 'draft': x['isDraft'],
+                           'assets': [{'name': y['name'], 'browser_download_url': y['downloadUrl'], 'size': y['size']}
+                                      for y in x['releaseAssets']['nodes']]} for x in repo['releases']['nodes']]
+        print('  vorab geladen: %d / %d Repos' % (min(i + 50, len(keys)), len(keys)), flush=True)
 def releases(host, key):
     if host == 'github':
-        r = subprocess.run(['gh', 'api', 'repos/%s/releases?per_page=4' % key], capture_output=True, text=True, timeout=90)
-        return json.loads(r.stdout) if r.returncode == 0 else None
+        return GHCACHE.get(key)
     if host == 'gitea': return get('https://git.silica.codes/api/v1/repos/%s/releases?limit=4' % key)
     raw = get('https://gitlab.com/api/v4/projects/%s/releases?per_page=4' % urllib.parse.quote(key, safe='')) or []
     return [{'tag_name': r.get('tag_name'), 'prerelease': False, 'draft': False,
@@ -30,6 +49,13 @@ def repo_of(a):
 def vernum(s): return [int(x) for x in re.findall(r'\d+', s or '')[:4]]
 def slug(s): return re.sub(r'[^a-z0-9]', '', (s or '').lower())
 todo = []
+_keys = []
+for f in FILES:
+    for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
+        if ONLY and slug(a['name']) != slug(ONLY): continue
+        h, k = repo_of(a)
+        if h == 'github': _keys.append(k)
+prefetch(_keys)
 for f in FILES:
     for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
         if 'nightly' in (a.get('version') or '').lower(): continue
@@ -67,7 +93,6 @@ for f in FILES:
             data = next(((y['browser_download_url'], y.get('size', 0)) for y in r['assets'] if y['name'] == dn), None)
         print('  %-28s %-14s -> %-12s %s%s' % (a['name'][:28], (a.get('version') or '')[:14], nv, x['name'][:26], '  +data' if data else ''), flush=True)
         todo.append((f, a['id'], a['name'], a.get('version'), nv, a['url'].rsplit('/', 1)[-1], x['browser_download_url'], x['name'], data))
-        time.sleep(0.2)
 print('\n%d Aktualisierungen%s' % (len(todo), '' if WRITE else ' (Probelauf)'))
 if not WRITE: sys.exit()
 done = []

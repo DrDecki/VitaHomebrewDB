@@ -260,7 +260,7 @@ what it was on the day the service went down.
 | Space Taxi Mayhem | rsn8887 | v.1.5.0 | 3.2 MB | [download](https://github.com/rsn8887/SpaceTaxiMayhem/releases/download/v1.5.0/SpaceTaxiMayhem-1.5.0-Vita.vpk) | [github](https://github.com/rsn8887/SpaceTaxiMayhem) |
 | Spelunky Vita Configurator | r3au | v.1.0 | 2.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/SpelunkyVitaConfigurator.vpk) | — |
 | Spy Mouse HD | myname24 | v.1.1 | 0.7 MB | [download](https://github.com/myname24/spymouse-vita/releases/download/V1.1/spymouse.vpk) | [github](https://github.com/myname24/spymouse-vita) |
-| Spyro Vita | ShayVD | v.1.2.0 | 4.0 MB | [download](https://github.com/ShayVD/spyro-vita/releases/download/v1.2.0/spyro-vita.vpk) | [github](https://github.com/ShayVD/spyro-vita) |
+| Spyro Vita | ShayVD | v.1.2.2 | 4.0 MB | [download](https://github.com/ShayVD/spyro-vita/releases/download/v1.2.2/spyro-vita.vpk) | [github](https://github.com/ShayVD/spyro-vita) |
 | SRB2Kart | Esod | v.2.1 | 5.3 MB | [download](https://github.com/Esodland/SRB2Kart-PSVita-PSTV/releases/download/v2.1/srb2kart-2019-vitagl.vpk) | [github](https://github.com/Esodland/SRB2Kart-PSVita-PSTV) |
 | SSSPlayer | SergioSSantiago | v.1.1.34 | 46.8 MB | [download](https://github.com/SergioSSantiago/SSSPlayer/releases/download/v1.1.34/SSSPlayer-1.1.34.vpk) | [github](https://github.com/SergioSSantiago/SSSPlayer) |
 | SSX (2012) | lukebrl | v.1.1.1 | 2.6 MB | [download](https://github.com/lukebrl/ssx-vita/releases/download/v1.1.1/ssx_vita.vpk) | [github](https://github.com/lukebrl/ssx-vita) |

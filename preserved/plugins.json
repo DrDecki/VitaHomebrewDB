@@ -2195,7 +2195,7 @@
     },
     {
         "name": "noled",
-        "version": "v.1.1",
+        "version": "v.2.2",
         "author": "xerpi & reprep",
         "description": "Home button light disabler for PSVITA.",
         "id": "233",
@@ -2207,16 +2207,17 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "5332",
+        "size": "5351",
         "data_size": "0",
-        "hash": "",
+        "hash": "aa5a76b24be3a0397ebeab15c433a8e2",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/falkenhawk/noled/releases/download/v2.1/noled.skprx",
-        "added": "2026-08-02T18:45:53Z"
+        "url": "https://github.com/falkenhawk/noled/releases/download/v2.2/noled.skprx",
+        "added": "2026-08-02T18:45:53Z",
+        "updated": "2026-11-18T16:47:46Z"
     },
     {
         "name": "TouchRemap",

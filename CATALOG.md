@@ -311,7 +311,7 @@ Every entry, with the download it currently points at. The ones added since
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [drive](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
 | Easy Plugin | THEN00P | v.1.1.1 | 2.5 MB | [download](https://github.com/THEN00P/EasyPlugin/releases/download/1.1.1/easyplugin.vpk) | [github](https://github.com/THEN00P/EasyPlugin) [gbatemp.net](https://gbatemp.net/threads/release-easy-plugin-vitadb-plugin-installer.532956/) |
 | EasyRPG Player | EasyRPG Team & Rinnegatamante | v.0.8.1.1 | 4.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/5-EasyRPG_Player.vpk) | [github](https://github.com/EasyRPG/Player) [blog.easyrpg.org](https://blog.easyrpg.org/) |
-| EasySwitchVita | Kirezar | v.1.0 | 2.2 MB | [download](https://github.com/Kirezar/EasySwitchVita/releases/download/1.0/EasySwitchVita.vpk) | [github](https://github.com/Kirezar/EasySwitchVita) |
+| EasySwitchVita | Kirezar | v.1.01 | 2.2 MB | [download](https://github.com/Kirezar/EasySwitchVita/releases/download/1.01/EasySwitchVita.vpk) | [github](https://github.com/Kirezar/EasySwitchVita) |
 | EasyVPK | Electric & THEN00P | v.2.1.0 | 2.8 MB | [download](https://github.com/Electric1447/EasyVPK/releases/download/v2.1.0/easyvpk.vpk) | [github](https://github.com/Electric1447/EasyVPK) |
 | Echo Moth | Paulo | v.1.0 | 33.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/453-Echo_20Moth.vpk) | — |
 | Ecstatica | xesf | v.0.9.7 | 0.6 MB | [download](https://github.com/xesf/ecstatica/releases/download/v0.9.7/ecstatica-vita-e1-v0.9.7.vpk) | [github](https://github.com/ecstatica-game/ecstatica) |
@@ -1011,7 +1011,7 @@ Every entry, with the download it currently points at. The ones added since
 | Spiced Miku Vu | null & EK720 & SonicMastr | v.1.6.1 | 4.2 MB | [download](https://github.com/FuzionCD/MikuVU/releases/download/v1.6.1/SpicedMikuVU_1.6.1.vpk) | [github](https://github.com/EK720/MikuVU) |
 | SpiderVita | LeeStorm | v.1.2 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/142-SpiderVita.vpk) | [psx-place.com](http://www.psx-place.com/resources/spidervita.245/) |
 | Spy Mouse HD | myname24 | v.1.1 | 0.7 MB | [download](https://github.com/myname24/spymouse-vita/releases/download/V1.1/spymouse.vpk) | [github](https://github.com/myname24/spymouse-vita) |
-| Spyro Vita | ShayVD | v.1.2.0 | 4.0 MB | [download](https://github.com/ShayVD/spyro-vita/releases/download/v1.2.0/spyro-vita.vpk) | [github](https://github.com/ShayVD/spyro-vita) |
+| Spyro Vita | ShayVD | v.1.2.2 | 4.0 MB | [download](https://github.com/ShayVD/spyro-vita/releases/download/v1.2.2/spyro-vita.vpk) | [github](https://github.com/ShayVD/spyro-vita) |
 | Sqrxz 3 | Retroguru Team | v.1.05r | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/614-SQRXZ0003.vpk) | [sqrxz.de](https://www.sqrxz.de/sqrxz-3/) |
 | Sqrxz 4 | Retroguru Team | v.1.02 | 0.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/615-SQRXZ0004.vpk) | [sqrxz.de](https://www.sqrxz.de/sqrxz-4/) |
 | Squid Game | AntHJ | v.1.0 | 27.0 MB | [download](https://github.com/AntHJ/Squid-Game/releases/download/v1.0/Squid.Game.vpk) | [github](https://github.com/AntHJ/Squid-Game) |
@@ -1443,7 +1443,7 @@ Every entry, with the download it currently points at. The ones added since
 | MK9HookVita | ermaccer | v.0.1 | 0.0 MB | [download](https://github.com/ermaccer/MK9HookVita/releases/download/0.1/mk9hook_vita.suprx) | [github](https://github.com/ermaccer/MK9HookVita) |
 | Netcheck Bypass | yifanlu | v.0.1 | 0.0 MB | [download](https://github.com/yifanlu/netcheck_bypass/releases/download/v0.1/netcheck_bypass.suprx) | [github](https://github.com/yifanlu/Netcheck_Bypass) |
 | noavls | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/noavls/releases/download/v0.1/noavls.skprx) | [git.silica.codes](https://git.silica.codes/Li/noavls) |
-| noled | xerpi & reprep | v.1.1 | 0.0 MB | [download](https://github.com/falkenhawk/noled/releases/download/v2.1/noled.skprx) | — |
+| noled | xerpi & reprep | v.2.2 | 0.0 MB | [download](https://github.com/falkenhawk/noled/releases/download/v2.2/noled.skprx) | — |
 | NoLockscreen | TheFloW | v.2 | 0.0 MB | [download](https://github.com/TheOfficialFloW/VitaTweaks/releases/download/NoLockScreen/nolockscreen.suprx) | [github](https://github.com/TheOfficialFloW/VitaTweaks) |
 | NoNpDrm | TheFloW | v.1.2 | 0.0 MB | [download](https://github.com/TheOfficialFloW/NoNpDrm/releases/download/v1.2/nonpdrm.skprx) | [github](https://github.com/TheOfficialFloW/NoNpDrm) |
 | NoPowerLimits | Electry | v.1.1 | 0.0 MB | [download](https://github.com/Electry/NoPowerLimitsVita/releases/download/v1.1/NoPowerLimits.skprx) | [github](https://github.com/Electry/NoPowerLimitsVita) |
@@ -3107,7 +3107,7 @@ Every entry, with the download it currently points at. The ones added since
 | Open Remote Play Exporter | dashhacker242 | v.1.0 | 1.8 MB | [download](https://archive.org/download/orp-exporter.-7z/ORP_Exporter.zip) | [archive.org](https://archive.org/details/orp-exporter.-7z) |
 | Open Source FlashConnect | Chiri_13 | v.1.0 | 0.1 MB | [download](https://archive.org/download/flash-connect.-7z/FlashConnect.zip) | [archive.org](https://archive.org/details/flash-connect.-7z) |
 | Open Ugh! | Bart ten Brinke | v.1.0 | 39.6 MB | [download](https://archive.org/download/open_ugh_psp_v1.0/open_ugh_psp_v1.0.zip) | [archive.org](https://archive.org/details/open_ugh_psp_v1.0) |
-| OpenBOR | SamuraiX | v.3.0 Build 6391 | 1.2 MB | [download](https://github.com/DCurrent/openbor/releases/download/v7142/OpenBOR.rar) | — |
+| OpenBOR | SamuraiX | v.7533 | 1.3 MB | [download](https://github.com/DCurrent/openbor/releases/download/v7533/OpenBOR.v4.0.Build.7533.rar) | — |
 | OpenBricks | Ryp | v.1.1 | 1.6 MB | [download](https://archive.org/download/open-bricks.-7z/OpenBricks1.1.zip) | [archive.org](https://archive.org/details/open-bricks.-7z) |
 | openChoice | XArt Software & Designs | v.1.0 | 0.2 MB | [download](https://archive.org/download/openchoice.7z/openchoice.zip) | [archive.org](https://archive.org/details/openchoice.7z) |
 | OpenHCL | JeffRuLz | v.1.0 | 9.3 MB | [download](https://archive.org/download/open-hcl.-7z/OpenHCL.zip) | [archive.org](https://archive.org/details/open-hcl.-7z) |
