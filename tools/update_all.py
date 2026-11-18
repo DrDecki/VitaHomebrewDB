@@ -73,7 +73,7 @@ for f in FILES:
             cands = []
             for x in r.get('assets', []):
                 st = re.sub(r'\d', '', slug(os.path.splitext(x['name'])[0]))
-                if os.path.splitext(x['name'])[1].lower() == ext and not any(w in x['name'].lower() for w in BAD) \
+                if os.path.splitext(x['name'])[1].lower() == ext and not any(w in x['name'].lower() for w in BAD) and 'discordapp' not in (x.get('browser_download_url') or '') \
                    and (not stem or not st or stem in st or st in stem):
                     cands.append(x)
             if cands:
