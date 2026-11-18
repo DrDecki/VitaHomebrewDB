@@ -1,4 +1,4 @@
-import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+import datetime, difflib, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 WRITE = '--write' in sys.argv
@@ -41,14 +41,19 @@ for f in FILES:
         ext = os.path.splitext(a['url'].split('?')[0])[1].lower()
         stem = re.sub(r'\d', '', slug(os.path.splitext(a['url'].rsplit('/', 1)[-1])[0]))
         best = None
+        oname = a['url'].split('?')[0].rsplit('/', 1)[-1].lower()
         for r in rel:
             if r.get('prerelease') or r.get('draft'): continue
+            cands = []
             for x in r.get('assets', []):
                 st = re.sub(r'\d', '', slug(os.path.splitext(x['name'])[0]))
                 if os.path.splitext(x['name'])[1].lower() == ext and not any(w in x['name'].lower() for w in BAD) \
                    and (not stem or not st or stem in st or st in stem):
-                    best = (r, x); break
-            if best: break
+                    cands.append(x)
+            if cands:
+                exact = [x for x in cands if x['name'].lower() == oname]
+                x = exact[0] if exact else max(cands, key=lambda c: difflib.SequenceMatcher(None, c['name'].lower(), oname).ratio())
+                best = (r, x); break
         if not best: continue
         r, x = best
         kern = re.sub(r'^(v|ver|version|release)[-_. ]*', '', r['tag_name'] or '', flags=re.I)
