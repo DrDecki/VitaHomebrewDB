@@ -7,9 +7,15 @@ BAD = ('-logging', '-debug', '-test', '_test', 'blank', 'source', 'partial', 'sy
 HOSTS = [('github', r'https?://github\.com/([^/\s]+)/([^/\s?#]+)'),
          ('gitlab', r'https?://gitlab\.com/([^/\s]+)/([^/\s?#]+)'),
          ('gitea', r'https?://git\.silica\.codes/([^/\s]+)/([^/\s?#]+)')]
+DEAD = {}
 def get(u):
-    try: return json.load(urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'VitaHomebrewDB'}), timeout=60))
-    except Exception: return None
+    host = u.split('/')[2]
+    if DEAD.get(host, 0) >= 2: return None
+    try: return json.load(urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'VitaHomebrewDB'}), timeout=15))
+    except Exception:
+        DEAD[host] = DEAD.get(host, 0) + 1
+        if DEAD[host] == 2: print('  %s antwortet nicht, wird uebersprungen' % host, flush=True)
+        return None
 GHCACHE = {}
 def prefetch(keys):
     keys = sorted(set(keys))
