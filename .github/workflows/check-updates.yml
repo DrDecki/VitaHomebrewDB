@@ -20,7 +20,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_MB: '150'
-        run: python3 check_updates.py
+        run: python3 tools/update_all.py --write
 
       - name: Rebuild derived files
         if: steps.check.outputs.count != '0'
