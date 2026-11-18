@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1393)
+## PSVITA homebrews (1392)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -962,7 +962,6 @@ Every entry, with the download it currently points at. The ones added since
 | Simple Account Switcher | LiEnby | v.1.2 | 0.0 MB | [download](https://git.silica.codes/Li/simpleaccountswitcher/releases/download/v1.2/SimpleAccountSwitcher.vpk) | [git.silica.codes](https://git.silica.codes/Li/simpleaccountswitcher) |
 | Simple FPS Platformer | MEGAgameBoy | v.1.6 | 61.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/783-SimpleFPSplatformer.vpk) | [itch.io](https://megagameboy.itch.io/simple-fps-platformer) |
 | Simple Text Editor | jakibaki | v.1.1.1 | 61.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/33-SimpleFPSplatformer.vpk) | [wololo.net](https://wololo.net/talk/viewtopic.php?f=116&t=47018) |
-| Simpsons Hit & Run | ZenoArrows | v.0.6.1 | 19.3 MB | [download](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/releases/download/v0.6.1/SimpsonsNTSC.vpk) | [github](https://github.com/zenoarrows/the-simpsons-hit-and-run) |
 | Siren Head Dating Sim | Rayc | v.1.01 | 30.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1139-siren_head.vpk) | [archive.org](https://web.archive.org/web/20251115032124/https://fuhen.homebrew-contest.com/submissions/53/) |
 | Skate Vita | irolup | v.0.3.0-beta | 6.7 MB | [download](https://github.com/irolup/skate-3-vita/releases/download/v0.3.0-beta/skate-3-vita-0.3.0-beta.vpk) | [github](https://github.com/irolup/skate-3-vita) |
 | Skyrift | Onur Kuru | v.1.3.0 | 0.9 MB | [download](https://github.com/onurkuru/skyrift/releases/download/v1.3.0/skyrift.vpk) | [github](https://github.com/onurkuru/skyrift) |
@@ -4696,4 +4695,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4673 entries, 54.2 GB in total.
+4672 entries, 54.2 GB in total.
