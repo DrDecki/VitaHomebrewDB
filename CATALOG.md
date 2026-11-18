@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1392)
+## PSVITA homebrews (1395)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -742,6 +742,7 @@ Every entry, with the download it currently points at. The ones added since
 | osu!octave | gl33ntwine | v.1.20 | 2.4 MB | [download](https://github.com/v-atamanenko/osu-octave/releases/download/1.20/osu-octave.vpk) | [github](https://github.com/v-atamanenko/osu-octave) |
 | OttoMatic Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1253-OttoMatic.vpk) | [github](https://github.com/Rinnegatamante/OttoMatic) [psx-place.com](https://www.psx-place.com/threads/release-ottomatic-vita.45880/) |
 | Overcome | Lapy | v.1.01 | 38.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/458-Overcome.vpk) | — |
+| Pac'N-Jump | heyjonanderson | v.0.9.1 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/pac-n-jump-0.9.1.vpk) | [github](https://github.com/heyjonanderson/pacnjumpnative) |
 | PAC-GAL 1982 | figarocool | v.1.0.1 | 0.7 MB | [download](https://github.com/figarocool/Pac-Gal-Dos-PC-game-produced-by-J.-Jimenez-in-1982/releases/download/v1.0.1/PAC-GAL-PSVita.vpk) | [github](https://github.com/figarocool/Pac-Gal-Dos-PC-game-produced-by-J.-Jimenez-in-1982) |
 | Pac-man: Deadline | MRKane | v.1.0 | 67.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PacManDeadline.vpk) | [itch.io](https://mrkane.itch.io/pac-man-deadline) |
 | Pacman CE DX Vita | mcallbosco | v.3 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1409-pacmancedx.vpk) | [github](https://github.com/mcallbosco/pacman-cedx-vita) |
@@ -1027,6 +1028,7 @@ Every entry, with the download it currently points at. The ones added since
 | SSSPlayer | SergioSSantiago | v.1.1.34 | 46.8 MB | [download](https://github.com/SergioSSantiago/SSSPlayer/releases/download/v1.1.34/SSSPlayer-1.1.34.vpk) | [github](https://github.com/SergioSSantiago/SSSPlayer) |
 | SSX (2012) | lukebrl | v.1.1.1 | 2.6 MB | [download](https://github.com/lukebrl/ssx-vita/releases/download/v1.1.1/ssx_vita.vpk) | [github](https://github.com/lukebrl/ssx-vita) |
 | Stacker for Vita | Bunkai | v.1.00 | 18.7 MB | [download](https://github.com/Bunkai9448/StackerVitaGodot/releases/download/StackerVita-v.01.00/Stacker.for.Vita.vpk) | [github](https://github.com/Bunkai9448/StackerVitaGodot) |
+| Star Fox Adventures | tchisholm20 | v.0.2.0 | 8.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/star-fox-adventures-0.2.0.vpk) | [github](https://github.com/tchisholm20/starfox-adventures-vita) |
 | Star Warfare: Alien Invasion | hatoving | v.0.9-hotfix.0 | 14.4 MB | [download](https://github.com/hatoving/starwarfare-vita/releases/download/0.9-hotfix.0/starwarfare.vpk) | [github](https://github.com/hatoving/starwarfare-vita) |
 | Star Wars Battlefront II | tezla55 | v.beta | 6.5 MB | [download](https://github.com/tezla55/swbf2-vita/releases/download/beta/swbf2-vita.vpk) | [github](https://github.com/tezla55/swbf2-vita) |
 | Star Wars Episode I: The Phantom Menace | Bit | v.2.0 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/StarWarsPhantom.vpk) | [psx-place.com](https://www.psx-place.com/threads/star-wars-episode-i-the-phantom-menace-ps-vita-port.51309/) |
@@ -1356,6 +1358,7 @@ Every entry, with the download it currently points at. The ones added since
 | Wipeout Rewrite Vita | Rinnegatamante | v.1.3 | 1.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1116-Wipeout.vpk) | [github](https://github.com/Rinnegatamante/wipeout-rewrite) |
 | Wizard Wizard | Crateboy & JeffRuLz345 | v.1.0 | 10.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/408-WizardWizard.vpk) | — |
 | Wolfenstein RPG Vita | Rinnegatamante | v.1.0 | 2.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1268-WOLFENRPG.vpk) | [github](https://github.com/Rinnegatamante/WolfensteinRPG-RE) [psx-place.com](https://www.psx-place.com/threads/release-wolfenstein-rpg-vita.47380/) |
+| Wonder Boy: The Dragon's Trap | Cynostial | v.0.35-rc1 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/wonder-boy-the-dragon-s-trap-0.35-rc1.vpk) | [github](https://github.com/cynostial/wonderboy-vita) |
 | Wonky Adventures | stacksta | v.1.0 | 7.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/691-wonkeyadventures.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/wonkyadventure) |
 | WoozyLLM | LuckyI13I | v.0.1P-fix1 | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk) | [github](https://github.com/LuckyI13I/WoozyLLM) |
 | Wordle SDL | Rinnegatamante | v.1.0 | 0.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/855-Wordle.vpk) | [github](https://github.com/Rinnegatamante/wordle_clone) [psx-place.com](https://www.psx-place.com/threads/release-wordle-sdl-port-of-a-clone-of-wordle-for-psvita.38166/) |
@@ -4657,7 +4660,7 @@ Every entry, with the download it currently points at. The ones added since
 | 欺诈女神 Apate | IACG游戏组 | v.1.0 | 25.1 MB | [download](https://archive.org/download/apate_v1/apate_v1.zip) | [archive.org](https://archive.org/details/apate_v1) |
 | ＼(^o^)／ブラウザKSK | k・s・k | v.1.0 | 0.8 MB | [download](https://archive.org/download/2chksk-0036-084r-156/2chksk0036_084r156.zip) | [archive.org](https://archive.org/details/2chksk-0036-084r-156) |
 
-## PC tools (33)
+## PC tools (37)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -4665,10 +4668,12 @@ Every entry, with the download it currently points at. The ones added since
 | Boxset Bubble Creator | AntHJ | v.1.426 | 191.0 MB | [download](https://github.com/AntHJ/Boxset-Bubble-Creator/releases/download/v1.426/Boxset.Bubble.Creator.0426.zip) | [github](https://github.com/AntHJ/Boxset-Bubble-Creator/releases) |
 | Bubble-Builder | DRok17 | v.1.2 | 10.8 MB | [download](https://github.com/DRok17/Bubble-Builder/releases/download/v1.2/Bubble-Builder-1.2.zip) | [github](https://github.com/DRok17/Bubble-Builder) |
 | Chovy-Sign 2 | LiEnby | v.2.0.7.3 | 60.1 MB | [download](https://github.com/LiEnby/chovy-sign/releases/download/v2.0.7.3/ChovySign2-GUI-Windows-x86_64.zip) | [github](https://github.com/LiEnby/chovy-sign) |
+| Crow Country Vita Builder | xob0t | v.1.1 | 0.9 MB | [download](https://github.com/xob0t/crow-country-vita/releases/download/v1.1/crow-country-vita.zip) | [github](https://github.com/xob0t/crow-country-vita) |
 | Fake-08-Builder | DRok17 | v.1.0 | 0.5 MB | [download](https://github.com/DRok17/Fake-08-Builder/releases/download/v1.0/Fake08-Builder-v.1.0.zip) | [github](https://github.com/DRok17/Fake-08-Builder) |
 | GayMaker | LiEnby | v.1.7.7 | 22.1 MB | [download](https://github.com/LiEnby/GayMaker/releases/download/v1.7.7/GayMaker.1.7.7.zip) | [github](https://github.com/LiEnby/GayMaker) |
 | GcNetworkBackup | oestriot | v.1.9 | 0.4 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcNetworkBackup.exe) | [github](https://github.com/oestriot/GcToolKit) |
 | Guess It! Customization Tool | HWNJ | v.1.0.0.0 | 53.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/690-guessit_custom.zip) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/guessit) |
+| Hungry Shark Evolution Vita Builder | VegettoSan | v.01.00 | 113.4 MB | [download](https://github.com/VegettoSan/Hungry-Shark-Evolution-Ps-Vita/releases/download/01.00/HSEVita_v1.0_Windows.zip) | [github](https://github.com/vegettosan/hungry-shark-evolution-ps-vita) |
 | Multi-Builder | DRok17 | v.1.8 | 31.0 MB | [download](https://github.com/DRok17/Multi-Builder/releases/download/v1.8/Multi-Builder.1.8.zip) | [github](https://github.com/DRok17/Multi-Builder) |
 | NoMorePacKaGe | ScarletDreamz | v.1.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/343-nomorepackage.zip) | — |
 | NPS Browser | jhonhenry10 | v.0.7.2 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/346-nps-browser.zip) | [github](https://github.com/RY0M43CH1Z3N/nps-browser) |
@@ -4687,6 +4692,8 @@ Every entry, with the download it currently points at. The ones added since
 | SD2Vita Helper Tool | AntHJ | v.1.2 | 0.5 MB | [download](https://github.com/AntHJ/SD2Vita-Format-Tool/releases/download/1.2/SD2Vita.Format.Tool.v1.2.zip) | [github](https://github.com/AntHJ/SD2Vita-Format-Tool) |
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | Sony Homebrew Manager | MRGhidini | v.1.5 | 8.6 MB | [download](https://github.com/MRGhidini/SHM/releases/download/1.5/Sony.Homebrew.Manager.1.5.zip) | [github](https://github.com/MRGhidini/SHM) |
+| Stardew Valley Enhanced Vita Builder | rikujoukoro | v.1.0 | 32.9 MB | [download](https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.0/StardewVitaBuilder-windows.zip) | [github](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) |
+| The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | unpkg_vita | RikuKH3 | v.1.7 | 0.8 MB | [download](https://github.com/RikuKH3/unpkg_vita/releases/download/1.7/unpkg_vita_v17.zip) | [github](https://github.com/RikuKH3/unpkg_vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 | vid2pshv | Rinnegatamante | v.1.0 | 12.4 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/vid2pshv_win64.zip) | [github](https://github.com/Rinnegatamante/vid2pshv) |
@@ -4695,4 +4702,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4672 entries, 54.2 GB in total.
+4679 entries, 54.3 GB in total.
