@@ -62,7 +62,7 @@
     {
         "name": "VitaSim",
         "icon": "58fefcc6b966fb48393fa20333f65169ee54654092bb95ec95e56ca6044568e3.png",
-        "version": "v.0.11.40",
+        "version": "v.0.11.57",
         "author": "Reyanon",
         "type": "2",
         "description": "Port of The Sims 1 Legacy Collection for PSVITA.",
@@ -76,18 +76,19 @@
         "source": "https://github.com/Reyanon/VitaSim",
         "release_page": "https://github.com/Reyanon/VitaSim/releases",
         "trailer": "",
-        "size": "2649010",
+        "size": "2657987",
         "data_size": "0",
-        "hash": "484f19dc0e26db566e200c1e906dd149",
+        "hash": "860a416edef9ddd4bce3e521486704c7",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: The Sims 1 Legacy Collection",
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/Reyanon/VitaSim/releases/download/v0.11.40/VitaSim_v0.11.40.vpk",
+        "url": "https://github.com/Reyanon/VitaSim/releases/download/v0.11.57/VitaSim_v0.11.57.vpk",
         "data": "",
-        "added": "2026-11-18T15:51:36Z"
+        "added": "2026-11-18T15:51:36Z",
+        "updated": "2026-11-18T17:04:58Z"
     },
     {
         "name": "Silent Hill 3",

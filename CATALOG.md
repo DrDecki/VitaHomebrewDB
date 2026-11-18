@@ -1291,7 +1291,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaSend | trashman | v.1.0.0 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v1.0.0/VitaSend-v100.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
 | VitaShell | TheFloW | v.2.02 | 1.8 MB | [download](https://github.com/TheOfficialFloW/VitaShell/releases/download/v2.02/VitaShell.vpk) | [github](https://github.com/TheOfficialFloW/VitaShell) |
 | VitaShell Theme Manager | Ruben_Wolfe | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/173-vitashellthememanager.vpk) | [wololo.net](https://wololo.net/talk/viewtopic.php?f=116&t=46936) |
-| VitaSim | Reyanon | v.0.11.40 | 2.5 MB | [download](https://github.com/Reyanon/VitaSim/releases/download/v0.11.40/VitaSim_v0.11.40.vpk) | [github](https://github.com/Reyanon/VitaSim) |
+| VitaSim | Reyanon | v.0.11.57 | 2.5 MB | [download](https://github.com/Reyanon/VitaSim/releases/download/v0.11.57/VitaSim_v0.11.57.vpk) | [github](https://github.com/Reyanon/VitaSim) |
 | vitaSnake | Grzybojad | v.1.5 | 1.8 MB | [download](https://github.com/Grzybojad/vitaSnake/releases/download/v1.5/vitaSnake.vpk) | [github](https://github.com/Grzybojad/vitaSnake) |
 | VitaSPH | sjoerdwouters | v.1.0 | 0.7 MB | [download](https://github.com/sjoerdev/fluid-simulation-vitagl/releases/download/v1.0/VitaSPH.vpk) | [github](https://github.com/sjoerdev/fluid-simulation-vitagl) [itch.io](https://sjoerdev.itch.io/vitasph) |
 | VitaSpot | 0oPerryo0 | v.0.0.4 | 16.3 MB | [download](https://github.com/0oPerryo0/VitaSpot/releases/download/v0.0.4/VitaSpot.vpk) | [github](https://github.com/0oPerryo0/VitaSpot) |
@@ -3107,7 +3107,7 @@ Every entry, with the download it currently points at. The ones added since
 | Open Remote Play Exporter | dashhacker242 | v.1.0 | 1.8 MB | [download](https://archive.org/download/orp-exporter.-7z/ORP_Exporter.zip) | [archive.org](https://archive.org/details/orp-exporter.-7z) |
 | Open Source FlashConnect | Chiri_13 | v.1.0 | 0.1 MB | [download](https://archive.org/download/flash-connect.-7z/FlashConnect.zip) | [archive.org](https://archive.org/details/flash-connect.-7z) |
 | Open Ugh! | Bart ten Brinke | v.1.0 | 39.6 MB | [download](https://archive.org/download/open_ugh_psp_v1.0/open_ugh_psp_v1.0.zip) | [archive.org](https://archive.org/details/open_ugh_psp_v1.0) |
-| OpenBOR | SamuraiX | v.4.0 Build 7533 | 1.3 MB | [download](https://github.com/DCurrent/openbor/releases/download/v7533/OpenBOR.v4.0.Build.7533.rar) | — |
+| OpenBOR | SamuraiX | v.7533 | 1.3 MB | [download](https://github.com/DCurrent/openbor/releases/download/v7533/OpenBOR.v4.0.Build.7533.rar) | — |
 | OpenBricks | Ryp | v.1.1 | 1.6 MB | [download](https://archive.org/download/open-bricks.-7z/OpenBricks1.1.zip) | [archive.org](https://archive.org/details/open-bricks.-7z) |
 | openChoice | XArt Software & Designs | v.1.0 | 0.2 MB | [download](https://archive.org/download/openchoice.7z/openchoice.zip) | [archive.org](https://archive.org/details/openchoice.7z) |
 | OpenHCL | JeffRuLz | v.1.0 | 9.3 MB | [download](https://archive.org/download/open-hcl.-7z/OpenHCL.zip) | [archive.org](https://archive.org/details/open-hcl.-7z) |
