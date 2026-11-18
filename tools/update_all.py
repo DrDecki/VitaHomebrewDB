@@ -88,7 +88,7 @@ for f in FILES:
                 best = (r, x); break
         if not best: continue
         r, x = best
-        kern = re.sub(r'^(v|ver|version|release)[-_. ]*', '', r['tag_name'] or '', flags=re.I)
+        kern = re.sub(r'^(v|ver|version|release|vita)[-_. ]*', '', r['tag_name'] or '', flags=re.I)
         if not re.match(r'^[0-9]+(\.[0-9]+)*[a-z]?(-?(alpha|beta|rc)[.-]?[0-9]*)?$', kern, re.I): continue
         nv, av, bv = 'v.' + kern, vernum(kern), vernum(a.get('version'))
         if [i for i in av if i] == [i for i in bv if i] or av <= bv: continue

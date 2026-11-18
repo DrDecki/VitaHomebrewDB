@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (363)
+## PSVITA homebrews (364)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -277,6 +277,7 @@ what it was on the day the service went down.
 | SuperTux (DrDecki) | DrDecki | v.1.0 | 5.7 MB | [download](https://github.com/DrDecki/supertux-vita/releases/download/v1.0/supertux2.vpk) | [github](https://github.com/DrDecki/supertux-vita) |
 | SuperTux (effL) | effL | v.0.40 | 80.1 MB | [download](https://github.com/git-effl/supertux-vita/releases/download/v0.40/supertux-vita.vpk) | [github](https://github.com/git-effl/supertux-vita) |
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [github](https://github.com/theheroGAC/SuperTux-PSVITA) |
+| SuperTuxKart | edgarlugo | v.1.01 | 11.7 MB | [download](https://github.com/edgarlugo/stk-code/releases/download/vita-1.01/supertuxkart.vpk) | [github](https://github.com/edgarlugo/stk-code/tree/vita-port) [github](https://github.com/edgarlugo/stk-code/releases) |
 | Syncthing | GeoffreyMetais | v.0.1.0 | 1.3 MB | [download](https://github.com/GeoffreyMetais/syncthing-vita/releases/download/v0.1.0/SYNCTHING.vpk) | [github](https://github.com/GeoffreyMetais/syncthing-vita) |
 | Tanks 2027 | Ports Collection | v.1.3 | 2.5 MB | [download](https://github.com/LokiDSx/Tanks-2027/releases/download/v1.3/Tanks.vpk) | [github](https://github.com/LokiDSx/Tanks-2027) |
 | Test Drive II | smart-pickle | v.0.2 | 1.3 MB | [download](https://github.com/smart-pickle/TestDriveII-Vita/releases/download/v0.2/TestDrive2Vita.vpk) | [github](https://github.com/smart-pickle/TestDriveII-Vita) |
@@ -3392,4 +3393,4 @@ what it was on the day the service went down.
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3368 entries, 24.1 GB in total.
+3369 entries, 24.2 GB in total.

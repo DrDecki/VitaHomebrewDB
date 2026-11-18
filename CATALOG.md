@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1376)
+## PSVITA homebrews (1377)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1059,6 +1059,7 @@ Every entry, with the download it currently points at. The ones added since
 | SuperTux (DrDecki) | DrDecki | v.1.0 | 5.7 MB | [download](https://github.com/DrDecki/supertux-vita/releases/download/v1.0/supertux2.vpk) | [github](https://github.com/DrDecki/supertux-vita) |
 | SuperTux (effL) | effL | v.0.40 | 80.1 MB | [download](https://github.com/git-effl/supertux-vita/releases/download/v0.40/supertux-vita.vpk) | [github](https://github.com/git-effl/supertux-vita) |
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [github](https://github.com/theheroGAC/SuperTux-PSVITA) |
+| SuperTuxKart | edgarlugo | v.1.01 | 11.7 MB | [download](https://github.com/edgarlugo/stk-code/releases/download/vita-1.01/supertuxkart.vpk) | [github](https://github.com/edgarlugo/stk-code/tree/vita-port) [github](https://github.com/edgarlugo/stk-code/releases) |
 | supra mayro kratt | MEGAgameBoy | v.1.1 | 34.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/803-supra.vpk) | — |
 | Switch SD2Vita | AppleIo & wth | v.2.1 | 0.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/294-switch_sd2vita.vpk) | [github](https://github.com/Applelo/SwitchSD2Vita) [wololo.net](http://wololo.net/talk/viewtopic.php?p=419388) |
 | Switch to PSTV | xCorra | v.1.0 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/476-Switch_20to_20PSTV.vpk) | [github](https://github.com/xCorra/SwitchtoPSTV) |
@@ -4680,4 +4681,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4657 entries, 53.8 GB in total.
+4658 entries, 53.9 GB in total.
