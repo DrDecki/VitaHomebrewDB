@@ -411,7 +411,7 @@ what it was on the day the service went down.
 | Pocketstation Unlocker | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/PocketstationUnlocker/releases/download/v1.1/pocketstationunlocker.skprx) | [git.silica.codes](https://git.silica.codes/Li/PocketstationUnlocker) |
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [git.silica.codes](https://git.silica.codes/Li/qaspoofer) |
 | Ratchet & Clank: Size Matters Remastered Controls | Rafitalocotron | v.1.0.0 | 0.0 MB | [download](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls/releases/download/v1.0.0/ratchet_remastered.prx) | [github](https://github.com/rafitalocotron/RatchetSizeMatters-RemasteredControls) |
-| ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [git.silica.codes](https://git.silica.codes/Li/ScoreHax) |
+| ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [github](https://github.com/LiEnby/ScoreHax) |
 | Screenshot NoShard | devnoname120 | v.1.2.0 | 0.0 MB | [download](https://github.com/devnoname120/screenshot-noshard/releases/download/v1.2.0/screenshot_noshard.suprx) | [github](https://github.com/devnoname120/screenshot-noshard) |
 | Start Screen Music | rodi | v.1.1.4 | 0.1 MB | [download](https://github.com/rodingley/startscreenmusic_vita/releases/download/v1.1.4/startscreenmusic.suprx) | [github](https://github.com/rodingley/startscreenmusic_vita) |
 | TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [git.silica.codes](https://git.silica.codes/Li/trophax) |
@@ -422,7 +422,7 @@ what it was on the day the service went down.
 | Vita MP4 Recorder | Rinnegatamante | v.0.5 | 0.0 MB | [download](https://github.com/Rinnegatamante/Vita-MP4-Recorder/releases/download/v.0.5/VitaMP4Recorder.suprx) | [github](https://github.com/Rinnegatamante/Vita-MP4-Recorder) |
 | VitaBrightEX | Zushikina-kun & devnoname120 | v.1.3 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/VitaBrightEX.zip) | [github](https://github.com/Zushikina-kun/VitaBrightEX) |
 | VitaBtFix | gabew100 | v.1.1 | 0.0 MB | [download](https://github.com/gabew100/VitaBtFix/releases/download/v1.1/vitabtfix.skprx) | [github](https://github.com/gabew100/VitaBtFix) |
-| vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [git.silica.codes](https://git.silica.codes/Li/vshPatch) |
+| vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [github](https://github.com/LiEnby/vshPatch) |
 | Wi-Fi Turbo | juanjsebgarcia | v.0.7.2 | 0.1 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-wifi/releases/download/v0.7.2/wifiturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-wifi) |
 
 ## PSP homebrews (2969)

@@ -1494,7 +1494,7 @@ Every entry, with the download it currently points at. The ones added since
 | SavedataPlus | Rinnegatamante | v.0.8 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/SavedataPlus.zip) | [github](https://github.com/Rinnegatamante/SavedataPlus) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48585) |
 | SceKernelModuleDumper | Princess-of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/374-scekernelmoduledumpervita.7z) | [github](https://github.com/Princess-of-Sleeping/SceKernelModuleDumper) |
 | sceShutterSoundPlayDisable | Princess-of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/373-scesspdvita.7z) | [github](https://github.com/Princess-of-Sleeping/sceShutterSoundPlayDisable) |
-| ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [git.silica.codes](https://git.silica.codes/Li/ScoreHax) |
+| ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [github](https://github.com/LiEnby/ScoreHax) |
 | Screenie | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/Screenie.zip) | [github](https://github.com/Rinnegatamante/Screenie) |
 | Screenshot Enabler | reprep & yifanlu | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/220-screenshot.zip) | — |
 | Screenshot NoShard | devnoname120 | v.1.2.0 | 0.0 MB | [download](https://github.com/devnoname120/screenshot-noshard/releases/download/v1.2.0/screenshot_noshard.suprx) | [github](https://github.com/devnoname120/screenshot-noshard) |
@@ -1550,7 +1550,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaMount | Darkmet98 | v.1.0 | 0.0 MB | [download](https://github.com/Darkmet98/VitaMount-plugin/releases/download/1.0/VitaMount.1.0.zip) | — |
 | vitastick | xerpi | v.0.4.1 alpha | 0.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/236-vitastick.7z) | [github](https://github.com/xerpi/vitastick) |
 | VolLightbarCtrlWithDS4 | CallmeBK | v.1.3 | 0.0 MB | [download](https://github.com/CallmeBK/VolLightbarCtrlWithDS4/releases/download/v1.3/VolLightbarCtrlWithDS4.skprx) | [github](https://github.com/CallmeBK/VolLightbarCtrlWithDS4) |
-| vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [git.silica.codes](https://git.silica.codes/Li/vshPatch) |
+| vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [github](https://github.com/LiEnby/vshPatch) |
 | Walk | pathway27 | v.1.0 | 0.0 MB | [download](https://github.com/pathway27/walk/releases/download/v0.1/walk.suprx) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/walk) |
 | Watermark Disabler | reprep | v.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/225-watermarkdisablervita.7z) | — |
 | WDNF | EchoDev & Rinnegatamante | v.1.0 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/WDNF.suprx) | — |
