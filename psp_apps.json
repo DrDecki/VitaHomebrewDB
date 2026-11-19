@@ -87535,7 +87535,7 @@
     {
         "name": "ReiREM",
         "icon": "940fa33a9478a3fe9b655acb33077dcc94983bef6f4b409ec37484b74900d926.png",
-        "version": "v.0.1.400",
+        "version": "v.0.1.279",
         "author": "Reyanon",
         "type": "5",
         "description": "FinalBurn Neo-based emulator dedicated to Irem arcade hardware for the PSP. It supports 10 board families and 196 game sets.",
@@ -87549,18 +87549,17 @@
         "source": "",
         "release_page": "https://archive.org/details/reirem",
         "trailer": "",
-        "size": "1835215",
+        "size": "5595382",
         "data_size": "",
-        "hash": "ef6b5df4f1eb68b7e3a0166af7e75b56",
+        "hash": "bf282f6b2e434a975efad5ef5ecfe9e6",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4730-get_hb_url.php_id_1634",
+        "url": "https://archive.org/download/reirem/ReiREM_v0.1.279_psp.zip",
         "data": "",
-        "added": "2026-11-14T22:52:41Z",
-        "updated": "2026-11-19T15:23:53Z"
+        "added": "2026-11-14T22:52:41Z"
     },
     {
         "name": "Age of Empires PSP",

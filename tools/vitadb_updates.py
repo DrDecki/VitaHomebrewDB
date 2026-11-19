@@ -30,6 +30,7 @@ for ep in ('list_hbs_by_titleid', 'list_plugins_json', 'list_psp_hbs_json', 'lis
         if not hit and str(v.get('id')) in by_id and norm(by_id[str(v['id'])][1]['name'])[:4] == norm(v['name'])[:4]: hit = by_id[str(v['id'])]
         if not hit: continue
         f, a = hit; ver = v.get('version') or ''
+        if (ep == 'list_psp_hbs_json') != (f == 'psp_apps.json'): continue
         if 'nightly' in ver.lower() or re.search(r'\d{4}-\d{2}-\d{2}', ver): continue
         nv, ov = vn(ver), vn(a.get('version'))
         if not (nv and ov and nv > ov) or [x for x in nv if x] == [x for x in ov if x]: continue

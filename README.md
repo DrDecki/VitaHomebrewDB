@@ -25,11 +25,11 @@ rebuilt from a repository.
 <!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
-| PSVITA homebrews | 1013 | 1008 |
+| PSVITA homebrews | 1013 | 1011 |
 | Plugins | 123 | 123 |
 | PSP homebrews | 126 | 126 |
 | PC tools | 27 | 27 |
-| **Total** | **1289** | **1284 (99%)** |
+| **Total** | **1289** | **1287 (99%)** |
 
 The table above counts the catalog as it stood on 2026-07-31. Another 3396 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
@@ -46,7 +46,7 @@ scene; those are listed separately in [ADDED.md](ADDED.md).
 
 ### Help wanted
 
-**5 downloads and 0 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
+**2 downloads and 0 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
 
 This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
 <!-- /STATS -->
