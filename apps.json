@@ -9,7 +9,7 @@
         "id": "4853",
         "date": "2026-11-19",
         "titleid": "SH3EE0001",
-        "screenshots": "",
+        "screenshots": "screenshots/f7ccf9985890636a36e67f1aed139b2a4cf68510b10dc02628060f70ce6d0873.png;screenshots/dfd7328f943ce28fca6d1437415be3028f61322f04e99ccd6a6c298422022c38.png;screenshots/11cfea0610239149e3665ffeacf6bc97686cba6d348e4e0ae48791a2d241ca74.png;screenshots/daea516fbd075e229a6674d17dc030c07bf9f2b7cbdfd79a92e41a53cbf28883.png",
         "long_description": "Native port of the PC version of Silent Hill 3 for PSVITA, statically recompiled to ARM.",
         "downloads": "0",
         "status": "0",
