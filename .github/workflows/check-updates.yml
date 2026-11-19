@@ -20,7 +20,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_MB: '150'
-        run: python3 tools/update_all.py --write
+        run: python3 tools/update_all.py --write && python3 tools/vitadb_updates.py --write
 
       - name: Rebuild derived files
         if: steps.check.outputs.count != '0'
