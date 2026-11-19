@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1400)
+## PSVITA homebrews (1401)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -505,7 +505,8 @@ Every entry, with the download it currently points at. The ones added since
 | idu-mode | xyzz | v.1.0 | 0.0 MB | [download](https://github.com/xyzz/vita-idu/releases/download/1.0/idu-mode.vpk) | [github](https://github.com/xyzz/vita-idu) [wololo.net](http://wololo.net/2016/08/18/release-vita-idu-convert-vita-demo-mode-adds-cool-options/) |
 | Ignition | xesf | v.0.4.2 | 0.4 MB | [download](https://github.com/xesf/ignition/releases/download/v0.4.2/ignition-vita-v0.4.2.vpk) | [github](https://github.com/xesf/ignition) |
 | Ignition Vita | Zeusthenen | v.1.1 | 2.0 MB | [download](https://github.com/Zeusthenen/Ignition-Vita/releases/download/v1.1/IgnitionVita_v1.1.vpk) | [github](https://github.com/Zeusthenen/Ignition-Vita) |
-| Illusia | withLogic | v.1.0.0 | 2.6 MB | [download](https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk) | [github](https://github.com/withLogic/illusia-vita) |
+| Illusia (MetalSyntax) | MetalSyntax | v.1.0.1 | 1.3 MB | [download](https://github.com/MetalSyntax/ILLUSIA-vita/releases/download/v1.0.1/illusia.vpk) | [github](https://github.com/MetalSyntax/ILLUSIA-vita) |
+| Illusia (withLogic) | withLogic | v.1.0.0 | 2.6 MB | [download](https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk) | [github](https://github.com/withLogic/illusia-vita) |
 | ILLUSIA 2 | MetalSyntax | v.1.0.0 | 1.1 MB | [download](https://github.com/MetalSyntax/ILLUSIA-2-Vita/releases/download/v1.0.0/illusia2.vpk) | [github](https://github.com/MetalSyntax/ILLUSIA-2-Vita) |
 | Imago | Sevy | v.1.3.0 | 3.6 MB | [download](https://github.com/SevyW/imago/releases/download/v1.3.0/imago-v1.3.0.vpk) | [github](https://github.com/SevyW/imago) |
 | iMango | CapitanBarbaCoa | v.1.0 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1441-imango.vpk) | [itch.io](https://capitanbarbacoa.itch.io/imango-psvita) |
@@ -4707,4 +4708,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4684 entries, 54.4 GB in total.
+4685 entries, 54.4 GB in total.

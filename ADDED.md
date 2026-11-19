@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (387)
+## PSVITA homebrews (388)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -114,7 +114,8 @@ what it was on the day the service went down.
 | Icy Tower | Ibrahim Dogan | v.1.0.1 | 1.2 MB | [download](https://github.com/ibrahim-dogan/vita-icy-tower/releases/download/v1.0.1/icytower.vpk) | [github](https://github.com/ibrahim-dogan/vita-icy-tower) |
 | Ignition | xesf | v.0.4.2 | 0.4 MB | [download](https://github.com/xesf/ignition/releases/download/v0.4.2/ignition-vita-v0.4.2.vpk) | [github](https://github.com/xesf/ignition) |
 | Ignition Vita | Zeusthenen | v.1.1 | 2.0 MB | [download](https://github.com/Zeusthenen/Ignition-Vita/releases/download/v1.1/IgnitionVita_v1.1.vpk) | [github](https://github.com/Zeusthenen/Ignition-Vita) |
-| Illusia | withLogic | v.1.0.0 | 2.6 MB | [download](https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk) | [github](https://github.com/withLogic/illusia-vita) |
+| Illusia (MetalSyntax) | MetalSyntax | v.1.0.1 | 1.3 MB | [download](https://github.com/MetalSyntax/ILLUSIA-vita/releases/download/v1.0.1/illusia.vpk) | [github](https://github.com/MetalSyntax/ILLUSIA-vita) |
+| Illusia (withLogic) | withLogic | v.1.0.0 | 2.6 MB | [download](https://github.com/withLogic/illusia-vita/releases/download/v1.0.0/Illusia.vpk) | [github](https://github.com/withLogic/illusia-vita) |
 | ILLUSIA 2 | MetalSyntax | v.1.0.0 | 1.1 MB | [download](https://github.com/MetalSyntax/ILLUSIA-2-Vita/releases/download/v1.0.0/illusia2.vpk) | [github](https://github.com/MetalSyntax/ILLUSIA-2-Vita) |
 | Imago | Sevy | v.1.3.0 | 3.6 MB | [download](https://github.com/SevyW/imago/releases/download/v1.3.0/imago-v1.3.0.vpk) | [github](https://github.com/SevyW/imago) |
 | Immortal Dusk | MetalSyntax | v.1.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Inmortal-Dusk-vita/releases/download/1.0/immortal_dusk.vpk) | [github](https://github.com/MetalSyntax/Inmortal-Dusk-vita) |
@@ -3419,4 +3420,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3395 entries, 24.7 GB in total.
+3396 entries, 24.7 GB in total.
