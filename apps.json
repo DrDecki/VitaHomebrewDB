@@ -12583,7 +12583,7 @@
     {
         "name": "ScummVM",
         "icon": "c2bded6b1de1be56ea126ca3b6eee6fcd33a0c1725dbb53ada50c5b4b335c620.png",
-        "version": "v.2026.3.0",
+        "version": "v.2026.4.0",
         "author": "ScummVM Team",
         "type": "5",
         "description": "Maniac Mansion Virtual Machine emulator.",
@@ -12597,19 +12597,19 @@
         "source": "https://github.com/scummvm/scummvm",
         "release_page": "https://www.scummvm.org/downloads/",
         "trailer": "",
-        "size": "145275498",
+        "size": "156355385",
         "data_size": "0",
-        "hash": "3e47b022a6bf5d5442b17cbfb68d5289",
+        "hash": "25ea151c1137a0286d93057c0f39ba94",
         "hash2": "",
         "changelog": "New games:\n- Added support for Nancy Drew: The Haunted Carousel.\n- Added support for Nancy Drew: Danger on Deception Island.\n- Added support for Noctropolis.\n- Added support for Cartoon Carnival.\n- Added support for Alfred Pelrock: En Busca de un SueÃƒÂ±o.\n- Added support for Pilot Brothers: On the Track of Striped Elephant, Pilot Brothers: The Case of Serial Maniac, and five minor games built on the Gamos engine.\n\nGeneral:\n- Highlight clickable links in the GUI with a cursor change.\n- Fixed window size when switching out of fullscreen mode on 3D engines.\n- Implemented NULL OPL driver for lower-base systems.\n- Implemented kinetic scolling in GUI lists.\n\nACCESS:\n- Fixed various script issues in Martian Memorandum.\n\nAGOS:\n- Added support for language files used by Amiga and Macintosh versions of Simon2.\n\nGLK:\n- Exposed text and engine settings in the GUI.\n\nLastExpress:\n- The game has been supported for a while now (2026.1.0), we just forgot to add a news entry here. Whoops!\n- Several inaccuracies from the character logic have been fixed, which means that some rare issues concerning characters behavior should now be gone.\n\nMADS:\n- In Rex Nebular fix game being semi-stuck while using binoculars.\n\nMM:\n- Reworked keymapper for MM1.\n- Fixed MM1 Enhanced allowing trading more than the character owned.\n- Fixed MM1 Enhanced allowing free temple healing where it shouldn't.\n- MM1 Enhanced most recently played music was restarting after opening and closing the GMM.\n\nMYST3:\n- Fixed a regression for the animation of the control wheel at J'nanin's shore.\n- Camera movement is now free after placing a symbol on the pedestal at the watch tower in J'nanin.\n\nNANCY:\n- Fixed a regression in ripped letter types of puzzles, affecting all the Nancy games that feature such puzzles.\n- Fixed potential crashes in ripped letter types of puzzles, after loading a saved game.\n- Show the correct mouse cursor in rotating lock types of puzzles.\n- Enter the game scene directly when loading a saved game from the launcher or the GMM, instead of starting in the main game menu.\n- Properly handle the \"Continue Game\" button after clicking on the \"More Nancy\" button.\n- Fixed an edge case in piano types of puzzles, where clicking on a key while another was still down produced a graphical glitch.\n- Fixed some sounds stopping prematurely in Nancy Drew: Secret of the Scarlet Hand and newer games.\n- Fixed animation speed and timing in turning types of puzzles.\n\nSLUDGE:\n- Added two more games to detection, \"Sam and Max Flintlocked\" and \"Full Moon\".\n\nTwinE:\n- Fixed soft lock collision bug with bulldozer.\n- Fixed wrong scaling for plasma menu effect.\n- Fixed holomap model rendering.\n- Disable autosaves while driving a vehicle.",
         "requirements": "",
         "trophies": "0",
         "tags": "2d,retro,opensource,graphical adventure",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm.vpk",
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/585-scummvm-2026.4.0.vpk",
         "data": "",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-11T20:15:51Z"
+        "updated": "2026-11-19T15:36:41Z"
     },
     {
         "name": "vitaImmich",
