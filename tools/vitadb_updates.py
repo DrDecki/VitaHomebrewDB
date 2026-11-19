@@ -10,18 +10,23 @@ def blocked(name, author, src=''):
     if any(b['match'].lower() in ((author or '') + ' ' + (src or '')).lower() for b in BL['authors']): return True
     return any(re.search(b['match'], name or '', re.I) for b in BL['names'])
 uns = [(f, a) for f in FILES for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8'))]
-by_repo, by_name, by_id = {}, {}, {}
+by_repo, by_name, by_id, by_tid = {}, {}, {}, {}
 for f, a in uns:
     for k in ('source', 'release_page', 'url'):
         r = rep(a.get(k))
         if r and 'drdecki/vitahomebrewdb' not in r: by_repo.setdefault(r, (f, a))
     by_name.setdefault(norm(a['name']), (f, a)); by_id[a['id']] = (f, a)
+    if a.get('titleid'): by_tid.setdefault(a['titleid'].upper(), (f, a))
 best = {}
 for ep in ('list_hbs_by_titleid', 'list_plugins_json', 'list_psp_hbs_json', 'list_tools_json'):
     try: lst = json.load(urllib.request.urlopen(urllib.request.Request('https://www.rinnegatamante.eu/vitadb/%s.php' % ep, data=b'', headers={'User-Agent': 'VitaHomebrewDB'}), timeout=90))
     except Exception as e: print('  %s: %s' % (ep, type(e).__name__)); continue
     for v in lst:
-        hit = by_repo.get(rep(v.get('source'))) or by_repo.get(rep(v.get('release_page'))) or by_name.get(norm(v['name']))
+        hit = by_tid.get((v.get('titleid') or '').upper())
+        if not hit:
+            r = by_repo.get(rep(v.get('source'))) or by_repo.get(rep(v.get('release_page')))
+            if r and norm(r[1]['name'])[:6] == norm(v['name'])[:6]: hit = r
+        if not hit: hit = by_name.get(norm(v['name']))
         if not hit and str(v.get('id')) in by_id and norm(by_id[str(v['id'])][1]['name'])[:4] == norm(v['name'])[:4]: hit = by_id[str(v['id'])]
         if not hit: continue
         f, a = hit; ver = v.get('version') or ''
