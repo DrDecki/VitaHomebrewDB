@@ -77,7 +77,7 @@ what it was on the day the service went down.
 | Dolphin Blue Vita | Tobic-99 | v.0.1 | 9.2 MB | [download](https://github.com/Tobic-99/dolphinblue-vita/releases/download/0.1/dolphinblue.vpk) | [github](https://github.com/Tobic-99/dolphinblue-vita) |
 | Doodle Jump | 1theronin | v.10 | 1.9 MB | [download](https://github.com/RONIN0095/doodlejump-vita/releases/download/v.10/doodlejump.vpk) | [github](https://github.com/RONIN0095/doodlejump-vita) |
 | Dragon Ball Tap Battle Vita | VegettoSan | v.1.2 | 2.6 MB | [download](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita/releases/download/1.2/DBTapBattle-1.2.vpk) | [github](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita) |
-| Dragon Ball Z: BT3 | arielxflores | v.1.2.3 | 5.7 MB | [download](https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.2.3/Tenkaichi3Decomp-Vita.vpk) | [github](https://github.com/arielxflores/Tenkaichi3Decomp-Vita) |
+| Dragon Ball Z: BT3 | arielxflores | v.1.2.4 | 5.8 MB | [download](https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.2.4/Tenkaichi3Decomp-Vita.vpk) | [github](https://github.com/arielxflores/Tenkaichi3Decomp-Vita) |
 | Dragon Ball Z: BT4 | manumastro & arielxflores | v.1.4 | 9.2 MB | [download](https://github.com/manumastro/DBZ-BT4-Tag-Team-Decomp-Vita/releases/download/v1.4/BT4-Vita.vpk) | [github](https://github.com/manumastro/DBZ-BT4-Tag-Team-Decomp-Vita) |
 | Duke Nukem Advance | ShayVD | v.1.0 | 3.0 MB | [download](https://github.com/ShayVD/duke-nukem-advance-tc-vita/releases/download/v1.0/dna-vita.vpk) | [github](https://github.com/ShayVD/duke-nukem-advance-tc-vita) |
 | Duke Nukem: Manhattan Project | myname24 | v.0.1 | 1.1 MB | [download](https://github.com/myname24/dnmp-vita/releases/download/V0.1/dnmp-vita-1.0-beta.vpk) | [github](https://github.com/myname24/dnmp-vita) |
@@ -206,7 +206,7 @@ what it was on the day the service went down.
 | Pikmin | bren | v.0.0.1 | 3.5 MB | [download](https://github.com/Brendonm17/Open-Nectar-Vita/releases/download/v0.0.1/Pikmin-Vita-v0.0.1.vpk) | [github](https://github.com/Brendonm17/Open-Nectar-Vita) |
 | Pinball NS | astro-plane | v.1.1 | 0.5 MB | [download](https://github.com/astro-plane/Pinball-NS-VITA-EDITION/releases/download/v1.1/PinballNS.vpk) | [github](https://github.com/astro-plane/Pinball-NS-VITA-EDITION) |
 | Pixel Acres | ETX Vantage | v.0.8.1 | 38.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PixelAcresVita.vpk) | [etxvantage.com](https://etxvantage.com/products/pixel-acres) |
-| Pizza Tower SAGE 2019 | WolffsRoom | v.0.62 | 7.6 MB | [download](https://github.com/WolffsRoom/PizzaTowerSage2019Vita/releases/download/v0.62/PizzaTowerSAGE-v0.62.vpk) | [github](https://github.com/WolffsRoom/PizzaTowerSage2019Vita) |
+| Pizza Tower SAGE 2019 | WolffsRoom | v.0.64 | 7.6 MB | [download](https://github.com/WolffsRoom/PizzaTowerSage2019Vita/releases/download/v0.64/PizzaTowerSAGE-v0.64.vpk) | [github](https://github.com/WolffsRoom/PizzaTowerSage2019Vita) |
 | Plague Inc. Vita | danroxn | v.1.0 | 4.0 MB | [download](https://github.com/danroxn/plague_vita/releases/download/v1.0/plague-vita.vpk) | [github](https://github.com/danroxn/plague_vita) |
 | Plants vs Zombies 2 | LeZergan | v.1.1-rc29 | 1.1 MB | [download](https://github.com/LeZergan/pvz2vita/releases/download/v1.1-rc29/pvz2-vita-latest.vpk) | [github](https://github.com/LeZergan/pvz2vita) |
 | Plus-Vita | Calligula87 | v.002 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v002/plus-vita-v002.vpk) | [github](https://github.com/Calligula87/plus-vita) |
@@ -244,7 +244,7 @@ what it was on the day the service went down.
 | Runescape 2 | me11yb3an | v.ita-v0.92a-test | 22.4 MB | [download](https://github.com/me11yb3an/Client3/releases/download/vita-v0.92a-test/rs244_v0.92a.vpk) | [github](https://github.com/me11yb3an/Client3) |
 | RuneScape 2 | bren | v.1.0.0 | 58.9 MB | [download](https://github.com/Brendonm17/Client3-Vita/releases/download/v1.0.0/RS2-Vita-v1.0.0.vpk) | [github](https://github.com/Brendonm17/Client3-Vita) |
 | Sally Face | PupueStudios | v.1.1 | 15.8 MB | [download](https://github.com/PupueStudios/Sally-Face-Vita/releases/download/v1.1/sallyface.vpk) | [github](https://github.com/PupueStudios/Sally-Face-Vita) |
-| Save Manager++ | rreha & kylon & d3m3vilurr | v.5.3.0 | 0.6 MB | [download](https://github.com/rreha/vita-savemgrpp/releases/download/v5.3.0/vita-savemgrpp.vpk) | [github](https://github.com/rreha/vita-savemgrpp) |
+| Save Manager++ | rreha & kylon & d3m3vilurr | v.5.3.1 | 0.6 MB | [download](https://github.com/rreha/vita-savemgrpp/releases/download/v5.3.1/vita-savemgrpp.vpk) | [github](https://github.com/rreha/vita-savemgrpp) |
 | SC64VITA | edenas | v.1.0 | 3.0 MB | [download](https://github.com/edenas/SC64VITA/releases/download/v1.0/SC64VITA-v1.0.vpk) | [github](https://github.com/edenas/SC64VITA) |
 | Scribblenauts Remix | clickbate | v.pk | 2.0 MB | [download](https://github.com/jwfeniello/scribblenauts-remix-vita/releases/download/vpk/Scribblenauts.Remix.vpk) | [github](https://github.com/jwfeniello/scribblenauts-remix-vita) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [git.silica.codes](https://git.silica.codes/Li/Server_Room_Simulator) |
@@ -333,7 +333,7 @@ what it was on the day the service went down.
 | Vita Audio Receiver | egalindo2167 | v.1.3.2 | 0.7 MB | [download](https://github.com/egalindo2167/vita-soloist-receiver/releases/download/v1.3.2/vita-audio-receiver.vpk) | [github](https://github.com/egalindo2167/vita-soloist-receiver) |
 | Vita Chess | shoshkabob99 | v.Release | 5.2 MB | [download](https://github.com/shoshkabob99/VitaChess/releases/download/Release/VitaChess-1.0.vpk) | [github](https://github.com/shoshkabob99/VitaChess) |
 | Vita Flight Radar | ULTRA DESIGN | v.2.5 | 1.3 MB | [download](https://github.com/1000660928-design/VitaFlightRadar/releases/download/v2.5/VitaFlightRadar-v2.5.vpk) | [github](https://github.com/1000660928-design/VitaFlightRadar) |
-| Vita IPTV | emrhky | v.1.1.0 | 1.7 MB | [download](https://github.com/emrhky/VitaIPTV/releases/download/v1.1.0/VitaIPTV.vpk) | [github](https://github.com/emrhky/VitaIPTV) |
+| Vita IPTV | emrhky | v.1.2.0 | 1.9 MB | [download](https://github.com/emrhky/VitaIPTV/releases/download/v1.2.0/VitaIPTV.vpk) | [github](https://github.com/emrhky/VitaIPTV) |
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [github](https://github.com/kyokuheishin/vita-ns-controller) |
 | Vita RomM | denkacn | v.0.8.1 | 2.3 MB | [download](https://github.com/denkacn/vita-romm/releases/download/v0.8.1/vita_romm.vpk) | [github](https://github.com/denkacn/vita-romm) |
 | Vita Slim's Editor | myname24 | v.2.0.1 | 1.5 MB | [download](https://github.com/myname24/vita-slims-editor/releases/download/V2.0.1/vitaslimseditor.vpk) | [github](https://github.com/myname24/vita-slims-editor) |
@@ -366,7 +366,7 @@ what it was on the day the service went down.
 | ViTube | shorelight82 | v.2.0 | 4.0 MB | [download](https://github.com/shorelight82/vitube-vpk/releases/download/v2.0/ViTube.vpk) | [github](https://github.com/shorelight82/vitube-vpk) |
 | ViTube Music | PupueStudios | v.1.3 | 2.4 MB | [download](https://github.com/PupueStudios/vitube-music/releases/download/v1.3/vitube-music.vpk) | [github](https://github.com/PupueStudios/vitube-music) |
 | VivoTube | hamburger101 | v.1.3.4 | 6.6 MB | [download](https://github.com/hamburger101/VivoTube/releases/download/v1.3.4/VivoTube.vpk) | [github](https://github.com/hamburger101/VivoTube) |
-| vkQuake2 | DrDecki | v.1.1 | 2.4 MB | [download](https://github.com/DrDecki/vkquake2-vita/releases/download/v1.1/vkquake2.vpk) | [github](https://github.com/DrDecki/vkquake2-vita) |
+| vkQuake2 | DrDecki | v.1.1.1 | 1.9 MB | [download](https://github.com/DrDecki/vkquake2-vita/releases/download/v1.1.1/vkquake2.vpk) | [github](https://github.com/DrDecki/vkquake2-vita) |
 | Void Stranger | WolffsRoom | v.2.1 | 3.6 MB | [download](https://github.com/WolffsRoom/VoidStrangerVita/releases/download/v2.1/VoidStranger-v2.1.vpk) | [github](https://github.com/WolffsRoom/VoidStrangerVita) |
 | Void Trader | Syncriel | v.1.6.3 | 1.6 MB | [download](https://github.com/Syncriel/void-trader/releases/download/v1.6.3/voidtrader-v1.6.3.vpk) | [github](https://github.com/Syncriel/void-trader) |
 | Vreed | ocelot-oss | v.0.10.0-beta.1 | 31.1 MB | [download](https://github.com/ocelot-oss/Vreed/releases/download/v0.10.0-beta.1/Vreed.vpk) | [github](https://github.com/ocelot-oss/Vreed) |
