@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1396)
+## PSVITA homebrews (1400)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -647,6 +647,7 @@ Every entry, with the download it currently points at. The ones added since
 | Mobility | Markus95 | v.1.0 | 20.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/722-Mobility.vpk) | — |
 | modoru | TheFloW | v.2.3 | 0.1 MB | [download](https://github.com/TheOfficialFloW/modoru/releases/download/v2.3/modoru.vpk) | [github](https://github.com/TheOfficialFloW/modoru) |
 | Mog Vita | withLogic | v.1.0 | 2.3 MB | [download](https://github.com/withLogic/mog-vita/releases/download/v1.0/mog.vpk) | [github](https://github.com/withLogic/mog-vita) |
+| Monster Hunter 4 Ultimate | SaNch0sE | v.0.3.2-alpha | 8.3 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.3.2-alpha/MH4U.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
 | Monster Shooter | RaZorGaToR | v.1.2 | 0.9 MB | [download](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita/releases/download/v1.2/monstershooter.vpk) | [github](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita) |
 | Monument Valley | hatoving | v.1.0.1 | 32.9 MB | [download](https://github.com/hatoving/mvalley-old-vita/releases/download/1.0.1/MV.vpk) | [github](https://github.com/hatoving/MonumentValley) |
@@ -682,6 +683,7 @@ Every entry, with the download it currently points at. The ones added since
 | Neverball Vita | Rinnegatamante | v.1.0 | 1.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/873-neverball.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverball-vita-port-of-neverball-for-psvita.38247/) |
 | Neverputt Vita | Rinnegatamante | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-neverputt.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverputt-vita-port-of-neverputt-for-psvita-pstv.38248/) |
 | NextBot For PSVita | SoyKhaler | v.0.1 | 23.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-Nextbot4Vita.vpk) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
+| NFS Carbon | Swisha33 | v.0.1.2 | 13.7 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.2/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Underground 2 | danos-x5 | v.0.8.3 | 9.3 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS3VITA | NDRW | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
@@ -726,6 +728,7 @@ Every entry, with the download it currently points at. The ones added since
 | OpenRCT2-CE Vita | technicaljicama | v.1 | 4.5 MB | [download](https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk) | [github](https://github.com/technicaljicama/OpenRCT2-CE) |
 | OpenRCT2Vita | Paxrisen | v.1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenSeason | InquisitionImplied | v.1.0 | 30.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/466-OpenSeason.vpk) | [twitter.com](https://twitter.com/Yoyogames28/status/1120550464121122816) |
+| OpenSKY | Dingo57701 | v.2 | 1.2 MB | [download](https://github.com/danderson57702-collab/opensky/releases/download/beta-2/opensky.vpk) | [github](https://github.com/danderson57702-collab/opensky) |
 | OpenSonic Vita | KiddRwxSsj | v.1.0.7 | 10.4 MB | [download](https://github.com/KiddRwxSsj/opensonic-vita/releases/download/1.0.7/opensonic-vita.vpk) | [github](https://github.com/KiddRwxSsj/opensonic-vita) |
 | OpenSupaplex | sergiou87 | v.7.2.2 | 4.4 MB | [download](https://github.com/sergiou87/open-supaplex/releases/download/v7.2.2/OpenSupaplex.vpk) | [github](https://github.com/sergiou87/open-supaplex) |
 | OpenSyobon | Rinnegatamante | v.1.0 | 4.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/201-OpenSyobon.vpk) | [github](https://github.com/Rinnegatamante/OpenSyobon-Vita) [gekihen.customprotocol.com](http://gekihen.customprotocol.com/en/project/OpenSyobon-Vita) |
@@ -889,6 +892,7 @@ Every entry, with the download it currently points at. The ones added since
 | RetroLivearea | Rinnegatamante | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/380-RetroLivearea.vpk) | [github](https://github.com/Rinnegatamante/RetroLivearea) [wololo.net](http://wololo.net/talk/viewtopic.php?f=52&t=48981) |
 | Return To The Roots | Nathan Kewley | v.0.1 | 6.0 MB | [download](https://github.com/NathanKewley/s25client-vita/releases/download/0.1/s25rttr.vpk) | [github](https://github.com/NathanKewley/s25client-vita) |
 | ReversMe | TheFloW | v.1.1 | 1.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/181-ReversMe.vpk) | [drive](https://drive.google.com/file/d/0B8d0Wy4mDFrGM0k0YW9Xd01qS2M/view) [wololo.net](http://wololo.net/talk/viewtopic.php?f=114&t=44128) |
+| Ridge Racer Slipstream | DominicanNY | v.1.0 | 2.2 MB | [download](https://github.com/gmejia11/ridgeracer_slipstream_vita/releases/download/v.1.0/ridgeracer_slipstream.vpk) | [github](https://github.com/gmejia11/ridgeracer_slipstream_vita) |
 | RigelEngine Vita | Rinnegatamante | v.1.0 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/988-duke2.vpk) | [github](https://github.com/Rinnegatamante/RigelEngine) [psx-place.com](https://www.psx-place.com/threads/release-rigelengine-vita-enhanced-port-of-duke-nukem-ii-with-mods-support.38444/) |
 | rinCheat SE | Rinnegatamante | v.1.1 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/46-rinCheatSE.vpk) | [github](https://github.com/Rinnegatamante/rinCheat/tree/master/SE_module) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48602) |
 | Riptide GP | MetalSyntax | v.1.0.3 | 1.1 MB | [download](https://github.com/MetalSyntax/Riptide-GP-vita/releases/download/v1.0.3/riptidegp.vpk) | [github](https://github.com/MetalSyntax/Riptide-GP-vita) |
@@ -4703,4 +4707,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4680 entries, 54.4 GB in total.
+4684 entries, 54.4 GB in total.

@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (383)
+## PSVITA homebrews (387)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -157,6 +157,7 @@ what it was on the day the service went down.
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [github](https://github.com/minecraftpe-vita/minecraftpe-vita) |
 | Minecraft: Story Mode | LeZergan | v.1.11 | 3.3 MB | [download](https://github.com/LeZergan/mcsm-vita/releases/download/v1.11/MCSM-1.11.vpk) | [github](https://github.com/LeZergan/mcsm-vita) |
 | MKW Retro Rewind | boomannotjeff | v.1.4.2 | 2.4 MB | [download](https://github.com/boomannotjeff/mkwiita/releases/download/1.4.2/mkw-retro-rewind.vpk) | [github](https://github.com/boomannotjeff/mkwiita) |
+| Monster Hunter 4 Ultimate | SaNch0sE | v.0.3.2-alpha | 8.3 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.3.2-alpha/MH4U.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
 | Monster Shooter | RaZorGaToR | v.1.2 | 0.9 MB | [download](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita/releases/download/v1.2/monstershooter.vpk) | [github](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita) |
 | Moonlight Relay | dubleyu | v.0.15.20-beta | 3.0 MB | [download](https://github.com/dubleyu/vita-moonlight-relay/releases/download/v0.15.20-beta/Moonlight-Relay-v0.15.20.vpk) | [github](https://github.com/dubleyu/vita-moonlight-relay) |
@@ -171,6 +172,7 @@ what it was on the day the service went down.
 | Neon Drift | ToiletCat Games | v.NeonDriftVRBeta | 51.8 MB | [download](https://github.com/ToiletCatGames/NeonDriftPSVitaPort/releases/download/NeonDriftVRBeta/NeonDrift.vpk) | [github](https://github.com/ToiletCatGames/NeonDriftPSVitaPort) |
 | NeoVitaDB Downloader | robin994 \& Rinnegatamante | v.2.9.1 | 3.8 MB | [download](https://github.com/robin994/NeoVitaDB-Downloader/releases/download/v2.9.1/NeoVitaDB.vpk) | [github](https://github.com/robin994/NeoVitaDB-Downloader) |
 | nestfolder | emrhky | v.1.0.3 | 0.1 MB | [download](https://github.com/emrhky/nestfolder/releases/download/v1.0.3/nestfolder.vpk) | [github](https://github.com/emrhky/nestfolder) |
+| NFS Carbon | Swisha33 | v.0.1.2 | 13.7 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.2/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Underground 2 | danos-x5 | v.0.8.3 | 9.3 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS3VITA | NDRW | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
@@ -188,6 +190,7 @@ what it was on the day the service went down.
 | OpenCMR2 | Drakon | v.1.8.7 | 1.9 MB | [download](https://github.com/DrakonPL/OpenCMR2Vita/releases/download/1.8.7/opencmr2.vpk) | [github](https://github.com/DrakonPL/OpenCMR2Vita) |
 | OpenMoHAA | ChatProductions \& HenryKun55 | v.0.4 | 10.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/OpenMoHAA.vpk) | [github](https://github.com/ChatProductions/openmohaavita) |
 | OpenRCT2Vita | Paxrisen | v.1.0 | 6.2 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav1.0/OpenRCT2Vita_v1.0.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
+| OpenSKY | Dingo57701 | v.2 | 1.2 MB | [download](https://github.com/danderson57702-collab/opensky/releases/download/beta-2/opensky.vpk) | [github](https://github.com/danderson57702-collab/opensky) |
 | OpenTyrian 2000 Engaged | wlfn1116 | v.1.5.3 | 6.7 MB | [download](https://github.com/wlfn1116/OpenTyrian2000-Engaged/releases/download/1.5.3/OpenTyrian2000-Engaged-Vita.vpk) | [github](https://github.com/wlfn1116/OpenTyrian2000-Engaged) |
 | Orbis Minor | Drakon | v.0.2.2 | 11.5 MB | [download](https://github.com/DrakonPL/OrbisMinor/releases/download/0.2.2/OrbisMinor-0.2.2-vita.vpk) | [github](https://github.com/DrakonPL/OrbisMinor) |
 | Orcs & Elves | sweetpalma | v.1.4.0 | 1.0 MB | [download](https://github.com/sweetpalma/orcs-and-elves-vita/releases/download/v1.4.0/oe1.vpk) | [github](https://github.com/sweetpalma/orcs-and-elves-vita) |
@@ -238,6 +241,7 @@ what it was on the day the service went down.
 | Resident Evil Code: Veronica X | Rinnegatamante | v.1.4.5 | 27.5 MB | [download](https://github.com/Rinnegatamante/recvx_vita/releases/download/v.1.4.5/recvx.vpk) | [github](https://github.com/Rinnegatamante/recvx_vita) |
 | Resident Evil Gaiden | Rinnegatamante | v.1.0 | 24.8 MB | [download](https://github.com/Rinnegatamante/regaiden-recomp/releases/download/v.1.0/ResidentEvilGaiden.vpk) | [github](https://github.com/Rinnegatamante/regaiden-recomp) |
 | Return To The Roots | Nathan Kewley | v.0.1 | 6.0 MB | [download](https://github.com/NathanKewley/s25client-vita/releases/download/0.1/s25rttr.vpk) | [github](https://github.com/NathanKewley/s25client-vita) |
+| Ridge Racer Slipstream | DominicanNY | v.1.0 | 2.2 MB | [download](https://github.com/gmejia11/ridgeracer_slipstream_vita/releases/download/v.1.0/ridgeracer_slipstream.vpk) | [github](https://github.com/gmejia11/ridgeracer_slipstream_vita) |
 | Riptide GP | MetalSyntax | v.1.0.3 | 1.1 MB | [download](https://github.com/MetalSyntax/Riptide-GP-vita/releases/download/v1.0.3/riptidegp.vpk) | [github](https://github.com/MetalSyntax/Riptide-GP-vita) |
 | RuffleVita | Ibrahim Dogan & Fancy2209 | v.1.3.0 | 9.2 MB | [download](https://github.com/ibrahim-dogan/vita-flash-emulator/releases/download/v1.3.0/rufflevita.vpk) | [github](https://github.com/ibrahim-dogan/vita-flash-emulator) |
 | RuneScape | Brendonm17 | v.1.1.1 | 13.6 MB | [download](https://github.com/Brendonm17/rsc-c-vita/releases/download/v1.1.1/rsc-c-vita.vpk) | [github](https://github.com/Brendonm17/rsc-c-vita) |
@@ -3415,4 +3419,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3391 entries, 24.7 GB in total.
+3395 entries, 24.7 GB in total.
