@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (406)
+## PSVITA homebrews (408)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -176,15 +176,16 @@ what it was on the day the service went down.
 | Mystic Warriors | Tobic-99 | v.1.0 | 5.7 MB | [download](https://github.com/Tobic-99/mystwarr-vita/releases/download/1.0/mystwarr.vpk) | [github](https://github.com/Tobic-99/mystwarr-vita) |
 | NAOH™: Arcade Collection | KiddRwxSsj | v.2.0.1 | 33.2 MB | [download](https://github.com/KiddRwxSsj/naoh-ac/releases/download/2.0.1/naoh_arcade_collection2.0.1.vpk) | [github](https://github.com/KiddRwxSsj/naoh-ac) |
 | Naruto Shippuden: Ultimate Ninja Storm 2 | Kruvyy | v.1.0 | 18.0 MB | [download](https://github.com/Kruvyy/naruto-storm2-vita/releases/download/storm2vita/storm2_vita.vpk) | [github](https://github.com/Kruvyy/naruto-storm2-vita) |
+| NBA2K16 | SpliffCurryBeats | v.0.2 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nba2k16-0.2.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/nba2k16-vita) |
 | Need for Speed Underground | NDRWhun | v.0.9 | 6.7 MB | [download](https://github.com/NDRWhun/UG1VITA/releases/download/playtest-hotfix-2/NFSUG1VITA_0.9_playtest_hotfix2_EU_US.vpk) | [github](https://github.com/ndrwhun/ug1vita) |
 | Neon Drift | ToiletCat Games | v.NeonDriftVRBeta | 51.8 MB | [download](https://github.com/ToiletCatGames/NeonDriftPSVitaPort/releases/download/NeonDriftVRBeta/NeonDrift.vpk) | [github](https://github.com/ToiletCatGames/NeonDriftPSVitaPort) |
 | NeoVitaDB Downloader | robin994 \& Rinnegatamante | v.2.9.1 | 3.8 MB | [download](https://github.com/robin994/NeoVitaDB-Downloader/releases/download/v2.9.1/NeoVitaDB.vpk) | [github](https://github.com/robin994/NeoVitaDB-Downloader) |
 | nestfolder | emrhky | v.1.0.3 | 0.1 MB | [download](https://github.com/emrhky/nestfolder/releases/download/v1.0.3/nestfolder.vpk) | [github](https://github.com/emrhky/nestfolder) |
 | NFS Carbon | Swisha33 | v.0.1.2 | 13.7 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.2/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
-| NFS Underground 2 | danos-x5 | v.0.8.3 | 9.3 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
+| NFS Underground 2 (danos-x5) | danos-x5 | v.0.8.3 | 9.3 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
+| NFS Underground 2 (PacmanicS) | PacmanicS | v.0.1 | 13.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nfsu2-0.1.vpk) | [pacmanics.com](https://pacmanics.com/ps-vita/nfs-underground-2/) |
 | NFS3VITA | NDRW | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
-| NFSU2 | PacmanicS | v.0.1 | 13.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nfsu2-0.1.vpk) | [pacmanics.com](https://pacmanics.com/ps-vita/nfs-underground-2/) |
 | Ninja Baseball Bat Man | Tobic-99 | v.1.0 | 1.4 MB | [download](https://github.com/Tobic-99/nbbatman-vita/releases/download/1.0/nbbatman.vpk) | [github](https://github.com/Tobic-99/nbbatman-vita) |
 | Ninjago Tournament | reallootfury | v.1.00 | 0.8 MB | [download](https://github.com/reallootfury/ninjago-tournament-vita/releases/download/v1.00/ninjago-vita.vpk) | [github](https://github.com/reallootfury/ninjago-tournament-vita) |
 | Nitronic Rush | arielxflores | v.1.0 | 1.2 MB | [download](https://github.com/arielxflores/NitronicRush-Vita/releases/download/v1.0/NitronicRush-Vita.vpk) | [github](https://github.com/arielxflores/NitronicRush-Vita) |
@@ -223,6 +224,7 @@ what it was on the day the service went down.
 | Plague Inc. Vita | danroxn | v.1.0 | 4.0 MB | [download](https://github.com/danroxn/plague_vita/releases/download/v1.0/plague-vita.vpk) | [github](https://github.com/danroxn/plague_vita) |
 | Plants vs Zombies 2 | LeZergan | v.1.1-rc29 | 1.1 MB | [download](https://github.com/LeZergan/pvz2vita/releases/download/v1.1-rc29/pvz2-vita-latest.vpk) | [github](https://github.com/LeZergan/pvz2vita) |
 | Plus-Vita | Calligula87 | v.002 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v002/plus-vita-v002.vpk) | [github](https://github.com/Calligula87/plus-vita) |
+| Pocket League | mrprofessorx | v.1.1.0 | 7.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/pocket-league-1.1.0.vpk) | [github](https://github.com/Mr-Professor-X/PocketLeagueSideSwipeVita) |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [github](https://github.com/celticg/AS-Pocket-Mortys-vita) |
 | Pocket Shelf | fthdgn | v.shelf-v0.6.1-beta.2 | 2.5 MB | [download](https://github.com/fthdgn-gh/pocket-shelf/releases/download/shelf-v0.6.1-beta.2/pocket-shelf.vpk) | [github](https://github.com/fthdgn-gh/pocket-shelf) |
 | Pokemon Colosseum | Rinnegatamante | v.1.1 | 4.9 MB | [download](https://github.com/Rinnegatamante/colosseum-vita/releases/download/v.1.1/PokemonColosseum.vpk) | [github](https://github.com/Rinnegatamante/colosseum-vita) |
@@ -3438,4 +3440,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3414 entries, 24.9 GB in total.
+3416 entries, 24.9 GB in total.

@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1419)
+## PSVITA homebrews (1421)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -680,6 +680,7 @@ Every entry, with the download it currently points at. The ones added since
 | Naught 2 Vita | usineur | v.1.1 | 1.7 MB | [download](https://github.com/usineur/naught2-vita/releases/download/v1.1/naught2.vpk) | [github](https://github.com/usineur/naught2-vita) |
 | Naught Vita | usineur | v.1.1 | 2.3 MB | [download](https://github.com/usineur/naught-vita/releases/download/v1.1/naught.vpk) | [github](https://github.com/usineur/naught-vita) |
 | NBA Jam Vita | elliencode | v.1.00 | 2.3 MB | [download](https://github.com/elliencode/nba-jam-psv/releases/download/v1.00/com.eamobile.nbajam_row_wf-v1.00.vpk) | [github](https://github.com/elliencode/nba-jam-psv) |
+| NBA2K16 | SpliffCurryBeats | v.0.2 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nba2k16-0.2.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/nba2k16-vita) |
 | Need for Speed Underground | NDRWhun | v.0.9 | 6.7 MB | [download](https://github.com/NDRWhun/UG1VITA/releases/download/playtest-hotfix-2/NFSUG1VITA_0.9_playtest_hotfix2_EU_US.vpk) | [github](https://github.com/ndrwhun/ug1vita) |
 | Neet Girl Date Night Vita | raidengugga | v.01.00 | 13.8 MB | [download](https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA/releases/download/Latest/NGDN-01.00.vpk) | [github](https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA) |
 | Neighbours from Hell | MaloneCZSD | v.1.0 | 12.6 MB | [download](https://github.com/MaloneCZSD/NFH-PS-VITA/releases/download/V1.0/NFHV1.0.vpk) | [github](https://github.com/malone46/NFH-PS-VITA/) |
@@ -693,10 +694,10 @@ Every entry, with the download it currently points at. The ones added since
 | NextBot For PSVita | SoyKhaler | v.0.2 | 32.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.zip) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
 | NFS Carbon | Swisha33 | v.0.1.2 | 13.7 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.2/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
-| NFS Underground 2 | danos-x5 | v.0.8.3 | 9.3 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
+| NFS Underground 2 (danos-x5) | danos-x5 | v.0.8.3 | 9.3 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.3/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
+| NFS Underground 2 (PacmanicS) | PacmanicS | v.0.1 | 13.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nfsu2-0.1.vpk) | [pacmanics.com](https://pacmanics.com/ps-vita/nfs-underground-2/) |
 | NFS3VITA | NDRW | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
 | NFSHP Vita | Electry | v.1.0 | 1.6 MB | [download](https://github.com/Electry/nfshp_vita/releases/download/v1.0/NFSHP.vpk) | [github](https://github.com/Electry/nfshp_vita) |
-| NFSU2 | PacmanicS | v.0.1 | 13.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nfsu2-0.1.vpk) | [pacmanics.com](https://pacmanics.com/ps-vita/nfs-underground-2/) |
 | Night in the Woods | PatnosD | v.0.5 | 14.2 MB | [download](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA/releases/download/Release/NightInTheWoods.vpk) | [github](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA) |
 | Ninja Baseball Bat Man | Tobic-99 | v.1.0 | 1.4 MB | [download](https://github.com/Tobic-99/nbbatman-vita/releases/download/1.0/nbbatman.vpk) | [github](https://github.com/Tobic-99/nbbatman-vita) |
 | Ninjago Tournament | reallootfury | v.1.00 | 0.8 MB | [download](https://github.com/reallootfury/ninjago-tournament-vita/releases/download/v1.00/ninjago-vita.vpk) | [github](https://github.com/reallootfury/ninjago-tournament-vita) |
@@ -807,6 +808,7 @@ Every entry, with the download it currently points at. The ones added since
 | Plus-Vita | Calligula87 | v.002 | 3.9 MB | [download](https://github.com/Calligula87/plus-vita/releases/download/v002/plus-vita-v002.vpk) | [github](https://github.com/Calligula87/plus-vita) |
 | pNES | cpasjuste | v.7.2 | 4.3 MB | [download](https://github.com/Cpasjuste/pemu/releases/download/v7.2/pnes.vpk) | [github](https://github.com/Cpasjuste/pemu/tree/master/pnes) [github](https://github.com/Cpasjuste/pemu/releases) |
 | PNGLive | WolfgirlBreeder | v.0.4 BETA | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1113-pnglive.vpk) | — |
+| Pocket League | mrprofessorx | v.1.1.0 | 7.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/pocket-league-1.1.0.vpk) | [github](https://github.com/Mr-Professor-X/PocketLeagueSideSwipeVita) |
 | Pocket Mortys | Celtic Gaming | v.0.9 | 16.0 MB | [download](https://github.com/celticg/AS-Pocket-Mortys-vita/releases/download/v0.9/PocketMortys_Stub.vpk) | [github](https://github.com/celticg/AS-Pocket-Mortys-vita) |
 | Pocket Shelf | fthdgn | v.shelf-v0.6.1-beta.2 | 2.5 MB | [download](https://github.com/fthdgn-gh/pocket-shelf/releases/download/shelf-v0.6.1-beta.2/pocket-shelf.vpk) | [github](https://github.com/fthdgn-gh/pocket-shelf) |
 | Pocket Wonder Sport | m1s3ry | v.1.0 | 4.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/648-Pocket_Wonder_Sport.vpk) | [itch.io](https://hwilson.itch.io/pocket-wonder-sport) |
@@ -4726,4 +4728,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4703 entries, 54.6 GB in total.
+4705 entries, 54.6 GB in total.
