@@ -934,5 +934,31 @@
         "url": "https://github.com/VegettoSan/Hungry-Shark-Evolution-Ps-Vita/releases/download/01.00/HSEVita_v1.0_Windows.zip",
         "added": "2026-11-18T22:12:06Z",
         "updated": "2026-11-18T22:12:06Z"
+    },
+    {
+        "name": "Huntdown Vita Builder",
+        "version": "v.1.2.0",
+        "author": "xob0t",
+        "description": "Builds a PSVITA version of Huntdown on your PC from your own Steam copy.",
+        "id": "4879",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/xob0t/huntdown-vita",
+        "release_page": "https://github.com/xob0t/huntdown-vita/releases",
+        "trailer": "",
+        "size": "520254",
+        "data_size": "",
+        "hash": "27781ad3a66b3850a0abc963d4ecfe6a",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/xob0t/huntdown-vita/releases/download/v1.2.0/huntdown-vita.zip",
+        "added": "2026-11-19T20:40:16Z",
+        "updated": "2026-11-19T20:40:16Z"
     }
 ]

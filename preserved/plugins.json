@@ -3829,5 +3829,31 @@
         "trailer": "",
         "trophies": "0",
         "added": "2026-11-13T21:41:34Z"
+    },
+    {
+        "name": "DD TouchOnVita",
+        "version": "v.0.59",
+        "author": "WolffsRoom",
+        "description": "Plugin that adds touchscreen controls to Darkest Dungeon on PS Vita.",
+        "id": "4880",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/WolffsRoom/DD-TouchOnVita",
+        "release_page": "https://github.com/WolffsRoom/DD-TouchOnVita/releases",
+        "trailer": "",
+        "size": "367560",
+        "data_size": "",
+        "hash": "8d61cf027bcdc4fa5a82f043550612fc",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "- Darkest Dungeon for PS Vita",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip",
+        "added": "2026-11-19T20:40:16Z",
+        "updated": "2026-11-19T20:40:16Z"
     }
 ]

@@ -1429,7 +1429,7 @@ Every entry, with the download it currently points at. The ones added since
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (152)
+## Plugins (153)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1445,6 +1445,7 @@ Every entry, with the download it currently points at. The ones added since
 | ButtonSwap | Scorpeg | v.0.2 | 0.0 MB | [download](https://github.com/Scorpeg/Button-Swap/releases/download/v0.02/buttonswap.suprx) | — |
 | c0ck blocker | qwikrazor87 | v.1.1 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/66-c0ckblockervita.7z) | — |
 | Custom Warning | TheFloW | v.3 | 0.0 MB | [download](https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx) | [github](https://github.com/TheOfficialFloW/VitaTweaks) |
+| DD TouchOnVita | WolffsRoom | v.0.59 | 0.4 MB | [download](https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip) | [github](https://github.com/WolffsRoom/DD-TouchOnVita) |
 | dejavu | TheFloW | v.0.1 | 0.0 MB | [download](https://github.com/TheOfficialFloW/dejavu/releases/download/v0.1/dejavu.skprx) | [github](https://github.com/TheOfficialFloW/dejavu) |
 | Download Enabler | TheFloW | v.4 | 0.0 MB | [download](https://github.com/TheOfficialFloW/VitaTweaks/releases/download/DownloadEnabler/download_enabler.suprx) | — |
 | ds34vita | Mer1e & xerpi & Hydr8gon | v.1.1 | 0.0 MB | [download](https://github.com/MERLev/ds34vita/releases/download/v1.1/ds34vita.skprx) | [github](https://github.com/MERLev/ds34vita) |
@@ -4686,7 +4687,7 @@ Every entry, with the download it currently points at. The ones added since
 | 欺诈女神 Apate | IACG游戏组 | v.1.0 | 25.1 MB | [download](https://archive.org/download/apate_v1/apate_v1.zip) | [archive.org](https://archive.org/details/apate_v1) |
 | ＼(^o^)／ブラウザKSK | k・s・k | v.1.0 | 0.8 MB | [download](https://archive.org/download/2chksk-0036-084r-156/2chksk0036_084r156.zip) | [archive.org](https://archive.org/details/2chksk-0036-084r-156) |
 
-## PC tools (37)
+## PC tools (38)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -4700,6 +4701,7 @@ Every entry, with the download it currently points at. The ones added since
 | GcNetworkBackup | oestriot | v.1.9 | 0.4 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcNetworkBackup.exe) | [github](https://github.com/oestriot/GcToolKit) |
 | Guess It! Customization Tool | HWNJ | v.1.0.0.0 | 53.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/690-guessit_custom.zip) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/guessit) |
 | Hungry Shark Evolution Vita Builder | VegettoSan | v.01.00 | 113.4 MB | [download](https://github.com/VegettoSan/Hungry-Shark-Evolution-Ps-Vita/releases/download/01.00/HSEVita_v1.0_Windows.zip) | [github](https://github.com/vegettosan/hungry-shark-evolution-ps-vita) |
+| Huntdown Vita Builder | xob0t | v.1.2.0 | 0.5 MB | [download](https://github.com/xob0t/huntdown-vita/releases/download/v1.2.0/huntdown-vita.zip) | [github](https://github.com/xob0t/huntdown-vita) |
 | Multi-Builder | DRok17 | v.1.8 | 31.0 MB | [download](https://github.com/DRok17/Multi-Builder/releases/download/v1.8/Multi-Builder.1.8.zip) | [github](https://github.com/DRok17/Multi-Builder) |
 | NoMorePacKaGe | ScarletDreamz | v.1.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/343-nomorepackage.zip) | — |
 | NPS Browser | jhonhenry10 | v.0.7.2 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/346-nps-browser.zip) | [github](https://github.com/RY0M43CH1Z3N/nps-browser) |
@@ -4728,4 +4730,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4705 entries, 54.6 GB in total.
+4707 entries, 54.6 GB in total.
