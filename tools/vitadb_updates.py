@@ -1,4 +1,4 @@
-import datetime, hashlib, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+import datetime, hashlib, io, zipfile, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); WRITE = '--write' in sys.argv
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 MIRROR = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
@@ -48,7 +48,7 @@ for k, (f, i, n, ov, nv, url) in enumerate(best.values()):
     if k and len(best) < 50: time.sleep(60)
     try: b = urllib.request.urlopen(urllib.request.Request(urllib.parse.quote(url, safe=':/%?=&'), headers={'User-Agent': 'VitaHomebrewDB'}), timeout=900).read()
     except Exception as e: print('  %s: Download fehlgeschlagen %s' % (n, type(e).__name__)); continue
-    fn = '%s-%s-%s.%s' % (i, re.sub(r'[^a-z0-9]+', '-', n.lower()).strip('-')[:40], re.sub(r'[^A-Za-z0-9.]+', '', nv[2:]), 'vpk' if b[:4] == b'PK\x03\x04' and b'sce_sys/' in b[:200000] else 'zip')
+    fn = '%s-%s-%s.%s' % (i, re.sub(r'[^a-z0-9]+', '-', n.lower()).strip('-')[:40], re.sub(r'[^A-Za-z0-9.]+', '', nv[2:]), 'vpk' if b[:4] == b'PK\x03\x04' and 'sce_sys/param.sfo' in zipfile.ZipFile(io.BytesIO(b)).namelist() else 'zip')
     open('/tmp/' + fn, 'wb').write(b)
     if subprocess.run(['gh', 'release', 'upload', 'mirror', '/tmp/' + fn, '--clobber', '--repo', 'DrDecki/VitaHomebrewDB'], capture_output=True).returncode:
         print('  %s: Upload fehlgeschlagen' % n); continue
