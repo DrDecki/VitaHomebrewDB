@@ -3809,14 +3809,14 @@
         "id": "1828",
         "name": "Engram",
         "author": "badmanwazzy37",
-        "version": "v.1.5",
+        "version": "v.1.6",
         "description": "Tweaks for the PSVita's home screen.",
         "long_description": "",
         "changelog": "- First Release",
         "requirements": "",
-        "url": "https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.5/engram.suprx",
-        "size": "52449",
-        "hash": "e6ec2d696c5ebdae5bf9d0b4bb0f1f1a",
+        "url": "https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.6/engram.suprx",
+        "size": "60967",
+        "hash": "67fd8dc90a57e0031f46e1b44c80e7e7",
         "hash2": "",
         "data_size": "0",
         "date": "2026-11-13",
@@ -3828,7 +3828,8 @@
         "tags": "",
         "trailer": "",
         "trophies": "0",
-        "added": "2026-11-13T21:41:34Z"
+        "added": "2026-11-13T21:41:34Z",
+        "updated": "2026-11-20T13:03:40Z"
     },
     {
         "name": "DD TouchOnVita",
