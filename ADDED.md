@@ -21,7 +21,7 @@ what it was on the day the service went down.
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [github](https://github.com/FridiNaTor1/HPL2-handyman) |
 | Apotris | Rocroverss | v.1.0 | 7.5 MB | [download](https://github.com/Rocroverss/apotris-psvita/releases/download/v1.0/Apotris.v1.0-audio.vpk) | [github](https://github.com/Rocroverss/apotris-psvita) |
 | Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [github](https://github.com/memory-hunter/arcaea-vita) |
-| Area Play Vita Edition | NexArea-Official | v.1.0 | 2.3 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.0/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
+| Area Play Vita Edition | NexArea-Official | v.1.1 | 4.8 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.1/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
 | Art3m1sPSV | DeQxJ00 | v.1.5.4 | 29.0 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.4/Art3m1sPSV-v1.5.4.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [github](https://github.com/Grarak/azahar) |
@@ -80,7 +80,7 @@ what it was on the day the service went down.
 | Dolphin Blue Vita | Tobic-99 | v.0.1 | 9.2 MB | [download](https://github.com/Tobic-99/dolphinblue-vita/releases/download/0.1/dolphinblue.vpk) | [github](https://github.com/Tobic-99/dolphinblue-vita) |
 | Doodle Jump | 1theronin | v.10 | 1.9 MB | [download](https://github.com/RONIN0095/doodlejump-vita/releases/download/v.10/doodlejump.vpk) | [github](https://github.com/RONIN0095/doodlejump-vita) |
 | Dragon Ball Tap Battle Vita | VegettoSan | v.1.2 | 2.6 MB | [download](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita/releases/download/1.2/DBTapBattle-1.2.vpk) | [github](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita) |
-| Dragon Ball Z: BT3 | arielxflores | v.1.2.4 | 5.8 MB | [download](https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.2.4/Tenkaichi3Decomp-Vita.vpk) | [github](https://github.com/arielxflores/Tenkaichi3Decomp-Vita) |
+| Dragon Ball Z: BT3 | arielxflores | v.1.3 | 5.8 MB | [download](https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.3/Tenkaichi3Decomp-Vita.vpk) | [github](https://github.com/arielxflores/Tenkaichi3Decomp-Vita) |
 | Dragon Ball Z: BT4 | manumastro & arielxflores | v.1.4 | 9.2 MB | [download](https://github.com/manumastro/DBZ-BT4-Tag-Team-Decomp-Vita/releases/download/v1.4/BT4-Vita.vpk) | [github](https://github.com/manumastro/DBZ-BT4-Tag-Team-Decomp-Vita) |
 | Duke Nukem Advance | ShayVD | v.1.0 | 3.0 MB | [download](https://github.com/ShayVD/duke-nukem-advance-tc-vita/releases/download/v1.0/dna-vita.vpk) | [github](https://github.com/ShayVD/duke-nukem-advance-tc-vita) |
 | Duke Nukem: Manhattan Project | myname24 | v.0.1 | 1.1 MB | [download](https://github.com/myname24/dnmp-vita/releases/download/V0.1/dnmp-vita-1.0-beta.vpk) | [github](https://github.com/myname24/dnmp-vita) |
@@ -154,7 +154,7 @@ what it was on the day the service went down.
 | LiveArea Designer | robin994 | v.1.31 | 2.1 MB | [download](https://github.com/robin994/LiveAreaDesigner/releases/download/v1.31/LIVAREA01.vpk) | [github](https://github.com/robin994/LiveAreaDesigner) |
 | LocalSend | resashkin | v.1.15.4-vita.2 | 19.2 MB | [download](https://github.com/flutter-vita/localsend/releases/download/v1.15.4-vita.2/LocalSend-1.15.4-vita.2.vpk) | [github](https://github.com/flutter-vita/localsend) |
 | LSD Revamped | arielxflores | v.1.0 | 1.1 MB | [download](https://github.com/arielxflores/LSDRevamped-Vita/releases/download/v1.0/LSDRevamped-Vita.vpk) | [github](https://github.com/arielxflores/LSDRevamped-Vita) |
-| Manhunt | xesf | v.0.5.1 | 1.3 MB | [download](https://github.com/xesf/manhunt-releases/releases/download/v0.5.1/manhunt-v0.5.1-vita.vpk) | [github](https://github.com/xesf/manhunt-releases) |
+| Manhunt | xesf | v.0.8.0 | 1.7 MB | [download](https://github.com/xesf/manhunt-releases/releases/download/v0.8.0/manhunt-v0.8.0-vita.vpk) | [github](https://github.com/xesf/manhunt-releases) |
 | maniaVita | sadports102 | v.1.1.0 | 4.1 MB | [download](https://github.com/sadports102/mania-vita/releases/download/v1.1.0/maniavitav1.1.0.vpk) | [github](https://github.com/sadports102/mania-vita) |
 | Manx TT Superbike | RetroValou | v.1.0.1 | 3.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/manx-tt-superbike-1.0.1.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
 | Mario Strikers Charged | CBOC-Vita | v.1.1 | 3.8 MB | [download](https://github.com/CBOC-Vita-Lab/strikers-charged-vita/releases/download/v1.1/Strikers-Charged-Vita.vpk) | [github](https://github.com/CBOC-Vita-Lab/strikers-charged-vita) |
@@ -253,8 +253,8 @@ what it was on the day the service went down.
 | Resident Evil | KiddRwxSsj | v.1.0 | 5.4 MB | [download](https://github.com/KiddRwxSsj/biohazard-vita/releases/download/1.0/biohazard-vita.1.0.vpk) | [github](https://github.com/KiddRwxSsj/biohazard-vita) |
 | Resident Evil Code: Veronica X | Rinnegatamante | v.1.4.5 | 27.5 MB | [download](https://github.com/Rinnegatamante/recvx_vita/releases/download/v.1.4.5/recvx.vpk) | [github](https://github.com/Rinnegatamante/recvx_vita) |
 | Resident Evil Gaiden | Rinnegatamante | v.1.0 | 24.8 MB | [download](https://github.com/Rinnegatamante/regaiden-recomp/releases/download/v.1.0/ResidentEvilGaiden.vpk) | [github](https://github.com/Rinnegatamante/regaiden-recomp) |
-| ReST-V | Reyanon | v.0.1.457 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rest-v-0.1.457.vpk) | [github](https://github.com/Reyanon/ReST-V) |
-| ReSys12 | Reyanon | v.0.1.222 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/resys12-0.1.222.vpk) | [github](https://github.com/Reyanon/ReSys12) |
+| ReST-V | Reyanon | v.0.1.635 | 3.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rest-v-0.1.635.vpk) | [github](https://github.com/Reyanon/ReST-V) |
+| ReSys12 | Reyanon | v.0.1.330 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/resys12-0.1.330.vpk) | [github](https://github.com/Reyanon/ReSys12) |
 | Return To The Roots | Nathan Kewley | v.0.1 | 6.0 MB | [download](https://github.com/NathanKewley/s25client-vita/releases/download/0.1/s25rttr.vpk) | [github](https://github.com/NathanKewley/s25client-vita) |
 | Ridge Racer Slipstream | DominicanNY | v.1.0 | 2.2 MB | [download](https://github.com/gmejia11/ridgeracer_slipstream_vita/releases/download/v.1.0/ridgeracer_slipstream.vpk) | [github](https://github.com/gmejia11/ridgeracer_slipstream_vita) |
 | Riptide GP | MetalSyntax | v.1.0.3 | 1.1 MB | [download](https://github.com/MetalSyntax/Riptide-GP-vita/releases/download/v1.0.3/riptidegp.vpk) | [github](https://github.com/MetalSyntax/Riptide-GP-vita) |
@@ -423,7 +423,7 @@ what it was on the day the service went down.
 | --- | --- | --- | ---: | --- | --- |
 | AnalogsEnhancerKai | t0mizwf26 & yakit4k0 & Rinnegatamante | v.1.2.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/AnalogsEnhancerKai.zip) | [github](https://github.com/t0mizwf26/AnalogsEnhancerKai) |
 | DD TouchOnVita | WolffsRoom | v.0.59 | 0.4 MB | [download](https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip) | [github](https://github.com/WolffsRoom/DD-TouchOnVita) |
-| Engram | badmanwazzy37 | v.1.5 | 0.1 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.5/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
+| Engram | badmanwazzy37 | v.1.6 | 0.1 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.6/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
 | fpsvita | esp1esp1 | v.0.4.1 | 0.1 MB | [download](https://github.com/esp1esp1/fpsvita/releases/download/v0.4.1/fpsvita-v0.4.1.zip) | [github](https://github.com/esp1esp1/fpsvita) |
 | Framecapper | Rinnegatamante | v.1.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Framecapper.zip) | [github](https://github.com/Rinnegatamante/Framecapper) |
 | FreePSM | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/freepsm/releases/download/v1.1/FreePSM-v1.1.suprx) | [git.silica.codes](https://git.silica.codes/Li/freepsm) |
