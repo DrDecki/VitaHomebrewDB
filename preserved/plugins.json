@@ -3856,5 +3856,31 @@
         "url": "https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip",
         "added": "2026-11-19T20:40:16Z",
         "updated": "2026-11-19T20:40:16Z"
+    },
+    {
+        "name": "PadUnlock",
+        "version": "v.1.0.1",
+        "author": "irxd",
+        "description": "Plugin that unlocks the PSVITA lock screen with the buttons instead of the touch screen.",
+        "id": "4892",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/irxd/pad-unlock",
+        "release_page": "https://github.com/irxd/pad-unlock/releases",
+        "trailer": "",
+        "size": "6534",
+        "data_size": "",
+        "hash": "ff11ddef67e2c542c2db67dc59b53301",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/irxd/pad-unlock/releases/download/v1.0.1/padunlock.skprx",
+        "added": "2026-11-20T16:48:06Z",
+        "updated": "2026-11-20T16:48:06Z"
     }
 ]
