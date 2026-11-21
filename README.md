@@ -60,7 +60,7 @@ This does not need programming. It needs people who recognise a homebrew by its 
 | `minimal.json` | id, titleid and hashes, for the update daemon |
 | `icons/` | app icons, `<sha256>.png` |
 | `icons.zip` | all icons as one archive |
-| `screenshots/` | recovered screenshots |
+| `shots-0` to `shots-f` releases | screenshots, grouped by the first character of their name |
 | `preserved/plugins.json` | plugin catalog |
 | `preserved/tools.json` | PC tool catalog |
 | `WANTED.md` | entries whose download is still missing |

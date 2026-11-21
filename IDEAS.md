@@ -17,11 +17,14 @@ but has suspended bulk uploads before, so it cannot be the only answer either.
 
 This matters more than anything else on this page.
 
-## GitHub Pages is close to its limit
+## GitHub Pages size
 
-The site is about 900 MB and GitHub Pages stops at 1 GB. Screenshots take most of
-it. `icons.zip` (41 MB) is the easy first step, moving it to the mirror release.
-Moving the screenshots is the real fix.
+GitHub Pages stops at 1 GB. The screenshots took 785 MB of it, so in November 2026
+they moved to the release tags `shots-0` to `shots-f`, one per first character of the
+file name. Each release holds at most 1000 files, which leaves room for about three
+times as many. Uploading them hits GitHub's limit on created content quickly, so
+`tools/move_shots.py` uploads in small batches and waits whenever it is told to.
+Icons stay on Pages for now, because the VitaDB client fetches `icons.zip` from there.
 
 ## Nightly builds
 
