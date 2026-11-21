@@ -960,5 +960,31 @@
         "url": "https://github.com/xob0t/huntdown-vita/releases/download/v1.2.0/huntdown-vita.zip",
         "added": "2026-11-19T20:40:16Z",
         "updated": "2026-11-19T20:40:16Z"
+    },
+    {
+        "name": "Terminator 2D: NO FATE Vita Builder",
+        "version": "v.1.1.0",
+        "author": "xob0t",
+        "description": "Builds a PSVITA version of Terminator 2D: NO FATE on your PC from your own Steam copy.",
+        "id": "4906",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/xob0t/t2d-no-fate-vita",
+        "release_page": "https://github.com/xob0t/t2d-no-fate-vita/releases",
+        "trailer": "",
+        "size": "1354539",
+        "data_size": "",
+        "hash": "ee6e81ddc0285391583c8e3a5182db15",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/xob0t/t2d-no-fate-vita/releases/download/v1.1.0/t2d-no-fate-vita.zip",
+        "added": "2026-11-21T16:16:25Z",
+        "updated": "2026-11-21T16:16:25Z"
     }
 ]
