@@ -78,12 +78,13 @@ titleid = a.titleid or sfo.get('TITLE_ID', '')
 version = a.version or ('v.' + str(sfo.get('APP_VER', '1.00')).lstrip('0') or 'v.1.0')
 
 if not icon_data:
-    print('ERROR: sce_sys/icon0.png not found in vpk')
-    sys.exit(1)
-icon_file = hashlib.sha256(icon_data).hexdigest() + '.png'
-os.makedirs(os.path.join(ROOT, 'icons'), exist_ok=True)
-open(os.path.join(ROOT, 'icons', icon_file), 'wb').write(icon_data)
-print('icon saved as icons/%s' % icon_file)
+    icon_file = '18746b487153dc1ca3d728ce57b841b6e8faeca65a0900aa46864f73d07642c8.png'
+    print('no icon0.png in vpk, using the VitaDB default icon')
+else:
+    icon_file = hashlib.sha256(icon_data).hexdigest() + '.png'
+    os.makedirs(os.path.join(ROOT, 'icons'), exist_ok=True)
+    open(os.path.join(ROOT, 'icons', icon_file), 'wb').write(icon_data)
+    print('icon saved as icons/%s' % icon_file)
 
 if any(x['id'] == next_id for x in apps):
     print('ERROR: id %s already exists' % next_id)
