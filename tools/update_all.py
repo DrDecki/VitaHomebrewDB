@@ -1,4 +1,5 @@
 import datetime, difflib, hashlib, io, json, os, re, subprocess, sys, time, urllib.parse, urllib.request, zipfile
+from media import mirror_upload, MIRROR_RE
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 WRITE = '--write' in sys.argv
@@ -73,7 +74,7 @@ for f in FILES:
         ext = os.path.splitext(a['url'].split('?')[0])[1].lower()
         oname = a['url'].split('?')[0].rsplit('/', 1)[-1].lower()
         stem = re.sub(r'\d', '', slug(os.path.splitext(oname)[0]))
-        wrap = a['url'].startswith(MIRROR) and ext == '.vpk'
+        wrap = bool(re.match(MIRROR_RE, a['url'])) and ext == '.vpk'
         best = None
         allpre = not any(not x.get('prerelease') and not x.get('draft') for x in rel)
         curpre = bool(re.search(r'alpha|beta|rc|pre|playtest', a.get('version') or '', re.I))
@@ -111,9 +112,8 @@ for k, (f, i, name, ov, nv, kern, ofile, url, nfile, data, z) in enumerate(todo)
         if not vi: print('  %s: keine VPK in der ZIP' % name); continue
         b = zf.read(vi); nfile = '%s-%s.vpk' % (re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-'), kern)
         tmp = os.path.join('/tmp', nfile); open(tmp, 'wb').write(b)
-        u = subprocess.run(['gh', 'release', 'upload', 'mirror', tmp, '--clobber', '--repo', 'DrDecki/VitaHomebrewDB'], capture_output=True, text=True)
-        if u.returncode: print('  %s: Upload fehlgeschlagen' % name); continue
-        url = MIRROR + nfile
+        url = mirror_upload(tmp)
+        if not url: print('  %s: Upload fehlgeschlagen' % name); continue
     p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8'))
     for a in d:
         if a['id'] == i:

@@ -1,4 +1,5 @@
 import datetime, hashlib, io, zipfile, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+from media import mirror_upload
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); WRITE = '--write' in sys.argv
 FILES = ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json')
 MIRROR = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
@@ -50,12 +51,13 @@ for k, (f, i, n, ov, nv, url) in enumerate(best.values()):
     except Exception as e: print('  %s: Download fehlgeschlagen %s' % (n, type(e).__name__)); continue
     fn = '%s-%s-%s.%s' % (i, re.sub(r'[^a-z0-9]+', '-', n.lower()).strip('-')[:40], re.sub(r'[^A-Za-z0-9.]+', '', nv[2:]), 'vpk' if b[:4] == b'PK\x03\x04' and 'sce_sys/param.sfo' in zipfile.ZipFile(io.BytesIO(b)).namelist() else 'zip')
     open('/tmp/' + fn, 'wb').write(b)
-    if subprocess.run(['gh', 'release', 'upload', 'mirror', '/tmp/' + fn, '--clobber', '--repo', 'DrDecki/VitaHomebrewDB'], capture_output=True).returncode:
+    murl = mirror_upload('/tmp/' + fn)
+    if not murl:
         print('  %s: Upload fehlgeschlagen' % n); continue
     p = os.path.join(ROOT, f); data = json.load(open(p, encoding='utf-8'))
     for a in data:
         if a['id'] == i:
-            a.update(version=nv, url=MIRROR + fn, size=str(len(b)), hash=hashlib.md5(b).hexdigest(), updated=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'))
+            a.update(version=nv, url=murl, size=str(len(b)), hash=hashlib.md5(b).hexdigest(), updated=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'))
     json.dump(data, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
     done.append('- **%s** %s -> %s  \n  from VitaDB, mirrored as `%s` (%.1f MB)' % (n, ov, nv, fn, len(b) / 1048576.0))
     print('  geschrieben: %s %s' % (i, nv), flush=True)
