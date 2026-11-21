@@ -81,8 +81,7 @@ added, see [REMOVED.md](REMOVED.md) for why.
 Download counts are frozen at their 2026-07-31 values, because static hosting cannot count.
 Sorting by popularity still works, it just describes the day the site went down.
 
-Known consumers: [VitaForge](https://github.com/josephinoo/vitaForge) by josephinoo, and [VHDB](https://github.com/DrDecki/VHDB) by myself.
-If you build another one, open an issue and it can be listed here.
+If you build a client against this catalog, open an issue and it can be listed here.
 
 ## What is missing
 
