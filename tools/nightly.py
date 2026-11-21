@@ -19,7 +19,7 @@ for f in FILES:
         rel = api('repos/%s/releases/tags/%s' % (m.group(1), m.group(2)))
         x = next((y for y in (rel or {}).get('assets', []) if y['name'] == m.group(3)), None)
         if not x: continue
-        if a.get('updated') and x['updated_at'] <= a['updated'] and a.get('size') == str(x['size']): continue
+        if a.get('size') == str(x['size']): continue
         todo.append(('roll', f, a['id'], a['name'], a['url'], 'Nightly ' + x['updated_at'][:10], None))
 for s in json.load(open(os.path.join(ROOT, 'nightly_sources.json'), encoding='utf-8')):
     arts = api('repos/%s/actions/artifacts?name=%s&per_page=5' % (s['repo'], s['artifact'])) or {}
@@ -53,7 +53,12 @@ for k, (kind, f, i, name, url, ver, extra) in enumerate(todo):
         done.append('- **%s** added as %s' % (name, ver)); continue
     p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8'))
     for a in d:
-        if a['id'] == i: old = a.get('version'); a.update(version=ver, size=str(len(b)), hash=hashlib.md5(b).hexdigest(), updated=now())
+        if a['id'] == i:
+            old = a.get('version'); h = hashlib.md5(b).hexdigest()
+            if kind == 'roll' and h == a.get('hash'): ver = None; break
+            if kind == 'roll' and not re.match(r'(nightly|v\.(continuous|latest|nightly))', (old or '').lower()): ver = old
+            a.update(version=ver, size=str(len(b)), hash=h, updated=now())
+    if ver is None: continue
     json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
     done.append('- **%s** %s -> %s  \n  nightly build, %.1f MB' % (name, old, ver, len(b) / 1048576.0))
     print('  geschrieben: %s %s' % (i, ver), flush=True)

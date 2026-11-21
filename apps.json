@@ -8976,7 +8976,7 @@
     {
         "name": "Vita Chess",
         "icon": "f92060e3364474de1f061ef40457f22498379639ea40a5a21bcc17f25544d1fc.png",
-        "version": "Nightly 2026-10-07",
+        "version": "v.Release",
         "author": "shoshkabob99",
         "type": "1",
         "description": "Chess game for PSVita.",
@@ -9001,8 +9001,7 @@
         "score": "0",
         "url": "https://github.com/shoshkabob99/VitaChess/releases/download/Release/VitaChess-1.0.vpk",
         "data": "",
-        "added": "2026-11-11T19:53:51Z",
-        "updated": "2026-11-21T22:44:32Z"
+        "added": "2026-11-11T19:53:51Z"
     },
     {
         "name": "Palm Heroes",
@@ -10327,7 +10326,7 @@
     {
         "name": "Class of '09 Native",
         "icon": "34b53e141c14011bace4200f034c97aa0a89242c60f0bee8563a7276e346a5a8.png",
-        "version": "Nightly 2026-09-15",
+        "version": "v.0.28",
         "author": "TheSpasticGamer",
         "type": "2",
         "description": "Port of Class of '09 for PSVITA.",
@@ -10353,8 +10352,7 @@
         "url": "https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port/releases/download/Release/ClassOf09-Native-0.28-Installer.vpk",
         "data": "https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port/releases/download/Release/ClassOf09-Native-0.24-Content.zip",
         "requirements_checked": "1",
-        "added": "2026-09-16T13:32:38Z",
-        "updated": "2026-11-21T22:45:33Z"
+        "added": "2026-09-16T13:32:38Z"
     },
     {
         "name": "Undertale Yellow",
@@ -12731,7 +12729,7 @@
     {
         "name": "Lego Island",
         "icon": "a5edfa713bb4f1d94f187d100cec06109cc39ed55faa6ca23048fde5483ec51e.png",
-        "version": "Nightly 2026-11-17",
+        "version": "v.0.1",
         "author": "isledecomp",
         "type": "2",
         "description": "Port of LEGO Island for PSVITA.",
@@ -12758,7 +12756,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-05T20:25:32Z",
-        "updated": "2026-11-21T22:46:34Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "VitaForge",
@@ -15248,7 +15246,7 @@
     {
         "name": "MiniRetroXMB",
         "icon": "7ff7fbd9df4ac2041c1392493aedcbcf8b3c71ce2930dfc20b18addd3974c54f.png",
-        "version": "Nightly 2026-04-14",
+        "version": "v.1.0",
         "author": "goobercx",
         "type": "4",
         "description": "RetroArch theme editor for PSVita.",
@@ -15274,7 +15272,7 @@
         "url": "https://github.com/goobercx/MiniRetroXMB-v1.0/releases/download/RELEASE/MiniRetroXMB.vpk",
         "data": "",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:47:34Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "fheroes2",
@@ -17621,7 +17619,7 @@
     {
         "name": "Benny",
         "icon": "8211cab219a2161693173bcad95dee9f362fb0e61e0b3d0592fd60f02c3414d3.png",
-        "version": "Nightly 2025-09-02",
+        "version": "v.1.0",
         "author": "xqspx",
         "type": "1",
         "description": "Horror game for PSVita.",
@@ -17647,7 +17645,7 @@
         "url": "https://github.com/xqwpx/benny/releases/download/Release/Benny.vpk",
         "data": "",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:48:41Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "VitaSPH",
@@ -19780,7 +19778,7 @@
     {
         "name": "SF1MR Vita",
         "icon": "9ea1d1144e135e435e1183ec80dd69761eb60b5caa78dbb088868fc4ab9b5506.png",
-        "version": "Nightly 2025-01-07",
+        "version": "v.1.1",
         "author": "AnasHalideen",
         "type": "2",
         "description": "Port of SF1MR for PSVITA.",
@@ -19807,7 +19805,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:49:46Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Dethrace Vita",
@@ -20733,7 +20731,7 @@
     {
         "name": "Neet Girl Date Night Vita",
         "icon": "34b18ae7e7c20707af7d20e4974b716894410de69f531abf6f2d0ed77ec9195c.png",
-        "version": "Nightly 2024-08-14",
+        "version": "v.01.00",
         "author": "raidengugga",
         "type": "2",
         "description": "Port of Neet Girl Date Night for PSVITA.",
@@ -20760,7 +20758,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:50:49Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Vitohlyad",
@@ -21010,7 +21008,7 @@
     {
         "name": "Juniper's Knot Vita",
         "icon": "f0bd5089374613bd95b7bd8e01199619158215e6057e726744ce8a301ca6bd79.png",
-        "version": "Nightly 2024-06-13",
+        "version": "v.0.99",
         "author": "grimiku",
         "type": "2",
         "description": "Port of Juniper's Knot for PSVITA.",
@@ -21037,7 +21035,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:52:14Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Blasphemous Vita",
@@ -21168,7 +21166,7 @@
     {
         "name": "Cradle Song Vita",
         "icon": "14bc0ac1b9ea8badf7a15c81a252ff958a81a86db0df5ef2d6bd237f1e6e91c9.png",
-        "version": "Nightly 2024-06-01",
+        "version": "v.0.98",
         "author": "grimiku",
         "type": "2",
         "description": "Port of Cradle Song for PSVITA.",
@@ -21195,7 +21193,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:53:36Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Gnomopolis",
@@ -21563,7 +21561,7 @@
     {
         "name": "Coffee Talk Vita",
         "icon": "74b634760cf29c428489ff3ef0bbbb80bce50ee9ee7542d8649c2a155d261ab0.png",
-        "version": "Nightly 2024-04-10",
+        "version": "v.1.35",
         "author": "PatnosD",
         "type": "2",
         "description": "Port of Coffee Talk for PSVITA.",
@@ -21590,12 +21588,12 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:54:39Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Keep In Mind Remastered",
         "icon": "7dced581de4f700df62ae4e9e825f3d4ef1cd4b72c465a9a6ddbd7735fae9842.png",
-        "version": "Nightly 2024-03-29",
+        "version": "v.1.0",
         "author": "PatnosD",
         "type": "2",
         "description": "Port of Keep in Mind for PSVITA.",
@@ -21622,7 +21620,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:55:41Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "FFD-Vita",
@@ -22207,7 +22205,7 @@
     {
         "name": "Golfing Over It with Alva Majo",
         "icon": "083905305dd33fed5cca25dcf7dd3bc5aa962796729987d6fd1bcee373c29086.png",
-        "version": "Nightly 2024-01-26",
+        "version": "v.1.0",
         "author": "PatnosD",
         "type": "2",
         "description": "Port of Golfing Over it With Alva Majo for PSVITA.",
@@ -22234,12 +22232,12 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:56:44Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Night in the Woods",
         "icon": "ea5ec76a6f36fa98af6537da8cbc9e825e5451dc1b0d26f69a0f31a80dc7cfb1.png",
-        "version": "Nightly 2024-01-26",
+        "version": "v.0.5",
         "author": "PatnosD",
         "type": "2",
         "description": "Port of Night in the Woods for PSVITA.",
@@ -22266,7 +22264,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:57:47Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Geometry Dash Vita",
@@ -25096,7 +25094,7 @@
     {
         "name": "HYPERFIGHT Vita",
         "icon": "696b66ae8056cef4de5c9f74ef3c42b116394f3ada3f41f135c78c67905363fa.png",
-        "version": "Nightly 2023-04-30",
+        "version": "v.1.0",
         "author": "AnasHalideen",
         "type": "2",
         "description": "Port of HYPERFIGHT for PSVITA.",
@@ -25123,7 +25121,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-21T22:59:55Z"
+        "updated": "2026-11-21T23:03:10Z"
     },
     {
         "name": "Dome Romantik Vita",
