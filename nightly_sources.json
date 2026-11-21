@@ -1,0 +1,5 @@
+[
+    {"name": "Jazz² Resurrection", "repo": "deathkiller/jazz2-native", "artifact": "Jazz2_Vita", "file": "jazz2-resurrection.vpk",
+     "type": "port", "author": "deathkiller", "desc": "Open-source reimplementation of Jazz Jackrabbit 2 for PSVITA.",
+     "requirements": "- Game Data Files: your own copy of Jazz Jackrabbit 2"}
+]

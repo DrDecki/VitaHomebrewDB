@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (433)
+## PSVITA homebrews (434)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -58,7 +58,7 @@ what it was on the day the service went down.
 | Chess Online | flowoverflow | v.1.0.1 | 5.4 MB | [download](https://github.com/flowoverflow/chess-online-vita/releases/download/v1.0.1/ChessOnline-1.0.1.vpk) | [github](https://github.com/flowoverflow/chess-online-vita) |
 | Chex Quest Collection | SancioPanza88 | v.2.0 | 2.2 MB | [download](https://github.com/SancioPanza88/chex-quest-collection/releases/download/v2.0/ChexQuestCollection.vpk) | [github](https://github.com/SancioPanza88/chex-quest-collection) |
 | Clash of Heroes | Cardas26 | v.1.1.0 | 2.3 MB | [download](https://github.com/Cardas26/psp2-mmcoh/releases/download/v1.1.0/mmcoh-diagnostics.vpk) | [github](https://github.com/Cardas26/psp2-mmcoh) |
-| Class of '09 Native | TheSpasticGamer | v.0.28 | 3.0 MB | [download](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port/releases/download/Release/ClassOf09-Native-0.28-Installer.vpk) | [github](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port) |
+| Class of '09 Native | TheSpasticGamer | Nightly 2026-09-15 | 3.0 MB | [download](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port/releases/download/Release/ClassOf09-Native-0.28-Installer.vpk) | [github](https://github.com/TheSpasticGamer/Class-Of-09-Vita-Port) |
 | Conker's Bad Fur Day | HenryKun55 | v.1.3.0 | 8.2 MB | [download](https://github.com/HenryKun55/conker-vita/releases/download/v1.3.0/conker.vpk) | [github](https://github.com/henrykun55/conker-vita) |
 | Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [github](https://github.com/Bunkai9448/vita_gamemaker) [itch.io](https://bunkai.itch.io/) |
 | Cordless | bren \& Harommel Rabbid | v.1.0.0 | 3.1 MB | [download](https://github.com/Brendonm17/Cordless/releases/download/v1.0.0/Cordless.vpk) | [github](https://github.com/Brendonm17/Cordless) |
@@ -145,6 +145,7 @@ what it was on the day the service went down.
 | J2Vita | KiddRwxSsj | v.0.9.2 | 36.6 MB | [download](https://github.com/KiddRwxSsj/j2vita/releases/download/v0.9.2/j2vita.vpk) | [github](https://github.com/KiddRwxSsj/j2vita) |
 | JAVITA: Jedi Academy | NDRW | v.1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [github](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [github](https://github.com/largepelotas/JaVitaScript-Snake) |
+| Jazz² Resurrection | deathkiller | Nightly 2026-11-20 (d125774) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
 | JK2VITA: Jedi Outcast | NDRW | v.release-1.0.1 | 3.3 MB | [download](https://github.com/NDRWhun/JK2VITA/releases/download/release-1.0.1/JK2VITA_1.0.1.vpk) | [github](https://github.com/NDRWhun/JK2VITA) |
 | Kabuto Park | bren | v.1.0.0 | 17.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/KabutoPark_Vita.vpk) | [itch.io](https://brendonm17.itch.io/kabuto-park-vita) |
 | Keen4Vita | Boundish91 | v.1.0 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Keen4Vita.vpk) | — |
@@ -155,7 +156,7 @@ what it was on the day the service went down.
 | KOTOR II | pyjabox | v.0.6.0 | 2.1 MB | [download](https://github.com/pyjabox/VitaKotor2/releases/download/v0.6.0/KOTOR2.vpk) | [github](https://github.com/pyjabox/VitaKotor2) |
 | Last Train Home | Rocroverss | v.1.0 | 5.3 MB | [download](https://github.com/Rocroverss/Last-Train-Home/releases/download/v1.0/last_train_home.vpk) | [github](https://github.com/Rocroverss/Last-Train-Home) |
 | Left Seat | Kyle Knowles | v.2.2.1 | 0.5 MB | [download](https://github.com/Av8t4/Leftseat/releases/download/v2.2.1/leftseat.vpk) | [github](https://github.com/Av8t4/Leftseat) |
-| Lego Island | isledecomp | v.0.1 | 6.8 MB | [download](https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk) | [github](https://github.com/isledecomp/isle-portable) |
+| Lego Island | isledecomp | Nightly 2026-11-17 | 6.9 MB | [download](https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk) | [github](https://github.com/isledecomp/isle-portable) |
 | LEGO Ninjago Tournament | 1theronin | v.1.0 | 0.9 MB | [download](https://github.com/RONIN0095/Ninjago-Vita/releases/download/1.0/Ninjago.vpk) | [github](https://github.com/RONIN0095/Ninjago-Vita) |
 | Lighthouse | Rinnegatamante | v.1.0.1 | 8.1 MB | [download](https://github.com/Rinnegatamante/Lighthouse/releases/download/v.1.0.1/Lighthouse.vpk) | [github](https://github.com/Rinnegatamante/Lighthouse) |
 | LinuxOnVita | devwithzachary | v.1.6.0 | 25.7 MB | [download](https://github.com/devwithzachary/LinuxOnVita/releases/download/1.6.0/LinuxOnVita.vpk) | [github](https://github.com/devwithzachary/LinuxOnVita) |
@@ -380,7 +381,7 @@ what it was on the day the service went down.
 | Virtua Cop 2 | RetroValou | v.1.0 | 3.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/virtua-cop-2-1.0.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
 | Virtua Fighter 2 | RetroValou | v.1.0 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/virtua-fighter-2-1.0.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
 | Vita Audio Receiver | egalindo2167 | v.1.3.2 | 0.7 MB | [download](https://github.com/egalindo2167/vita-soloist-receiver/releases/download/v1.3.2/vita-audio-receiver.vpk) | [github](https://github.com/egalindo2167/vita-soloist-receiver) |
-| Vita Chess | shoshkabob99 | v.Release | 5.2 MB | [download](https://github.com/shoshkabob99/VitaChess/releases/download/Release/VitaChess-1.0.vpk) | [github](https://github.com/shoshkabob99/VitaChess) |
+| Vita Chess | shoshkabob99 | Nightly 2026-10-07 | 5.2 MB | [download](https://github.com/shoshkabob99/VitaChess/releases/download/Release/VitaChess-1.0.vpk) | [github](https://github.com/shoshkabob99/VitaChess) |
 | Vita Flight Radar | ULTRA DESIGN | v.2.5 | 1.3 MB | [download](https://github.com/1000660928-design/VitaFlightRadar/releases/download/v2.5/VitaFlightRadar-v2.5.vpk) | [github](https://github.com/1000660928-design/VitaFlightRadar) |
 | Vita IPTV | emrhky | v.1.2.0 | 1.9 MB | [download](https://github.com/emrhky/VitaIPTV/releases/download/v1.2.0/VitaIPTV.vpk) | [github](https://github.com/emrhky/VitaIPTV) |
 | Vita NS Controller | kyokuheishin | v.0.1.0 | 0.1 MB | [download](https://github.com/kyokuheishin/vita-ns-controller/releases/download/v0.1.0/vita_ns_controller.vpk) | [github](https://github.com/kyokuheishin/vita-ns-controller) |
@@ -3470,4 +3471,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3446 entries, 25.0 GB in total.
+3447 entries, 25.0 GB in total.
