@@ -1,48 +1,78 @@
 # Ideas and open ends
 
-What is left to do, and what was already tried and did not work.
+Notes on what is worth doing next, and on things that were tried and did not work,
+so nobody spends an evening rediscovering them.
 
 ## A second copy of the mirror
 
-Everything the catalog serves that authors no longer host lives in one place: the `mirror`
-release tag on this repository, on one GitHub account.
+Everything the catalog serves that authors no longer host themselves lives in one
+place: the `mirror` release tag on this repository, tied to a single GitHub account.
 
-VitaDB went offline on 31.07.2026, came back partially, went away again, and returned in
-full weeks later. Nothing was lost, but for a while nobody knew that. Worth not repeating here.
+VitaDB went offline on 31.07.2026, came back partially, went away again, and returned
+in full weeks later. Nothing was lost in the end, but for a while nobody knew that.
+A catalog that exists because one host went away should not depend on one host.
 
-archive.org is the obvious second home but has suspended bulk uploads before, so it cannot
-be the only one. Considered again at 25 GB across 839 files and decided against for now: not
-worth the setup and maintenance.
+A second copy somewhere unrelated would fix it. archive.org is the obvious candidate
+but has suspended bulk uploads before, so it cannot be the only answer either.
+
+This matters more than anything else on this page.
+
+## GitHub Pages is close to its limit
+
+The site is about 900 MB and GitHub Pages stops at 1 GB. Screenshots take most of
+it. `icons.zip` (41 MB) is the easy first step, moving it to the mirror release.
+Moving the screenshots is the real fix.
+
+## Nightly builds
+
+Some projects only publish rolling tags or Actions artifacts that expire after
+90 days. The catalog leaves them out for now. A separate list, fed from a rolling
+`nightly` tag on the mirror, would be one way to carry them.
 
 ## Watching sources
 
-`watch_vitadb.py` compares the catalog against VitaDB every day and opens an issue with
-anything new or any entry where VitaDB has a higher version. It matches on the repository
-URL first, then the name, because names drift: CTR against Crash Team Racing, MCSM against
-Minecraft: Story Mode.
+`watch_reddit.py` and `watch_report.py` run daily and open an issue listing new posts
+from r/vitahacks and r/VitaPiracy. Reddit closed anonymous RSS access in November
+2026; even private feed keys answer "Not Found". The posts now come from
+[Arctic Shift](https://arctic-shift.photon-reddit.com), a public archive of Reddit
+with an open API. No account and no key are needed.
 
-`watch_reddit.py` and `watch_report.py` run daily and open an issue listing new
-posts from the subreddits this catalog watches. No API key and no account are
-needed. Posts linking to a repository already in the catalog are marked and sorted
-to the bottom.
+`watch_vitadb.py` compares VitaDB's four lists with this catalog and opens an issue
+for entries it does not carry yet.
 
-Beyond that the list is unfiltered. A model could sort announcements from support
-questions, `watch_judge.py` did that before it was dropped for a plain list and is still
-in the git history. At forty posts a day, reading the titles is quicker.
+X has no affordable API at all. This is the awkward part, because the idea came from
+devnoname120, who announces his own releases there and nowhere else. Posts on X will
+keep arriving by hand.
 
-A 403 on a directory says nothing about the files inside it: `/vitadb/screenshots/`
-refused a listing the whole time while every single file answered fine, which is how
-all 2186 of them came back.
+## Updates
 
-Reddit's JSON API and GBAtemp both answer 403 to anything that is not a browser,
-and creating a Reddit API application no longer works without going through their
-builder policy. The RSS feeds still work without any of that, which is what these
-scripts use. They return 429 if called too quickly, hence the pause between
-subreddits.
+`tools/update_all.py` checks every entry against its GitHub or GitLab release once a
+day, including releases that ship the VPK inside a ZIP. Release lookups go through
+GraphQL in batches of 50: the Actions token allows 1000 REST calls an hour, which is
+why the old bot silently missed updates once it ran out. Pre-releases are only taken
+when the entry is a pre-release itself or the project publishes nothing else.
 
-X has no affordable API. Awkward, because the idea came from devnoname120, who announces
-his releases there and nowhere else. Those keep arriving by hand.
+`tools/vitadb_updates.py` picks up new versions that VitaDB hosts itself. Entries are
+matched by title ID first, because several projects share one repository.
+
+git.silica.codes is not polled. The server answers automated requests with a crawler
+trap, so the entries hosted there are checked by hand.
+
+## What is not added
+
+`blocklist.json` lists authors and titles that will not be added again, each with
+its reason. Both watch scripts and the sync tools read it.
+
+Releases that ship commercial game data are not added, not even the VPK alone.
+
+## Lessons
+
+A 403 on a directory says nothing about the files inside it. VitaDB's
+`/vitadb/screenshots/` refused a listing, but every single file answered, which is
+how all 2186 screenshots came back.
 
 ## Download counts are frozen
 
-VitaDB's numbers from 31.07.2026, and they stay that way. Static hosting cannot count.
+The `downloads` figures are VitaDB's numbers from 31.07.2026 and will never change.
+Static hosting cannot count. Sorting by popularity still works, it just describes the
+day the site went down.

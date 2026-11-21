@@ -75,8 +75,10 @@ for f in FILES:
         stem = re.sub(r'\d', '', slug(os.path.splitext(oname)[0]))
         wrap = a['url'].startswith(MIRROR) and ext == '.vpk'
         best = None
+        allpre = not any(not x.get('prerelease') and not x.get('draft') for x in rel)
+        curpre = bool(re.search(r'alpha|beta|rc|pre|playtest', a.get('version') or '', re.I))
         for r in rel:
-            if r.get('prerelease') or r.get('draft'): continue
+            if r.get('draft') or (r.get('prerelease') and not (allpre or curpre)): continue
             cands = [x for x in r.get('assets', []) if ok_asset(x, ext) and (lambda st: not stem or not st or stem in st or st in stem)(re.sub(r'\d', '', slug(os.path.splitext(x['name'])[0])))]
             if cands:
                 exact = [x for x in cands if x['name'].lower() == oname]
