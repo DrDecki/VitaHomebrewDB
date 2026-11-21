@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (431)
+## PSVITA homebrews (433)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -20,6 +20,8 @@ what it was on the day the service went down.
 | Ambidextro (Rocroverss) | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
 | Ambidextro (WolffsRoom) | WolffsRoom | v.0.1.0-beta.1 | 21.9 MB | [download](https://github.com/WolffsRoom/ambidextro-vita/releases/download/v0.1.0-beta.1/AmbidextroVita-v0.1.0-beta.1.vpk) | [github](https://github.com/WolffsRoom/ambidextro-vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [github](https://github.com/FridiNaTor1/HPL2-handyman) |
+| Aniread | sadports102 | v.0.1.0 | 3.4 MB | [download](https://github.com/sadports102/anirread-vita/releases/download/V0.1.0/aniread.vpk) | [github](https://github.com/sadports102/anirread-vita) |
+| Aniwatch | sadports102 | v.0.1.0 | 3.3 MB | [download](https://github.com/sadports102/aniwatch-vita/releases/download/V0.1.0/aniwatch.vpk) | [github](https://github.com/sadports102/aniwatch-vita) |
 | Apotris | Rocroverss | v.1.0 | 7.5 MB | [download](https://github.com/Rocroverss/apotris-psvita/releases/download/v1.0/Apotris.v1.0-audio.vpk) | [github](https://github.com/Rocroverss/apotris-psvita) |
 | Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [github](https://github.com/memory-hunter/arcaea-vita) |
 | Area Play Vita Edition | NexArea-Official | v.1.1 | 4.8 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.1/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
@@ -3468,4 +3470,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.0 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.0/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3444 entries, 25.0 GB in total.
+3446 entries, 25.0 GB in total.

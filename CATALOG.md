@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1444)
+## PSVITA homebrews (1446)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -55,6 +55,8 @@ Every entry, with the download it currently points at. The ones added since
 | Animal Crossing Vita | bren | v.0.5.0 | 6.7 MB | [download](https://github.com/Brendonm17/ACGC-Vita-Port/releases/download/v0.5.0/ac_vita_mp.vpk) | [github](https://github.com/Brendonm17/ACGC-Vita-Port) |
 | Animal Vitas | Spartanfox | v.2.0 | 53.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1130-AnimalVitas.vpk) | [archive.org](https://web.archive.org/web/20251115030734/https://fuhen.homebrew-contest.com/submissions/40/) |
 | ANIMANCER | VSM GAMMER | v.1.0 | 38.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1081-ANIMANCER.vpk) | — |
+| Aniread | sadports102 | v.0.1.0 | 3.4 MB | [download](https://github.com/sadports102/anirread-vita/releases/download/V0.1.0/aniread.vpk) | [github](https://github.com/sadports102/anirread-vita) |
+| Aniwatch | sadports102 | v.0.1.0 | 3.3 MB | [download](https://github.com/sadports102/aniwatch-vita/releases/download/V0.1.0/aniwatch.vpk) | [github](https://github.com/sadports102/aniwatch-vita) |
 | Anomaly 2 Vita | Rinnegatamante | v.1.2 | 13.6 MB | [download](https://github.com/Rinnegatamante/anomaly2_vita/releases/download/v.1.2/anomaly2.vpk) | [github](https://github.com/Rinnegatamante/anomaly2_vita) |
 | Anomaly Defenders Vita | Rinnegatamante | v.1.1 | 11.1 MB | [download](https://github.com/Rinnegatamante/anomaly-defenders_vita/releases/download/v.1.1/anomaly_defenders.vpk) | [github](https://github.com/Rinnegatamante/anomaly-defenders_vita) |
 | Anomaly Korea Vita | Rinnegatamante | v.1.2 | 7.4 MB | [download](https://github.com/Rinnegatamante/anomaly-korea_vita/releases/download/v.1.2/anomaly_korea.vpk) | [github](https://github.com/Rinnegatamante/anomaly-korea_vita) |
@@ -4756,4 +4758,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4733 entries, 54.7 GB in total.
+4735 entries, 54.7 GB in total.
