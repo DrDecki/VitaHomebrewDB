@@ -1,0 +1,25 @@
+name: Discord announcements
+
+on:
+  push:
+    branches: [main]
+    paths: ['apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json']
+  workflow_dispatch:
+    inputs:
+      before:
+        description: 'Compare against this commit'
+        required: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Post new entries and updates
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          BEFORE: ${{ github.event.inputs.before || github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: python3 tools/discord_notify.py
