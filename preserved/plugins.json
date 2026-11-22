@@ -3882,5 +3882,31 @@
         "url": "https://github.com/irxd/pad-unlock/releases/download/v1.0.1/padunlock.skprx",
         "added": "2026-11-20T16:48:06Z",
         "updated": "2026-11-20T16:48:06Z"
+    },
+    {
+        "name": "Bluetooth Turbo",
+        "version": "v.0.1.0",
+        "author": "juanjsebgarcia",
+        "description": "Plugin that improves Bluetooth audio on PSVITA, with headset battery readout and equalizer presets.",
+        "id": "4915",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth",
+        "release_page": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases",
+        "trailer": "",
+        "size": "6772",
+        "data_size": "",
+        "hash": "832ef74719bf2e973ad9ea212f52e8b1",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "- bluetoothturbo_kernel.skprx from the same release\n- bluetoothturbo_settings.suprx from the same release",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.1.0/bluetoothturbo.suprx",
+        "added": "2026-11-22T15:28:56Z",
+        "updated": "2026-11-22T15:28:56Z"
     }
 ]
