@@ -3731,14 +3731,14 @@
         "id": "1825",
         "name": "JamaisVu",
         "author": "delon5",
-        "version": "v.2.0.0-rc4",
+        "version": "v.2.0.0-rc5",
         "description": "Savestates plugin for PSVita.",
         "long_description": "",
         "changelog": "- First Release",
         "requirements": "",
-        "url": "https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc4/JamaisVu-2.0.0-rc4.zip",
-        "size": "1151275",
-        "hash": "36178d2c0c4ffcfd7caf5eacd74ee13d",
+        "url": "https://github.com/delon5/JamaisVu/releases/download/v2.0.0-rc5/JamaisVu-2.0.0-rc5.zip",
+        "size": "1151872",
+        "hash": "333f1b6f1c1d665e8e4e383be22d6deb",
         "hash2": "",
         "data_size": "0",
         "date": "2026-11-13",
@@ -3751,7 +3751,7 @@
         "trailer": "",
         "trophies": "0",
         "added": "2026-11-13T21:41:34Z",
-        "updated": "2026-11-15T12:21:49Z"
+        "updated": "2026-11-22T12:52:13Z"
     },
     {
         "id": "1826",
