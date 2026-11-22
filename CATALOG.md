@@ -3081,7 +3081,7 @@ Every entry, with the download it currently points at. The ones added since
 | Native32PSP | wxwxwz | v.1.0 | 5.6 MB | [download](https://archive.org/download/native32psp/Native32PSP-20260920.zip) | [archive.org](https://archive.org/details/native32psp) |
 | Nav'Assault | Clode666 | v.1.0 | 2.8 MB | [download](https://archive.org/download/nav-assault.-7z/NavAssault.zip) | [archive.org](https://archive.org/details/nav-assault.-7z) |
 | Navesound | Kiketoreador | v.1.0 | 6.5 MB | [download](https://archive.org/download/navesound.-7z/Navesound.zip) | [archive.org](https://archive.org/details/navesound.-7z) |
-| Nazi Zombies Portable: Reboot | Blubswillrule, Ju[s]tice, Jukki, Biodude, Dr_Mabuse1981, Naievil, MotoLegacy, Derped_Crusader | Nightly 2026-11-19 | 61.8 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip) | [github](https://github.com/nzp-team/nzportable) |
+| Nazi Zombies Portable: Reboot | NZP Reboot Team | Nightly 2026-11-19 | 61.8 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip) | [github](https://github.com/nzp-team/nzportable) |
 | NCDZPSP | theelf | v.1.0 | 2.2 MB | [download](https://archive.org/download/ngcdz-theelf.7z/ngcdz-theelf.zip) | [archive.org](https://archive.org/details/ngcdz-theelf.7z) |
 | NCDZPSP [Adhoc] | NJ, AhMan | v.2.2.1a | 0.3 MB | [download](https://archive.org/download/ncdzpsp_2.2.1a_adhoc_for_3x/ncdzpsp_2.2.1a_adhoc_for_slim.zip) | [archive.org](https://archive.org/details/ncdzpsp_2.2.1a_adhoc_for_3x) |
 | NCES | MotoLegacy | v.1.0 | 0.6 MB | [download](https://archive.org/download/nces.-7z/NCES.zip) | [archive.org](https://archive.org/details/nces.-7z) |
