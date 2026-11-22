@@ -8,23 +8,22 @@ def load(rev, f):
     r = subprocess.run(['git', 'show', '%s:%s' % (rev, f)], capture_output=True)
     try: return {a['id']: a for a in json.loads(r.stdout)} if r.returncode == 0 else {}
     except Exception: return {}
-embeds = []
+lines = []
 for f, kind in FILES.items():
     old, new = load(BEFORE, f), load(AFTER, f)
     for i, a in new.items():
-        o = old.get(i); link = a.get('release_page') or a.get('source') or a.get('url')
-        if o is None: title, color, text = 'New: %s' % a['name'], 0x2ecc71, a.get('description') or ''
-        elif (o.get('version') or '') != (a.get('version') or ''): title, color, text = 'Updated: %s' % a['name'], 0x3498db, '%s → %s' % (o.get('version'), a.get('version'))
-        else: continue
-        e = {'title': title[:256], 'url': link, 'color': color, 'description': text[:300],
-             'footer': {'text': '%s · %s · %s' % (kind, a.get('author') or '?', a.get('version') or '')}}
-        if a.get('icon'): e['thumbnail'] = {'url': ICON + a['icon']}
-        embeds.append(e)
+        o = old.get(i); link = a.get('release_page') or a.get('source') or a.get('url') or ''
+        tail = ' <%s>' % link if link else ''
+        if o is None:
+            lines.append((True, '**%s** %s by %s was added to VitaHomebrewDB (%s).%s' % (a['name'], a.get('version') or '', a.get('author') or '?', kind, tail)))
+        elif (o.get('version') or '') != (a.get('version') or ''):
+            lines.append((False, '**%s** was updated to %s (was %s).%s' % (a['name'], a.get('version'), o.get('version'), tail)))
 def post(body):
     req = urllib.request.Request(HOOK, data=json.dumps(body).encode(), headers={'Content-Type': 'application/json', 'User-Agent': 'VitaHomebrewDB'})
     urllib.request.urlopen(req, timeout=30); time.sleep(2)
-print('%d Aenderungen' % len(embeds))
-if len(embeds) > 30:
-    neu = sum(1 for e in embeds if e['title'].startswith('New')); post({'content': '**VitaHomebrewDB:** %d new entries and %d updates. Full list: <https://github.com/DrDecki/VitaHomebrewDB/blob/main/ADDED.md>' % (neu, len(embeds) - neu)})
+print('%d Aenderungen' % len(lines))
+if len(lines) > 30:
+    neu = sum(1 for n, l in lines if n)
+    post({'content': '**VitaHomebrewDB:** %d new entries and %d updates. Full list: <https://github.com/DrDecki/VitaHomebrewDB/blob/main/ADDED.md>' % (neu, len(lines) - neu)})
 else:
-    for i in range(0, len(embeds), 10): post({'embeds': embeds[i:i + 10]})
+    for n, l in lines: post({'content': l, 'flags': 4})
