@@ -12,7 +12,7 @@ lines = []
 for f, kind in FILES.items():
     old, new = load(BEFORE, f), load(AFTER, f)
     for i, a in new.items():
-        o = old.get(i); link = a.get('release_page') or a.get('source') or a.get('url') or ''
+        o = old.get(i); link = 'https://drdecki.github.io/#app-%s' % i
         tail = ' <%s>' % link if link else ''
         if o is None:
             lines.append((True, '**%s** %s by %s was added to VitaHomebrewDB (%s).%s' % (a['name'], a.get('version') or '', a.get('author') or '?', kind, tail)))
