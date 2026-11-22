@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1452)
+## PSVITA homebrews (1453)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1071,6 +1071,7 @@ Every entry, with the download it currently points at. The ones added since
 | Stacker for Vita | Bunkai | v.1.00 | 18.7 MB | [download](https://github.com/Bunkai9448/StackerVitaGodot/releases/download/StackerVita-v.01.00/Stacker.for.Vita.vpk) | [github](https://github.com/Bunkai9448/StackerVitaGodot) |
 | Star Fox Adventures | tchisholm20 | v.0.2.0 | 8.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/star-fox-adventures-0.2.0.vpk) | [github](https://github.com/tchisholm20/starfox-adventures-vita) |
 | Star Fox Enhanced | kandowontu2 | v.0.0.8.8.3 | 61.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/star-fox-enhanced-0.0.8.8.3.vpk) | [github](https://github.com/kandowontu2/starfox-enhanced) |
+| Star Swarm | AnTaiCa | v.1.49 | 75.1 MB | [download](https://github.com/AnTaiCa/starswarm-vita/releases/download/v1.49/StarSwarm.vpk) | [github](https://github.com/AnTaiCa/starswarm-vita) |
 | Star Warfare: Alien Invasion | hatoving | v.0.9-hotfix.0 | 14.4 MB | [download](https://github.com/hatoving/starwarfare-vita/releases/download/0.9-hotfix.0/starwarfare.vpk) | [github](https://github.com/hatoving/starwarfare-vita) |
 | Star Wars Battlefront II | tezla55 | v.beta | 6.5 MB | [download](https://github.com/tezla55/swbf2-vita/releases/download/beta/swbf2-vita.vpk) | [github](https://github.com/tezla55/swbf2-vita) |
 | Star Wars Episode I: The Phantom Menace | Bit | v.2.1 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1803-star-wars-episode-i-the-phantom-menace-2.1.vpk) | [psx-place.com](https://www.psx-place.com/threads/star-wars-episode-i-the-phantom-menace-ps-vita-port.51309/) |
@@ -4765,4 +4766,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4742 entries, 54.7 GB in total.
+4743 entries, 54.8 GB in total.

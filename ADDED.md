@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (439)
+## PSVITA homebrews (440)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -316,6 +316,7 @@ what it was on the day the service went down.
 | SSX (2012) | lukebrl | v.1.1.1 | 2.6 MB | [download](https://github.com/lukebrl/ssx-vita/releases/download/v1.1.1/ssx_vita.vpk) | [github](https://github.com/lukebrl/ssx-vita) |
 | Star Fox Adventures | tchisholm20 | v.0.2.0 | 8.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/star-fox-adventures-0.2.0.vpk) | [github](https://github.com/tchisholm20/starfox-adventures-vita) |
 | Star Fox Enhanced | kandowontu2 | v.0.0.8.8.3 | 61.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/star-fox-enhanced-0.0.8.8.3.vpk) | [github](https://github.com/kandowontu2/starfox-enhanced) |
+| Star Swarm | AnTaiCa | v.1.49 | 75.1 MB | [download](https://github.com/AnTaiCa/starswarm-vita/releases/download/v1.49/StarSwarm.vpk) | [github](https://github.com/AnTaiCa/starswarm-vita) |
 | Star Wars Battlefront II | tezla55 | v.beta | 6.5 MB | [download](https://github.com/tezla55/swbf2-vita/releases/download/beta/swbf2-vita.vpk) | [github](https://github.com/tezla55/swbf2-vita) |
 | Star Wars Episode I: The Phantom Menace | Bit | v.2.1 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1803-star-wars-episode-i-the-phantom-menace-2.1.vpk) | [psx-place.com](https://www.psx-place.com/threads/star-wars-episode-i-the-phantom-menace-ps-vita-port.51309/) |
 | StarCraft | KP77C | v. | 1.3 MB | [download](https://github.com/KP77C/StarCraft-Vita/releases/download/starcraftvita/scvita.vpk) | [github](https://github.com/KP77C/StarCraft-Vita) |
@@ -3477,4 +3478,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.1 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.1/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3453 entries, 25.1 GB in total.
+3454 entries, 25.1 GB in total.
