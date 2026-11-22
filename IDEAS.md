@@ -12,10 +12,11 @@ VitaDB went offline on 31.07.2026, came back partially, went away again, and ret
 in full weeks later. Nothing was lost in the end, but for a while nobody knew that.
 A catalog that exists because one host went away should not depend on one host.
 
-A second copy somewhere unrelated would fix it. archive.org is the obvious candidate
-but has suspended bulk uploads before, so it cannot be the only answer either.
-
-This matters more than anything else on this page.
+Since November 2026 every file on the mirror, screenshot and nightly releases is copied
+to the private repository DrDecki/VitaDBtoo under the same release names.
+`tools/copy_mirror.py` runs after each daily update and copies what is new or changed.
+It still lives on the same GitHub account, so a copy somewhere unrelated would be the
+next step. archive.org has suspended bulk uploads before, so it cannot be the only answer.
 
 ## GitHub Pages size
 

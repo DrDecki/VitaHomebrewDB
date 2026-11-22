@@ -39,3 +39,10 @@ jobs:
           body-path: update_report.md
           commit-message: 'Update ${{ steps.check.outputs.count }} entries from upstream releases'
           delete-branch: true
+
+      - name: Copy mirrored files to VitaDBtoo
+        if: always()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.MIRROR_COPY_TOKEN }}
+        run: python3 tools/copy_mirror.py
