@@ -22,34 +22,49 @@ for f in FILES:
         if a.get('size') == str(x['size']): continue
         todo.append(('roll', f, a['id'], a['name'], a['url'], 'Nightly ' + x['updated_at'][:10], None))
 for s in json.load(open(os.path.join(ROOT, 'nightly_sources.json'), encoding='utf-8')):
-    arts = api('repos/%s/actions/artifacts?name=%s&per_page=5' % (s['repo'], s['artifact'])) or {}
-    art = next((x for x in arts.get('artifacts', []) if not x.get('expired')), None)
-    if not art: print('  %s: kein Artefakt' % s['name']); continue
     url = BASE + s['file']; hit = cat.get(url)
-    ver = 'Nightly %s (%s)' % (art['created_at'][:10], ((art.get('workflow_run') or {}).get('head_sha') or '')[:7])
+    if s.get('artifact'):
+        arts = api('repos/%s/actions/artifacts?name=%s&per_page=5' % (s['repo'], s['artifact'])) or {}
+        art = next((x for x in arts.get('artifacts', []) if not x.get('expired')), None)
+        if not art: print('  %s: kein Artefakt' % s['name']); continue
+        ver = 'Nightly %s (%s)' % (art['created_at'][:10], ((art.get('workflow_run') or {}).get('head_sha') or '')[:7]); kind = 'art'
+    else:
+        rel = api('repos/%s/releases/tags/%s' % (s['repo'], s['tag'])) or {}
+        art = next((y for y in rel.get('assets', []) if y['name'] == s['asset']), None)
+        if not art: print('  %s: kein Release-Asset' % s['name']); continue
+        ver = 'Nightly %s' % art['updated_at'][:10]; kind = 'rzip'
     if hit and hit[1].get('version') == ver: continue
-    todo.append(('art', hit[0] if hit else 'apps.json', hit[1]['id'] if hit else None, s['name'], url, ver, (s, art)))
+    todo.append((kind, hit[0] if hit else 'apps.json', hit[1]['id'] if hit else None, s['name'], url, ver, (s, art)))
 for t in todo: print('  %-4s %-30s -> %s' % (t[0], t[3][:30], t[5]), flush=True)
 print('\n%d Nightly-Aenderungen%s' % (len(todo), '' if WRITE else ' (Probelauf)'))
 if not WRITE: sys.exit()
 done = []
 for k, (kind, f, i, name, url, ver, extra) in enumerate(todo):
     if k and len(todo) < 50: time.sleep(60)
+    dataurl = None
     try:
         if kind == 'roll': b = get(url)
         else:
             s, art = extra
-            z = subprocess.run(['gh', 'api', 'repos/%s/actions/artifacts/%d/zip' % (s['repo'], art['id'])], capture_output=True).stdout
+            z = subprocess.run(['gh', 'api', 'repos/%s/actions/artifacts/%d/zip' % (s['repo'], art['id'])], capture_output=True).stdout if kind == 'art' else get(art['browser_download_url'])
             zf = zipfile.ZipFile(io.BytesIO(z)); vi = next(m for m in zf.infolist() if m.filename.lower().endswith('.vpk'))
             b = zf.read(vi); tmp = '/tmp/' + s['file']; open(tmp, 'wb').write(b)
             if not _upload('nightly', tmp, 'Nightly builds', 'Latest builds of projects that only publish nightlies. Each file is replaced when a new build appears.'):
                 print('  %s: Upload fehlgeschlagen' % name); continue
+            if s.get('data'):
+                dz = zf.read(next(m for m in zf.infolist() if m.filename == s['data'])); dt = '/tmp/' + s['data_file']; open(dt, 'wb').write(dz)
+                if _upload('nightly', dt, 'Nightly builds', ''): dataurl = (BASE + s['data_file'], len(dz))
     except Exception as e: print('  %s: %s' % (name, type(e).__name__)); continue
     if i is None:
         args = ['python3', 'add_app.py', '--url', url, '--type', s['type'], '--author', s['author'], '--name', name, '--desc', s['desc'],
                 '--source', 'https://github.com/' + s['repo'], '--release-page', 'https://github.com/%s/actions' % s['repo'], '--version', ver]
-        o = subprocess.run(args + (['--requirements', s['requirements']] if s.get('requirements') else []), cwd=ROOT, capture_output=True, text=True)
+        o = subprocess.run(args + (['--data', dataurl[0]] if dataurl else []) + (['--requirements', s['requirements']] if s.get('requirements') else []), cwd=ROOT, capture_output=True, text=True)
         print('  ' + ([l for l in (o.stdout + o.stderr).splitlines() if l.startswith('added') or 'ERROR' in l] or ['? ' + name])[0], flush=True)
+        if dataurl:
+            dd = json.load(open(os.path.join(ROOT, 'apps.json'), encoding='utf-8'))
+            for x in dd:
+                if x['url'] == url: x['data_size'] = str(dataurl[1])
+            json.dump(dd, open(os.path.join(ROOT, 'apps.json'), 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
         done.append('- **%s** added as %s' % (name, ver)); continue
     p = os.path.join(ROOT, f); d = json.load(open(p, encoding='utf-8'))
     for a in d:
@@ -58,6 +73,7 @@ for k, (kind, f, i, name, url, ver, extra) in enumerate(todo):
             if kind == 'roll' and h == a.get('hash'): ver = None; break
             if kind == 'roll' and not re.match(r'(nightly|v\.(continuous|latest|nightly))', (old or '').lower()): ver = old
             a.update(version=ver, size=str(len(b)), hash=h, updated=now())
+            if dataurl: a.update(data=dataurl[0], data_size=str(dataurl[1]))
     if ver is None: continue
     json.dump(d, open(p, 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
     done.append('- **%s** %s -> %s  \n  nightly build, %.1f MB' % (name, old, ver, len(b) / 1048576.0))

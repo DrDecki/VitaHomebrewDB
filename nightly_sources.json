@@ -1,5 +1,25 @@
 [
-    {"name": "Jazz² Resurrection", "repo": "deathkiller/jazz2-native", "artifact": "Jazz2_Vita", "file": "jazz2-resurrection.vpk",
-     "type": "port", "author": "deathkiller", "desc": "Open-source reimplementation of Jazz Jackrabbit 2 for PSVITA.",
-     "requirements": "- Game Data Files: your own copy of Jazz Jackrabbit 2"}
+    {
+        "name": "Jazz² Resurrection",
+        "repo": "deathkiller/jazz2-native",
+        "artifact": "Jazz2_Vita",
+        "file": "jazz2-resurrection.vpk",
+        "type": "port",
+        "author": "deathkiller",
+        "desc": "Open-source reimplementation of Jazz Jackrabbit 2 for PSVITA.",
+        "requirements": "- Game Data Files: your own copy of Jazz Jackrabbit 2"
+    },
+    {
+        "name": "Nazi Zombies: Portable",
+        "repo": "nzp-team/nzportable",
+        "tag": "nightly",
+        "asset": "nzportable-vita.zip",
+        "file": "nzportable-vita.vpk",
+        "data": "nzp.zip",
+        "data_file": "nzportable-vita-data.zip",
+        "type": "port",
+        "author": "NZP Team",
+        "desc": "Nazi Zombies: Portable, a fan-made zombies game on a Quake engine, for PSVITA.",
+        "requirements": "- Data files: extract the data archive to ux0:data/"
+    }
 ]

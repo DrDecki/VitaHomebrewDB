@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1453)
+## PSVITA homebrews (1454)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -550,7 +550,7 @@ Every entry, with the download it currently points at. The ones added since
 | Jailbreaker Vita | VSM GAMMER | v.1.0 | 25.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1075-Jailbreaker.vpk) | — |
 | JAVITA: Jedi Academy | NDRW | v.1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [github](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [github](https://github.com/largepelotas/JaVitaScript-Snake) |
-| Jazz² Resurrection | deathkiller | Nightly 2026-11-20 (d125774) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
+| Jazz² Resurrection | deathkiller | Nightly 2026-11-22 (09e2a17) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
 | JellyCar | Drakon | v.1.1 | 32.9 MB | [download](https://github.com/DrakonPL/JellyCar/releases/download/1.1/JellyCarVita.vpk) | [github](https://github.com/DrakonPL/JellyCar) |
 | Jet Car Stunts 2 Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/jetcarstunts_vita/releases/download/v.1.0/jetcarstunts.vpk) | [github](https://github.com/Rinnegatamante/jetcarstunts_vita) |
 | JetMan-3D | Gremlin Software | v.Main | 1.3 MB | [download](https://github.com/softwaregremlin/Jetman3D/releases/download/Main/JetMan-3D.vpk) | [github](https://github.com/softwaregremlin/Jetman3D/) [gremlinsoftware.co.nz](http://www.gremlinsoftware.co.nz/jetman3D.html) |
@@ -693,6 +693,7 @@ Every entry, with the download it currently points at. The ones added since
 | Naruto Shippuden: Ultimate Ninja Storm 2 | Kruvyy | v.1.0 | 18.0 MB | [download](https://github.com/Kruvyy/naruto-storm2-vita/releases/download/storm2vita/storm2_vita.vpk) | [github](https://github.com/Kruvyy/naruto-storm2-vita) |
 | Naught 2 Vita | usineur | v.1.1 | 1.7 MB | [download](https://github.com/usineur/naught2-vita/releases/download/v1.1/naught2.vpk) | [github](https://github.com/usineur/naught2-vita) |
 | Naught Vita | usineur | v.1.1 | 2.3 MB | [download](https://github.com/usineur/naught-vita/releases/download/v1.1/naught.vpk) | [github](https://github.com/usineur/naught-vita) |
+| Nazi Zombies: Portable | NZP Team | Nightly 2026-11-19 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/nzportable-vita.vpk) | [github](https://github.com/nzp-team/nzportable) |
 | NBA Jam Vita | elliencode | v.1.00 | 2.3 MB | [download](https://github.com/elliencode/nba-jam-psv/releases/download/v1.00/com.eamobile.nbajam_row_wf-v1.00.vpk) | [github](https://github.com/elliencode/nba-jam-psv) |
 | NBA2K16 | SpliffCurryBeats | v.0.2 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nba2k16-0.2.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/nba2k16-vita) |
 | Need for Speed Underground | NDRWhun | v.1.0.1 | 6.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4830-need-for-speed-underground-1.0.1.vpk) | [github](https://github.com/ndrwhun/ug1vita) |
@@ -3080,7 +3081,7 @@ Every entry, with the download it currently points at. The ones added since
 | Native32PSP | wxwxwz | v.1.0 | 5.6 MB | [download](https://archive.org/download/native32psp/Native32PSP-20260920.zip) | [archive.org](https://archive.org/details/native32psp) |
 | Nav'Assault | Clode666 | v.1.0 | 2.8 MB | [download](https://archive.org/download/nav-assault.-7z/NavAssault.zip) | [archive.org](https://archive.org/details/nav-assault.-7z) |
 | Navesound | Kiketoreador | v.1.0 | 6.5 MB | [download](https://archive.org/download/navesound.-7z/Navesound.zip) | [archive.org](https://archive.org/details/navesound.-7z) |
-| Nazi Zombies Portable: Reboot | Blubswillrule, Ju[s]tice, Jukki, Biodude, Dr_Mabuse1981, Naievil, MotoLegacy, Derped_Crusader | v.1.0 | 60.3 MB | [download](https://archive.org/download/nzportable.7z/nzportable-261013.zip) | [archive.org](https://archive.org/details/nzportable.7z) |
+| Nazi Zombies Portable: Reboot | Blubswillrule, Ju[s]tice, Jukki, Biodude, Dr_Mabuse1981, Naievil, MotoLegacy, Derped_Crusader | Nightly 2026-11-19 | 61.8 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip) | [github](https://github.com/nzp-team/nzportable) |
 | NCDZPSP | theelf | v.1.0 | 2.2 MB | [download](https://archive.org/download/ngcdz-theelf.7z/ngcdz-theelf.zip) | [archive.org](https://archive.org/details/ngcdz-theelf.7z) |
 | NCDZPSP [Adhoc] | NJ, AhMan | v.2.2.1a | 0.3 MB | [download](https://archive.org/download/ncdzpsp_2.2.1a_adhoc_for_3x/ncdzpsp_2.2.1a_adhoc_for_slim.zip) | [archive.org](https://archive.org/details/ncdzpsp_2.2.1a_adhoc_for_3x) |
 | NCES | MotoLegacy | v.1.0 | 0.6 MB | [download](https://archive.org/download/nces.-7z/NCES.zip) | [archive.org](https://archive.org/details/nces.-7z) |
@@ -4766,4 +4767,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4743 entries, 54.8 GB in total.
+4744 entries, 54.9 GB in total.

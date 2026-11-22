@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (440)
+## PSVITA homebrews (441)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -146,7 +146,7 @@ what it was on the day the service went down.
 | J2Vita | KiddRwxSsj | v.0.9.2 | 36.6 MB | [download](https://github.com/KiddRwxSsj/j2vita/releases/download/v0.9.2/j2vita.vpk) | [github](https://github.com/KiddRwxSsj/j2vita) |
 | JAVITA: Jedi Academy | NDRW | v.1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [github](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [github](https://github.com/largepelotas/JaVitaScript-Snake) |
-| Jazz² Resurrection | deathkiller | Nightly 2026-11-20 (d125774) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
+| Jazz² Resurrection | deathkiller | Nightly 2026-11-22 (09e2a17) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
 | JK2VITA: Jedi Outcast | NDRW | v.release-1.0.1 | 3.3 MB | [download](https://github.com/NDRWhun/JK2VITA/releases/download/release-1.0.1/JK2VITA_1.0.1.vpk) | [github](https://github.com/NDRWhun/JK2VITA) |
 | Kabuto Park | bren | v.1.0.0 | 17.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/KabutoPark_Vita.vpk) | [itch.io](https://brendonm17.itch.io/kabuto-park-vita) |
 | Keen4Vita | Boundish91 | v.1.0 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Keen4Vita.vpk) | — |
@@ -190,6 +190,7 @@ what it was on the day the service went down.
 | Mystic Warriors | Tobic-99 | v.1.0 | 5.7 MB | [download](https://github.com/Tobic-99/mystwarr-vita/releases/download/1.0/mystwarr.vpk) | [github](https://github.com/Tobic-99/mystwarr-vita) |
 | NAOH™: Arcade Collection | KiddRwxSsj | v.2.0.1 | 33.2 MB | [download](https://github.com/KiddRwxSsj/naoh-ac/releases/download/2.0.1/naoh_arcade_collection2.0.1.vpk) | [github](https://github.com/KiddRwxSsj/naoh-ac) |
 | Naruto Shippuden: Ultimate Ninja Storm 2 | Kruvyy | v.1.0 | 18.0 MB | [download](https://github.com/Kruvyy/naruto-storm2-vita/releases/download/storm2vita/storm2_vita.vpk) | [github](https://github.com/Kruvyy/naruto-storm2-vita) |
+| Nazi Zombies: Portable | NZP Team | Nightly 2026-11-19 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/nzportable-vita.vpk) | [github](https://github.com/nzp-team/nzportable) |
 | NBA2K16 | SpliffCurryBeats | v.0.2 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nba2k16-0.2.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/nba2k16-vita) |
 | Need for Speed Underground | NDRWhun | v.1.0.1 | 6.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4830-need-for-speed-underground-1.0.1.vpk) | [github](https://github.com/ndrwhun/ug1vita) |
 | Neon Drift | ToiletCat Games | v.NeonDriftVRBeta | 51.8 MB | [download](https://github.com/ToiletCatGames/NeonDriftPSVitaPort/releases/download/NeonDriftVRBeta/NeonDrift.vpk) | [github](https://github.com/ToiletCatGames/NeonDriftPSVitaPort) |
@@ -1894,7 +1895,7 @@ what it was on the day the service went down.
 | Native32PSP | wxwxwz | v.1.0 | 5.6 MB | [download](https://archive.org/download/native32psp/Native32PSP-20260920.zip) | [archive.org](https://archive.org/details/native32psp) |
 | Nav'Assault | Clode666 | v.1.0 | 2.8 MB | [download](https://archive.org/download/nav-assault.-7z/NavAssault.zip) | [archive.org](https://archive.org/details/nav-assault.-7z) |
 | Navesound | Kiketoreador | v.1.0 | 6.5 MB | [download](https://archive.org/download/navesound.-7z/Navesound.zip) | [archive.org](https://archive.org/details/navesound.-7z) |
-| Nazi Zombies Portable: Reboot | Blubswillrule, Ju[s]tice, Jukki, Biodude, Dr_Mabuse1981, Naievil, MotoLegacy, Derped_Crusader | v.1.0 | 60.3 MB | [download](https://archive.org/download/nzportable.7z/nzportable-261013.zip) | [archive.org](https://archive.org/details/nzportable.7z) |
+| Nazi Zombies Portable: Reboot | Blubswillrule, Ju[s]tice, Jukki, Biodude, Dr_Mabuse1981, Naievil, MotoLegacy, Derped_Crusader | Nightly 2026-11-19 | 61.8 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip) | [github](https://github.com/nzp-team/nzportable) |
 | NCDZPSP | theelf | v.1.0 | 2.2 MB | [download](https://archive.org/download/ngcdz-theelf.7z/ngcdz-theelf.zip) | [archive.org](https://archive.org/details/ngcdz-theelf.7z) |
 | NCDZPSP [Adhoc] | NJ, AhMan | v.2.2.1a | 0.3 MB | [download](https://archive.org/download/ncdzpsp_2.2.1a_adhoc_for_3x/ncdzpsp_2.2.1a_adhoc_for_slim.zip) | [archive.org](https://archive.org/details/ncdzpsp_2.2.1a_adhoc_for_3x) |
 | NCES | MotoLegacy | v.1.0 | 0.6 MB | [download](https://archive.org/download/nces.-7z/NCES.zip) | [archive.org](https://archive.org/details/nces.-7z) |
@@ -3478,4 +3479,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.1 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.1/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3454 entries, 25.1 GB in total.
+3455 entries, 25.2 GB in total.
