@@ -26,4 +26,6 @@ if len(lines) > 30:
     neu = sum(1 for n, l in lines if n)
     post({'content': '**VitaHomebrewDB:** %d new entries and %d updates. Full list: <https://github.com/DrDecki/VitaHomebrewDB/blob/main/ADDED.md>' % (neu, len(lines) - neu)})
 else:
-    for n, l in lines: post({'content': l, 'flags': 4})
+    for k, (n, l) in enumerate(lines):
+        if k: time.sleep(60)
+        post({'content': l, 'flags': 4})
