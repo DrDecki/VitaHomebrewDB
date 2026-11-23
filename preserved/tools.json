@@ -986,5 +986,31 @@
         "url": "https://github.com/xob0t/t2d-no-fate-vita/releases/download/v1.1.1/t2d-no-fate-vita.zip",
         "added": "2026-11-21T16:16:25Z",
         "updated": "2026-11-22T12:56:14Z"
+    },
+    {
+        "name": "Terminator 2D: No Fate Vita Builder",
+        "version": "v.1.1.1",
+        "author": "xob0t",
+        "description": "Builds a PSVITA version of Terminator 2D: NO FATE from your own Steam copy. Runs on Windows 10 or 11.",
+        "id": "4927",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/xob0t/t2d-no-fate-vita",
+        "release_page": "https://github.com/xob0t/t2d-no-fate-vita/releases",
+        "trailer": "",
+        "size": "1356841",
+        "data_size": "",
+        "hash": "5dcb3f092bd25f13ac21f4ab59e18c97",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/xob0t/t2d-no-fate-vita/releases/download/v1.1.1/t2d-no-fate-vita.zip",
+        "added": "2026-11-23T20:40:03Z",
+        "updated": "2026-11-23T20:40:03Z"
     }
 ]
