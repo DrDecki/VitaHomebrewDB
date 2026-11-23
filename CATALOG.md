@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1454)
+## PSVITA homebrews (1459)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -45,6 +45,7 @@ Every entry, with the download it currently points at. The ones added since
 | Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [github](https://github.com/withLogic/alex4) |
 | Alien Hominid | unclejahjah | v.build-2026-11-05 | 0.4 MB | [download](https://github.com/unclejahjah/ahhd-vita/releases/download/build-2026-11-05/ahhd_vita.vpk) | [github](https://github.com/unclejahjah/ahhd-vita) |
 | Alisa Vita | Rinnegatamante & PatnosD | v.1.2 | 52.5 MB | [download](https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk) | [github](https://github.com/Rinnegatamante/Alisa-Vita) |
+| All is Lost | MemoryHunter | v.1.0 | 2.3 MB | [download](https://github.com/memory-hunter/all-is-lost-vita/releases/download/v1.0/ail.vpk) | [github](https://github.com/memory-hunter/all-is-lost-vita) |
 | Ambidextro (Rocroverss) | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
 | Ambidextro (WolffsRoom) | WolffsRoom | v.0.1.0-beta.1 | 21.9 MB | [download](https://github.com/WolffsRoom/ambidextro-vita/releases/download/v0.1.0-beta.1/AmbidextroVita-v0.1.0-beta.1.vpk) | [github](https://github.com/WolffsRoom/ambidextro-vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [github](https://github.com/FridiNaTor1/HPL2-handyman) |
@@ -129,6 +130,7 @@ Every entry, with the download it currently points at. The ones added since
 | Bit Clicker | Ccoolguy | v.1.0 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/645-BitCliker.vpk) | [github](https://github.com/Ccoolguy/BitClickerVita) |
 | BitBot Runners | LuckTheGamers | v.1.0 | 40.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/519-BitBot-Runners.vpk) | — |
 | Blasphemous Vita | gl00mm | beta.1 | 12.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1209-BlasphemousVita.vpk) | [github](https://github.com/gl00mm/Blasphemous_PSVITA) |
+| Blobby Volley 2 | Sanya-arbuz | v.1.0 | 3.3 MB | [download](https://github.com/Sanya-arbuz/blobbyvolley2/releases/download/v1.0/blobby.vpk) | [github](https://github.com/Sanya-arbuz/blobbyvolley2) |
 | Blockamok Remix | Mode8fx | v.1.21 | 2.5 MB | [download](https://github.com/Mode8fx/blockamok/releases/download/v1.21/BlockamokRemix-v1.2-vita.vpk) | [github](https://github.com/Mode8fx/blockamok) |
 | BlockOut II | bomblik | v.BlockOut_II_PSVITA_2.5 | 5.8 MB | [download](https://github.com/bomblik/BlockOut_II_PSVITA/releases/download/BlockOut_II_PSVITA_2.5/BlockOut_II.vpk) | [github](https://github.com/bomblik/BlockOut_II_PSVITA) [gekihen.customprotocol.com](http://gekihen.customprotocol.com/en/project/BlockOut-II) |
 | Bloons TD 5 Vita | reallootfury | v.1.01 | 0.9 MB | [download](https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.01/btd5-vita-v1.01.vpk) | [github](https://github.com/reallootfury/bloons-td-5-vita) |
@@ -323,6 +325,7 @@ Every entry, with the download it currently points at. The ones added since
 | DX Garden | hiraethclub | v.0.9.0 beta | 10.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/dx-garden-0.9.0beta.vpk) | [github](https://github.com/hiraethclub/DX-Garden) |
 | Dzzee | thp | v.1.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/741-dzzee.vpk) | [thp.io](http://thp.io/2021/dzzee/) |
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [drive](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
+| Earth and Legend | theFilthyAnimal | v.1.0.0 | 1.0 MB | [download](https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/download/v1.0.0/earthandlegend.vpk) | [github](https://github.com/theFilthyAnimal/EarthAndLegend-Vita) |
 | Easy Plugin | THEN00P | v.1.1.1 | 2.5 MB | [download](https://github.com/THEN00P/EasyPlugin/releases/download/1.1.1/easyplugin.vpk) | [github](https://github.com/THEN00P/EasyPlugin) [gbatemp.net](https://gbatemp.net/threads/release-easy-plugin-vitadb-plugin-installer.532956/) |
 | EasyRPG Player | EasyRPG Team & Rinnegatamante | v.0.8.1.1 | 4.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/5-EasyRPG_Player.vpk) | [github](https://github.com/EasyRPG/Player) [blog.easyrpg.org](https://blog.easyrpg.org/) |
 | EasySwitchVita | Kirezar | v.1.01 | 2.2 MB | [download](https://github.com/Kirezar/EasySwitchVita/releases/download/1.01/EasySwitchVita.vpk) | [github](https://github.com/Kirezar/EasySwitchVita) |
@@ -708,6 +711,7 @@ Every entry, with the download it currently points at. The ones added since
 | Neverputt Vita | Rinnegatamante | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-neverputt.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverputt-vita-port-of-neverputt-for-psvita-pstv.38248/) |
 | NextBot For PSVita | SoyKhaler | v.0.2 | 32.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.zip) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
 | NFS Carbon | Swisha33 | v.0.1.5 | 13.8 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.5/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
+| NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Underground 2 (danos-x5) | danos-x5 | v.0.8.5 | 9.9 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.5/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS Underground 2 (elmnt22) | elmnt22 | v.0.2.1-alpha | 4.9 MB | [download](https://github.com/elmnt22/vita-nfsu2/releases/download/v0.2.1-alpha/NFSU2Vita.vpk) | [github](https://github.com/elmnt22/vita-nfsu2) |
@@ -897,6 +901,7 @@ Every entry, with the download it currently points at. The ones added since
 | Real-Time Racing Manager Vita | Rinnegatamante | v.1.0 | 1.9 MB | [download](https://github.com/Rinnegatamante/rrm-vita/releases/download/v.1.0/rrm.vpk) | [github](https://github.com/Rinnegatamante/rrm-vita) |
 | Realboy | xerpi | v.1.2 | 0.1 MB | [download](https://github.com/xerpi/realboy-vita/releases/download/1.2/realboy.vpk) | [github](https://github.com/xerpi/realboy-vita) [wololo.net](https://wololo.net/downloads/index.php/download/8330) |
 | Reboot Shortcut | luck | v.1.1 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/71-Reboot.vpk) | — |
+| ReBOX | Reyanon | v.0.14.80 | 8.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rebox-v0.14.80.vpk) | [github](https://github.com/Reyanon/ReBOX) |
 | Red Moon of April | Sansigolo | v.1.11 | 41.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/782-RedMoon.vpk) | [itch.io](https://neuromage.itch.io/red-moon-of-april) |
 | Red Runner | RetroGamer74 | v.1.0 | 49.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/433-redrunner.vpk) | [github](https://github.com/RetroGamer74/RedRunner) |
 | Red Space Vita | FARGUSJUNJA | v.1.0 | 108.8 MB | [download](https://github.com/rerulon/redvitas/releases/download/%23redvitas/Red.Space-01.00.vpk) | [github](https://github.com/rerulon/redvitas) |
@@ -4767,4 +4772,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4744 entries, 54.9 GB in total.
+4749 entries, 54.9 GB in total.

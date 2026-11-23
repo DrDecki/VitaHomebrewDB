@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (441)
+## PSVITA homebrews (446)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -17,6 +17,7 @@ what it was on the day the service went down.
 | Adventure Time | BM-Hicham19 | v.ready-to-play | 0.5 MB | [download](https://github.com/BM-Hicham19/ATVITA/releases/download/ready-to-play/AdventureTimeVita.vpk) | [github](https://github.com/BM-Hicham19/ATVITA) |
 | Alex 4 | withLogic | v.1.0 | 0.8 MB | [download](https://github.com/withLogic/alex4/releases/download/1.0/alex4.vpk) | [github](https://github.com/withLogic/alex4) |
 | Alien Hominid | unclejahjah | v.build-2026-11-05 | 0.4 MB | [download](https://github.com/unclejahjah/ahhd-vita/releases/download/build-2026-11-05/ahhd_vita.vpk) | [github](https://github.com/unclejahjah/ahhd-vita) |
+| All is Lost | MemoryHunter | v.1.0 | 2.3 MB | [download](https://github.com/memory-hunter/all-is-lost-vita/releases/download/v1.0/ail.vpk) | [github](https://github.com/memory-hunter/all-is-lost-vita) |
 | Ambidextro (Rocroverss) | Rocroverss | v.1.0 | 23.3 MB | [download](https://github.com/Rocroverss/ambidextro-psvita/releases/download/v1.0/ambidextro.vpk) | [github](https://github.com/Rocroverss/ambidextro-psvita) |
 | Ambidextro (WolffsRoom) | WolffsRoom | v.0.1.0-beta.1 | 21.9 MB | [download](https://github.com/WolffsRoom/ambidextro-vita/releases/download/v0.1.0-beta.1/AmbidextroVita-v0.1.0-beta.1.vpk) | [github](https://github.com/WolffsRoom/ambidextro-vita) |
 | Amnesia: The Dark Descent | FridiNaTor1 | v.1.5 | 5.7 MB | [download](https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk) | [github](https://github.com/FridiNaTor1/HPL2-handyman) |
@@ -37,6 +38,7 @@ what it was on the day the service went down.
 | Best Park in the Universe | clickbate | v.0.10 | 2.3 MB | [download](https://github.com/jwfeniello/regular-show-best-park-in-the-universe-vita/releases/download/v0.10/best_park_vita.vpk) | [github](https://github.com/jwfeniello/regular-show-best-park-in-the-universe-vita) |
 | BG2V | Calligula87 | v.0-beta | 3.0 MB | [download](https://github.com/Calligula87/BG2V/releases/download/v0-beta/BG2v0_beta.vpk) | [github](https://github.com/Calligula87/BG2V) |
 | Bike Race | franciscoclou | v.1.1 | 1.1 MB | [download](https://github.com/franciscoclou/bikerace-vita/releases/download/v1.1/BikeRace.vpk) | [github](https://github.com/franciscoclou/bikerace-vita) |
+| Blobby Volley 2 | Sanya-arbuz | v.1.0 | 3.3 MB | [download](https://github.com/Sanya-arbuz/blobbyvolley2/releases/download/v1.0/blobby.vpk) | [github](https://github.com/Sanya-arbuz/blobbyvolley2) |
 | Boiled Corn | dos | v.1.0 | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BoiledCorn.vpk) | [itch.io](https://dos.itch.io/boiledcorn) |
 | BombSquad Vita | SpliffCurryBeats | v.1.0 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BombSquadVita.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/bombsquad-vita) |
 | Bounce Evolution | myname24 | v.Main | 1.8 MB | [download](https://github.com/myname24/rebounce-vita/releases/download/Main/BounceEvolution.vpk) | [github](https://github.com/myname24/rebounce-vita) |
@@ -96,6 +98,7 @@ what it was on the day the service went down.
 | DuskOnVita | NathanKneT | v.0.9.0 | 11.3 MB | [download](https://github.com/NathanKneT/DuskOnVita/releases/download/v0.9.0/DuskOnVita.vpk) | [github](https://github.com/NathanKneT/DuskOnVita) |
 | DX Garden | hiraethclub | v.0.9.0 beta | 10.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/dx-garden-0.9.0beta.vpk) | [github](https://github.com/hiraethclub/DX-Garden) |
 | Earn to Die | No-Storage7413 | v.1.0 | 3.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/EarnToDie.vpk) | [drive](https://drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view) |
+| Earth and Legend | theFilthyAnimal | v.1.0.0 | 1.0 MB | [download](https://github.com/theFilthyAnimal/EarthAndLegend-Vita/releases/download/v1.0.0/earthandlegend.vpk) | [github](https://github.com/theFilthyAnimal/EarthAndLegend-Vita) |
 | Ecstatica | xesf | v.0.9.7 | 0.6 MB | [download](https://github.com/xesf/ecstatica/releases/download/v0.9.7/ecstatica-vita-e1-v0.9.7.vpk) | [github](https://github.com/ecstatica-game/ecstatica) |
 | Ecstatica 2 | xesf | v.0.9.7 | 0.6 MB | [download](https://github.com/ecstatica-game/ecstatica/releases/download/v0.9.7/ecstatica-vita-e2-v0.9.7.vpk) | [github](https://github.com/ecstatica-game/ecstatica) |
 | Elasto Mania | bosshunter | v.1.1 | 0.5 MB | [download](https://github.com/bosshunter/elma-vita/releases/download/v1.1/elma.vpk) | [github](https://github.com/bosshunter/elma-vita) |
@@ -197,6 +200,7 @@ what it was on the day the service went down.
 | NeoVitaDB Downloader | robin994 \& Rinnegatamante | v.2.9.1 | 3.8 MB | [download](https://github.com/robin994/NeoVitaDB-Downloader/releases/download/v2.9.1/NeoVitaDB.vpk) | [github](https://github.com/robin994/NeoVitaDB-Downloader) |
 | nestfolder | emrhky | v.1.0.3 | 0.1 MB | [download](https://github.com/emrhky/nestfolder/releases/download/v1.0.3/nestfolder.vpk) | [github](https://github.com/emrhky/nestfolder) |
 | NFS Carbon | Swisha33 | v.0.1.5 | 13.8 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.5/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
+| NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Underground 2 (danos-x5) | danos-x5 | v.0.8.5 | 9.9 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.5/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS Underground 2 (elmnt22) | elmnt22 | v.0.2.1-alpha | 4.9 MB | [download](https://github.com/elmnt22/vita-nfsu2/releases/download/v0.2.1-alpha/NFSU2Vita.vpk) | [github](https://github.com/elmnt22/vita-nfsu2) |
@@ -266,6 +270,7 @@ what it was on the day the service went down.
 | Rayman Jungle Run | MetalSyntax | v.1.2.0 | 1.1 MB | [download](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.2.0/raymanjunglerun.vpk) | [github](https://github.com/MetalSyntax/Rayman-Jungle-Run-vita) |
 | Real Racing 2 | CHUTA7X | v.1.0.0 | 6.1 MB | [download](https://github.com/CHUTA7X/Real-Racing-2-Vita-Port-Release/releases/download/VitaPort/RR2Vita_Public_Beta_1.0.0.vpk) | [github](https://github.com/chuta7x/real-racing-2-vita-port-release) |
 | Real Racing HD | MetalSyntax | v.1.0.0 | 2.2 MB | [download](https://github.com/MetalSyntax/Real-Racing-HD-vita/releases/download/v1.0.0/realracinghd.vpk) | [github](https://github.com/MetalSyntax/Real-Racing-HD-vita) |
+| ReBOX | Reyanon | v.0.14.80 | 8.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rebox-v0.14.80.vpk) | [github](https://github.com/Reyanon/ReBOX) |
 | Red Viper | PupueStudios | v.1.1 | 7.8 MB | [download](https://github.com/PupueStudios/red-viper-vita/releases/download/v1.1/red_viper.vpk) | [github](https://github.com/PupueStudios/red-viper-vita) |
 | ReiREM | Reyanon | v.0.1.400 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/reirem-0.1.400.vpk) | [github](https://github.com/Reyanon/reirem) |
 | Renegade Vita | TheGh0stShip | v.A3.5-dev142 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/RenegadeVita.vpk) | [github](https://github.com/TheGh0stShip/Renegade-Vita-Demo) |
@@ -3479,4 +3484,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3455 entries, 25.2 GB in total.
+3460 entries, 25.2 GB in total.
