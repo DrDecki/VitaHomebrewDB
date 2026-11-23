@@ -43,11 +43,13 @@ for label, ep, datei in ENDPOINTS:
         continue
     uns = load(datei)
     # Abgleich ueber normalisierte Namen, damit "Zenonia 3" und "Zenonia 3 Vita" zusammenfinden
-    uns_norm, uns_repo = {}, {}
+    uns_norm, uns_repo, uns_tid = {}, {}, {}
     uns_id = {str(x.get('id')): x for x in uns}
     for a in uns:
         n = norm(a['name'])
         uns_norm[n] = a
+        if a.get('titleid'):
+            uns_tid.setdefault(a['titleid'].upper(), []).append(a)
         if n.endswith('vita'):
             uns_norm[n[:-4]] = a
         for feld in (a.get('source'), a.get('release_page'), a.get('url')):
@@ -55,6 +57,13 @@ for label, ep, datei in ENDPOINTS:
             if m:
                 uns_repo[m.group(2).lower().removesuffix('.git')] = a
 
+    rc = {}
+    for a in vd:
+        for feld in (a.get('source'), a.get('release_page')):
+            m = re.search(r'(github\.com|gitlab\.com)/([^/\s]+/[^/\s?#]+)', feld or '')
+            if m:
+                k = m.group(2).lower().removesuffix('.git'); rc[k] = rc.get(k, 0) + 1
+                break
     for a in vd:
         if blocked(a.get('name'), a.get('author'), a.get('source') or a.get('url')): continue
         n = norm(a['name'])
@@ -67,7 +76,23 @@ for label, ep, datei in ENDPOINTS:
         per_id = uns_id.get(str(a.get('id')))
         if per_id and not (norm(per_id['name']).startswith(n) or n.startswith(norm(per_id['name']))):
             per_id = None
-        treffer = per_id or (uns_repo.get(repo) if repo else None) or uns_norm.get(n) or uns_norm.get(n + 'vita') or (uns_norm.get(n[:-4]) if n.endswith('vita') else None)
+        au = norm(a.get('author'))[:4]
+        tid = (a.get('titleid') or '').upper()
+        # title IDs like ABCD12345 are shared by many homebrews: name or author must fit too
+        c = uns_tid.get(tid, []) if tid else []
+        treffer = next((x for x in c if norm(x['name']) in (n, n[:-4], n + 'vita')), None) \
+            or next((x for x in c if norm(x.get('author'))[:4] == au), None) \
+            or next((x for x in c if norm(x['name'])[:6] == n[:6]), None)
+        # a repository only identifies the entry when no other VitaDB entry uses it
+        if not treffer and repo and rc.get(repo) == 1:
+            r = uns_repo.get(repo)
+            if r:
+                treffer = r
+        if not treffer:
+            treffer = per_id or uns_norm.get(n) or uns_norm.get(n + 'vita') or (uns_norm.get(n[:-4]) if n.endswith('vita') else None)
+            # same name, different title ID and author: a different port
+            if treffer and tid and treffer.get('titleid') and treffer['titleid'].upper() != tid and norm(treffer.get('author'))[:4] != au:
+                treffer = None
         if not treffer:
             if str(a.get('id')) in NIGHTLY_ONLY:
                 continue
