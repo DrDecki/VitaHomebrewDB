@@ -169,7 +169,7 @@ what it was on the day the service went down.
 | Manhunt | xesf | v.0.10.0 | 1.7 MB | [download](https://github.com/xesf/manhunt-releases/releases/download/v0.10.0/manhunt-v0.10.0-vita.vpk) | [github](https://github.com/xesf/manhunt-releases) |
 | maniaVita | sadports102 | v.1.1.0 | 4.1 MB | [download](https://github.com/sadports102/mania-vita/releases/download/v1.1.0/maniavitav1.1.0.vpk) | [github](https://github.com/sadports102/mania-vita) |
 | Manx TT Superbike | RetroValou | v.1.0.1 | 3.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/manx-tt-superbike-1.0.1.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
-| Mario Kart DS | PupueStudios | v.1.1 | 2.2 MB | [download](https://github.com/PupueStudios/mkds-vita/releases/download/v1.1/mkds.vpk) | [github](https://github.com/PupueStudios/mkds-vita) |
+| Mario Kart DS | PupueStudios | v.1.2 | 2.2 MB | [download](https://github.com/PupueStudios/mkds-vita/releases/download/v1.2/mkds.vpk) | [github](https://github.com/PupueStudios/mkds-vita) |
 | Mario Strikers Charged | CBOC-Vita | v.1.1 | 3.8 MB | [download](https://github.com/CBOC-Vita-Lab/strikers-charged-vita/releases/download/v1.1/Strikers-Charged-Vita.vpk) | [github](https://github.com/CBOC-Vita-Lab/strikers-charged-vita) |
 | Material Eleven | Perroabuelo & joel16 | v.4.5.0 | 1.7 MB | [download](https://github.com/Perroabuelo/Material-Eleven/releases/download/v4.5.0/Material-Eleven-4.5.0.vpk) | [github](https://github.com/Perroabuelo/Material-Eleven) |
 | McDonalds eCDP KeyGen | LiEnby | v.1.0 | 1.2 MB | [download](https://github.com/LiEnby/eCDP-Serial-Code/releases/download/v1.0-vita/eCDPKeyGen.vpk) | [github](https://github.com/lienby/ecdp-serial-code) |
@@ -178,7 +178,7 @@ what it was on the day the service went down.
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [github](https://github.com/minecraftpe-vita/minecraftpe-vita) |
 | Minecraft: Story Mode | LeZergan | v.1.19 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1450-minecraft-story-mode-1.19.vpk) | [github](https://github.com/LeZergan/mcsm-vita) |
 | MKW Retro Rewind | boomannotjeff | v.1.4.2 | 2.4 MB | [download](https://github.com/boomannotjeff/mkwiita/releases/download/1.4.2/mkw-retro-rewind.vpk) | [github](https://github.com/boomannotjeff/mkwiita) |
-| Monster Hunter 4 Ultimate | SaNch0sE | v.0.3.2-alpha | 8.3 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.3.2-alpha/MH4U.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
+| Monster Hunter 4 Ultimate | SaNch0sE | v.0.4-beta | 8.1 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.4-beta/Azahar-MH4U-0.4-beta.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
 | Monster Shooter | RaZorGaToR | v.1.2 | 0.9 MB | [download](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita/releases/download/v1.2/monstershooter.vpk) | [github](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita) |
 | Moonchild | Knuxfan | v.1.0 | 43.2 MB | [download](https://codeberg.org/knfn/moonchild-portable/releases/download/0.0.1/moonchild.vpk) | [codeberg.org](https://codeberg.org/knfn/moonchild-portable) |
@@ -409,7 +409,7 @@ what it was on the day the service went down.
 | VitaMaps | spyro-98 | v.1.0.0 | 2.4 MB | [download](https://github.com/spyro-98/VitaMaps/releases/download/v1.0.0/VitaMaps.vpk) | [github](https://github.com/spyro-98/VitaMaps) |
 | VitaMediaDeck | spyro-98 | v.1.4.3 | 6.0 MB | [download](https://github.com/spyro-98/VitaMediaDeck/releases/download/v1.4.3/VitaMediaDeck-1.4.3.vpk) | [github](https://github.com/spyro-98/VitaMediaDeck) |
 | VitaOS | mvizensk | v.1.9.2 | 5.6 MB | [download](https://github.com/hotdog-face/VitaOS/releases/download/v1.9.2/VitaOS.vpk) | [github](https://github.com/mvizensk/VitaOS) |
-| VitaPlane | ing156 | v.0.40.05 | 39.3 MB | [download](https://github.com/ing156/VitaPlane/releases/download/v0.40.05/VitaPlane-0.40.05.vpk) | [github](https://github.com/ing156/VitaGram) |
+| VitaPlane | ing156 | v.0.40.06 | 39.3 MB | [download](https://github.com/ing156/VitaPlane/releases/download/v0.40.06/VitaPlane-0.40.06.vpk) | [github](https://github.com/ing156/VitaGram) |
 | VitaScore | diogoasp97 | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/vitascore-1.0.vpk) | [github](https://github.com/diogoasp97/VitaScore) |
 | VitaSDR | hiraethclub | v.0.3.0 | 1.2 MB | [download](https://github.com/hiraethsystems/VitaSDR/releases/download/v0.3.0/VitaSDR.vpk) | [github](https://github.com/hiraethclub/VitaSDR) |
 | VitaSend | trashman | v.1.0.0 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v1.0.0/VitaSend-v100.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
