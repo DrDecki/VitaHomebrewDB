@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write
 
 jobs:
   check:
@@ -15,12 +16,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Update nightly builds on main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_MB: '150'
+        run: |
+          python3 tools/nightly.py --write
+          rm -f update_report.md
+          if [ -z "$(git status --porcelain)" ]; then exit 0; fi
+          python3 build_db.py
+          python3 stats.py
+          python3 mkwanted.py
+          python3 mkindex.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          before=$(git rev-parse HEAD)
+          git add -A
+          git commit -q -m 'Update nightly builds'
+          git push -q
+          gh workflow run discord.yml -f before=$before -f after=$(git rev-parse HEAD)
+
       - name: Look for newer release assets
         id: check
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_MB: '150'
-        run: python3 tools/update_all.py --write && python3 tools/vitadb_updates.py --write && python3 tools/nightly.py --write
+        run: python3 tools/update_all.py --write && python3 tools/vitadb_updates.py --write
 
       - name: Rebuild derived files
         if: steps.check.outputs.count != '0'
