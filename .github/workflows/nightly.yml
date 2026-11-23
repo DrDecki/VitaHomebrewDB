@@ -1,0 +1,40 @@
+name: Nightly builds
+
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: nightly
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update nightly builds on main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_MB: '150'
+        run: |
+          python3 tools/nightly.py --write
+          rm -f update_report.md
+          if [ -z "$(git status --porcelain)" ]; then exit 0; fi
+          python3 build_db.py
+          python3 stats.py
+          python3 mkwanted.py
+          python3 mkindex.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -q -m 'Update nightly builds'
+          git pull --rebase -q
+          before=$(git rev-parse HEAD~1)
+          git push -q
+          gh workflow run discord.yml -f before=$before -f after=$(git rev-parse HEAD)
