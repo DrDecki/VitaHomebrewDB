@@ -859,7 +859,7 @@
     },
     {
         "name": "The Drifter Vita Builder",
-        "version": "v.1.4.1",
+        "version": "v.1.4.2",
         "author": "xob0t",
         "description": "Builds a PSVITA version of The Drifter from your own Steam or GOG copy. Runs on Windows 10 or 11.",
         "id": "4850",
@@ -871,17 +871,17 @@
         "source": "https://github.com/xob0t/the-drifter-vita",
         "release_page": "https://github.com/xob0t/the-drifter-vita/releases",
         "trailer": "",
-        "size": "733376",
+        "size": "734035",
         "data_size": "",
-        "hash": "e15363ea8198fa68ea78ea3559faf2a8",
+        "hash": "7d7015a57275ee4b49970f3e8f9c6f37",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.1/the-drifter-vita.zip",
+        "url": "https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip",
         "added": "2026-11-18T22:09:41Z",
-        "updated": "2026-11-22T12:54:14Z"
+        "updated": "2026-11-23T14:52:18Z"
     },
     {
         "name": "Stardew Valley Enhanced Vita Builder",
@@ -937,7 +937,7 @@
     },
     {
         "name": "Huntdown Vita Builder",
-        "version": "v.1.2.1",
+        "version": "v.1.2.2",
         "author": "xob0t",
         "description": "Builds a PSVITA version of Huntdown on your PC from your own Steam copy.",
         "id": "4879",
@@ -949,17 +949,17 @@
         "source": "https://github.com/xob0t/huntdown-vita",
         "release_page": "https://github.com/xob0t/huntdown-vita/releases",
         "trailer": "",
-        "size": "522371",
+        "size": "533001",
         "data_size": "",
-        "hash": "0ea941b0d514579f96f199f3246be661",
+        "hash": "1b0a8731611c8317161540213ee2c25b",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/xob0t/huntdown-vita/releases/download/v1.2.1/huntdown-vita.zip",
+        "url": "https://github.com/xob0t/huntdown-vita/releases/download/v1.2.2/huntdown-vita.zip",
         "added": "2026-11-19T20:40:16Z",
-        "updated": "2026-11-22T12:55:14Z"
+        "updated": "2026-11-23T14:53:18Z"
     },
     {
         "name": "Terminator 2D: NO FATE Vita Builder",
