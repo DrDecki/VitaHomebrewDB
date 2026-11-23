@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1459)
+## PSVITA homebrews (1462)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1321,6 +1321,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaCord | devingDev | v.1.5fix1 | 2.6 MB | [download](https://github.com/devingDev/VitaCord/releases/download/1.5fix1/vita_cord.vpk) | [github](https://github.com/devingDev/VitaCord) [wololo.net](http://wololo.net/2017/06/05/vitacord-psvita-client-discord-released/) |
 | VitaDay | s1zzle5486 | v.0.10.34 | 33.8 MB | [download](https://github.com/s1zzle5486/VitaDay/releases/download/v0.10.34/VitaDay-0.10.34.vpk) | [github](https://github.com/s1zzle5486/VitaDay) |
 | VitaDB Downloader | Rinnegatamante | v.2.8 | 3.0 MB | [download](https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.2.8/VitaDB.vpk) | [github](https://github.com/Rinnegatamante/VitaDB-Downloader) |
+| VitaDeck | josephinoo | v.0.0.1 | 7.3 MB | [download](https://github.com/josephinoo/vitaDeck/releases/download/v0.0.1/vita_deck.vpk) | [github](https://github.com/josephinoo/vitaDeck) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [github](https://github.com/SKGleba/VitaDeploy) |
 | VitAdhoc | CBOC-Vita | v.1.3.1 | 6.0 MB | [download](https://github.com/CBOC-Vita-Lab/vitadhoc/releases/download/v1.3.1/VitAdhoc.vpk) | [github](https://github.com/CBOC-Vita-Lab/vitadhoc) |
 | VitaDL | Voxel | v.0.1 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/180-VitaDL.vpk) | [github](https://github.com/Voxel9/VitaDL) |
@@ -1452,12 +1453,14 @@ Every entry, with the download it currently points at. The ones added since
 | Zen and the Art of Transhumanism | m1s3ry | v.1.0.0 | 11.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/631-Zen_Art_Transhumanism.vpk) | [itch.io](https://deconstructeam.itch.io/zen-and-the-art-of-transhumanism) |
 | Zenonia 1 | withLogic | v.0.1.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk) | [github](https://github.com/withLogic/zenonia1-remaster-vita) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [github](https://github.com/withLogic/zenonia2-remaster-vita) |
+| Zenonia 2 (MetalSyntax) | MetalSyntax | v.1.40 | 0.9 MB | [download](https://github.com/MetalSyntax/Zenonia2-psvita-port/releases/download/v1.40/zenonia_2.vpk) | [github](https://github.com/MetalSyntax/Zenonia2-psvita-port) |
 | Zenonia 3 | MetalSyntax | v.01.40 | 1.7 MB | [download](https://github.com/MetalSyntax/zenonia3-psvita-port/releases/download/v01.40/zenonia_3.vpk) | [github](https://github.com/MetalSyntax/zenonia3-psvita-port) |
 | Zenonia 4 | MetalSyntax | v.1.2.0 | 1.6 MB | [download](https://github.com/MetalSyntax/Zenonia4-psvita-port/releases/download/1.2.0/zenonia_4_pace.vpk) | [github](https://github.com/MetalSyntax/Zenonia4-psvita-port) |
 | Zenonia 5 | MetalSyntax | v.0.2 | 2.8 MB | [download](https://github.com/MetalSyntax/Zenonia5-psvita-port/releases/download/v0.2/zenonia5ios.vpk) | [github](https://github.com/MetalSyntax/Zenonia5-psvita-port) |
 | ZGloom-Vita | Andiweli & JetStreamSham | v.08.2026 | 4.8 MB | [download](https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v08.2026/ZGloomCollection.08.2026.vpk) | [github](https://github.com/Andiweli/ZGloom-Vita-Vita2D) |
 | Zik-Zak Vita | Rinnegatamante | v.1.1 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1103-Zik-Zak.vpk) | [github](https://github.com/Rinnegatamante/zikzak-vita) |
 | Zombie Driver | AJ170 | v.1.0 | 41.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1089-ZombieDrive.vpk) | — |
+| Zombie Tsunami (rodi) | rodi | v.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/zombie-tsunami-rodi-v1.0.vpk) | [github](https://github.com/rodingley/zombietsunami_vita) |
 | Zombie Tsunami Vita | MeninoSung | v.1.0 | 6.0 MB | [download](https://github.com/WolffsRoom/ZombieTsunami-Vita/releases/download/v1.0/ZombieTsunami-v1.0.vpk) | [github](https://github.com/WolffsRoom/ZombieTsunami-Vita) |
 | Zombiebound | VitaHEX games | v.0.1.0 | 5.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/328-Zombiebound.vpk) | [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48583) |
 | Zombiebound Reloaded | VitaHEX games | v.0.21 | 158.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/421-Zombiebound-Reloaded.vpk) | [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&p=424058&sid=b677b3efd094a8debc96d9870da05636#p424058) |
@@ -1467,7 +1470,7 @@ Every entry, with the download it currently points at. The ones added since
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (155)
+## Plugins (156)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1616,6 +1619,7 @@ Every entry, with the download it currently points at. The ones added since
 | VitaKeyboard | mswlandi | v.1.1 | 0.0 MB | [download](https://github.com/mswlandi/vitakeyboard/releases/download/v1.1/hidkeyboard.skprx) | [github](https://github.com/mswlandi/vitakeyboard) |
 | VitaMount | Darkmet98 | v.1.0 | 0.0 MB | [download](https://github.com/Darkmet98/VitaMount-plugin/releases/download/1.0/VitaMount.1.0.zip) | — |
 | vitastick | xerpi | v.0.4.1 alpha | 0.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/236-vitastick.7z) | [github](https://github.com/xerpi/vitastick) |
+| vitastream | devnoname120 & xerpi | v.2.3 | 0.0 MB | [download](https://github.com/devnoname120/vitastream/releases/download/v2.3/vitastream.skprx) | [github](https://github.com/devnoname120/vitastream) |
 | VolLightbarCtrlWithDS4 | CallmeBK | v.1.3 | 0.0 MB | [download](https://github.com/CallmeBK/VolLightbarCtrlWithDS4/releases/download/v1.3/VolLightbarCtrlWithDS4.skprx) | [github](https://github.com/CallmeBK/VolLightbarCtrlWithDS4) |
 | vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [github](https://github.com/LiEnby/vshPatch) |
 | Walk | pathway27 | v.1.0 | 0.0 MB | [download](https://github.com/pathway27/walk/releases/download/v0.1/walk.suprx) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/walk) |
@@ -4772,4 +4776,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4749 entries, 54.9 GB in total.
+4753 entries, 54.9 GB in total.

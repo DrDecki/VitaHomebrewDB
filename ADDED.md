@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (446)
+## PSVITA homebrews (449)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -405,6 +405,7 @@ what it was on the day the service went down.
 | VitaCar | inigosui | v.0.6.0 | 2.1 MB | [download](https://github.com/inigosui/VitaCar/releases/download/v0.6.0/VitaCar.vpk) | [github](https://github.com/inigosui/VitaCar) |
 | VitaChat | MisteriousFalcon | v.1.1 | 3.2 MB | [download](https://github.com/MisteriousFalcon/VitaChat/releases/download/v1.1/VitaChat-1.1.vpk) | [github](https://github.com/MisteriousFalcon/VitaChat) |
 | VitaDay | s1zzle5486 | v.0.10.34 | 33.8 MB | [download](https://github.com/s1zzle5486/VitaDay/releases/download/v0.10.34/VitaDay-0.10.34.vpk) | [github](https://github.com/s1zzle5486/VitaDay) |
+| VitaDeck | josephinoo | v.0.0.1 | 7.3 MB | [download](https://github.com/josephinoo/vitaDeck/releases/download/v0.0.1/vita_deck.vpk) | [github](https://github.com/josephinoo/vitaDeck) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [github](https://github.com/SKGleba/VitaDeploy) |
 | VitAdhoc | CBOC-Vita | v.1.3.1 | 6.0 MB | [download](https://github.com/CBOC-Vita-Lab/vitadhoc/releases/download/v1.3.1/VitAdhoc.vpk) | [github](https://github.com/CBOC-Vita-Lab/vitadhoc) |
 | VitaForge | josephinoo | v.0.1.13 | 5.9 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.13/vitaforge.vpk) | [github](https://github.com/josephinoo/vitaForge) |
@@ -447,15 +448,17 @@ what it was on the day the service went down.
 | ZDoom Vita | Mr. Azrael | v.0.13.0 | 29.3 MB | [download](https://github.com/MrAzrael1/zdoom-vita/releases/download/v0.13.0/zdoom-vita-v0.13.0.vpk) | [github](https://github.com/MrAzrael1/zdoom-vita) |
 | Zenonia 1 | withLogic | v.0.1.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia1-remaster-vita/releases/download/v.0.1.1/zenonia1.vpk) | [github](https://github.com/withLogic/zenonia1-remaster-vita) |
 | Zenonia 2 | withLogic | v.0.1 | 2.4 MB | [download](https://github.com/withLogic/zenonia2-remaster-vita/releases/download/v0.1/zenonia2.vpk) | [github](https://github.com/withLogic/zenonia2-remaster-vita) |
+| Zenonia 2 (MetalSyntax) | MetalSyntax | v.1.40 | 0.9 MB | [download](https://github.com/MetalSyntax/Zenonia2-psvita-port/releases/download/v1.40/zenonia_2.vpk) | [github](https://github.com/MetalSyntax/Zenonia2-psvita-port) |
 | Zenonia 3 | MetalSyntax | v.01.40 | 1.7 MB | [download](https://github.com/MetalSyntax/zenonia3-psvita-port/releases/download/v01.40/zenonia_3.vpk) | [github](https://github.com/MetalSyntax/zenonia3-psvita-port) |
 | Zenonia 4 | MetalSyntax | v.1.2.0 | 1.6 MB | [download](https://github.com/MetalSyntax/Zenonia4-psvita-port/releases/download/1.2.0/zenonia_4_pace.vpk) | [github](https://github.com/MetalSyntax/Zenonia4-psvita-port) |
 | Zenonia 5 | MetalSyntax | v.0.2 | 2.8 MB | [download](https://github.com/MetalSyntax/Zenonia5-psvita-port/releases/download/v0.2/zenonia5ios.vpk) | [github](https://github.com/MetalSyntax/Zenonia5-psvita-port) |
+| Zombie Tsunami (rodi) | rodi | v.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/zombie-tsunami-rodi-v1.0.vpk) | [github](https://github.com/rodingley/zombietsunami_vita) |
 | Zombieville USA 2 | AJ170 | v.1.01 | 158.2 MB | [download](https://github.com/AJ170/ZombievilleUSA2-PSVita-Port/releases/download/1.01/ZUSA2.vpk) | [github](https://github.com/aj170/zombievilleusa2-psvita-port) |
 | Zombiewood | krisskash | v.1.0.0 | 0.9 MB | [download](https://github.com/krisskash/zombiewood-vita/releases/download/v1.0.0/zombiewood-v1.0.0.vpk) | [github](https://github.com/krisskash/zombiewood-vita) |
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (32)
+## Plugins (33)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -489,6 +492,7 @@ what it was on the day the service went down.
 | Vita MP4 Recorder | Rinnegatamante | v.0.5 | 0.0 MB | [download](https://github.com/Rinnegatamante/Vita-MP4-Recorder/releases/download/v.0.5/VitaMP4Recorder.suprx) | [github](https://github.com/Rinnegatamante/Vita-MP4-Recorder) |
 | VitaBrightEX | Zushikina-kun & devnoname120 | v.1.3 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/VitaBrightEX.zip) | [github](https://github.com/Zushikina-kun/VitaBrightEX) |
 | VitaBtFix | gabew100 | v.1.1 | 0.0 MB | [download](https://github.com/gabew100/VitaBtFix/releases/download/v1.1/vitabtfix.skprx) | [github](https://github.com/gabew100/VitaBtFix) |
+| vitastream | devnoname120 & xerpi | v.2.3 | 0.0 MB | [download](https://github.com/devnoname120/vitastream/releases/download/v2.3/vitastream.skprx) | [github](https://github.com/devnoname120/vitastream) |
 | vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [github](https://github.com/LiEnby/vshPatch) |
 | Wi-Fi Turbo | juanjsebgarcia | v.0.7.2 | 0.1 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-wifi/releases/download/v0.7.2/wifiturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-wifi) |
 
@@ -3484,4 +3488,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3460 entries, 25.2 GB in total.
+3464 entries, 25.2 GB in total.

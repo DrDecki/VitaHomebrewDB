@@ -3908,5 +3908,31 @@
         "url": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.1.0/bluetoothturbo.suprx",
         "added": "2026-11-22T15:28:56Z",
         "updated": "2026-11-22T15:28:56Z"
+    },
+    {
+        "name": "vitastream",
+        "version": "v.2.3",
+        "author": "devnoname120 & xerpi",
+        "description": "USB video and audio streaming for PSVita.",
+        "id": "4926",
+        "date": "2026-11-23",
+        "screenshots": "",
+        "long_description": "Streams PSVita video and audio over USB as a webcam or capture card. Based on xerpi's vita-udcd-uvc.",
+        "downloads": "0",
+        "status": "0",
+        "source": "https://github.com/devnoname120/vitastream",
+        "release_page": "https://github.com/devnoname120/vitastream/releases",
+        "trailer": "",
+        "size": "20240",
+        "data_size": "0",
+        "hash": "b8be7719f5ca639841b6ec56b22fb91a",
+        "hash2": "",
+        "changelog": "- First Release",
+        "requirements": "",
+        "trophies": "0",
+        "tags": "",
+        "url": "https://github.com/devnoname120/vitastream/releases/download/v2.3/vitastream.skprx",
+        "added": "2026-11-23T17:56:18Z",
+        "updated": "2026-11-23T17:56:18Z"
     }
 ]
