@@ -242,7 +242,7 @@
     {
         "name": "Nazi Zombies: Portable",
         "icon": "6bc749208768686bfdca6c2c463fa25a5468c64ae17d2f9d221304e8e7b5f7e6.png",
-        "version": "Nightly 2026-11-19",
+        "version": "Nightly 2026-11-23",
         "author": "NZP Team",
         "type": "2",
         "description": "Nazi Zombies: Portable, a fan-made zombies game on a Quake engine, for PSVITA.",
@@ -257,7 +257,7 @@
         "release_page": "https://github.com/nzp-team/nzportable/actions",
         "trailer": "",
         "size": "2840867",
-        "data_size": "73493555",
+        "data_size": "73703306",
         "hash": "d535090089be2bfb1d3518d913647705",
         "hash2": "",
         "changelog": "- First Release",
@@ -267,7 +267,8 @@
         "score": "0",
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/nzportable-vita.vpk",
         "data": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/nzportable-vita-data.zip",
-        "added": "2026-11-22T16:51:20Z"
+        "added": "2026-11-22T16:51:20Z",
+        "updated": "2026-11-23T20:34:32Z"
     },
     {
         "name": "Star Swarm",
