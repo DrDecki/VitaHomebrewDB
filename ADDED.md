@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (511)
+## PSVITA homebrews (512)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -202,6 +202,7 @@ what it was on the day the service went down.
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [github](https://github.com/minecraftpe-vita/minecraftpe-vita) |
 | Minecraft: Story Mode | LeZergan | v.1.19 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1450-minecraft-story-mode-1.19.vpk) | [github](https://github.com/LeZergan/mcsm-vita) |
 | MKW Retro Rewind | boomannotjeff | v.1.4.2 | 2.4 MB | [download](https://github.com/boomannotjeff/mkwiita/releases/download/1.4.2/mkw-retro-rewind.vpk) | [github](https://github.com/boomannotjeff/mkwiita) |
+| mofa-vita | ATSPwang618 & DeQxJ00 & SpriteLisen | v.1.20 | 4.7 MB | [download](https://github.com/ATSPwang618/mofa-vita/releases/download/1.20/mofa-vita-1.20.vpk) | [github](https://github.com/ATSPwang618/mofa-vita) |
 | Monster Hunter 4 Ultimate | SaNch0sE | v.0.4-beta | 8.1 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.4-beta/Azahar-MH4U-0.4-beta.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
 | Monster Shooter | RaZorGaToR | v.1.2 | 0.9 MB | [download](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita/releases/download/v1.2/monstershooter.vpk) | [github](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita) |
@@ -520,7 +521,7 @@ what it was on the day the service went down.
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (57)
+## Plugins (58)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -550,6 +551,7 @@ what it was on the day the service went down.
 | PadUnlock | irxd | v.1.0.1 | 0.0 MB | [download](https://github.com/irxd/pad-unlock/releases/download/v1.0.1/padunlock.skprx) | [github](https://github.com/irxd/pad-unlock) |
 | PasteUnlock | GrapheneCt | v.1.0 | 0.0 MB | [download](https://github.com/GrapheneCt/PasteUnlock/releases/download/v1.0/PasteUnlock.suprx) | [github](https://github.com/GrapheneCt/PasteUnlock) |
 | Pocketstation Unlocker | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/PocketstationUnlocker/releases/download/v1.1/pocketstationunlocker.skprx) | [git.silica.codes](https://git.silica.codes/Li/PocketstationUnlocker) |
+| Project Diva F2nd 60FPS | Pucas01 | v.1.0.0 | 0.0 MB | [download](https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher/releases/download/1.0.0/f2nd60fps.suprx) | [github](https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher) |
 | qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [git.silica.codes](https://git.silica.codes/Li/qaspoofer) |
 | QuickMenuPlus | PsArchive | v.3.0.0 | 0.0 MB | [download](https://github.com/PsArchive/QuickMenuPlus/releases/download/v3.0.0/quickmenuplus.suprx) | [github](https://github.com/PsArchive/QuickMenuPlus) |
 | QuickMenuReborn | Ibrahim778 | v.2.5 | 0.0 MB | [download](https://github.com/Ibrahim778/QuickMenuReborn/releases/download/V2.5/QuickMenuReborn.suprx) | [github](https://github.com/Ibrahim778/QuickMenuReborn) |
@@ -3642,4 +3644,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3618 entries, 25.7 GB in total.
+3620 entries, 25.7 GB in total.

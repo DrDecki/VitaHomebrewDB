@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1524)
+## PSVITA homebrews (1525)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -691,6 +691,7 @@ Every entry, with the download it currently points at. The ones added since
 | MLTactivator | MiraLaTijera & Draqen | FIX2 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/301-MLTactivatorFIX2.vpk) | [wololo.net](http://wololo.net/2017/08/14/mltactivator-activate-ps-vita-offline/) |
 | Mobility | Markus95 | v.1.0 | 20.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/722-Mobility.vpk) | — |
 | modoru | TheFloW | v.2.3 | 0.1 MB | [download](https://github.com/TheOfficialFloW/modoru/releases/download/v2.3/modoru.vpk) | [github](https://github.com/TheOfficialFloW/modoru) |
+| mofa-vita | ATSPwang618 & DeQxJ00 & SpriteLisen | v.1.20 | 4.7 MB | [download](https://github.com/ATSPwang618/mofa-vita/releases/download/1.20/mofa-vita-1.20.vpk) | [github](https://github.com/ATSPwang618/mofa-vita) |
 | Mog Vita | withLogic | v.1.0 | 2.3 MB | [download](https://github.com/withLogic/mog-vita/releases/download/v1.0/mog.vpk) | [github](https://github.com/withLogic/mog-vita) |
 | Monster Hunter 4 Ultimate | SaNch0sE | v.0.4-beta | 8.1 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.4-beta/Azahar-MH4U-0.4-beta.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
@@ -1532,7 +1533,7 @@ Every entry, with the download it currently points at. The ones added since
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (180)
+## Plugins (181)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1617,6 +1618,7 @@ Every entry, with the download it currently points at. The ones added since
 | PasteUnlock | GrapheneCt | v.1.0 | 0.0 MB | [download](https://github.com/GrapheneCt/PasteUnlock/releases/download/v1.0/PasteUnlock.suprx) | [github](https://github.com/GrapheneCt/PasteUnlock) |
 | pngshot | xyzz | v.1.3 | 0.1 MB | [download](https://github.com/xyzz/pngshot/releases/download/v1.3/pngshot.suprx) | [github](https://github.com/xyzz/pngshot) |
 | Pocketstation Unlocker | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/PocketstationUnlocker/releases/download/v1.1/pocketstationunlocker.skprx) | [git.silica.codes](https://git.silica.codes/Li/PocketstationUnlocker) |
+| Project Diva F2nd 60FPS | Pucas01 | v.1.0.0 | 0.0 MB | [download](https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher/releases/download/1.0.0/f2nd60fps.suprx) | [github](https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher) |
 | PSP2-CustomBootSplash | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash/releases/download/v1.0/custom_boot_splash.skprx) | [github](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash) |
 | psp2shell | cpasjuste | v.2022.03.09 | 0.0 MB | [download](https://github.com/Cpasjuste/psp2shell/releases/download/2022.03.09/psp2shell-2022.03.09.zip) | [github](https://github.com/cpasjuste/psp2shell) |
 | psp2wpp | Princess-Of-Sleeping | v.1.1.4 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/psp2wpp/releases/download/v1.1.4/psp2wpp.suprx) | [github](https://github.com/Princess-of-Sleeping/psp2wpp) |
@@ -4930,4 +4932,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4907 entries, 55.4 GB in total.
+4909 entries, 55.4 GB in total.

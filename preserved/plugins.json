@@ -4558,5 +4558,31 @@
         "url": "https://github.com/alpakeno/DePlayEnabler/releases/download/1.0/deplayenabler.zip",
         "added": "2026-11-24T20:25:48Z",
         "updated": "2026-11-24T20:25:48Z"
+    },
+    {
+        "name": "Project Diva F2nd 60FPS",
+        "version": "v.1.0.0",
+        "author": "Pucas01",
+        "description": "Runs Hatsune Miku: Project DIVA F 2nd at 60 fps.",
+        "id": "5083",
+        "date": "2026-11-24",
+        "screenshots": "",
+        "long_description": "Runs Hatsune Miku: Project DIVA F 2nd (EU PCSB00554, US PCSE00434) at 60 fps. L + R + SELECT switches between 60 and 30 fps.",
+        "downloads": "0",
+        "status": "0",
+        "source": "https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher",
+        "release_page": "https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher/releases",
+        "trailer": "",
+        "size": "5931",
+        "data_size": "0",
+        "hash": "beb47c5d4d2aa74d0a02c9f297064092",
+        "hash2": "",
+        "changelog": "- First Release",
+        "requirements": "",
+        "trophies": "0",
+        "tags": "",
+        "url": "https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher/releases/download/1.0.0/f2nd60fps.suprx",
+        "added": "2026-11-24T20:40:18Z",
+        "updated": "2026-11-24T20:40:18Z"
     }
 ]
