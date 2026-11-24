@@ -731,7 +731,7 @@ Every entry, with the download it currently points at. The ones added since
 | NetStream | GrapheneCt | v.3.35 | 4.1 MB | [download](https://github.com/GrapheneCt/NetStream/releases/download/v3.35/NetStream.vpk) | [github](https://github.com/GrapheneCt/NetStream) |
 | Neverball Vita | Rinnegatamante | v.1.0 | 1.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/873-neverball.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverball-vita-port-of-neverball-for-psvita.38247/) |
 | Neverputt Vita | Rinnegatamante | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-neverputt.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverputt-vita-port-of-neverputt-for-psvita-pstv.38248/) |
-| NextBot For PSVita | SoyKhaler | v.0.2 | 32.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.zip) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
+| NextBot For PSVita | SoyKhaler | v.0.2 | 32.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.vpk) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
 | NFS Carbon | Swisha33 | v.0.1.5 | 13.8 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.5/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
@@ -1665,7 +1665,7 @@ Every entry, with the download it currently points at. The ones added since
 | TurboPad | Rinnegatamante | v.0.3 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TurboPad.zip) | [github](https://github.com/Rinnegatamante/TurboPad/) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48065&p=418081#p418081) |
 | tvikey | isage | v.1.0 | 0.0 MB | [download](https://github.com/isage/tvikey/releases/download/v1.0/tvikey.skprx) | [github](https://github.com/isage/tvikey) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [github](https://github.com/SJK132/uac-pstv-host) |
-| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [github](https://github.com/devnoname120/vita-udcd-uvc) |
+| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [github](https://github.com/xerpi/vita-udcd-uvc) |
 | Ultimate VSH Menu | joel16 | Test Build | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/244-ultimatevshmenuvita.7z) | — |
 | Uncharted Trainer | vosman | v.1.03 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/86-unchartedtrainervita.7z) | — |
 | Unit13 Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/85-unit13trainervita.7z) | — |
