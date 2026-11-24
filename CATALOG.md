@@ -571,7 +571,7 @@ Every entry, with the download it currently points at. The ones added since
 | Jailbreaker Vita | VSM GAMMER | v.1.0 | 25.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1075-Jailbreaker.vpk) | — |
 | JAVITA: Jedi Academy | NDRW | v.1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [github](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [github](https://github.com/largepelotas/JaVitaScript-Snake) |
-| Jazz² Resurrection | deathkiller | Nightly 2026-11-22 (09e2a17) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
+| Jazz² Resurrection | deathkiller | Nightly 2026-11-23 (99ece0e) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
 | JellyCar | Drakon | v.1.1 | 32.9 MB | [download](https://github.com/DrakonPL/JellyCar/releases/download/1.1/JellyCarVita.vpk) | [github](https://github.com/DrakonPL/JellyCar) |
 | Jet Car Stunts 2 Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/jetcarstunts_vita/releases/download/v.1.0/jetcarstunts.vpk) | [github](https://github.com/Rinnegatamante/jetcarstunts_vita) |
 | JetMan-3D | Gremlin Software | v.Main | 1.3 MB | [download](https://github.com/softwaregremlin/Jetman3D/releases/download/Main/JetMan-3D.vpk) | [github](https://github.com/softwaregremlin/Jetman3D/) [gremlinsoftware.co.nz](http://www.gremlinsoftware.co.nz/jetman3D.html) |
@@ -1492,7 +1492,7 @@ Every entry, with the download it currently points at. The ones added since
 | X-Files engine | xesf | v.0.4.6 | 0.9 MB | [download](https://github.com/xesf/the-x-files-game/releases/download/v0.4.6/xfiles-v0.4.6-vita.vpk) | [github](https://github.com/xesf/the-x-files-game) |
 | X-Racer | ParkingLotStudio | v.1.0 | 38.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/581-X-Racer.vpk) | — |
 | X-Racer Vita | roc6d | v.1.0 | 40.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/636-XRACER.vpk) | — |
-| Xash3D-FWGS | Xash3D-FWGS Team & fgsfds | Nightly 2026-11-22 | 26.6 MB | [download](https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-psvita.7z) | [github](https://github.com/FWGS/xash3d-fwgs) |
+| Xash3D-FWGS | Xash3D-FWGS Team & fgsfds | Nightly 2026-11-24 | 26.6 MB | [download](https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-psvita.7z) | [github](https://github.com/FWGS/xash3d-fwgs) |
 | Xerox | dragaron | v.1.01 | 2.7 MB | [download](https://github.com/dragaron/Xerox/releases/download/v1.01/Xerox.vpk) | [github](https://github.com/dragaron/Xerox) |
 | xsystem35 | nunuhara | v.00.02 | 9.2 MB | [download](https://github.com/nunuhara/xsystem35-vita/releases/download/v00.02/xsystem35.vpk) | [github](https://github.com/nunuhara/xsystem35-vita) |
 | Xump | Retroguru Team | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/685-XUMP00001.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/xump/) |

@@ -2284,7 +2284,7 @@
     {
         "name": "Jazz² Resurrection",
         "icon": "16ecdd2ef720a20c311dc809707dc1e7a655015fbb825e9c283ba514c3ddcc56.png",
-        "version": "Nightly 2026-11-22 (09e2a17)",
+        "version": "Nightly 2026-11-23 (99ece0e)",
         "author": "deathkiller",
         "type": "2",
         "description": "Open-source reimplementation of Jazz Jackrabbit 2 for PSVITA.",
@@ -2298,9 +2298,9 @@
         "source": "https://github.com/deathkiller/jazz2-native",
         "release_page": "https://github.com/deathkiller/jazz2-native/actions",
         "trailer": "",
-        "size": "9043478",
+        "size": "9043343",
         "data_size": "0",
-        "hash": "516727b31445d6b6c0f661c7972111cb",
+        "hash": "0b03a5280e0d8924ec164bd4fb5106e1",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: your own copy of Jazz Jackrabbit 2",
@@ -2310,7 +2310,7 @@
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk",
         "data": "",
         "added": "2026-11-21T23:01:09Z",
-        "updated": "2026-11-22T16:49:00Z"
+        "updated": "2026-11-24T05:26:08Z"
     },
     {
         "name": "Engram Installer",
@@ -15037,9 +15037,9 @@
         "source": "https://github.com/isledecomp/isle-portable",
         "release_page": "https://github.com/isledecomp/isle-portable/releases",
         "trailer": "",
-        "size": "7200335",
+        "size": "7199931",
         "data_size": "0",
-        "hash": "a66ec9bc99244cf255626b4d0c25ea0d",
+        "hash": "5ada1e44b2df97cf4ca305a05ac5f11b",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: LEGO Island (1997) in ux0:data/isledecomp",
@@ -15050,7 +15050,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-05T20:25:32Z",
-        "updated": "2026-11-23T14:53:32Z"
+        "updated": "2026-11-24T05:24:04Z"
     },
     {
         "name": "VitaForge",
@@ -25268,7 +25268,7 @@
     {
         "name": "Xash3D-FWGS",
         "icon": "ea21c1e094cc19f20ed4e11d671e28f1cee347b2f07d1c64e03c5923d0928aa6.png",
-        "version": "Nightly 2026-11-22",
+        "version": "Nightly 2026-11-24",
         "author": "Xash3D-FWGS Team & fgsfds",
         "type": "2",
         "description": "Port of Xash3D-FWGS for PSVITA.",
@@ -25282,9 +25282,9 @@
         "source": "https://github.com/FWGS/xash3d-fwgs",
         "release_page": "https://github.com/FWGS/xash3d-fwgs/release",
         "trailer": "",
-        "size": "27899673",
+        "size": "27896370",
         "data_size": "45288926",
-        "hash": "d5f39bbcdaacb5c9887d6f384724548e",
+        "hash": "05e20460f96328217e23c0ebb45e795c",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: PC in ux0:data/xash3d",
@@ -25295,7 +25295,7 @@
         "data": "https://files.coolatoms.org/xash-data.zip",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-23T14:54:32Z"
+        "updated": "2026-11-24T05:25:05Z"
     },
     {
         "name": "NextBot For PSVita",
