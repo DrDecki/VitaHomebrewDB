@@ -31,16 +31,16 @@ rebuilt from a repository.
 | PC tools | 27 | 27 |
 | **Total** | **1289** | **1288 (99%)** |
 
-The table above counts the catalog as it stood on 2026-07-31. Another 3548 entries
+The table above counts the catalog as it stood on 2026-07-31. Another 3618 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
-**55.3 GB** in total.
+**55.4 GB** in total.
 
 | Asset | Recovered |
 | --- | ---: |
 | Metadata | 100% (1289 entries) |
-| Icons | 100% (3933) |
+| Icons | 100% (3954) |
 | Data files | 0 missing |
 | In-game trophies | 28 sets |
 

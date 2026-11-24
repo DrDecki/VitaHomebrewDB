@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (510)
+## PSVITA homebrews (511)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -326,6 +326,7 @@ what it was on the day the service went down.
 | Septerra Core | isage | v.1.0 | 3.6 MB | [download](https://github.com/isage/septerra-core-vita/releases/download/v1.0/sc.vpk) | [github](https://github.com/isage/septerra-core-vita) |
 | Server Room Simulator | LiEnby | v.1.0 | 37.3 MB | [download](https://git.silica.codes/Li/Server_Room_Simulator/releases/download/v1.0/server_room_simulator.vpk) | [git.silica.codes](https://git.silica.codes/Li/Server_Room_Simulator) |
 | Shadow Fight 2 | franciscoclou | v.1.0 | 1.2 MB | [download](https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2.vpk) | [github](https://github.com/franciscoclou/shadowfight2-vita) |
+| Shards of Dawn | HunterAzar | v.12.07 | 7.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/shards-of-dawn.vpk) | [shardsofdawn.com](https://shardsofdawn.com/en/) [itch.io](https://hunterazar.itch.io/shards-of-dawn) |
 | Shooter Space | MetalSyntax | v.1.1.0 | 1.4 MB | [download](https://github.com/MetalSyntax/Space-Shooter-Vita/releases/download/v1.1.0/ShooterSpace.vpk) | [github](https://github.com/MetalSyntax/Space-Shooter-Vita) |
 | ShotgunK2Vita | Botarguirix | v.0.78-alpha | 0.6 MB | [download](https://github.com/Botarguirix/ShotgunK2Vita/releases/download/v0.78-alpha/ShotgunKing2Vita-steam.vpk) | [github](https://github.com/Botarguirix/ShotgunK2Vita) |
 | Silent Hill | khajit2412 | v.0.7 | 5.1 MB | [download](https://github.com/khajit2412/SilentVitaHill/releases/download/v0.7/SilentHillVita.vpk) | [github](https://github.com/khajit2412/SilentVitaHill) |
@@ -519,16 +520,18 @@ what it was on the day the service went down.
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (55)
+## Plugins (57)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
 | Adrenaline USB Enabler | isage | v.0.1 | 0.0 MB | [download](https://github.com/isage/adrenaline_usb_enabler/releases/download/v0.1/adrenaline_usb_enabler.suprx) | [github](https://github.com/isage/adrenaline_usb_enabler) |
 | AnalogsEnhancerKai | t0mizwf26 & yakit4k0 & Rinnegatamante | v.1.2.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/AnalogsEnhancerKai.zip) | [github](https://github.com/t0mizwf26/AnalogsEnhancerKai) |
 | AnalogStickDisable | Hack-Usagi | v.1.2 | 0.0 MB | [download](https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable.skprx) | [github](https://github.com/Hack-Usagi/AnalogStickDisable) |
+| BetterTrackPlug | FMudanyali | v.1.1 | 3.7 MB | [download](https://github.com/FMudanyali/BetterTrackPlug/releases/download/1.1/BetterTrackPlug.zip) | [github](https://github.com/FMudanyali/BetterTrackPlug) |
 | Bluetooth Turbo | juanjsebgarcia | v.0.1.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.1.0/bluetoothturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-bluetooth) |
 | CapUnlocker | GrapheneCt | v.1.4 | 0.0 MB | [download](https://github.com/GrapheneCt/CapUnlocker/releases/download/v1.4/CapUnlocker.skprx) | [github](https://github.com/GrapheneCt/CapUnlocker) |
 | DD TouchOnVita | WolffsRoom | v.0.59 | 0.4 MB | [download](https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip) | [github](https://github.com/WolffsRoom/DD-TouchOnVita) |
+| DePlayEnabler | alpakeno | v.1.0 | 0.0 MB | [download](https://github.com/alpakeno/DePlayEnabler/releases/download/1.0/deplayenabler.zip) | [github](https://github.com/alpakeno/DePlayEnabler) |
 | DS34Motion | MERLev | v.1.3.1 | 0.0 MB | [download](https://github.com/MERLev/DS34Motion/releases/download/1.3.1/ds34motion.skprx) | [github](https://github.com/MERLev/DS34Motion) |
 | Engram | badmanwazzy37 | v.1.6 | 0.1 MB | [download](https://github.com/chazzarchibald-ops/engram-vita/releases/download/1.6/engram.suprx) | [github](https://github.com/chazzarchibald-ops/engram-vita) |
 | fpsvita | esp1esp1 | v.0.4.1 | 0.1 MB | [download](https://github.com/esp1esp1/fpsvita/releases/download/v0.4.1/fpsvita-v0.4.1.zip) | [github](https://github.com/esp1esp1/fpsvita) |
@@ -579,7 +582,7 @@ what it was on the day the service went down.
 | vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [github](https://github.com/LiEnby/vshPatch) |
 | Wi-Fi Turbo | juanjsebgarcia | v.0.7.2 | 0.1 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-wifi/releases/download/v0.7.2/wifiturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-wifi) |
 
-## PSP homebrews (2970)
+## PSP homebrews (3037)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -654,6 +657,7 @@ what it was on the day the service went down.
 | Adhoc Sample | ABCanG | v.1.0 | 0.0 MB | [download](https://archive.org/download/adhoc_sample.7z/adhoc_sample.zip) | [archive.org](https://archive.org/details/adhoc_sample.7z) |
 | Adivina Advinanza | Pepingo el hacker | v.1.0 | 1.9 MB | [download](https://archive.org/download/adivina-adivinanza-v-3.7z/Adivina%20Adivinanza%20v3.zip) | [archive.org](https://archive.org/details/adivina-adivinanza-v-3.7z) |
 | ADShare++ | welabsdev | v.1.0 | 0.2 MB | [download](https://archive.org/download/adshare/ADShare%2B%2B.zip) | [archive.org](https://archive.org/details/adshare) |
+| aemu | Kethen | v.2026-11-15 | 2.8 MB | [download](https://github.com/Kethen/aemu/releases/download/2026-11-15/aemu_f6bc457e.zip) | [github](https://github.com/Kethen/aemu) |
 | Aereo Team Mex | Team Mex | v.1.0 | 15.6 MB | [download](https://archive.org/download/aereo-team-mex-beta-1.7z/Aereo_TeamMex_BETA_1.zip) | [archive.org](https://archive.org/details/aereo-team-mex-beta-1.7z) |
 | AFKIM | Dave Leaver (Danzel), Ludovic Jacomme (Zx-81) | v.1.0 | 1.2 MB | [download](https://archive.org/download/afkim.7z/afkim.zip) | [archive.org](https://archive.org/details/afkim.7z) |
 | AG VN Engine Portable | oledjigames | v.1.0 | 13.6 MB | [download](https://archive.org/download/ag-vn-engine-portable/AG_VN_ENGINE_Portable.zip) | [archive.org](https://archive.org/details/ag-vn-engine-portable) |
@@ -728,6 +732,8 @@ what it was on the day the service went down.
 | Are you Fast | fede94boss | v.1.0 | 3.5 MB | [download](https://archive.org/download/are-you-fast.-7z/Are%20you%20FAST.zip) | [archive.org](https://archive.org/details/are-you-fast.-7z) |
 | Area 32 | Green Fort | v.1.0 | 1.0 MB | [download](https://archive.org/download/area-32/Area32.zip) | [archive.org](https://archive.org/details/area-32) |
 | Arithmétik | JiiCeii | v.1.0 | 0.9 MB | [download](https://archive.org/download/arithmetique-jii-ceii.-7z/Arithm%C3%A9tique_JiiCeii.zip) | [archive.org](https://archive.org/details/arithmetique-jii-ceii.-7z) |
+| ARK-4 | PSP-Archive | v.42069r206 | 38.3 MB | [download](https://github.com/PSP-Archive/ARK-4/releases/download/v42069r206/ARK4.zip) | [github](https://github.com/PSP-Archive/ARK-4) |
+| ARK-5 | PSP-Arkfive | Nightly 2026-11-24 | 0.3 MB | [download](https://github.com/PSP-Arkfive/ARK-5/releases/download/latest/ARK-5.zip) | [github](https://github.com/PSP-Arkfive/ARK-5) |
 | Arkanoid | Qubitz | v.1.0 | 3.4 MB | [download](https://archive.org/download/arkanoid.-7z/Arkanoid.zip) | [archive.org](https://archive.org/details/arkanoid.-7z) |
 | ArkanoidUJI | saulotmalo | v.1.0 | 2.1 MB | [download](https://archive.org/download/arkanoid-uji.-7z/ArkanoidUJI.zip) | [archive.org](https://archive.org/details/arkanoid-uji.-7z) |
 | Arrow | Alexandre Rimbot (Kinow) | v.1.0 | 1.5 MB | [download](https://archive.org/download/arrow.-7z/Arrow.zip) | [archive.org](https://archive.org/details/arrow.-7z) |
@@ -759,6 +765,7 @@ what it was on the day the service went down.
 | Auria | Kuhy | v.1.0 | 2.6 MB | [download](https://archive.org/download/auria.7z/auria.zip) | [archive.org](https://archive.org/details/auria.7z) |
 | Aurora | smithsf0x | v.1.0 | 0.3 MB | [download](https://archive.org/download/aurora_202109/aurora.zip) | [archive.org](https://archive.org/details/aurora_202109) |
 | Auto Control | Phanthom | v.1.0 | 9.7 MB | [download](https://archive.org/download/auto-control.-7z/Auto%20Control.zip) | [archive.org](https://archive.org/details/auto-control.-7z) |
+| Auto TV Out | ste2425 | v.1.0.1 | 0.0 MB | [download](https://github.com/ste2425/Auto-Tv-Out/releases/download/v1.0.1/auto_tvout.prx) | [github](https://github.com/ste2425/Auto-Tv-Out) |
 | Avalanch Penguin Bobsled | Team_Matrix | v.1.0 | 2.8 MB | [download](https://archive.org/download/peng-bob.-7z/PengBob.zip) | [archive.org](https://archive.org/details/peng-bob.-7z) |
 | Avalanche | Xodiac21 | v.1.0 | 2.1 MB | [download](https://archive.org/download/lua-20-avalanche.-7z/Lua%2520Avalanche.zip) | [archive.org](https://archive.org/details/lua-20-avalanche.-7z) |
 | AVC Decode Test | cooleyes | v.1.0 | 0.8 MB | [download](https://archive.org/download/avcdecoder-3xx.-7z/mp4_player.zip) | [archive.org](https://archive.org/details/avcdecoder-3xx.-7z) |
@@ -787,6 +794,7 @@ what it was on the day the service went down.
 | Basic Objects | Andrés Margar | v.1.0 | 0.5 MB | [download](https://archive.org/download/basic-objects/BasicObjects.zip) | [archive.org](https://archive.org/details/basic-objects) |
 | Basic Pikey Sample | Fanjita, harleyg | v.0.3 | 0.1 MB | [download](https://archive.org/download/pikey_0.3.7z/pikey_0.3.zip) | [archive.org](https://archive.org/details/pikey_0.3.7z) |
 | Basilisk II PSP | ChaosKnight | v.1.0 | 3.6 MB | [download](https://archive.org/download/basilisk-iipsp.-7z/BasiliskIIPSP.zip) | [archive.org](https://archive.org/details/basilisk-iipsp.-7z) |
+| Battery Icon | nuxa17 | v.1.1 | 0.4 MB | [download](https://github.com/nuxa17/battery_icon/releases/download/v1.1/battery_icon1.1.zip) | [github](https://github.com/nuxa17/battery_icon) |
 | Battle Monsters | Luke Ryan | v.1.0 | 3.1 MB | [download](https://archive.org/download/battle-monsters.-7z/BattleMonsters.zip) | [archive.org](https://archive.org/details/battle-monsters.-7z) |
 | Battlecruiser Lua | Rabierre | v.1.0 | 6.7 MB | [download](https://archive.org/download/battlecruiser-lua.-7z/Battlecruiser%20Lua.zip) | [archive.org](https://archive.org/details/battlecruiser-lua.-7z) |
 | Battlegrounds III | Alex Wickes (Xfacter) | v.0.5.0 | 2.6 MB | [download](https://archive.org/download/battlegrounds-3.7z/bg3-v0.5.0.zip) | [archive.org](https://archive.org/details/battlegrounds-3.7z) |
@@ -805,6 +813,7 @@ what it was on the day the service went down.
 | Bench | ema | v.1.0 | 0.5 MB | [download](https://archive.org/download/bench_202201/bench.zip) | [archive.org](https://archive.org/details/bench_202201) |
 | BennuGD-PSP | danielt3, josebita | v.1.0 | 0.4 MB | [download](https://archive.org/download/bennu-gd-psp-demo-01.7z/BennuGD-PSP-beta02.zip) | [archive.org](https://archive.org/details/bennu-gd-psp-demo-01.7z) |
 | Bermuda Creative Suite | Bumuckl | v.1.0 | 4.6 MB | [download](https://archive.org/download/bermudacs9_compability_fix.7z/bermudacs9_compability_fix.zip) | [archive.org](https://archive.org/details/bermudacs9_compability_fix.7z) |
+| BetterBright | hobbo91 | v.0.93 | 0.0 MB | [download](https://github.com/hobbo91/BetterBright/releases/download/v0.93/BetterBright_v0.93.zip) | [github](https://github.com/hobbo91/BetterBright) |
 | Beware of the Square | SolidCakeS | v.1.0 | 30.2 MB | [download](https://archive.org/download/beware-of-the-square-signed.-7z/Beware%20of%20the%20Square%20%28signed%29.zip) | [archive.org](https://archive.org/details/beware-of-the-square-signed.-7z) |
 | Bezier | Jeremy Fitzhardinge | v.1.0 | 0.2 MB | [download](https://archive.org/download/bezier.7z/bezier.zip) | [archive.org](https://archive.org/details/bezier.7z) |
 | BIG 20 | Sebastien Delestaing | v.1.0 | 2.8 MB | [download](https://archive.org/download/big-20.7z/BIG20.zip) | [archive.org](https://archive.org/details/big-20.7z) |
@@ -830,6 +839,7 @@ what it was on the day the service went down.
 | Blocks Fusion | Yan2Yan | v.1.0 | 17.5 MB | [download](https://archive.org/download/elemental371.7z/BlocksFusion.zip) | [archive.org](https://archive.org/details/elemental371.7z) |
 | Blocks That Fall | Ville Helin | v.1.5 | 0.6 MB | [download](https://archive.org/download/blocksThatFall_1.3.7z/blocksThatFall_1.5.zip) | [archive.org](https://archive.org/details/blocksThatFall_1.3.7z) |
 | BlockZ | OxAVGP | v.1.0 | 3.6 MB | [download](https://archive.org/download/blockz.-7z/BLOCKZ.zip) | [archive.org](https://archive.org/details/blockz.-7z) |
+| BloodPSP | RainArcanjo | v.0.4.0 | 1.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/bloodpsp-v0.4.0.zip) | [github](https://github.com/RainArcanjo/BloodPSP) |
 | Bloodshot | Selina Knaepen, Sebastiaan de Schaetzen | v.1.0 | 0.5 MB | [download](https://archive.org/download/bloodshot.7z/bloodshot.zip) | [archive.org](https://archive.org/details/bloodshot.7z) |
 | Bloody Memories | Tristar, Red Sector Inc. | v.1.0 | 1.9 MB | [download](https://archive.org/download/trsi.7z/trsi.zip) | [archive.org](https://archive.org/details/trsi.7z) |
 | Blork and Destroy | Zouzzz | v.1.0 | 7.5 MB | [download](https://archive.org/download/banddv3.7z/banddv3.zip) | [archive.org](https://archive.org/details/banddv3.7z) |
@@ -912,6 +922,8 @@ what it was on the day the service went down.
 | Call of Duty 2 PSP Edition | Jordan Rehn (SG57) | v.1.0 | 3.0 MB | [download](https://archive.org/download/co-d-2-pspedition.-7z/CoD2-PSPEdition.zip) | [archive.org](https://archive.org/details/co-d-2-pspedition.-7z) |
 | Callisto | Fraglab | v.1.0 | 20.7 MB | [download](https://archive.org/download/callisto.7z/callisto.zip) | [archive.org](https://archive.org/details/callisto.7z) |
 | Calypso | TMNT | v.1.0 | 3.3 MB | [download](https://archive.org/download/calypso.-7z/Calypso.zip) | [archive.org](https://archive.org/details/calypso.-7z) |
+| Camera Patch Lite | Freakler | v.1.1 | 0.0 MB | [download](https://github.com/Freakler/psp-camera_patch_lite/releases/download/v1.1/camera_patch_lite_1.1.zip) | [github](https://github.com/Freakler/psp-camera_patch_lite) |
+| Camera Patch Lite (PSP Go) | rereprep | v.1.0 | 0.0 MB | [download](https://github.com/rereprep/Camera-Patch-Lite-PSP-Go/releases/download/v1.0/camera_patch_lite_psp_go.prx) | [github](https://github.com/rereprep/Camera-Patch-Lite-PSP-Go) |
 | CamShift | Filippo Battaglia | v.1.0 | 0.9 MB | [download](https://archive.org/download/open-cv-demo-11.7z/OpenCV_Demo_11.zip) | [archive.org](https://archive.org/details/open-cv-demo-11.7z) |
 | Canadian Roswell | Mr305 | v.1.0 | 2.7 MB | [download](https://archive.org/download/cana-02406-00000/CanadianRoswell_v1_final.zip) | [archive.org](https://archive.org/details/cana-02406-00000) |
 | Candy Crush PSP | Moe | v.4.3 | 12.1 MB | [download](https://archive.org/download/candy-crush-psp-v-4.3/CandyCrush-PSP-v4.3.zip) | [archive.org](https://archive.org/details/candy-crush-psp-v-4.3) |
@@ -1056,6 +1068,7 @@ what it was on the day the service went down.
 | CTorrent-DNH-PSP-DA | Daniel Ribeiro (DanielBR) | v.1.0 | 1.6 MB | [download](https://archive.org/download/ctorrent-dnh-psp-da-v-1-5-r-2.7z/CTorrent-DNH-PSP-DA-v1_5_r2.zip) | [archive.org](https://archive.org/details/ctorrent-dnh-psp-da-v-1-5-r-2.7z) |
 | CTorrentPSP | Dave Leaver (Danzel) | v.1.0 | 2.4 MB | [download](https://archive.org/download/ctorrentpsp_202108/ctorrentpsp.zip) | [archive.org](https://archive.org/details/ctorrentpsp_202108) |
 | CTTR Right Stick Camera | unassortednonsense | v.1.0.0 | 0.0 MB | [download](https://github.com/unassortednonsense/cttr-psp-right-stick-camera/releases/download/1.0.0/CTTR-PSP-Right-Stick-v1.0.0.zip) | [github](https://github.com/unassortednonsense/cttr-psp-right-stick-camera) |
+| CTW Cheat Device | daniemun | v.1.0 | 0.0 MB | [download](https://github.com/daniemun/CTW-CheatDevice-Reversed/releases/download/1.0/CTW.Cheat.Device.zip) | [github](https://github.com/daniemun/CTW-CheatDevice-Reversed) |
 | Cube Runner | Stinkee2 | v.1.0 | 5.8 MB | [download](https://archive.org/download/cube-runner-1.7z/CubeRunner1.zip) | [archive.org](https://archive.org/details/cube-runner-1.7z) |
 | Cube Runner Advanced | Zix | v.1.0 | 5.9 MB | [download](https://archive.org/download/cube-runner-advanced.-7z/Cube%20Runner%20Advanced.zip) | [archive.org](https://archive.org/details/cube-runner-advanced.-7z) |
 | Cubez | Gozy | v.1.0 | 0.1 MB | [download](https://archive.org/download/cubez.7z/cubez.zip) | [archive.org](https://archive.org/details/cubez.7z) |
@@ -1162,6 +1175,7 @@ what it was on the day the service went down.
 | Dragon Island | Lawrence Schmid (lschmid83) | v.1.0 | 4.3 MB | [download](https://archive.org/download/dragon.-island.-release/Dragon.Island.Release.zip) | [archive.org](https://archive.org/details/dragon.-island.-release) |
 | Dragonball Black (Blackballs) | SIM sk | v.0.29.1 | 4.4 MB | [download](https://archive.org/download/beta-0.262.7z/BETA%200.29.1.zip) | [archive.org](https://archive.org/details/beta-0.262.7z) |
 | Dragons of Rage EX | Nick Pizanias, Kingherb | v.1.0 | 54.0 MB | [download](https://archive.org/download/dragons-of-rage-ex.-7z/Dragons%20of%20Rage%20EX.zip) | [archive.org](https://archive.org/details/dragons-of-rage-ex.-7z) |
+| DratiniFS | qberty1337 | v.2.0 | 0.7 MB | [download](https://github.com/qberty1337/DratiniFS/releases/download/v2.0/DratiniFS2.0.zip) | [github](https://github.com/qberty1337/DratiniFS) |
 | DreamChip | Zion | v.4.0 | 0.5 MB | [download](https://archive.org/download/dream-chipv-4.0.7z/DreamChipv4.0.zip) | [archive.org](https://archive.org/details/dream-chipv-4.0.7z) |
 | Drunken Tale | Eskema | v.1.0 | 2.3 MB | [download](https://archive.org/download/drunken-psp-v-1.7z/DrunkenPSP_v1.zip) | [archive.org](https://archive.org/details/drunken-psp-v-1.7z) |
 | DSONPSP Unofficial | Jonlimle | v.1.0 | 2.2 MB | [download](https://archive.org/download/dsonpspunnoficial01.7z/dsonpspunnoficial01.zip) | [archive.org](https://archive.org/details/dsonpspunnoficial01.7z) |
@@ -1339,6 +1353,7 @@ what it was on the day the service went down.
 | Funky Kong | Zora_182 | v.1.00 | 8.0 MB | [download](https://archive.org/download/funky-kong.-7z/Funky%20Kong%20V1.00.zip) | [archive.org](https://archive.org/details/funky-kong.-7z) |
 | FunkyBoy | Michel Kremer | v.1.0 | 0.4 MB | [download](https://archive.org/download/funky-boy-psp/FunkyBoy-PSP.zip) | [archive.org](https://archive.org/details/funky-boy-psp) |
 | FuSa GamePad | Andy_maN | v.1.0 | 0.1 MB | [download](https://archive.org/download/fusa-game-pad.-7z/FusaGamePad.zip) | [archive.org](https://archive.org/details/fusa-game-pad.-7z) |
+| FuSa SD | andy-man | v.1.0.50 | 0.1 MB | [download](https://github.com/andy-man/psp-fusa-sd/releases/download/FuSa_SD_v1.0.50/FuSa_SD_v1.0.50.zip) | [github](https://github.com/andy-man/psp-fusa-sd) |
 | Fuse Moxa PSP | gamma | v.1.0 | 0.6 MB | [download](https://archive.org/download/mosser.-7z/Mosser.zip) | [archive.org](https://archive.org/details/mosser.-7z) |
 | Future-Resurrection | Zion | v.1.0 | 2.9 MB | [download](https://archive.org/download/scefuture.-7z/__SCEfuture.zip) | [archive.org](https://archive.org/details/scefuture.-7z) |
 | Fuzzy's World Space Golf 3D | Mills | v.1.0 | 58.9 MB | [download](https://archive.org/download/fuzzys-world.-7z/Fuzzy%27s%20World.zip) | [archive.org](https://archive.org/details/fuzzys-world.-7z) |
@@ -1349,6 +1364,7 @@ what it was on the day the service went down.
 | Gallery Demo | Christoph Arnold (charnold), Graffiti | v.1.0 | 0.9 MB | [download](https://archive.org/download/de-2-alpha.-7z/DE2_Alpha.zip) | [archive.org](https://archive.org/details/de-2-alpha.-7z) |
 | GALPSP Courtroom Ed. | Karurosu | v.1.0 | 2.8 MB | [download](https://archive.org/download/galpsp-last-demo.-7z/GALPSP-Last-Demo.zip) | [archive.org](https://archive.org/details/galpsp-last-demo.-7z) |
 | Gambatte PSP SDL | Unknown | v.1.0 | 7.1 MB | [download](https://archive.org/download/gambatte-psp-sdl/Gambatte%20PSP%20SDL.zip) | [archive.org](https://archive.org/details/gambatte-psp-sdl) |
+| Game Categories Lite | codestation | v.1.6 | 0.1 MB | [download](https://github.com/codestation/gclite/releases/download/1.6/categories_lite-1.6.zip) | [github](https://github.com/codestation/gclite) |
 | Game Clock | Andrew Church | v.1.0 | 0.1 MB | [download](https://archive.org/download/goclock.7z/goclock.zip) | [archive.org](https://archive.org/details/goclock.7z) |
 | Game Decrypter | Yoshihiro | v.1.0 | 0.1 MB | [download](https://archive.org/download/game-01289-00000/GameZDecryptZ.zip) | [archive.org](https://archive.org/details/game-01289-00000) |
 | Game&Watch Parachute | hellviz | v.1.0 | 1.0 MB | [download](https://archive.org/download/game-watch-parachute.-7z/Game%26Watch%20Parachute.zip) | [archive.org](https://archive.org/details/game-watch-parachute.-7z) |
@@ -1371,6 +1387,7 @@ what it was on the day the service went down.
 | Generator PSP | Hotoke (仏様氏), PSP Wiki | v.1.0 | 0.2 MB | [download](https://archive.org/download/genpsp0_01_11.7z/genpsp0_01_11.zip) | [archive.org](https://archive.org/details/genpsp0_01_11.7z) |
 | Geometry Dash PSP | Yerson Games | v.1.0.1 | 9.8 MB | [download](https://archive.org/download/gd-psp-0.1.0.-iso.-7z/GDPSP1.0.1.zip) | [archive.org](https://archive.org/details/gd-psp-0.1.0.-iso.-7z) |
 | Geometry Wars Portable | Victor Xie | v.1.0 | 7.3 MB | [download](https://archive.org/download/gwp.-7z/GWP.zip) | [archive.org](https://archive.org/details/gwp.-7z) |
+| GePatch | TheOfficialFloW | v.0.2 | 0.0 MB | [download](https://github.com/TheOfficialFloW/GePatch/releases/download/v0.2/ge_patch.prx) | [github](https://github.com/TheOfficialFloW/GePatch) |
 | Get Cookie | Leviadragon, Peoplechamp | v.1.0 | 4.0 MB | [download](https://archive.org/download/get-cookie.-7z/GetCookie.zip) | [archive.org](https://archive.org/details/get-cookie.-7z) |
 | Get!T | Team Chilt | v.1.0 | 0.2 MB | [download](https://archive.org/download/get-it.-7z/GetIT.zip) | [archive.org](https://archive.org/details/get-it.-7z) |
 | Ghastly Green Letters of Inferiocity | miinaturvat | v.1.0 | 0.1 MB | [download](https://archive.org/download/ggli.-7z/GGLI.zip) | [archive.org](https://archive.org/details/ggli.-7z) |
@@ -1427,6 +1444,7 @@ what it was on the day the service went down.
 | Gruniożeca | zbieracz2000 | v.1.2.4 | 0.6 MB | [download](https://archive.org/download/gruniozerca-v.1.0-beta/gruniozerca-v.1.2.4-beta.zip) | [archive.org](https://archive.org/details/gruniozerca-v.1.0-beta) |
 | Gt-Zv | GylberTz, Magz, Cam-maker | v.1.0 | 8.2 MB | [download](https://archive.org/download/gtzv.-7z/Gtzv.zip) | [archive.org](https://archive.org/details/gtzv.-7z) |
 | GTA Driving Forward | Maxime | v.1.0 | 2.4 MB | [download](https://archive.org/download/gta-driving-forward.-7z/FTGTADF.zip) | [archive.org](https://archive.org/details/gta-driving-forward.-7z) |
+| GTA Native Resolution | TheOfficialFloW | v.0.3 | 0.0 MB | [download](https://github.com/TheOfficialFloW/GTANativeRes/releases/download/v0.3/gta_native.prx) | [github](https://github.com/TheOfficialFloW/GTANativeRes) |
 | Guess My Number | Unknown | v.0.1.1 | 3.5 MB | [download](https://archive.org/download/guess-my-number-v-0.1.1.7z/Guess%20My%20Number%20v0.1.1.zip) | [archive.org](https://archive.org/details/guess-my-number-v-0.1.1.7z) |
 | Guess your future | Fun Tech Projects | v.1.0 | 1.1 MB | [download](https://archive.org/download/guess_future/guess_future.zip) | [archive.org](https://archive.org/details/guess_future) |
 | GuessthenumbeR | Jeremy1026 | v.1.0 | 1.3 MB | [download](https://archive.org/download/guess.7z/guess.zip) | [archive.org](https://archive.org/details/guess.7z) |
@@ -1595,6 +1613,7 @@ what it was on the day the service went down.
 | Joketopia | Thecobra | v.1.0 | 0.5 MB | [download](https://archive.org/download/jkt.7z/jkt.zip) | [archive.org](https://archive.org/details/jkt.7z) |
 | Jolly 2 PSP | maxdevpsp | v.1.0 | 45.8 MB | [download](https://archive.org/download/jolly2psp-main/jolly2psp-main.zip) | [archive.org](https://archive.org/details/jolly2psp-main) |
 | Joyau | Kode | v.1.0.2 | 9.0 MB | [download](https://archive.org/download/joyau-release/Joyau-1.0.2.zip) | [archive.org](https://archive.org/details/joyau-release) |
+| JoyCenterFix | vladimir-cucu | v.1.1.0 | 0.0 MB | [download](https://github.com/vladimir-cucu/joycenterfix/releases/download/v1.1.0/joycenterfix.prx) | [github](https://github.com/vladimir-cucu/joycenterfix) |
 | Jpong | Jaklub | v.1.0 | 4.8 MB | [download](https://archive.org/download/jpong07.7z/jpong07.zip) | [archive.org](https://archive.org/details/jpong07.7z) |
 | JS-Otello | yne | v.1.0 | 0.4 MB | [download](https://archive.org/download/js-otello/JS-Otello.zip) | [archive.org](https://archive.org/details/js-otello) |
 | Jum52 | James Higgs (Jum) | v.1.0 | 0.4 MB | [download](https://archive.org/download/jum52_11_PSP.7z/jum52_11_PSP.zip) | [archive.org](https://archive.org/details/jum52_11_PSP.7z) |
@@ -1659,6 +1678,7 @@ what it was on the day the service went down.
 | Labyr1t 2D | Franco | v.1.0 | 1.2 MB | [download](https://archive.org/download/labyr-1t-2-d.-7z/Labyr1t%202D.zip) | [archive.org](https://archive.org/details/labyr-1t-2-d.-7z) |
 | LameCraft Mars Effect | Genetik57 | v.1.0 | 23.1 MB | [download](https://archive.org/download/lame-craft-mars-effect-source/LameCraft%20Mars%20Effect%20-%20Source.zip) | [archive.org](https://archive.org/details/lame-craft-mars-effect-source) |
 | Landstalker | BennyRebirth | v.1.0 | 1.9 MB | [download](https://archive.org/download/landstalker_pspdemo.7z/landstalker_pspdemo.zip) | [archive.org](https://archive.org/details/landstalker_pspdemo.7z) |
+| langPatch | zSamyMan | v.0.2 | 0.0 MB | [download](https://github.com/zSamyMan/langPatch/releases/download/v0.2/langPatch.prx) | [github](https://github.com/zSamyMan/langPatch) |
 | Larp Reader | Xergno | v.0.0.22 | 2.6 MB | [download](https://archive.org/download/larp-reader/LarpReader-v0.0.22.zip) | [archive.org](https://archive.org/details/larp-reader) |
 | Las Adventuras de Santa Claus | Sting18 | v.1.0 | 7.4 MB | [download](https://archive.org/download/santa-psp.-7z/SantaPSP.zip) | [archive.org](https://archive.org/details/santa-psp.-7z) |
 | Las secciones de SceneBeta | Loquendador, xerpi | v.1.0 | 0.7 MB | [download](https://archive.org/download/las-secciones-de-scenebeta.-7z/LasSeccionesDeScenebeta.zip) | [archive.org](https://archive.org/details/las-secciones-de-scenebeta.-7z) |
@@ -1802,6 +1822,7 @@ what it was on the day the service went down.
 | Magic8Ball | pspwner | v.1.0 | 0.7 MB | [download](https://archive.org/download/magic-8-ball.-7z/Magic8Ball.zip) | [archive.org](https://archive.org/details/magic-8-ball.-7z) |
 | Magic: The Life Counter | Dragula96, stifpsp | v.1.0 | 1.6 MB | [download](https://archive.org/download/magic-lc.-7z/MagicLC.zip) | [archive.org](https://archive.org/details/magic-lc.-7z) |
 | Magnifier | Jeremy Fitzhardinge | v.1.0 | 0.1 MB | [download](https://archive.org/download/copytex.7z/copytex.zip) | [archive.org](https://archive.org/details/copytex.7z) |
+| Majora's Mask PSP | z2442 | Nightly 2026-11-24 | 3.2 MB | [download](https://github.com/z2442/mm-PSP/releases/download/latest/mm-psp-n64-us.zip) | [github](https://github.com/z2442/mm-PSP) |
 | Making a Legend | andyauff | v.1.0 | 1.6 MB | [download](https://archive.org/download/making-a-legend-alpha.-7z/Making_a_Legend_Alpha.zip) | [archive.org](https://archive.org/details/making-a-legend-alpha.-7z) |
 | MAME4ALL for PSP [Japanese] | mameforpsp (681氏) | v.1.0 | 2.7 MB | [download](https://archive.org/download/mame-4-all-v-4.9r-2-jp.-7z/mameforpsp_jp.zip) | [archive.org](https://archive.org/details/mame-4-all-v-4.9r-2-jp.-7z) |
 | MAME4ALL-PSP | Kech | v.1.0 | 2.7 MB | [download](https://archive.org/download/mame-4-allpsp.-7z/MAME4ALLPSP.zip) | [archive.org](https://archive.org/details/mame-4-allpsp.-7z) |
@@ -1847,6 +1868,7 @@ what it was on the day the service went down.
 | MazeEffect | 3.4 lettres | v.1.0 | 9.1 MB | [download](https://archive.org/download/maze-effects-plus-leveleditor.-7z/MazeEffects_plus_leveleditor.zip) | [archive.org](https://archive.org/details/maze-effects-plus-leveleditor.-7z) |
 | MazeGen3D | Highsight | v.1.0 | 0.8 MB | [download](https://archive.org/download/maze-gen-3-d.-7z/MazeGen3D.zip) | [archive.org](https://archive.org/details/maze-gen-3-d.-7z) |
 | Mazzee II | Leo M. Cabrera | v.1.0 | 0.5 MB | [download](https://archive.org/download/mazzee.-7z/Mazzee.zip) | [archive.org](https://archive.org/details/mazzee.-7z) |
+| MC-PSP | IridescentRose | v.0.5-pre2 | 5.7 MB | [download](https://github.com/IridescentRose/MC-PSP/releases/download/v0.5-pre2/0520.zip) | [github](https://github.com/IridescentRose/MC-PSP) |
 | McDonalds Serve 'n Go | Sousanator | v.1.0 | 1.3 MB | [download](https://archive.org/download/mc-donalds-serve-n-go.-7z/McDonalds%20Serve%20N%20Go.zip) | [archive.org](https://archive.org/details/mc-donalds-serve-n-go.-7z) |
 | MDX Player for PSP | BouKiCHi (某吉) | v.0.01 | 0.3 MB | [download](https://archive.org/download/mdx-player-for-psp-0.01.7z/MDX%20PLAYER%20for%20PSP%200.01.zip) | [archive.org](https://archive.org/details/mdx-player-for-psp-0.01.7z) |
 | ME MP3 Library | Justin Sharrad | v.1.0 | 3.3 MB | [download](https://archive.org/download/luaplayer-0.20-me-mod/13920_luaplayer.zip) | [archive.org](https://archive.org/details/luaplayer-0.20-me-mod) |
@@ -1907,6 +1929,7 @@ what it was on the day the service went down.
 | Minicraft Optimized | Konchunas, Koutsie | v.1.0 | 12.5 MB | [download](https://archive.org/download/minicraft-optimized/MinicraftOptimized.zip) | [archive.org](https://archive.org/details/minicraft-optimized) |
 | Minifire | TyRaNiD | v.1.0 | 0.0 MB | [download](https://archive.org/download/minifire/minifire.zip) | [archive.org](https://archive.org/details/minifire) |
 | Minimalistic Crap | Plastic | v.1.0 | 0.3 MB | [download](https://archive.org/download/plastic-minimalistic-crap-psp/Plastic-MinimalisticCrap_PSP.zip) | [archive.org](https://archive.org/details/plastic-minimalistic-crap-psp) |
+| MissyHUD | pebeto | v.0.7 | 0.0 MB | [download](https://github.com/pebeto/missyhud.prx/releases/download/v0.7/missyhud.prx) | [github](https://github.com/pebeto/missyhud.prx) |
 | Mitsubishi Remote | Carter | v.1.0 | 0.1 MB | [download](https://archive.org/download/mitsubishi-remote/Mitsubishi_Remote.zip) | [archive.org](https://archive.org/details/mitsubishi-remote) |
 | Mix The Cube | sinasquax | v.1.0 | 0.3 MB | [download](https://archive.org/download/mix-the-cube.-7z/MixTheCube.zip) | [archive.org](https://archive.org/details/mix-the-cube.-7z) |
 | MJ Baby Drop | pspuser15 | v.1.0 | 1.5 MB | [download](https://archive.org/download/mj-baby-drop.-7z/MJ%20Baby%20Drop.zip) | [archive.org](https://archive.org/details/mj-baby-drop.-7z) |
@@ -1920,6 +1943,7 @@ what it was on the day the service went down.
 | Modo | Bastian Pflieger (wbb) | v.1.0 | 1.6 MB | [download](https://archive.org/download/modo-3xx-jun-16.7z/Modo%202011.zip) | [archive.org](https://archive.org/details/modo-3xx-jun-16.7z) |
 | ModPlay | Spike_132000 | v.1.0 | 0.9 MB | [download](https://archive.org/download/mod-play.-7z/ModPlay.zip) | [archive.org](https://archive.org/details/mod-play.-7z) |
 | MondayLoaderPSP | yuh0q223 | v.1.0 | 0.2 MB | [download](https://archive.org/download/monday-loader-psp/MondayLoaderPSP.zip) | [archive.org](https://archive.org/details/monday-loader-psp) |
+| Monk Tower PSP | dadcapgamer | v.2 | 1.0 MB | [download](https://github.com/dadcapgamer/monktowerPSP/releases/download/rc2/monktowerPSP-rc2.zip) | [github](https://github.com/dadcapgamer/monktowerPSP) |
 | Monkey64 | PSmonkey | v.1.0 | 0.3 MB | [download](https://archive.org/download/monkey-64-0311.7z/Monkey%2064.zip) | [archive.org](https://archive.org/details/monkey-64-0311.7z) |
 | Monome like | Antoine Letouzey, Romuald Genevois | v.1.0 | 2.8 MB | [download](https://archive.org/download/monome_15052008.7z/monome_15052008.zip) | [archive.org](https://archive.org/details/monome_15052008.7z) |
 | Monster Space Attack | BigProMan | v.0.4 | 5.8 MB | [download](https://archive.org/download/m-s-a-0.2.7z/M_S_A_0.4.zip) | [archive.org](https://archive.org/details/m-s-a-0.2.7z) |
@@ -2038,6 +2062,7 @@ what it was on the day the service went down.
 | Ninja Gaiden Port | Soulphalanx | v.0.0.2 | 0.8 MB | [download](https://archive.org/download/ng-0.0.2-2.7z/NG%200.0.2-2.zip) | [archive.org](https://archive.org/details/ng-0.0.2-2.7z) |
 | Ninja Sudoku | Ryp | v.1.0 | 0.5 MB | [download](https://archive.org/download/ninja-sudoku-signed.-7z/NinjaSudoku-signed.zip) | [archive.org](https://archive.org/details/ninja-sudoku-signed.-7z) |
 | Nintendo Hangman | Unknown | v.1.0 | 1.0 MB | [download](https://archive.org/download/nintendo-hangman.-7z/Nintendo%20Hangman.zip) | [archive.org](https://archive.org/details/nintendo-hangman.-7z) |
+| NIPvP | cello0314 | v.1.1.1 | 0.0 MB | [download](https://github.com/cello0314/nipvp/releases/download/1.1.1/nipvp.prx) | [github](https://github.com/cello0314/nipvp) |
 | niwPSPtoPC | zxkrizz | v.1.1.0 | 10.9 MB | [download](https://archive.org/download/niwPSPtoPC-v1.1.0-PSP/niwPSPtoPC-v1.1.0-Windows-x64.zip) | [archive.org](https://archive.org/details/niwPSPtoPC-v1.1.0-PSP) |
 | NJEMU CPS1 | Francisco Javier Trujillo Mata (fjtrujy) | v.1.0 | 2.3 MB | [download](https://archive.org/download/njemu-cps1/CPS1.zip) | [archive.org](https://archive.org/details/njemu-cps1) |
 | NJEMU CPS2 | Francisco Javier Trujillo Mata (fjtrujy) | v.1.0 | 2.2 MB | [download](https://archive.org/download/njemu-cps2/CPS2.zip) | [archive.org](https://archive.org/details/njemu-cps2) |
@@ -2055,10 +2080,12 @@ what it was on the day the service went down.
 | Not Working | Unknown | v.1.0 | 8.6 MB | [download](https://archive.org/download/not-working-psp/one_install/homebrews/spaceball.zip) | [archive.org](https://archive.org/details/not-working-psp) |
 | Notepad | rob_psp | v.1.3 | 1.7 MB | [download](https://archive.org/download/notepad-v-1.3.7z/Notepad-V1.3.zip) | [archive.org](https://archive.org/details/notepad-v-1.3.7z) |
 | nothing.seriOS | Hikikomori | v.1.0 | 5.1 MB | [download](https://archive.org/download/noserios/noserios.zip) | [archive.org](https://archive.org/details/noserios) |
+| NovaOS | gabriele-gessaghi | v.1.0.0 | 0.6 MB | [download](https://github.com/gabriele-gessaghi/NovaOS-releases/releases/download/v1.0.0/NovaOS-v1.0.0-ark5.zip) | [github](https://github.com/gabriele-gessaghi/NovaOS-releases) |
 | NP Decryptor | CipherUpdate, kono | v.1.0 | 0.0 MB | [download](https://archive.org/download/npd.7z/npd.zip) | [archive.org](https://archive.org/details/npd.7z) |
 | NP2 for PSP | sakahi, ひっそりぃ (hissorii) | v.0.39 | 0.5 MB | [download](https://archive.org/download/np-2-for-psp-v-0.39.7z/NP2_for_PSP_v0.39.zip) | [archive.org](https://archive.org/details/np-2-for-psp-v-0.39.7z) |
 | NP21 For PSP | sakahi, ひっそりぃ (hissorii) | v.0.39 | 0.4 MB | [download](https://archive.org/download/np-21-for-psp-v-0.39.7z/NP21_for_PSP_v0.39.zip) | [archive.org](https://archive.org/details/np-21-for-psp-v-0.39.7z) |
 | NPaint | NIGathan | v.2.4 | 12.3 MB | [download](https://archive.org/download/npaint-v-2.4.7z/NPaint%20v2.4.zip) | [archive.org](https://archive.org/details/npaint-v-2.4.7z) |
+| nploader | codestation | v.0.9 | 0.0 MB | [download](https://github.com/codestation/nploader/releases/download/v0.9/nploader-0.9.zip) | [github](https://github.com/codestation/nploader) |
 | NTPSP | joel16 | v.1.1 | 0.4 MB | [download](https://archive.org/download/NTPSP/NTPSP_1.1.zip) | [archive.org](https://archive.org/details/NTPSP) |
 | Ntrok | Mike Ravenelle | v.1.0 | 1.1 MB | [download](https://archive.org/download/ntrok.-7z/Ntrok.zip) | [archive.org](https://archive.org/details/ntrok.-7z) |
 | Numeros | Chimecho's Productions | v.1.0 | 2.4 MB | [download](https://archive.org/download/numeros.-7z/Numeros.zip) | [archive.org](https://archive.org/details/numeros.-7z) |
@@ -2069,6 +2096,7 @@ what it was on the day the service went down.
 | OASIS_OS | Andrew Showers (AndrewAltimit) | v.1.0 | 2.8 MB | [download](https://archive.org/download/OASISOS/OASISOS.zip) | [archive.org](https://archive.org/details/OASISOS) |
 | objLoader | Nems | v.1.0 | 0.1 MB | [download](https://archive.org/download/objLoader.7z/objLoader.zip) | [archive.org](https://archive.org/details/objLoader.7z) |
 | Obstacle | fede94boss | v.1.0 | 7.7 MB | [download](https://archive.org/download/obstacle.-7z/OBSTACLE.zip) | [archive.org](https://archive.org/details/obstacle.-7z) |
+| Ocarina of Time PSP | z2442 | Nightly 2026-11-24 | 2.7 MB | [download](https://github.com/z2442/oot-PSP/releases/download/latest/oot-psp-ntsc-1.0.zip) | [github](https://github.com/z2442/oot-PSP) |
 | ODE Test | Matthew Harris (AnonymousTipster) | v.1.0 | 1.1 MB | [download](https://archive.org/download/ode-test/ODE-test.zip) | [archive.org](https://archive.org/details/ode-test) |
 | Odyssey For Panic | 240-185 | v.1.0 | 2.6 MB | [download](https://archive.org/download/odyssey-for-panic.-7z/OdysseyForPanic.zip) | [archive.org](https://archive.org/details/odyssey-for-panic.-7z) |
 | Ograniser | modsyn | v.1.0 | 1.2 MB | [download](https://archive.org/download/ogranise_v2.7z/ogranise_v2.zip) | [archive.org](https://archive.org/details/ogranise_v2.7z) |
@@ -2180,6 +2208,7 @@ what it was on the day the service went down.
 | PicoozIR | Pacopad | v.1.0 | 3.8 MB | [download](https://archive.org/download/picoozirv4.7z/picoozirv4.zip) | [archive.org](https://archive.org/details/picoozirv4.7z) |
 | PictoCube | jomann | v.1.0 | 2.2 MB | [download](https://archive.org/download/pictocube.7z/pictocube.zip) | [archive.org](https://archive.org/details/pictocube.7z) |
 | Pig Rabid | pierrodu50 | v.1.0 | 1.8 MB | [download](https://archive.org/download/pig-rabid.-7z/PigRabid.zip) | [archive.org](https://archive.org/details/pig-rabid.-7z) |
+| Pikachu Volleyball | athekat | v.1.0 | 6.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/pikachu-volleyball-V1.0.zip) | [github](https://github.com/athekat/Pikachu-Volleyball-PSP) |
 | Pilota | Gadam | v.1.2 | 1.4 MB | [download](https://archive.org/download/pilota-1.2.7z/Pilota%201.2.zip) | [archive.org](https://archive.org/details/pilota-1.2.7z) |
 | Pimp My Garage | ADePSP | v.1.0 | 4.0 MB | [download](https://archive.org/download/pmgp.7z/pmgp.zip) | [archive.org](https://archive.org/details/pmgp.7z) |
 | PiMPStreamer | DickyDick1969 | v.1.0 | 7.9 MB | [download](https://archive.org/download/pimpstreamer-100.7z/Extra/PiMPStreamerSetup-1.0.zip) | [archive.org](https://archive.org/details/pimpstreamer-100.7z) |
@@ -2203,6 +2232,7 @@ what it was on the day the service went down.
 | Plants Vs. Zombies 2 | SGI | v.1.0 | 3.2 MB | [download](https://archive.org/download/plants-vs.-zombies-2.7z/Plants%20vs.%20Zombies%202.zip) | [archive.org](https://archive.org/details/plants-vs.-zombies-2.7z) |
 | Plateformo | Alexandre Rimbot (Kinow) | v.1.0 | 0.9 MB | [download](https://archive.org/download/plateformo.-7z/Plateformo.zip) | [archive.org](https://archive.org/details/plateformo.-7z) |
 | Platform Portable | Benjamin99 | v.1.0 | 0.5 MB | [download](https://archive.org/download/platform-portable.-7z/Platform%20Portable.zip) | [archive.org](https://archive.org/details/platform-portable.-7z) |
+| Platform Shooter | jmgamer1199 | v.0.6.2-alpha | 3.4 MB | [download](https://github.com/jmgamer1199/platform-shooter/releases/download/v0.6.2-alpha/platform-shooter-0.6.2-alpha.zip) | [github](https://github.com/jmgamer1199/platform-shooter) |
 | Play! Piano | Lothaov, Maxigolo | v.1.0 | 2.1 MB | [download](https://archive.org/download/playpiano.7z/Play%21Piano.zip) | [archive.org](https://archive.org/details/playpiano.7z) |
 | PlayLive | Rob King | v.1.0 | 5.1 MB | [download](https://archive.org/download/playlive.7z/playlive.zip) | [archive.org](https://archive.org/details/playlive.7z) |
 | Playmate | Lumo | v.1.0 | 0.7 MB | [download](https://archive.org/download/playmate_techdemo_by_lumo.7z/playmate_techdemo_by_lumo.zip) | [archive.org](https://archive.org/details/playmate_techdemo_by_lumo.7z) |
@@ -2248,7 +2278,10 @@ what it was on the day the service went down.
 | Pong.Modern | Daniel Chan | v.1.0 | 8.5 MB | [download](https://archive.org/download/pong.MODERN.7z/pong.MODERN.zip) | [archive.org](https://archive.org/details/pong.MODERN.7z) |
 | Ponies and Kittens | HardHat, John-Paul Gignac | v.1.0 | 4.3 MB | [download](https://archive.org/download/ponies1_0.7z/ponies1_0.zip) | [archive.org](https://archive.org/details/ponies1_0.7z) |
 | PopBlocks | Germano Fabio (Gefa) | v.1.0.1 | 2.2 MB | [download](https://archive.org/download/pop-blocksv-1.0.1.7z/PopBlocksv1.0.1.zip) | [archive.org](https://archive.org/details/pop-blocksv-1.0.1.7z) |
+| POPS Analog | ste2425 | v.1.2.0 | 0.0 MB | [download](https://github.com/ste2425/POPS-Analog/releases/download/v1.2.0/pops_analog.prx) | [github](https://github.com/ste2425/POPS-Analog) |
+| POPSAnalog | rereprep | v.0.2 | 0.0 MB | [download](https://github.com/rereprep/POPSAnalog/releases/download/v0.2/POPSAnalog.prx) | [github](https://github.com/rereprep/POPSAnalog) |
 | PopsDeco | Popsdeco | v.1.0 | 0.4 MB | [download](https://archive.org/download/popsdeco_rev2.7z/popsdeco_rev2.zip) | [archive.org](https://archive.org/details/popsdeco_rev2.7z) |
+| POPSDualAnalog | tojikoumori | v.1.0 | 0.0 MB | [download](https://github.com/tojikoumori/POPSDualAnalog-PSP/releases/download/v1.0/POPSDualAnalog.zip) | [github](https://github.com/tojikoumori/POPSDualAnalog-PSP) |
 | Popsloader Extractor | Xenon, Zer01ne | v.1.1 | 0.0 MB | [download](https://archive.org/download/popsextractor-1.1.7z/POPSExtractor%201.1.zip) | [archive.org](https://archive.org/details/popsextractor-1.1.7z) |
 | POPStation PSP | superfury | v.4.2 | 0.3 MB | [download](https://archive.org/download/popstation-psp.7z/popstation-psp-4.2.zip) | [archive.org](https://archive.org/details/popstation-psp.7z) |
 | Portable Binary Editor | Takeshi | v.1.0 | 0.1 MB | [download](https://archive.org/download/pbe.-7z/PBE.zip) | [archive.org](https://archive.org/details/pbe.-7z) |
@@ -2274,6 +2307,7 @@ what it was on the day the service went down.
 | PReSS | Nino van Hooff (The Underminer) | v.1.0 | 1.5 MB | [download](https://archive.org/download/pressv04.7z/press041.zip) | [archive.org](https://archive.org/details/pressv04.7z) |
 | Prime | Mexicouger | v.1.0 | 46.7 MB | [download](https://archive.org/download/prime.-7z/Prime.zip) | [archive.org](https://archive.org/details/prime.-7z) |
 | Prince of Tennis | Naruto93 | v.1.0 | 2.6 MB | [download](https://archive.org/download/naruto-93-s-pong.-7z/Naruto93%27%20s%20Pong.zip) | [archive.org](https://archive.org/details/naruto-93-s-pong.-7z) |
+| PRO CFW C2B | kyleatlast | v.2B | 1.0 MB | [download](https://github.com/kyleatlast/procfw/releases/download/PRO-C2B/pro_c2b.zip) | [github](https://github.com/kyleatlast/procfw) |
 | PRO Firmware | Virtuous Flame, Coldbird, qwikrazor87 | v.1.0 | 1.0 MB | [download](https://archive.org/download/660-pro-c-2.7z/661_PRO-C2_14-02-2015.zip) | [archive.org](https://archive.org/details/660-pro-c-2.7z) |
 | Pro Foosball | Madcupid | v.1.0 | 7.0 MB | [download](https://archive.org/download/pro-foosball.-7z/PRO%20FOOSBALL.zip) | [archive.org](https://archive.org/details/pro-foosball.-7z) |
 | Pro Online Hotspot Selector | cryo | v.1.0 | 0.2 MB | [download](https://archive.org/download/prohot.7z/prohot.zip) | [archive.org](https://archive.org/details/prohot.7z) |
@@ -2301,6 +2335,7 @@ what it was on the day the service went down.
 | PSN Manager | Light_AleX | v.0.40 | 0.5 MB | [download](https://archive.org/download/psnmgr-0.30.7z/PSNMGR0.40.zip) | [archive.org](https://archive.org/details/psnmgr-0.30.7z) |
 | PSnake | Koutsie | v.1.0 | 5.3 MB | [download](https://archive.org/download/psnake-v-1/PSnake_V1.zip) | [archive.org](https://archive.org/details/psnake-v-1) |
 | PSP 2D Tanks | Pihas | v.1.0 | 3.0 MB | [download](https://archive.org/download/psp-2-dtanks.-7z/PSP2DTanks.zip) | [archive.org](https://archive.org/details/psp-2-dtanks.-7z) |
+| PSP Achievements System | avetis-dev | v.2.0.0 | 0.1 MB | [download](https://github.com/avetis-dev/PSPAchievementsSystem/releases/download/v2.0.0/PSPAchievementsSystem-v2.0.0.zip) | [github](https://github.com/avetis-dev/PSPAchievementsSystem) |
 | PSP Action Replay Converter | raing3 | v.0.31 | 1.1 MB | [download](https://archive.org/download/psp-action-replay-converter.-7z/PSPActionReplayConverter0.31.zip) | [archive.org](https://archive.org/details/psp-action-replay-converter.-7z) |
 | PSP Adhoc IM | qwikrazor87 | v.1.0 | 1.0 MB | [download](https://archive.org/download/psp-adhoc-im-ver.-4.7z/PSP%20Adhoc%20IM%20Ver.%206.zip) | [archive.org](https://archive.org/details/psp-adhoc-im-ver.-4.7z) |
 | PSP Adhoc Messenger | Mickael2054 | v.1.0 | 1.4 MB | [download](https://archive.org/download/pspadhoc-messenger.-7z/PSPAdhocMessenger.zip) | [archive.org](https://archive.org/details/pspadhoc-messenger.-7z) |
@@ -2309,6 +2344,7 @@ what it was on the day the service went down.
 | PSP Alarm | Virtue | v.0.5 | 0.5 MB | [download](https://archive.org/download/pspalarmv-0.5.7z/PSPAlarmv0.5.zip) | [archive.org](https://archive.org/details/pspalarmv-0.5.7z) |
 | PSP Animation Studio | Masonman | v.1.0 | 0.6 MB | [download](https://archive.org/download/psp-animation-studio.-7z/PSP%20Animation%20Studio.zip) | [archive.org](https://archive.org/details/psp-animation-studio.-7z) |
 | PSP Antibrick | Team n:exp | v.1.0 | 0.1 MB | [download](https://archive.org/download/psp-antibrick/psp-antibrick_100pre1_1.zip) | [archive.org](https://archive.org/details/psp-antibrick) |
+| PSP ARK Plugins | 00KAM1 | v.2026-11-23 | 8.7 MB | [download](https://github.com/00KAM1/psp-ark-plugins/releases/download/2026-11-23/psp-ark-plugins-2026-11-23.zip) | [github](https://github.com/00KAM1/psp-ark-plugins) |
 | PSP Audio Recorder | moonlight | v.1.0 | 0.0 MB | [download](https://archive.org/download/pspaudrec.-7z/PSPAUDREC.zip) | [archive.org](https://archive.org/details/pspaudrec.-7z) |
 | PSP Automotive Conversions | Jason Stephenson (Jay543_uk) | v.1.0 | 0.4 MB | [download](https://archive.org/download/automotiveConvertion.7z/automotiveConvertion.zip) | [archive.org](https://archive.org/details/automotiveConvertion.7z) |
 | PSP Battery Timer | snailface | v.1.0 | 10.6 MB | [download](https://archive.org/download/psp-battery-timer.-7z/PSP_Battery_Timer.zip) | [archive.org](https://archive.org/details/psp-battery-timer.-7z) |
@@ -2372,6 +2408,7 @@ what it was on the day the service went down.
 | PSP GetXY | Maxy_PSP | v.1.0 | 1.9 MB | [download](https://archive.org/download/pspget-xy.-7z/PSPGetXY.zip) | [archive.org](https://archive.org/details/pspget-xy.-7z) |
 | PSP Giana Sisters | André Borrmann (AnMaBaGiMa) | v.1.0 | 2.3 MB | [download](https://archive.org/download/giana-sisters.-7z/GianaSisters.zip) | [archive.org](https://archive.org/details/giana-sisters.-7z) |
 | PSP GNU Chess | Ludovic Jacomme (Zx-81) | v.1.0 | 8.4 MB | [download](https://archive.org/download/pspgchess.7z/pspgchess.zip) | [archive.org](https://archive.org/details/pspgchess.7z) |
+| PSP Go BT Controllers | z2442 | v.1.0-build.9 | 0.1 MB | [download](https://github.com/z2442/pspgobtcontrollers/releases/download/v1.0-build.9/pspgobt-release-v1.0.zip) | [github](https://github.com/z2442/pspgobtcontrollers) |
 | PSP Golden Goal | Ulind, Churristian 8 | v.1.0 | 2.5 MB | [download](https://archive.org/download/psp-g.-g.-7z/PSP%20G.G.zip) | [archive.org](https://archive.org/details/psp-g.-g.-7z) |
 | PSP Golden Quiz | Ulid, Churristian8 | v.1.0 | 7.4 MB | [download](https://archive.org/download/pspgq.-7z/PSPGQ.zip) | [archive.org](https://archive.org/details/pspgq.-7z) |
 | PSP GPSlim 236 Test | Denis Televnyy (Deniska) | v.1.0 | 0.0 MB | [download](https://archive.org/download/pspgpslim236.7z/pspgpslim236.zip) | [archive.org](https://archive.org/details/pspgpslim236.7z) |
@@ -2380,6 +2417,7 @@ what it was on the day the service went down.
 | PSP Guess | Acid Snake | v.1.0 | 3.5 MB | [download](https://archive.org/download/psp-guess.-7z/PspGuess.zip) | [archive.org](https://archive.org/details/psp-guess.-7z) |
 | PSP Guitar | Sousanator | v.1.0 | 2.1 MB | [download](https://archive.org/download/pspguitar.-7z/PSPGuitar.zip) | [archive.org](https://archive.org/details/pspguitar.-7z) |
 | PSP Happy Landlord Poker Game [PSP欢乐斗地主扑克游戏] | Wang Xinnong | v.1.0 | 5.9 MB | [download](https://archive.org/download/doudi.7z/Lord.zip) | [archive.org](https://archive.org/details/doudi.7z) |
+| PSP Hero | ravsil | v.1.0 | 5.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/psp-hero-1.0.zip) | [github](https://github.com/ravsil/PSP-Hero) |
 | PSP Hide Files | F Metal Alchemist | v.1.0 | 0.3 MB | [download](https://archive.org/download/psp-hide-files.-7z/PSP%20Hide%20Files.zip) | [archive.org](https://archive.org/details/psp-hide-files.-7z) |
 | PSP Home Assistant | marcowindt | v.1.0 | 0.4 MB | [download](https://archive.org/download/psp-home-assistant/PSP-HomeAssistant.zip) | [archive.org](https://archive.org/details/psp-home-assistant) |
 | PSP iCalculator | Xandu | v.1.0 | 2.3 MB | [download](https://archive.org/download/pspicalc10.7z/pspicalc10.zip) | [archive.org](https://archive.org/details/pspicalc10.7z) |
@@ -2458,6 +2496,7 @@ what it was on the day the service went down.
 | PSP SSH | Ludovic Jacomme (Zx-81) | v.1.2.0 | 3.3 MB | [download](https://archive.org/download/pspssh-v1.2.0-fw5x.7z/pspssh-v1.2.0-fw5x.zip) | [archive.org](https://archive.org/details/pspssh-v1.2.0-fw5x.7z) |
 | PSP Stackless Python | Carlos Eduardo | v.2.5.2 | 3.9 MB | [download](https://archive.org/download/pspstacklesspython.7z/StacklessPSP-2.5.2_R1.zip) | [archive.org](https://archive.org/details/pspstacklesspython.7z) |
 | PSP Store | Sebastian Czech (DARK-Seb) | v.1.0 | 0.9 MB | [download](https://archive.org/download/pstoreby-d-s.-7z/PStorebyD-S.zip) | [archive.org](https://archive.org/details/pstoreby-d-s.-7z) |
+| PSP Stream | k7vinilstorage | v.1.12 | 0.4 MB | [download](https://github.com/k7vinilstorage/PSP-Stream/releases/download/v1.12/PSPStream-EBOOT.zip) | [github](https://github.com/k7vinilstorage/PSP-Stream) |
 | PSP Strife | Nitr8 | v.1.0 | 8.7 MB | [download](https://archive.org/download/psp-strife.7z/psp-strife.zip) | [archive.org](https://archive.org/details/psp-strife.7z) |
 | PSP Sumo | Officially Poor | v.1.0 | 0.5 MB | [download](https://archive.org/download/psp-sumo.-7z/PSP%20Sumo.zip) | [archive.org](https://archive.org/details/psp-sumo.-7z) |
 | PSP Super Portable Calendar | The Reefbarman | v.1.0 | 2.4 MB | [download](https://archive.org/download/pSPCBeta2.7z/pSPCBeta2.zip) | [archive.org](https://archive.org/details/pSPCBeta2.7z) |
@@ -2476,7 +2515,10 @@ what it was on the day the service went down.
 | PSP Turismo | splodger15 | v.0.41 | 3.5 MB | [download](https://archive.org/download/pspturismo-v-0.41.7z/PSPTurismoV0.41.zip) | [archive.org](https://archive.org/details/pspturismo-v-0.41.7z) |
 | PSP UAE4ALL | TTYman | v.1.0 | 1.0 MB | [download](https://archive.org/download/pspuae-4-allr-1.7z/psp_uae4all_r1-usermode.zip) | [archive.org](https://archive.org/details/pspuae-4-allr-1.7z) |
 | PSP UAE4ALL Mod | john4p | v.1.0 | 1.3 MB | [download](https://archive.org/download/pspuae-4-all-newcontrol-and-verticaladjust-mod/PSP-UAE4ALL-kbd.zip) | [archive.org](https://archive.org/details/pspuae-4-all-newcontrol-and-verticaladjust-mod) |
+| PSP USB Capture | AfinaLoves | v.0.9.0 | 0.0 MB | [download](https://github.com/AfinaLoves/psp-usb-capture/releases/download/v0.9.0/pspcap.prx) | [github](https://github.com/AfinaLoves/psp-usb-capture) |
+| PSP UVC | xerpi | v.0.2 | 0.1 MB | [download](https://github.com/xerpi/psp-uvc-usb-video-class/releases/download/0.2/uvc.prx) | [github](https://github.com/xerpi/psp-uvc-usb-video-class) |
 | PSP Vi | Nullkill | v.1.0 | 0.2 MB | [download](https://archive.org/download/psp-vi.-7z/PSP_VI.zip) | [archive.org](https://archive.org/details/psp-vi.-7z) |
+| PSP VideoBG | Wyped | v.22 | 1.4 MB | [download](https://github.com/Wyped/PSP-VideoBG/releases/download/Build22/VideoBG-1.0.0.zip) | [github](https://github.com/Wyped/PSP-VideoBG) |
 | PSP Vokabel Trainer | Anadox | v.1.0 | 3.7 MB | [download](https://archive.org/download/vokabeltrainer.-7z/Vokabeltrainer.zip) | [archive.org](https://archive.org/details/vokabeltrainer.-7z) |
 | PSP WiFi Controller | Danyele360 | v.1.1.0 | 20.8 MB | [download](https://archive.org/download/pspwi-fi-controller-setup-1.1.0/PSPWiFiController-Setup-1.1.0.zip) | [archive.org](https://archive.org/details/pspwi-fi-controller-setup-1.1.0) |
 | PSP WiFile Transfer | Luis Pestana (*eyelash) | v.1.0A | 0.5 MB | [download](https://archive.org/download/psp-wi-file-transfer-v-1.0-a.-7z/PSP_WiFile_Transfer_v1.0A.zip) | [archive.org](https://archive.org/details/psp-wi-file-transfer-v-1.0-a.-7z) |
@@ -2492,6 +2534,7 @@ what it was on the day the service went down.
 | PSP-Breakout | Bruno Antunes (ShUr1k3n) | v.1.0 | 0.3 MB | [download](https://archive.org/download/psp-breakout/PSP-Breakout.zip) | [archive.org](https://archive.org/details/psp-breakout) |
 | PSP-Chip8 | Vanya A. Sergeev | v.1.0 | 0.0 MB | [download](https://archive.org/download/pspchip8.7z/pspchip8.zip) | [archive.org](https://archive.org/details/pspchip8.7z) |
 | PSP-Downgrades' Homebrew Game | Zora_182, Usif | v.1.0 | 4.8 MB | [download](https://archive.org/download/pspdowngrades.-7z/PSPDOWNGRADES.zip) | [archive.org](https://archive.org/details/pspdowngrades.-7z) |
+| PSP-DRP | qberty1337 | v.0.4.0 | 0.1 MB | [download](https://github.com/qberty1337/PSP-DRP/releases/download/v0.4.0/psp-drp-plugin.zip) | [github](https://github.com/qberty1337/PSP-DRP) |
 | PSP-gnuboy | HamsterBert | v.1.0 | 1.0 MB | [download](https://archive.org/download/pspgnuboy_rls.7z/pspgnuboy_rls.zip) | [archive.org](https://archive.org/details/pspgnuboy_rls.7z) |
 | PSP-Hexen | Nitr8 | v.1.0 | 7.9 MB | [download](https://archive.org/download/psp-hexen.7z/psp-hexen.zip) | [archive.org](https://archive.org/details/psp-hexen.7z) |
 | psp-httpd | Elton Muuga (Elxx) | v.1.0 | 1.2 MB | [download](https://archive.org/download/psp-httpd_06.7z/psp-httpd_06.zip) | [archive.org](https://archive.org/details/psp-httpd_06.7z) |
@@ -2561,6 +2604,8 @@ what it was on the day the service went down.
 | PSPendu | percyflette | v.1.0 | 0.9 MB | [download](https://archive.org/download/pspendu.-7z/PSPendu.zip) | [archive.org](https://archive.org/details/pspendu.-7z) |
 | PSPeriodic | Propel | v.1.0 | 0.7 MB | [download](https://archive.org/download/psperiodic-v-1.0.7z/PSPeriodic%20v1.0.zip) | [archive.org](https://archive.org/details/psperiodic-v-1.0.7z) |
 | PSPeriodic Table of Elements | Access_Denied | v.1.0 | 0.1 MB | [download](https://archive.org/download/psperiodic-table.-7z/PSPeriodic%20Table.zip) | [archive.org](https://archive.org/details/psperiodic-table.-7z) |
+| PSPExp | pleft | v.1.4.0 | 0.3 MB | [download](https://github.com/pleft/PSPExp/releases/download/v1.4.0/PSPExp-psp-v1.4.0.zip) | [github](https://github.com/pleft/PSPExp) |
+| PSPFatSave | Grunwalskii | v.981 | 1.5 MB | [download](https://github.com/Grunwalskii/PSPFatSave-Public/releases/download/v981/pspfatsave-v981.zip) | [github](https://github.com/Grunwalskii/PSPFatSave-Public) |
 | PSPflashcards | Hardhat, Lnatropic | v.1.0 | 1.7 MB | [download](https://archive.org/download/pspflashcard.7z/pspflashcard.zip) | [archive.org](https://archive.org/details/pspflashcard.7z) |
 | PSPFPS | CloudMracek | v.1.0 | 12.4 MB | [download](https://archive.org/download/PSPFPS/build.zip) | [archive.org](https://archive.org/details/PSPFPS) |
 | PSPFreePlayer | Blondin | v.1.0 | 10.5 MB | [download](https://archive.org/download/pspfreeplayerV01.7z/pspfreeplayerV01.zip) | [archive.org](https://archive.org/details/pspfreeplayerV01.7z) |
@@ -2716,6 +2761,8 @@ what it was on the day the service went down.
 | PSysP Info | Glynnder | v.1.15b | 1.6 MB | [download](https://archive.org/download/psys-p-info-1.15b.-7z/PSysP%20Info%201.15b.zip) | [archive.org](https://archive.org/details/psys-p-info-1.15b.-7z) |
 | ptDanzeff | LilCthulhu | v.0.01 | 0.8 MB | [download](https://archive.org/download/pt-danzeff-v-0.01-20060522.7z/ptDanzeff%20v0.01%2020060522.zip) | [archive.org](https://archive.org/details/pt-danzeff-v-0.01-20060522.7z) |
 | PTube | Vilusia | v.1.0 | 1.3 MB | [download](https://archive.org/download/ptube-native/PTube-native-build6.zip) | [archive.org](https://archive.org/details/ptube-native) |
+| PTube Native | Vilusia | v.0.6.0 | 1.3 MB | [download](https://github.com/Vilusia/PTube-Native/releases/download/v0.6.0/PTube-native-build6.zip) | [github](https://github.com/Vilusia/PTube-Native) |
+| PTwitch Native | Vilusia | v.24 | 1.3 MB | [download](https://github.com/Vilusia/PTwitch-Native/releases/download/Build-24/PTwitch-native-psp.zip) | [github](https://github.com/Vilusia/PTwitch-Native) |
 | PucePong | pucelano | v.1.0 | 2.8 MB | [download](https://archive.org/download/puce-pong-v-10.7z/PucePong-v10.zip) | [archive.org](https://archive.org/details/puce-pong-v-10.7z) |
 | Puch Bouton | Unknown | v.1.0 | 32.0 MB | [download](https://archive.org/download/puch-buton.-7z/puch%20buton.zip) | [archive.org](https://archive.org/details/puch-buton.-7z) |
 | Puck Man | Samy | v.1.0 | 5.3 MB | [download](https://archive.org/download/puck-man.-7z/Puck_Man.zip) | [archive.org](https://archive.org/details/puck-man.-7z) |
@@ -2774,6 +2821,7 @@ what it was on the day the service went down.
 | Random Line Generator | Jason J. Owens (jason867) | v.1.0 | 0.1 MB | [download](https://archive.org/download/random-line-generator/Random_Line_Generator_Version_10.zip) | [archive.org](https://archive.org/details/random-line-generator) |
 | Random Shooter | Zack | v.1.0 | 5.8 MB | [download](https://archive.org/download/randomShooter.7z/randomShooter.zip) | [archive.org](https://archive.org/details/randomShooter.7z) |
 | Raptor | Kojima | v.1.0 | 0.6 MB | [download](https://archive.org/download/cd.-7z/CD.zip) | [archive.org](https://archive.org/details/cd.-7z) |
+| rawgl PSP | internalregister | v.1.0 | 0.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rawgl-psp-v1.0.zip) | [github](https://github.com/internalregister/rawgl_psp) |
 | Rayman PSP | Equilibrium369 | v.1.0 | 3.8 MB | [download](https://archive.org/download/rayman-psp-100813.-7z/Rayman%20PSP%20%28100813%29.zip) | [archive.org](https://archive.org/details/rayman-psp-100813.-7z) |
 | RE3 PSP | st1x51 | v.1.0 | 98.1 MB | [download](https://archive.org/download/re3psp_files-main/Re3PSPTools.zip) | [archive.org](https://archive.org/details/re3psp_files-main) |
 | Reactor | Studio Kagato | v.1.3 | 1.6 MB | [download](https://archive.org/download/reactor.-7z/reactor_1.3_eboot.zip) | [archive.org](https://archive.org/details/reactor.-7z) |
@@ -2799,6 +2847,7 @@ what it was on the day the service went down.
 | Remo File Browser | Meridimus | v.0.6 | 1.3 MB | [download](https://archive.org/download/remo_browser_0.6_0316.7z/remo_browser_0.6_0316.zip) | [archive.org](https://archive.org/details/remo_browser_0.6_0316.7z) |
 | Remonics | Branin, Lmelior | v.1.0 | 1.8 MB | [download](https://archive.org/download/remonics-v-1-1.7z/RemonicsV1_1.zip) | [archive.org](https://archive.org/details/remonics-v-1-1.7z) |
 | Remote Canvas Test | Hawk/FB | v.1.0 | 0.1 MB | [download](https://archive.org/download/rcanvas/rcanvas.zip) | [archive.org](https://archive.org/details/rcanvas) |
+| RemoteJoy Minus | SourceK78 | v.1.7.0 | 0.0 MB | [download](https://github.com/SourceK78/remotejoy-minus/releases/download/v1.7.0/remotejoy-minus.prx) | [github](https://github.com/SourceK78/remotejoy-minus) |
 | RenPSP | Weetabix | v.0.5 | 3.0 MB | [download](https://archive.org/download/ren-psp-0.5.7z/RenPSP%200.5.zip) | [archive.org](https://archive.org/details/ren-psp-0.5.7z) |
 | Reproductor Multimedia Mix | Unknown | v.1.0 | 1.4 MB | [download](https://archive.org/download/reproductor-multimedia.-7z/ReproductorMultimedia.zip) | [archive.org](https://archive.org/details/reproductor-multimedia.-7z) |
 | Resistor Color Code | MOoToO | v.1.0 | 0.3 MB | [download](https://archive.org/download/rezi.-7z/REZI.zip) | [archive.org](https://archive.org/details/rezi.-7z) |
@@ -2813,6 +2862,7 @@ what it was on the day the service went down.
 | Ri-Li | afaw | v.1.0 | 9.2 MB | [download](https://archive.org/download/rili-beta.-7z/Rili_Beta.zip) | [archive.org](https://archive.org/details/rili-beta.-7z) |
 | Richman, Poorman | piccahoe | v.1.0 | 1.9 MB | [download](https://archive.org/download/rmpm.-7z/RMPM.zip) | [archive.org](https://archive.org/details/rmpm.-7z) |
 | RIN | みらきち (Mirakichi) | v.1.0 | 0.3 MB | [download](https://archive.org/download/gbemu.7z/RIN_v1_32.zip) | [archive.org](https://archive.org/details/gbemu.7z) |
+| RIN GB Camera | beckerd | v.1.4 | 0.4 MB | [download](https://github.com/beckerd/psp_rin_gbcam/releases/download/v1.4/RIN_GBCamera_v1.4.zip) | [github](https://github.com/beckerd/psp_rin_gbcam) |
 | RIN RX | KrK | v.1.0 | 0.8 MB | [download](https://archive.org/download/rin-rx.-7z/RIN_RX.zip) | [archive.org](https://archive.org/details/rin-rx.-7z) |
 | Rip Off | Team Water | v.1.0 | 8.4 MB | [download](https://archive.org/download/rip-off.-7z/RipOff.zip) | [archive.org](https://archive.org/details/rip-off.-7z) |
 | rIpe - Rope Physics Engine | HunterXI | v.1.0 | 0.6 MB | [download](https://archive.org/download/rIpe.7z/rIpe.zip) | [archive.org](https://archive.org/details/rIpe.7z) |
@@ -2876,6 +2926,7 @@ what it was on the day the service went down.
 | SatFinder Portable | Pedro J. Fernández, Guillermo Fernández | v.1.0 | 4.6 MB | [download](https://archive.org/download/satfinder.-7z/Satfinder.zip) | [archive.org](https://archive.org/details/satfinder.-7z) |
 | Savedata En/Decrypter | rakion | v.1.0 | 0.2 MB | [download](https://archive.org/download/sed.-7z/SED.zip) | [archive.org](https://archive.org/details/sed.-7z) |
 | SaveGame Saver | fede94boss | v.0.6 | 0.9 MB | [download](https://archive.org/download/save-game-saver-v-0.6.7z/SaveGame_Saver%20v0.6.zip) | [archive.org](https://archive.org/details/save-game-saver-v-0.6.7z) |
+| SavegameDeemer | Kethen | v.2024-05-05 | 0.0 MB | [download](https://github.com/Kethen/SavegameDeemer/releases/download/2024-05-05/SGDeemer_47d1a4b0.zip) | [github](https://github.com/Kethen/SavegameDeemer) |
 | SaveHacker | Weltall | v.1.0 | 0.2 MB | [download](https://archive.org/download/savehacker-01.7z/SAVEHACKER01.zip) | [archive.org](https://archive.org/details/savehacker-01.7z) |
 | School English | Neo_Ace | v.1.0 | 1.0 MB | [download](https://archive.org/download/school-english.-7z/SchoolEnglish.zip) | [archive.org](https://archive.org/details/school-english.-7z) |
 | Sci-Fi Yoyo | snowymydog | v.1.0 | 2.4 MB | [download](https://archive.org/download/scifiyoyo-henc.-7z/SCIFIYOYO_HENC.zip) | [archive.org](https://archive.org/details/scifiyoyo-henc.-7z) |
@@ -2902,6 +2953,7 @@ what it was on the day the service went down.
 | SerpientePX | Klozz | v.1.0 | 9.7 MB | [download](https://archive.org/download/serpiente-px.-7z/SerpientePX.zip) | [archive.org](https://archive.org/details/serpiente-px.-7z) |
 | Serve n' Go | Sousanator, Electro, (X), Sousa Inc | v.1.0 | 2.0 MB | [download](https://archive.org/download/serve-ngo-v-3.7z_202102/ServeNGo_v3.zip) | [archive.org](https://archive.org/details/serve-ngo-v-3.7z_202102) |
 | SexyPSF | やねうらおー (yaneurao), Weltall | v.0.4.5 | 1.5 MB | [download](https://archive.org/download/sexypsf.-7z/sexypsf-0.4.5-r1-psp-1.1d.zip) | [archive.org](https://archive.org/details/sexypsf.-7z) |
+| SFA3 MAX Widescreen | Rickow | v.1.1.1 | 0.1 MB | [download](https://github.com/Rickow/Street-Fighter-Alpha-3-MAX-PSP-widescreen/releases/download/v1.1.1/sfa3-ws-v1.1.1.zip) | [github](https://github.com/Rickow/Street-Fighter-Alpha-3-MAX-PSP-widescreen) |
 | SG57's Robot | Jordan Rehn (SG57) | v.1.0 | 0.1 MB | [download](https://archive.org/download/sg-57s-20-robot.-7z/SG57s%2520Robot.zip) | [archive.org](https://archive.org/details/sg-57s-20-robot.-7z) |
 | Shadow Projection | Jesper Svennevid, Renaldas Zioma | v.1.0 | 0.0 MB | [download](https://archive.org/download/shadow-projection.-7z/Shadow%20Projection.zip) | [archive.org](https://archive.org/details/shadow-projection.-7z) |
 | Shadow Warrior | Sergey Galushko (Crow_bar) | v.1.0 | 12.7 MB | [download](https://archive.org/download/shadow-warrior-psp.-7z/Shadow%20Warrior%20PSP.zip) | [archive.org](https://archive.org/details/shadow-warrior-psp.-7z) |
@@ -2959,6 +3011,7 @@ what it was on the day the service went down.
 | Slender: The Eight Pages | Nathan Bourgeois (IridescentRose), Janos Harsanyi | v.1.0 | 13.5 MB | [download](https://archive.org/download/slender.-7z/Slender.zip) | [archive.org](https://archive.org/details/slender.-7z) |
 | SlenderCraft | IT_Skino | v.0.1 | 9.2 MB | [download](https://archive.org/download/slen-01388-00000/SlenderCraft%200.1.zip) | [archive.org](https://archive.org/details/slen-01388-00000) |
 | Slendytubbies II PSP | PECausa666PSP | v.1.0 | 20.6 MB | [download](https://archive.org/download/slendytubbies-ii-psp/Slendytubbies-II-PSP.zip) | [archive.org](https://archive.org/details/slendytubbies-ii-psp) |
+| Slim Colors | krazynez | v.2.1 | 0.1 MB | [download](https://github.com/krazynez/slim_colors/releases/download/v2.1/slim_colors.zip) | [github](https://github.com/krazynez/slim_colors) |
 | Slime Volleyball PSP | mEo | v.1.0 | 0.6 MB | [download](https://archive.org/download/slime-volleyball-psp.-7z/SlimeVolleyballPSP.zip) | [archive.org](https://archive.org/details/slime-volleyball-psp.-7z) |
 | Sloynik | Cy-4AH | v.1.1 | 5.1 MB | [download](https://archive.org/download/sloynik-v-1.1.7z/Sloynik_v1.1.zip) | [archive.org](https://archive.org/details/sloynik-v-1.1.7z) |
 | Sloynik Français-Anglais | Cy-4AH, Elidi | v.1.0 | 1.7 MB | [download](https://archive.org/download/sloynik-fra-en.-7z/Sloynik_fra-en.zip) | [archive.org](https://archive.org/details/sloynik-fra-en.-7z) |
@@ -3009,6 +3062,8 @@ what it was on the day the service went down.
 | Sonic Avol 3 | Xodiac21 | v.1.0 | 1.6 MB | [download](https://archive.org/download/sonic-avol-3.7z/Sonic%20Avol%203.zip) | [archive.org](https://archive.org/details/sonic-avol-3.7z) |
 | Sonic Battle Arena | Vaza | v.1.0 | 5.0 MB | [download](https://archive.org/download/sba.-7z/SBA.zip) | [archive.org](https://archive.org/details/sba.-7z) |
 | Sonic Catch Those Rings! | rikcobra | v.1.0 | 1.1 MB | [download](https://archive.org/download/sonic-catch-those-rings.-7z/Sonic%20catch%20those%20rings%21.zip) | [archive.org](https://archive.org/details/sonic-catch-those-rings.-7z) |
+| Sonic Mania PSP | girlyoulookthebest | v.1.5 | 2.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/sonic-mania-psp-pspperfv1.5.zip) | [github](https://github.com/girlyoulookthebest/Sonic-Mania-Decompilation) |
+| Sonic R PSP | HiroStuff | v.1.0 | 2.1 MB | [download](https://github.com/HiroStuff/sonic-r-psp-public/releases/download/v1.0/Sonic.R.PSP.v1.0.zip) | [github](https://github.com/HiroStuff/sonic-r-psp-public) |
 | Sonic: Project Mettrix | Stealth, Xalk 07 | v.1.0 | 20.1 MB | [download](https://archive.org/download/sonic-metrix.-7z/sonic%20metrix.zip) | [archive.org](https://archive.org/details/sonic-metrix.-7z) |
 | Sony Scissors Paper Rock | Unknown | v.0.1s | 0.8 MB | [download](https://archive.org/download/0.1scissors-paper-rock.-7z/0.1scissors%20%2C%20paper%20%2C%20rock.zip) | [archive.org](https://archive.org/details/0.1scissors-paper-rock.-7z) |
 | Sonymon | V@ughn, FouadtjuhMaster | v.1.0 | 7.8 MB | [download](https://archive.org/download/sonymon.-7z/SONYMON.zip) | [archive.org](https://archive.org/details/sonymon.-7z) |
@@ -3077,6 +3132,7 @@ what it was on the day the service went down.
 | Strato-Naut | anashalideen | v.1.0 | 18.3 MB | [download](https://archive.org/download/Stratonaut/Stratonaut.zip) | [archive.org](https://archive.org/details/Stratonaut) |
 | Street Cleaning | ValleDalle | v.1.0 | 1.7 MB | [download](https://archive.org/download/sc.7z/sc.zip) | [archive.org](https://archive.org/details/sc.7z) |
 | Street Fighter III: 3rd Strike PSP Port | demmis98 | v.1.0 | 2.2 MB | [download](https://archive.org/download/3s-psp-experimental/3s-psp-experimental.zip) | [archive.org](https://archive.org/details/3s-psp-experimental) |
+| Street Racing PSP | LiEnby | v.1.0 | 3.5 MB | [download](https://github.com/LiEnby/StreetRacingPSP/releases/download/v1.0/street.racing-signed.zip) | [github](https://github.com/LiEnby/StreetRacingPSP) |
 | Stuck Pixel Sniper | Cmbeke | v.1.0 | 0.9 MB | [download](https://archive.org/download/stuck-pixel-sniper.-7z/Stuck%20Pixel%20Sniper.zip) | [archive.org](https://archive.org/details/stuck-pixel-sniper.-7z) |
 | Sudoku | EvilDooinz | v.1.0 | 1.7 MB | [download](https://archive.org/download/sudoku.-7z/Sudoku.zip) | [archive.org](https://archive.org/details/sudoku.-7z) |
 | Sudoku XK | Team XK | v.0.1 | 1.4 MB | [download](https://archive.org/download/0sudokuxk-0.1.7z/0sudokuxk0.1.zip) | [archive.org](https://archive.org/details/0sudokuxk-0.1.7z) |
@@ -3248,10 +3304,12 @@ what it was on the day the service went down.
 | Tipster Unzip/Unrar Utility | Matthew Harris (AnonymousTipster) | v.1.0 | 1.1 MB | [download](https://archive.org/download/tipster-unzip-unrar-03.7z/TipsterUnzipUnrar03.zip) | [archive.org](https://archive.org/details/tipster-unzip-unrar-03.7z) |
 | Titan Homebrew Manager | McZonk | v.1.0 | 0.9 MB | [download](https://archive.org/download/homebrew-manager.7z/homebrew-manager.zip) | [archive.org](https://archive.org/details/homebrew-manager.7z) |
 | Title IX | Immersion | v.1.0 | 5.6 MB | [download](https://archive.org/download/title-ix.-7z/title%20ix.zip) | [archive.org](https://archive.org/details/title-ix.-7z) |
+| Title Sorter | PsArchive | v.1.0.0 | 0.4 MB | [download](https://github.com/PsArchive/Title_Sorter/releases/download/v1.0.0/TITLESORTER.zip) | [github](https://github.com/PsArchive/Title_Sorter) |
 | TJAPlayer2 | 650氏, kairera0467 | v.1.0 | 1.1 MB | [download](https://archive.org/download/tjaplayer-2/TJAPlayer2.zip) | [archive.org](https://archive.org/details/tjaplayer-2) |
 | TLS Test | Paul Sajna (sajattack) | v.1.0 | 0.3 MB | [download](https://archive.org/download/tls-test/TLS%20Test.zip) | [archive.org](https://archive.org/details/tls-test) |
 | To Hide | sebas_94 | v.1.0 | 2.6 MB | [download](https://archive.org/download/to-hidev-40b-cfplus-esp.-7z/ToHidev40bCFPlusEsp.zip) | [archive.org](https://archive.org/details/to-hidev-40b-cfplus-esp.-7z) |
 | To The Top | Inferno, marc6310 | v.0.2 | 2.6 MB | [download](https://archive.org/download/to-the-topv-0.2.7z/ToTheTopv0.2.zip) | [archive.org](https://archive.org/details/to-the-topv-0.2.7z) |
+| ToadGBA | AlfonsoVM | v.1.0.43 | 5.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/toadgba-v1.0.43.zip) | [github](https://github.com/AlfonsoVM/ToadGBA) |
 | Todo Español | andyauff | v.0.05 | 1.9 MB | [download](https://archive.org/download/todo-espanol.-7z/TodoEspanol%20V.%200.05.zip) | [archive.org](https://archive.org/details/todo-espanol.-7z) |
 | Todo Info PSP | Ðαrk_Ðrαgøn-βlαck | v.1.0 | 2.0 MB | [download](https://archive.org/download/todo-info-psp-v-3-light/TodoInfoPSP%20v3%20Light.zip) | [archive.org](https://archive.org/details/todo-info-psp-v-3-light) |
 | Toho Imitation Style [東方模倣風] | emesarke | v.1.0 | 61.3 MB | [download](https://archive.org/download/231-kene-r-40.7z/kene_r44_20150101.zip) | [archive.org](https://archive.org/details/231-kene-r-40.7z) |
@@ -3260,8 +3318,10 @@ what it was on the day the service went down.
 | Tohoman | 東方とかとか (TOHO Etcetra) | v.1.0 | 4.7 MB | [download](https://archive.org/download/tohoman.7z/tohoman.zip) | [archive.org](https://archive.org/details/tohoman.7z) |
 | TOME - The Troubles of Middle Earth | Gendal, daddy32 | v.2.3.5 | 5.3 MB | [download](https://archive.org/download/tome-2.3.5.7z/Tome%202.3.5.zip) | [archive.org](https://archive.org/details/tome-2.3.5.7z) |
 | ToneMatrix | Babkock | v.0.93 | 0.6 MB | [download](https://archive.org/download/tonematrix-0.72.7z/ToneMatrix-0.93.zip) | [archive.org](https://archive.org/details/tonematrix-0.72.7z) |
+| Tony Hawk Remastered Controls | TheOfficialFloW | v.1.0 | 0.0 MB | [download](https://github.com/TheOfficialFloW/RemasteredControls/releases/download/TonyHawkRemastered/tonyhawk_remastered.prx) | [github](https://github.com/TheOfficialFloW/RemasteredControls) |
 | Toobin' | CyberCouf | v.0.1.5 | 0.6 MB | [download](https://archive.org/download/toobin_v0.1.5.7z/toobin_v0.1.5.zip) | [archive.org](https://archive.org/details/toobin_v0.1.5.7z) |
 | Toppler PSP | Denis Televnyy (Deniska) | v.1.0 | 1.7 MB | [download](https://archive.org/download/toppler.7z/toppler.zip) | [archive.org](https://archive.org/details/toppler.7z) |
+| TOTP4PSP | arcyleung | v.0.0.1 | 0.2 MB | [download](https://github.com/arcyleung/TOTP4PSP/releases/download/v0.0.1/totp4psp.zip) | [github](https://github.com/arcyleung/TOTP4PSP) |
 | Touhou Bullet [東方PSP] | Iyou | v.1.0 | 0.7 MB | [download](https://archive.org/download/touhou-bullet/TOUHOU_BULLET.zip) | [archive.org](https://archive.org/details/touhou-bullet) |
 | Touhou Fuujinnroku [東方風神録PSP] | jenesis4649 | v.1.0 | 3.5 MB | [download](https://archive.org/download/th-10_202110/TH10.zip) | [archive.org](https://archive.org/details/th-10_202110) |
 | TouHou: Переполох в сарае | dranik544 | v.0.2 | 4.7 MB | [download](https://archive.org/download/th-piab-psp-0.2/TH_PIAB_psp_0.2.zip) | [archive.org](https://archive.org/details/th-piab-psp-0.2) |
@@ -3364,6 +3424,7 @@ what it was on the day the service went down.
 | UT PSP | Bumuckl | v.1.0 | 15.2 MB | [download](https://archive.org/download/utpsp.-7z/UTPSP.zip) | [archive.org](https://archive.org/details/utpsp.-7z) |
 | Uta Christmas | Eno Yamamoto Ten | v.1.0 | 19.2 MB | [download](https://archive.org/download/plainsongxmas.7z/plainsongxmas.zip) | [archive.org](https://archive.org/details/plainsongxmas.7z) |
 | UtilityShell | sergi70 | v.1.0 | 2.8 MB | [download](https://archive.org/download/utility-s/UtilityS.zip) | [archive.org](https://archive.org/details/utility-s) |
+| UTUBBU | XayroWhite | v.1.0 | 0.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/utubbu-UTUBBU.zip) | [github](https://github.com/XayroWhite/UTUBBU) |
 | Uvao Project | Erogame Project | v.1.0 | 31.8 MB | [download](https://archive.org/download/uvao_project/uvao_project.zip) | [archive.org](https://archive.org/details/uvao_project) |
 | VAC Demo | Alejandro Ramallo | v.1.0 | 0.6 MB | [download](https://archive.org/download/VACDEMO/VACDEMO.zip) | [archive.org](https://archive.org/details/VACDEMO) |
 | Valentines Day | CG8516 (Clark) | v.1.0 | 3.7 MB | [download](https://archive.org/download/valentines-day_202311/ValentinesDay.zip) | [archive.org](https://archive.org/details/valentines-day_202311) |
@@ -3398,6 +3459,7 @@ what it was on the day the service went down.
 | Vive les canards | Chardetm | v.1.0 | 1.5 MB | [download](https://archive.org/download/vive-les-canards.-7z/ViveLesCanards.zip) | [archive.org](https://archive.org/details/vive-les-canards.-7z) |
 | ViWi | Team Chilt | v.0.3 | 2.3 MB | [download](https://archive.org/download/vi-wi-previewv-0.3.7z/ViWiPreviewv0.3.zip) | [archive.org](https://archive.org/details/vi-wi-previewv-0.3.7z) |
 | Vixplode | Joseph Sciascia | v.1.0 | 0.2 MB | [download](https://archive.org/download/vixplode.-7z/VIXPLODE.zip) | [archive.org](https://archive.org/details/vixplode.-7z) |
+| Viz Tape | beckerd | v.1.3 | 0.0 MB | [download](https://github.com/beckerd/psp_viz_tape/releases/download/v1.3/viz_tape-v1.3.zip) | [github](https://github.com/beckerd/psp_viz_tape) |
 | VkontaktePSP | tutntips | v.1.0 | 0.6 MB | [download](https://archive.org/download/vkontakte-psp.-7z/VkontaktePSP.zip) | [archive.org](https://archive.org/details/vkontakte-psp.-7z) |
 | VLF | LXD | v.0.3 | 1.6 MB | [download](https://archive.org/download/vlf-v-0.3.7z/VLF%20v0.3.zip) | [archive.org](https://archive.org/details/vlf-v-0.3.7z) |
 | VLF File Manager | Joel16 | v.1.0 | 0.4 MB | [download](https://archive.org/download/VLFFM/VLFFM.zip) | [archive.org](https://archive.org/details/VLFFM) |
@@ -3408,12 +3470,14 @@ what it was on the day the service went down.
 | VMINES | Vicente Jiménez (Vic20) | v.1.0 | 3.2 MB | [download](https://archive.org/download/vmines.-7z/VMines.zip) | [archive.org](https://archive.org/details/vmines.-7z) |
 | Vmp3 | mrafenne | v.1.0 | 1.9 MB | [download](https://archive.org/download/vmp3v1.7z/vmp3v1.zip) | [archive.org](https://archive.org/details/vmp3v1.7z) |
 | VNPSP | uppfinnarn | v.1.0 | 0.8 MB | [download](https://archive.org/download/vnpsp.-7z/VNPSP.zip) | [archive.org](https://archive.org/details/vnpsp.-7z) |
+| vnpsp-RE | Hermes-Digital234 | v.0.0.3 | 1.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/vnpsp-re-0.0.3.zip) | [github](https://github.com/Hermes-Digital234/vnpsp-RE) |
 | Vokabeltrainer | PSP-Tools | v.2.0 | 3.9 MB | [download](https://archive.org/download/vokabeltrainer-2.0.7z/Vokabeltrainer%202.0.zip) | [archive.org](https://archive.org/details/vokabeltrainer-2.0.7z) |
 | Vorbo | A. Milne | v.1.0 | 0.3 MB | [download](https://archive.org/download/vorbo-psp-006.7z/vorbo-psp-006.zip) | [archive.org](https://archive.org/details/vorbo-psp-006.7z) |
 | Vortex Battle Arena | Akabane87 | v.1.0 | 7.1 MB | [download](https://archive.org/download/vortexbattlearenar1.7z/vortexbattlearenar1.zip) | [archive.org](https://archive.org/details/vortexbattlearenar1.7z) |
 | VortexPSP | Mach One | v.1.0 | 0.5 MB | [download](https://archive.org/download/vortexpsp.7z/vortexpsp_fw20.zip) | [archive.org](https://archive.org/details/vortexpsp.7z) |
 | Vote Table | Kenny Lindahl (HaxxBlaster) | v.1.0 | 1.2 MB | [download](https://archive.org/download/vote-tabel.-7z/Vote%20tabel.zip) | [archive.org](https://archive.org/details/vote-tabel.-7z) |
 | VSCycles | NGDesigns | v.1.0 | 0.9 MB | [download](https://archive.org/download/vscycles-v-100.7z/VSCycles_v100.zip) | [archive.org](https://archive.org/details/vscycles-v-100.7z) |
+| vshbgmX | farnsworth3010 | v.1.0 | 0.0 MB | [download](https://github.com/farnsworth3010/vshbgmX/releases/download/1.0/vshbgmX.prx) | [github](https://github.com/farnsworth3010/vshbgmX) |
 | VSIuO | McidClan | v.4.4 | 0.9 MB | [download](https://archive.org/download/vsiu-o.-7z/vsiuo-v4.4.zip) | [archive.org](https://archive.org/details/vsiu-o.-7z) |
 | VTPW Lua Trivia | VTPW | v.1.0 | 1.6 MB | [download](https://archive.org/download/vtpw.-7z/VTPW.zip) | [archive.org](https://archive.org/details/vtpw.-7z) |
 | VVVVVV | dntrnk | v.2.4.4 | 25.4 MB | [download](https://archive.org/download/vvvvvv-psp/VVVVVV-PSP-2.4.4.zip) | [archive.org](https://archive.org/details/vvvvvv-psp) |
@@ -3436,6 +3500,7 @@ what it was on the day the service went down.
 | Watermelon Game | SzyZET777 | v.1.0 | 0.4 MB | [download](https://archive.org/download/watermelon-game/WatermelonGame.zip) | [archive.org](https://archive.org/details/watermelon-game) |
 | Wav Hex Opener | sam (youresam) | v.1.0 | 0.8 MB | [download](https://archive.org/download/0-wave.-7z/0%20wave.zip) | [archive.org](https://archive.org/details/0-wave.-7z) |
 | Wave's Loader 3D | Xeo-Swold | v.1.0 | 1.7 MB | [download](https://archive.org/download/3-d.-7z/3D.zip) | [archive.org](https://archive.org/details/3-d.-7z) |
+| wavezbg | koutsie | v.1.0 | 0.0 MB | [download](https://github.com/koutsie/wavezbg/releases/download/MyEYES/wavezbg.prx) | [github](https://github.com/koutsie/wavezbg) |
 | WebFest | James Higgs (Jum) | v.1.2 | 0.6 MB | [download](https://archive.org/download/webfest-gbax-2007-entry.-7z/webfest_1.2.zip) | [archive.org](https://archive.org/details/webfest-gbax-2007-entry.-7z) |
 | WEBNAB | Dave Leaver (Danzel) | v.0.4a | 0.9 MB | [download](https://archive.org/download/webnab-0.4a2.7z/webnab-0.4a2.zip) | [archive.org](https://archive.org/details/webnab-0.4a2.7z) |
 | Wedge Racer | youresam | v.1.0 | 4.9 MB | [download](https://archive.org/download/wedgeracer.7z/wedgeracer.zip) | [archive.org](https://archive.org/details/wedgeracer.7z) |
@@ -3453,6 +3518,7 @@ what it was on the day the service went down.
 | WifiSniffer | Jean-Yves Lamoureux | v.1.0 | 0.4 MB | [download](https://archive.org/download/wi-fi-sniffer-0.1.7z/WifiSniffer.zip) | [archive.org](https://archive.org/details/wi-fi-sniffer-0.1.7z) |
 | Wii Shell | CoDnX | v.0.2 | 4.8 MB | [download](https://archive.org/download/wii-shell-v-0.2.7z/Wii%20Shell%20v0.2.zip) | [archive.org](https://archive.org/details/wii-shell-v-0.2.7z) |
 | Wild Bullet | PEPO | v.1.0 | 1.0 MB | [download](https://archive.org/download/wild-bullet/Wild_Bullet.zip) | [archive.org](https://archive.org/details/wild-bullet) |
+| WiliMini | wilimini | v.2.13 | 13.1 MB | [download](https://github.com/wilimini/WiliMini/releases/download/v2.13/WiliMini-v2.13.zip) | [github](https://github.com/wilimini/WiliMini) |
 | Windows 8 RT For PSP | Doga Ozkaraca | v.1.2 | 47.1 MB | [download](https://archive.org/download/projectsmyrna-dogaozkaraca-Win8forpspv1.2/projectsmyrna-dogaozkaraca-Win8forpspv1.2.zip) | [archive.org](https://archive.org/details/projectsmyrna-dogaozkaraca-Win8forpspv1.2) |
 | Windows Minesweeper | SiGi | v.1.0 | 0.6 MB | [download](https://archive.org/download/win-minesweeper-psp.-7z/WinMinesweeperPSP.zip) | [archive.org](https://archive.org/details/win-minesweeper-psp.-7z) |
 | Windows Vista PSP | Fred89 (The-Muse) | v.1.2 | 10.1 MB | [download](https://archive.org/download/windows-vista-version-1.2.7z/Windows_Vista_Version_1.2.zip) | [archive.org](https://archive.org/details/windows-vista-version-1.2.7z) |
@@ -3468,6 +3534,7 @@ what it was on the day the service went down.
 | Wolf3Dpsp | Wesley Daflita | v.6.1 | 7.4 MB | [download](https://archive.org/download/wolf3Dpsp_v6.1/wolf3Dpsp_v6.1.zip) | [archive.org](https://archive.org/details/wolf3Dpsp_v6.1) |
 | Wolf4SDL-PSP | André Guilherme (Wolf3s) | v.1.0 | 1.1 MB | [download](https://archive.org/download/wolf-4-sdl-psp.-v-1.0/Wolf4SDL-PSP.V1.0.zip) | [archive.org](https://archive.org/details/wolf-4-sdl-psp.-v-1.0) |
 | Wolf_in3D | febblin | v.1.0 | 33.3 MB | [download](https://archive.org/download/wolf_in3d/Wolf_in3D_v0_6.zip) | [archive.org](https://archive.org/details/wolf_in3d) |
+| Wolfenstein RPG PSP | dadcapgamer | v.0.1.0 | 1.2 MB | [download](https://github.com/dadcapgamer/WolfensteinRPG4PSP/releases/download/psp-v0.1.0/WolfensteinRPG4PSP-v0.1.0-alpha-PSP.zip) | [github](https://github.com/dadcapgamer/WolfensteinRPG4PSP) |
 | Wolfenstein3D PSP | Danny Glover | v.1.0 | 0.9 MB | [download](https://archive.org/download/wolf-3-d.-7z/Wolf3D.zip) | [archive.org](https://archive.org/details/wolf-3-d.-7z) |
 | Wordle PSP | Rohan Likhite | v.0.0.2 | 2.5 MB | [download](https://archive.org/download/wordle-psp-v-0.0.2/WordlePSP_v0.0.2.zip) | [archive.org](https://archive.org/details/wordle-psp-v-0.0.2) |
 | World of Chaos: Chapter One | Mr Chaos | v.1.0 | 1.9 MB | [download](https://archive.org/download/wo-c-ch.-1.7z/WoC_Ch.1.zip) | [archive.org](https://archive.org/details/wo-c-ch.-1.7z) |
@@ -3475,6 +3542,7 @@ what it was on the day the service went down.
 | World's Smallest Simplest Maze Generator | Po-Han Lin | v.1.0 | 0.1 MB | [download](https://archive.org/download/ssmg-00442-00000/ssmg.zip) | [archive.org](https://archive.org/details/ssmg-00442-00000) |
 | Worm Warrior | cdoty | v.1.0 | 6.2 MB | [download](https://archive.org/download/worm-warrior-psp.-7z/WormWarriorPSP.zip) | [archive.org](https://archive.org/details/worm-warrior-psp.-7z) |
 | Wormstation | JBskateur | v.1.0 | 0.8 MB | [download](https://archive.org/download/wormstation.7z/wormstation.zip) | [archive.org](https://archive.org/details/wormstation.7z) |
+| WoWee PSP | SandstoneDev | v.0.2.0 | 3.7 MB | [download](https://github.com/SandstoneDev/WoWee-psp-port/releases/download/v0.2.0/WoWeePSP-0.2.0.zip) | [github](https://github.com/SandstoneDev/WoWee-psp-port) |
 | Woxy Loungeacts Grabber | ModSyn | v.1.0 | 1.2 MB | [download](https://archive.org/download/woxy-lounge.-7z/WoxyLounge.zip) | [archive.org](https://archive.org/details/woxy-lounge.-7z) |
 | Wubly PSP | Chocodino | v.1.0 | 6.6 MB | [download](https://archive.org/download/wubly-psp.-7z/Wubly%20PSP.zip) | [archive.org](https://archive.org/details/wubly-psp.-7z) |
 | Wurstenstein PSP | Michal Procházka | v.1.0 | 1.6 MB | [download](https://archive.org/download/wurstenstein-psp/wurstenstein-psp.zip) | [archive.org](https://archive.org/details/wurstenstein-psp) |
@@ -3489,11 +3557,13 @@ what it was on the day the service went down.
 | xDownloader | J3r3mie | v.1.0 | 0.9 MB | [download](https://archive.org/download/xDownloaderv1.0.7z/xDownloaderv1.0.zip) | [archive.org](https://archive.org/details/xDownloaderv1.0.7z) |
 | xkazoku for PSP Lite | し～くる (shinshin319) | v.1.0 | 1.0 MB | [download](https://archive.org/download/xkazoku.7z/xkazoku_PSP_20050819exp.zip) | [archive.org](https://archive.org/details/xkazoku.7z) |
 | xlove生 for PSP | し～くる (shinshin319) | v.0.07 | 6.1 MB | [download](https://archive.org/download/xclannad-0.07.7z/xclannad-0.07.zip) | [archive.org](https://archive.org/details/xclannad-0.07.7z) |
+| XLT | boubounokefalos | v.1.3.1 | 2.2 MB | [download](https://github.com/boubounokefalos/xlt/releases/download/v1.3.1/XLT-1.3.1.zip) | [github](https://github.com/boubounokefalos/xlt) |
 | xmame for PSP | 稲尾様 (Inao-sama) | v.1.0 | 0.5 MB | [download](https://archive.org/download/mame.-7z/MAME.zip) | [archive.org](https://archive.org/details/mame.-7z) |
 | xMangaPSP | ChaoticXSinZ | v.0.1a | 0.6 MB | [download](https://archive.org/download/xMangaPSP_v0.1a3.7z/xMangaPSP_v0.1a4.zip) | [archive.org](https://archive.org/details/xMangaPSP_v0.1a3.7z) |
 | Xmas Keeper | N64Francois | v.1.0 | 8.5 MB | [download](https://archive.org/download/xmas-keeper/Xmas%20Keeper.zip) | [archive.org](https://archive.org/details/xmas-keeper) |
 | XMB Control | Frostegater | v.1.5.5 | 1.4 MB | [download](https://archive.org/download/xmbcontrol-v-1.4.7z/XMBControl%20ver.1.5.5.zip) | [archive.org](https://archive.org/details/xmbcontrol-v-1.4.7z) |
 | XMB Destroyer | yongobongo, lmtlmt, Phlippi | v.1.0 | 1.9 MB | [download](https://archive.org/download/xmb_destroyer.7z/xmb_destroyer.zip) | [archive.org](https://archive.org/details/xmb_destroyer.7z) |
+| XMB Game Cache | beckerd | v.1.8 | 0.0 MB | [download](https://github.com/beckerd/xmb_gamecache/releases/download/v1.8/xmb_gamecache.prx) | [github](https://github.com/beckerd/xmb_gamecache) |
 | XMB Screensaver | Brek Martin (Art) | v.1.0 | 0.3 MB | [download](https://archive.org/download/xmb-screensaver-v-2.7z/XMB_Screensaver_V2.zip) | [archive.org](https://archive.org/details/xmb-screensaver-v-2.7z) |
 | XMBShell | Total_Noob | v.1.0 | 2.4 MB | [download](https://archive.org/download/xmbshell-installer/XMBShellInstaller.zip) | [archive.org](https://archive.org/details/xmbshell-installer) |
 | Xonergy | Team Zenyth | v.1.0 | 2.8 MB | [download](https://archive.org/download/xonergy.-7z/Xonergy.zip) | [archive.org](https://archive.org/details/xonergy.-7z) |
@@ -3572,4 +3642,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3548 entries, 25.6 GB in total.
+3618 entries, 25.7 GB in total.
