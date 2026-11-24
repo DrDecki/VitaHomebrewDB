@@ -75,7 +75,8 @@ print('param.sfo: TITLE=%s TITLE_ID=%s APP_VER=%s' % (
 
 name = a.name or sfo.get('TITLE', '')
 titleid = a.titleid or sfo.get('TITLE_ID', '')
-version = a.version or ('v.' + str(sfo.get('APP_VER', '1.00')).lstrip('0') or 'v.1.0')
+_av = __import__('re').sub(r'^0+(?=\d)', '', str(sfo.get('APP_VER', '01.00')))
+version = a.version or ('v.' + _av if __import__('re').search(r'[1-9]', _av) else 'v.1.0')
 
 if not icon_data:
     icon_file = '18746b487153dc1ca3d728ce57b841b6e8faeca65a0900aa46864f73d07642c8.png'

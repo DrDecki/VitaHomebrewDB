@@ -125,7 +125,7 @@ what it was on the day the service went down.
 | FlashVita | robin994 | v.0.15.31-alpha.1 | 4.2 MB | [download](https://github.com/robin994/FlashVita/releases/download/v0.15.31-alpha.1/FlashVita-v0.15.31-alpha.1.vpk) | [github](https://github.com/robin994/FlashVita) |
 | FTP for Vita | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/FTP-for-Vita/releases/download/v1.0.0/FTPForVita.vpk) | [github](https://github.com/M-Essa11/FTP-for-Vita) |
 | FTPzilla Vita | DavisDev | v.0.90 | 2.0 MB | [download](https://github.com/DavisDev/FtpzillaVita/releases/download/0.90/FtpzillaVita.vpk) | [github](https://github.com/DavisDev/FtpzillaVita) |
-| Funky n Frank | SoulTieGames | v..00 | 37.3 MB | [download](https://github.com/SoulTieGames/FunkynFrank-Vita/releases/download/psVita/FunkynFrank_Vita1.0.VPK) | [github](https://github.com/SoulTieGames/FunkynFrank-Vita) |
+| Funky n Frank | SoulTieGames | v.1.0 | 37.3 MB | [download](https://github.com/SoulTieGames/FunkynFrank-Vita/releases/download/psVita/FunkynFrank_Vita1.0.VPK) | [github](https://github.com/SoulTieGames/FunkynFrank-Vita) |
 | Fury3 | StaticLift | v.1.01 | 3.0 MB | [download](https://github.com/StaticLift/fury3/releases/download/v1.01/fury3.vpk) | [github](https://github.com/StaticLift/fury3) |
 | GBS | Camzer | v.1.2.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/gbs-1.2.0.vpk) | [gitlab](https://gitlab.com/camzer/gbs) |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [github](https://github.com/oestriot/GcToolKit) |
@@ -361,7 +361,7 @@ what it was on the day the service went down.
 | Star Swarm | AnTaiCa | v.1.49 | 75.1 MB | [download](https://github.com/AnTaiCa/starswarm-vita/releases/download/v1.49/StarSwarm.vpk) | [github](https://github.com/AnTaiCa/starswarm-vita) |
 | Star Wars Battlefront II | tezla55 | v.beta | 6.5 MB | [download](https://github.com/tezla55/swbf2-vita/releases/download/beta/swbf2-vita.vpk) | [github](https://github.com/tezla55/swbf2-vita) |
 | Star Wars Episode I: The Phantom Menace | Bit | v.2.1 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1803-star-wars-episode-i-the-phantom-menace-2.1.vpk) | [psx-place.com](https://www.psx-place.com/threads/star-wars-episode-i-the-phantom-menace-ps-vita-port.51309/) |
-| StarCraft | KP77C | v. | 1.3 MB | [download](https://github.com/KP77C/StarCraft-Vita/releases/download/starcraftvita/scvita.vpk) | [github](https://github.com/KP77C/StarCraft-Vita) |
+| StarCraft | KP77C | v.1.0 | 1.3 MB | [download](https://github.com/KP77C/StarCraft-Vita/releases/download/starcraftvita/scvita.vpk) | [github](https://github.com/KP77C/StarCraft-Vita) |
 | Steel Blossom: Vita | illestalive | v.01.01 | 4.7 MB | [download](https://github.com/elliottwahl/Steel-Blossom-PSP/releases/download/v01.01/SteelBlossomVita.vpk) | [github](https://github.com/elliottwahl/Steel-Blossom-PSP) |
 | StepMania 5 | Luckyl13l | v.b123 | 41.7 MB | [download](https://github.com/LuckyI13I/stepmania-psvita/releases/download/b123/StepMania5-Vita50-b123.vpk) | [github](https://github.com/LuckyI13I/stepmania-psvita) |
 | Storage Manager | StaticLift | v.1.0 | 0.5 MB | [download](https://github.com/StaticLift/vita-storage-manager/releases/download/v1.0/VitaStorageManager.vpk) | [github](https://github.com/StaticLift/vita-storage-manager) |
@@ -377,7 +377,7 @@ what it was on the day the service went down.
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [github](https://github.com/theheroGAC/SuperTux-PSVITA) |
 | SuperTuxKart | edgarlugo | v.1.01 | 11.7 MB | [download](https://github.com/edgarlugo/stk-code/releases/download/vita-1.01/supertuxkart.vpk) | [github](https://github.com/edgarlugo/stk-code/tree/vita-port) [github](https://github.com/edgarlugo/stk-code/releases) |
 | Syncthing | GeoffreyMetais | v.0.2.0 | 1.4 MB | [download](https://github.com/GeoffreyMetais/syncthing-vita/releases/download/v0.2.0/SYNCTHING.vpk) | [github](https://github.com/GeoffreyMetais/syncthing-vita) |
-| Tails Adventure | kennyheidi | v..00 | 4.9 MB | [download](https://github.com/kennyheidi/tails-adventure-vita/releases/download/Release/TailsAdventureSDL.vpk) | [github](https://github.com/kennyheidi/tails-adventure-vita) |
+| Tails Adventure | kennyheidi | v.1.0 | 4.9 MB | [download](https://github.com/kennyheidi/tails-adventure-vita/releases/download/Release/TailsAdventureSDL.vpk) | [github](https://github.com/kennyheidi/tails-adventure-vita) |
 | Tanks 2027 | Ports Collection | v.1.3 | 2.5 MB | [download](https://github.com/LokiDSx/Tanks-2027/releases/download/v1.3/Tanks.vpk) | [github](https://github.com/LokiDSx/Tanks-2027) |
 | Temple Run | MetalSyntax | v.0.1 | 2.8 MB | [download](https://github.com/MetalSyntax/Temple-Run-iOS-vita/releases/download/v0.1/templerun.vpk) | [github](https://github.com/MetalSyntax/Temple-Run-iOS-vita) |
 | Test Drive II | smart-pickle | v.0.2 | 1.3 MB | [download](https://github.com/smart-pickle/TestDriveII-Vita/releases/download/v0.2/TestDrive2Vita.vpk) | [github](https://github.com/smart-pickle/TestDriveII-Vita) |
