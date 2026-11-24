@@ -1,5 +1,35 @@
 [
     {
+        "name": "mofa-vita",
+        "icon": "43122887407ca74c3137f68a8f0c0e1c4d6957dda0257be93bae152ca2991b07.png",
+        "version": "v.1.20",
+        "author": "ATSPwang618 & DeQxJ00 & SpriteLisen",
+        "type": "2",
+        "description": "Native PSVita engine for Witch on the Holy Night, based on knife.",
+        "id": "5082",
+        "date": "2026-11-24",
+        "titleid": "KNIF00540",
+        "screenshots": "",
+        "long_description": "Native GXM engine for Witch on the Holy Night (Mahoutsukai no Yoru), based on AuroraWright's knife. Reads converted Switch game data from ux0:data/WitchontheHolyNight/assets/.",
+        "downloads": "0",
+        "status": "0",
+        "source": "https://github.com/ATSPwang618/mofa-vita",
+        "release_page": "https://github.com/ATSPwang618/mofa-vita/releases",
+        "trailer": "",
+        "size": "4938904",
+        "data_size": "0",
+        "hash": "57032226c369a6d6e1428be707456fa7",
+        "hash2": "",
+        "changelog": "- First Release",
+        "requirements": "- Game Data Files: your own copy of Witch on the Holy Night (Switch), converted with prepare-mofa-vita.py",
+        "trophies": "0",
+        "tags": "",
+        "score": "0",
+        "url": "https://github.com/ATSPwang618/mofa-vita/releases/download/1.20/mofa-vita-1.20.vpk",
+        "data": "",
+        "added": "2026-11-24T20:39:17Z"
+    },
+    {
         "name": "Shards of Dawn",
         "icon": "b11de2e6e519249f82f4d2ea8ac8c7d1c60aacc30531df0d9e63da17d95ab327.png",
         "version": "v.12.07",
@@ -25357,10 +25387,10 @@
         "trophies": "0",
         "tags": "",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.zip",
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.vpk",
         "data": "",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-19T20:01:48Z"
+        "updated": "2026-11-24T20:37:42Z"
     },
     {
         "name": "ChimeraSNES",

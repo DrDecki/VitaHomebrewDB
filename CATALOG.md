@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1524)
+## PSVITA homebrews (1525)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -691,6 +691,7 @@ Every entry, with the download it currently points at. The ones added since
 | MLTactivator | MiraLaTijera & Draqen | FIX2 | 0.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/301-MLTactivatorFIX2.vpk) | [wololo.net](http://wololo.net/2017/08/14/mltactivator-activate-ps-vita-offline/) |
 | Mobility | Markus95 | v.1.0 | 20.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/722-Mobility.vpk) | — |
 | modoru | TheFloW | v.2.3 | 0.1 MB | [download](https://github.com/TheOfficialFloW/modoru/releases/download/v2.3/modoru.vpk) | [github](https://github.com/TheOfficialFloW/modoru) |
+| mofa-vita | ATSPwang618 & DeQxJ00 & SpriteLisen | v.1.20 | 4.7 MB | [download](https://github.com/ATSPwang618/mofa-vita/releases/download/1.20/mofa-vita-1.20.vpk) | [github](https://github.com/ATSPwang618/mofa-vita) |
 | Mog Vita | withLogic | v.1.0 | 2.3 MB | [download](https://github.com/withLogic/mog-vita/releases/download/v1.0/mog.vpk) | [github](https://github.com/withLogic/mog-vita) |
 | Monster Hunter 4 Ultimate | SaNch0sE | v.0.4.3-beta | 8.1 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.4.3-beta/Azahar-MH4U-0.4.3-beta.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
@@ -731,7 +732,7 @@ Every entry, with the download it currently points at. The ones added since
 | NetStream | GrapheneCt | v.3.35 | 4.1 MB | [download](https://github.com/GrapheneCt/NetStream/releases/download/v3.35/NetStream.vpk) | [github](https://github.com/GrapheneCt/NetStream) |
 | Neverball Vita | Rinnegatamante | v.1.0 | 1.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/873-neverball.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverball-vita-port-of-neverball-for-psvita.38247/) |
 | Neverputt Vita | Rinnegatamante | v.1.0 | 1.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/874-neverputt.vpk) | [github](https://github.com/Rinnegatamante/neverball) [psx-place.com](https://www.psx-place.com/threads/release-neverputt-vita-port-of-neverputt-for-psvita-pstv.38248/) |
-| NextBot For PSVita | SoyKhaler | v.0.2 | 32.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.zip) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
+| NextBot For PSVita | SoyKhaler | v.0.2 | 32.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1155-nextbot-for-psvita-0.2.vpk) | [itch.io](https://soykhaler.itch.io/nextbots-for-psvita) |
 | NFS Carbon | Swisha33 | v.0.1.7 | 14.4 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.7/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
@@ -1532,7 +1533,7 @@ Every entry, with the download it currently points at. The ones added since
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (180)
+## Plugins (181)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -1617,6 +1618,7 @@ Every entry, with the download it currently points at. The ones added since
 | PasteUnlock | GrapheneCt | v.1.0 | 0.0 MB | [download](https://github.com/GrapheneCt/PasteUnlock/releases/download/v1.0/PasteUnlock.suprx) | [github](https://github.com/GrapheneCt/PasteUnlock) |
 | pngshot | xyzz | v.1.3 | 0.1 MB | [download](https://github.com/xyzz/pngshot/releases/download/v1.3/pngshot.suprx) | [github](https://github.com/xyzz/pngshot) |
 | Pocketstation Unlocker | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/PocketstationUnlocker/releases/download/v1.1/pocketstationunlocker.skprx) | [git.silica.codes](https://git.silica.codes/Li/PocketstationUnlocker) |
+| Project Diva F2nd 60FPS | Pucas01 | v.1.0.0 | 0.0 MB | [download](https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher/releases/download/1.0.0/f2nd60fps.suprx) | [github](https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher) |
 | PSP2-CustomBootSplash | Princess-Of-Sleeping | v.1.0 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash/releases/download/v1.0/custom_boot_splash.skprx) | [github](https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash) |
 | psp2shell | cpasjuste | v.2022.03.09 | 0.0 MB | [download](https://github.com/Cpasjuste/psp2shell/releases/download/2022.03.09/psp2shell-2022.03.09.zip) | [github](https://github.com/cpasjuste/psp2shell) |
 | psp2wpp | Princess-Of-Sleeping | v.1.1.4 | 0.0 MB | [download](https://github.com/Princess-of-Sleeping/psp2wpp/releases/download/v1.1.4/psp2wpp.suprx) | [github](https://github.com/Princess-of-Sleeping/psp2wpp) |
@@ -1665,7 +1667,7 @@ Every entry, with the download it currently points at. The ones added since
 | TurboPad | Rinnegatamante | v.0.3 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TurboPad.zip) | [github](https://github.com/Rinnegatamante/TurboPad/) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48065&p=418081#p418081) |
 | tvikey | isage | v.1.0 | 0.0 MB | [download](https://github.com/isage/tvikey/releases/download/v1.0/tvikey.skprx) | [github](https://github.com/isage/tvikey) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [github](https://github.com/SJK132/uac-pstv-host) |
-| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [github](https://github.com/devnoname120/vita-udcd-uvc) |
+| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [github](https://github.com/xerpi/vita-udcd-uvc) |
 | Ultimate VSH Menu | joel16 | Test Build | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/244-ultimatevshmenuvita.7z) | — |
 | Uncharted Trainer | vosman | v.1.03 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/86-unchartedtrainervita.7z) | — |
 | Unit13 Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/85-unit13trainervita.7z) | — |
@@ -4930,4 +4932,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4907 entries, 55.4 GB in total.
+4909 entries, 55.4 GB in total.

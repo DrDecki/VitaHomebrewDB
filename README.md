@@ -25,13 +25,13 @@ rebuilt from a repository.
 <!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
-| PSVITA homebrews | 1013 | 1012 |
+| PSVITA homebrews | 1013 | 1013 |
 | Plugins | 123 | 123 |
 | PSP homebrews | 126 | 126 |
 | PC tools | 27 | 27 |
-| **Total** | **1289** | **1288 (99%)** |
+| **Total** | **1289** | **1289 (100%)** |
 
-The table above counts the catalog as it stood on 2026-07-31. Another 3618 entries
+The table above counts the catalog as it stood on 2026-07-31. Another 3620 entries
 have been added since, from VitaDB, from the authors themselves and from the wider
 scene; those are listed separately in [ADDED.md](ADDED.md).
 
@@ -40,15 +40,12 @@ scene; those are listed separately in [ADDED.md](ADDED.md).
 | Asset | Recovered |
 | --- | ---: |
 | Metadata | 100% (1289 entries) |
-| Icons | 100% (3954) |
+| Icons | 100% (3955) |
 | Data files | 0 missing |
 | In-game trophies | 28 sets |
 
-### Help wanted
-
-**1 downloads and 0 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
-
-This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
+Nothing is missing right now. [WANTED.md](WANTED.md) fills up again
+if a link breaks or an entry turns up without one.
 <!-- /STATS -->
 
 ## Files
