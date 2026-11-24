@@ -29,7 +29,7 @@ what it was on the day the service went down.
 | Arcaea | MemoryHunter | v.1.0 | 2.6 MB | [download](https://github.com/memory-hunter/arcaea-vita/releases/download/1.0/arcaea.vpk) | [github](https://github.com/memory-hunter/arcaea-vita) |
 | Area Play Vita Edition | NexArea-Official | v.1.1 | 4.8 MB | [download](https://github.com/NexArea-Official/AreaPlay/releases/download/V1.1/AreaPlay.vpk) | [github](https://github.com/NexArea-Official/AreaPlay) |
 | Army of Darkness Defense | PiSCES | v.1.1.1 | 3.4 MB | [download](https://github.com/P1R4N351/army-of-darkness-defense-vita/releases/download/v1.1.1/aod_vita.vpk) | [github](https://github.com/P1R4N351/army-of-darkness-defense-vita) |
-| Art3m1sPSV | DeQxJ00 | v.1.5.4 | 29.0 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.4/Art3m1sPSV-v1.5.4.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
+| Art3m1sPSV | DeQxJ00 | v.1.5.5 | 29.3 MB | [download](https://github.com/DeQxJ00/Art3m1sPSV/releases/download/v1.5.5/Art3m1sPSV-v1.5.5.vpk) | [github](https://github.com/DeQxJ00/Art3m1sPSV) |
 | Assassin's Creed Pirates | Cynostial | v.0.81-beta | 5.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/assassin-s-creed-pirates-v0.81beta.vpk) | [github](https://github.com/Cynostial/ac-pirates-vita) |
 | Autoboot Config | DavisDev | v.1.20 | 2.5 MB | [download](https://github.com/DavisDev/AutobootConf/releases/download/1.20/AutobootConf.vpk) | [github](https://github.com/DavisDev/AutobootConf) |
 | Azahar | Grarak | v.0.1.0 | 8.1 MB | [download](https://github.com/Grarak/azahar/releases/download/0.1.0/azahar_vita.vpk) | [github](https://github.com/Grarak/azahar) |
@@ -142,7 +142,7 @@ what it was on the day the service went down.
 | Halyard | Wasabules | v.0.1.0 | 5.2 MB | [download](https://github.com/Wasabules/Halyard/releases/download/v0.1.0/halyard.vpk) | [github](https://github.com/Wasabules/Halyard) |
 | Happy Wheels | teedoofgames | v.0.1.3 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/HappyWheels.vpk) | [itch.io](https://teedoofgames.itch.io/happy-wheels-psvita) |
 | Hard Time III | ValencyLK | v.1 | 2.4 MB | [download](https://github.com/ValencyLK/hardtime3-vita/releases/download/V1/hardtime3.vpk) | [github](https://github.com/ValencyLK/hardtime3-vita) |
-| HardRPG | Asukate | v.0.6.0-alpha | 29.4 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.6.0-alpha/HardRPG-0.6.0.vpk) | [github](https://github.com/Asukate/mkxp-z-vita) |
+| HardRPG | Asukate | v.0.6.1-alpha | 29.6 MB | [download](https://github.com/Asukate/mkxp-z-vita/releases/download/v0.6.1-alpha/HardRPG-0.6.1.vpk) | [github](https://github.com/Asukate/mkxp-z-vita) |
 | He-Man | DominicanNY | v.1.0 | 2.1 MB | [download](https://github.com/gmejia11/he-man_vita/releases/download/v1.0/heman.vpk) | [github](https://github.com/gmejia11/he-man_vita) |
 | Heavy Weapon Deluxe | Chillaxhson | v.1.1.0 | 3.0 MB | [download](https://github.com/Chillaxhson/heavy-weapon-deluxe-vita/releases/download/v1.1.0/HeavyWeaponDeluxe-v1.1.0.vpk) | [github](https://github.com/Chillaxhson/heavy-weapon-deluxe-vita) |
 | Hebdomad: Seven Vigils | Thanh Minh | v.1.1.0 | 2.1 MB | [download](https://github.com/0x4d696e68/Hebdomad/releases/download/v1.1.0/hebdomad.vpk) | [github](https://github.com/0x4d696e68/Hebdomad) |
@@ -190,7 +190,7 @@ what it was on the day the service went down.
 | LocalSend | resashkin | v.1.15.4-vita.2 | 19.2 MB | [download](https://github.com/flutter-vita/localsend/releases/download/v1.15.4-vita.2/LocalSend-1.15.4-vita.2.vpk) | [github](https://github.com/flutter-vita/localsend) |
 | LOLIcon Switch | MERLev | v.0.01 | 0.0 MB | [download](https://github.com/MERLev/LOLIconSwitch/releases/download/0.01/vita-lolicon-switch.vpk) | [github](https://github.com/MERLev/LOLIconSwitch) |
 | LSD Revamped | arielxflores | v.1.0 | 1.1 MB | [download](https://github.com/arielxflores/LSDRevamped-Vita/releases/download/v1.0/LSDRevamped-Vita.vpk) | [github](https://github.com/arielxflores/LSDRevamped-Vita) |
-| Manhunt | xesf | v.0.10.0 | 1.7 MB | [download](https://github.com/xesf/manhunt-releases/releases/download/v0.10.0/manhunt-v0.10.0-vita.vpk) | [github](https://github.com/xesf/manhunt-releases) |
+| Manhunt | xesf | v.0.10.2 | 1.8 MB | [download](https://github.com/xesf/manhunt-releases/releases/download/v0.10.2/manhunt-v0.10.2-vita.vpk) | [github](https://github.com/xesf/manhunt-releases) |
 | maniaVita | sadports102 | v.1.1.0 | 4.1 MB | [download](https://github.com/sadports102/mania-vita/releases/download/v1.1.0/maniavitav1.1.0.vpk) | [github](https://github.com/sadports102/mania-vita) |
 | Manx TT Superbike | RetroValou | v.1.0.1 | 3.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/manx-tt-superbike-1.0.1.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
 | Mario Kart DS | PupueStudios | v.1.2 | 2.2 MB | [download](https://github.com/PupueStudios/mkds-vita/releases/download/v1.2/mkds.vpk) | [github](https://github.com/PupueStudios/mkds-vita) |
@@ -203,7 +203,7 @@ what it was on the day the service went down.
 | Minecraft: Story Mode | LeZergan | v.1.19 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1450-minecraft-story-mode-1.19.vpk) | [github](https://github.com/LeZergan/mcsm-vita) |
 | MKW Retro Rewind | boomannotjeff | v.1.4.2 | 2.4 MB | [download](https://github.com/boomannotjeff/mkwiita/releases/download/1.4.2/mkw-retro-rewind.vpk) | [github](https://github.com/boomannotjeff/mkwiita) |
 | mofa-vita | ATSPwang618 & DeQxJ00 & SpriteLisen | v.1.20 | 4.7 MB | [download](https://github.com/ATSPwang618/mofa-vita/releases/download/1.20/mofa-vita-1.20.vpk) | [github](https://github.com/ATSPwang618/mofa-vita) |
-| Monster Hunter 4 Ultimate | SaNch0sE | v.0.4-beta | 8.1 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.4-beta/Azahar-MH4U-0.4-beta.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
+| Monster Hunter 4 Ultimate | SaNch0sE | v.0.4.3-beta | 8.1 MB | [download](https://github.com/SaNch0sE/azahar-vita-mh4u/releases/download/0.4.3-beta/Azahar-MH4U-0.4.3-beta.vpk) | [github](https://github.com/SaNch0sE/azahar-vita-mh4u) |
 | Monster Hunter Tri | Grarak | v.0.3.1 | 19.0 MB | [download](https://github.com/Grarak/mh3-wii/releases/download/0.3.1/mh3-vita.vpk) | [github](https://github.com/Grarak/mh3-wii) |
 | Monster Shooter | RaZorGaToR | v.1.2 | 0.9 MB | [download](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita/releases/download/v1.2/monstershooter.vpk) | [github](https://github.com/Federicoilgrandebardo/MonsterShooter-Vita) |
 | Moonchild | Knuxfan | v.1.0 | 43.2 MB | [download](https://codeberg.org/knfn/moonchild-portable/releases/download/0.0.1/moonchild.vpk) | [codeberg.org](https://codeberg.org/knfn/moonchild-portable) |
@@ -222,7 +222,7 @@ what it was on the day the service went down.
 | NeoVitaDB Downloader | robin994 \& Rinnegatamante | v.2.9.1 | 3.8 MB | [download](https://github.com/robin994/NeoVitaDB-Downloader/releases/download/v2.9.1/NeoVitaDB.vpk) | [github](https://github.com/robin994/NeoVitaDB-Downloader) |
 | nestfolder | emrhky | v.1.0.3 | 0.1 MB | [download](https://github.com/emrhky/nestfolder/releases/download/v1.0.3/nestfolder.vpk) | [github](https://github.com/emrhky/nestfolder) |
 | NetStream | GrapheneCt | v.3.35 | 4.1 MB | [download](https://github.com/GrapheneCt/NetStream/releases/download/v3.35/NetStream.vpk) | [github](https://github.com/GrapheneCt/NetStream) |
-| NFS Carbon | Swisha33 | v.0.1.5 | 13.8 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.5/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
+| NFS Carbon | Swisha33 | v.0.1.7 | 14.4 MB | [download](https://github.com/Swisha33/NFSCVita/releases/download/v0.1.7/NFSCVita.vpk) | [github](https://github.com/Swisha33/NFSCVita) |
 | NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Most Wanted (germanalvarez15) | germanalvarez15 | v.1.6.2 | 3.1 MB | [download](https://github.com/germanalvarez15/nfsmw-vita/releases/download/1.6.2/nfsmw.vpk) | [github](https://github.com/germanalvarez15/nfsmw-vita) |
@@ -264,7 +264,7 @@ what it was on the day the service went down.
 | PCSX ReArcade | frangarcj | v.0.3 | 7.2 MB | [download](https://github.com/frangarcj/pcsx_rearmed/releases/download/v0.3/pcsx-rearcade.vpk) | [github](https://github.com/frangarcj/pcsx_rearmed) |
 | PeelGallery | AlecksPV1 | v.1.0 | 4.1 MB | [download](https://github.com/AlecksPV1/PeelGallery/releases/download/v1.0/PeelGallery.vpk) | [github](https://github.com/aleckspv1/peelgallery) |
 | PES 2012 | MetalSyntax | v.0.1.0 | 1.7 MB | [download](https://github.com/MetalSyntax/PES-2012-iOS-vita/releases/download/v0.1.0/pes2012ios.vpk) | [github](https://github.com/MetalSyntax/PES-2012-iOS-vita) |
-| PES 6 | germanalvarez15 | v.0.0.4-beta | 26.0 MB | [download](https://github.com/germanalvarez15/pes6-vita/releases/download/0.0.4-beta/pes6vita.vpk) | [github](https://github.com/germanalvarez15/pes6-vita) |
+| PES 6 | germanalvarez15 | v.0.0.6-beta | 26.0 MB | [download](https://github.com/germanalvarez15/pes6-vita/releases/download/0.0.6-beta/pes6vita.vpk) | [github](https://github.com/germanalvarez15/pes6-vita) |
 | Pikmin | bren | v.0.0.1 | 3.5 MB | [download](https://github.com/Brendonm17/Open-Nectar-Vita/releases/download/v0.0.1/Pikmin-Vita-v0.0.1.vpk) | [github](https://github.com/Brendonm17/Open-Nectar-Vita) |
 | Pinball NS | astro-plane | v.1.1 | 0.5 MB | [download](https://github.com/astro-plane/Pinball-NS-VITA-EDITION/releases/download/v1.1/PinballNS.vpk) | [github](https://github.com/astro-plane/Pinball-NS-VITA-EDITION) |
 | Pixel Acres | ETX Vantage | v.0.8.1 | 38.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/PixelAcresVita.vpk) | [etxvantage.com](https://etxvantage.com/products/pixel-acres) |
@@ -299,7 +299,7 @@ what it was on the day the service went down.
 | Real Racing 2 | CHUTA7X | v.1.0.0 | 6.1 MB | [download](https://github.com/CHUTA7X/Real-Racing-2-Vita-Port-Release/releases/download/VitaPort/RR2Vita_Public_Beta_1.0.0.vpk) | [github](https://github.com/chuta7x/real-racing-2-vita-port-release) |
 | Real Racing 3 | CHUTA7X | v.3.6.3 | 8.2 MB | [download](https://github.com/CHUTA7X/Real-Racing-3-Port-Release/releases/download/Update3.6.3/RR3_v3.6.3_reemplaza_la_1.4.0.vpk) | [github](https://github.com/CHUTA7X/Real-Racing-3-Port-Release) |
 | Real Racing HD | MetalSyntax | v.1.0.0 | 2.2 MB | [download](https://github.com/MetalSyntax/Real-Racing-HD-vita/releases/download/v1.0.0/realracinghd.vpk) | [github](https://github.com/MetalSyntax/Real-Racing-HD-vita) |
-| ReBOX | Reyanon | v.0.14.80 | 8.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rebox-v0.14.80.vpk) | [github](https://github.com/Reyanon/ReBOX) |
+| ReBOX | Reyanon | v.0.15.1 | 8.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rebox-0.15.1.vpk) | [github](https://github.com/Reyanon/ReBOX) |
 | Red Viper | PupueStudios | v.1.1 | 7.8 MB | [download](https://github.com/PupueStudios/red-viper-vita/releases/download/v1.1/red_viper.vpk) | [github](https://github.com/PupueStudios/red-viper-vita) |
 | ReiREM | Reyanon | v.0.1.400 | 1.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/reirem-0.1.400.vpk) | [github](https://github.com/Reyanon/reirem) |
 | Renegade Vita | TheGh0stShip | v.A3.5-dev142 | 3.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/RenegadeVita.vpk) | [github](https://github.com/TheGh0stShip/Renegade-Vita-Demo) |
@@ -376,7 +376,7 @@ what it was on the day the service went down.
 | SuperTux (effL) | effL | v.0.40 | 80.1 MB | [download](https://github.com/git-effl/supertux-vita/releases/download/v0.40/supertux-vita.vpk) | [github](https://github.com/git-effl/supertux-vita) |
 | SuperTux Classic | theheroGAC | v.1.04 | 10.0 MB | [download](https://github.com/theheroGAC/SuperTux-PSVITA/releases/download/1.04/SuperTux-PSVITA.vpk) | [github](https://github.com/theheroGAC/SuperTux-PSVITA) |
 | SuperTuxKart | edgarlugo | v.1.01 | 11.7 MB | [download](https://github.com/edgarlugo/stk-code/releases/download/vita-1.01/supertuxkart.vpk) | [github](https://github.com/edgarlugo/stk-code/tree/vita-port) [github](https://github.com/edgarlugo/stk-code/releases) |
-| Syncthing | GeoffreyMetais | v.0.1.0 | 1.3 MB | [download](https://github.com/GeoffreyMetais/syncthing-vita/releases/download/v0.1.0/SYNCTHING.vpk) | [github](https://github.com/GeoffreyMetais/syncthing-vita) |
+| Syncthing | GeoffreyMetais | v.0.2.0 | 1.4 MB | [download](https://github.com/GeoffreyMetais/syncthing-vita/releases/download/v0.2.0/SYNCTHING.vpk) | [github](https://github.com/GeoffreyMetais/syncthing-vita) |
 | Tails Adventure | kennyheidi | v..00 | 4.9 MB | [download](https://github.com/kennyheidi/tails-adventure-vita/releases/download/Release/TailsAdventureSDL.vpk) | [github](https://github.com/kennyheidi/tails-adventure-vita) |
 | Tanks 2027 | Ports Collection | v.1.3 | 2.5 MB | [download](https://github.com/LokiDSx/Tanks-2027/releases/download/v1.3/Tanks.vpk) | [github](https://github.com/LokiDSx/Tanks-2027) |
 | Temple Run | MetalSyntax | v.0.1 | 2.8 MB | [download](https://github.com/MetalSyntax/Temple-Run-iOS-vita/releases/download/v0.1/templerun.vpk) | [github](https://github.com/MetalSyntax/Temple-Run-iOS-vita) |
@@ -391,7 +391,7 @@ what it was on the day the service went down.
 | The King of Fighters '95 | seba371375 | v.1.0.0 | 13.6 MB | [download](https://github.com/seba371375/kof95sr/releases/download/v1.0.0/kof95.vpk) | [github](https://github.com/seba371375/kof95sr) |
 | The Ledge | James Beaufort | v.0.34 | 61.3 MB | [download](https://github.com/beaufortribbons/The-Ledge-Vita/releases/download/v0.34/The-Ledge-Vita-0.34.vpk) | [github](https://github.com/beaufortribbons/The-Ledge-Vita) |
 | THE RHYTHM OF FIGHTERS | MDashK | v.1.4.1 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/rof.vpk) | [github](https://github.com/MDashK/rof-vita) |
-| The Sims | marcocatena | v.1.2 | 4.8 MB | [download](https://github.com/marcocatena/TheSimsVita-release/releases/download/v1.2/TheSimsVita-v1.2.vpk) | [github](https://github.com/marcocatena/TheSimsVita-release) |
+| The Sims | marcocatena | v.1.2.1 | 4.8 MB | [download](https://github.com/marcocatena/TheSimsVita-release/releases/download/v1.2.1/TheSimsVita-v1.2.1.vpk) | [github](https://github.com/marcocatena/TheSimsVita-release) |
 | The Sims 3 | MetalSyntax | v.0.1 | 2.3 MB | [download](https://github.com/MetalSyntax/The-Sims-3-iOS-vita/releases/download/v0.1/thesims3ios.vpk) | [github](https://github.com/MetalSyntax/The-Sims-3-iOS-vita) |
 | The Sims 3 Ambitions | MetalSyntax | v.0.1 | 2.4 MB | [download](https://github.com/MetalSyntax/The-Sims-3-Ambitions-iOS-vita/releases/download/v0.1/sims3ambitions.vpk) | [github](https://github.com/MetalSyntax/The-Sims-3-Ambitions-iOS-vita) |
 | The Sims Medieval | MetalSyntax | v.0.1 | 2.8 MB | [download](https://github.com/MetalSyntax/The-Sims-Medieval-iOS-vita/releases/download/v0.1/simsmedieval.vpk) | [github](https://github.com/MetalSyntax/The-Sims-Medieval-iOS-vita) |
@@ -429,7 +429,7 @@ what it was on the day the service went down.
 | Unciv | JAKLI78 | v.0.1 | 74.7 MB | [download](https://github.com/JAKLI78/Unciv_ps_vita/releases/download/0.1/Unciv_0.1.vpk) | [github](https://github.com/JAKLI78/Unciv_ps_vita) |
 | Undertale Yellow | WolffsRoom | v.0.1 | 1.8 MB | [download](https://github.com/WolffsRoom/UndertaleYellowVita/releases/download/v0.1/UndertaleYellowVita-v0.1.vpk) | [github](https://github.com/WolffsRoom/UndertaleYellowVita) |
 | VagaChatVITA | Frxn5J | v.0.1.0 | 2.4 MB | [download](https://github.com/Frxn5J/VagaChatVITA/releases/download/0.1.0/VagaChatVITA.vpk) | [github](https://github.com/Frxn5J/VagaChatVITA) |
-| Valdis Story | Botarguirix | v.0.7.0-alpha | 1.5 MB | [download](https://github.com/Botarguirix/ValdisStoryVita/releases/download/v0.7.0-alpha/vsvita.vpk) | [github](https://github.com/Botarguirix/ValdisStoryVita) |
+| Valdis Story | Botarguirix | v.0.8.0-alpha | 1.6 MB | [download](https://github.com/Botarguirix/ValdisStoryVita/releases/download/v0.8.0-alpha/vsvita.vpk) | [github](https://github.com/Botarguirix/ValdisStoryVita) |
 | Vampire Survivors | RaZorGaToR | v.1.2.1 | 12.7 MB | [download](https://github.com/Federicoilgrandebardo/vampire-survivors-vita/releases/download/v1.2.1/VampireSurvivors-Vita-v1.2.1.vpk) | [github](https://github.com/Federicoilgrandebardo/vampire-survivors-vita) |
 | VBackup | GrapheneCt | v.1.03 | 0.3 MB | [download](https://github.com/GrapheneCt/VBackup/releases/download/v1.03/VBackup.vpk) | [github](https://github.com/GrapheneCt/VBackup) |
 | Vector | PKpro4 | v.1.0.0 | 0.7 MB | [download](https://github.com/PKpro4/VectorVita/releases/download/v1.0.0/VectorVita.vpk) | [github](https://github.com/PKpro4/VectorVita) |
@@ -459,7 +459,7 @@ what it was on the day the service went down.
 | VitaDeck | josephinoo | v.0.0.1 | 7.3 MB | [download](https://github.com/josephinoo/vitaDeck/releases/download/v0.0.1/vita_deck.vpk) | [github](https://github.com/josephinoo/vitaDeck) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [github](https://github.com/SKGleba/VitaDeploy) |
 | VitAdhoc | CBOC-Vita | v.1.3.1 | 6.0 MB | [download](https://github.com/CBOC-Vita-Lab/vitadhoc/releases/download/v1.3.1/VitAdhoc.vpk) | [github](https://github.com/CBOC-Vita-Lab/vitadhoc) |
-| VitaForge | josephinoo | v.0.1.13 | 5.9 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.13/vitaforge.vpk) | [github](https://github.com/josephinoo/vitaForge) |
+| VitaForge | josephinoo | v.0.1.14 | 6.0 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.14/vitaforge.vpk) | [github](https://github.com/josephinoo/vitaForge) |
 | VitaJ2ME | MetalSyntax | v.1.0.1 | 3.7 MB | [download](https://github.com/MetalSyntax/vita-j2me-emulator/releases/download/v1.0.1/VitaJ2ME-v1.0.1.vpk) | [github](https://github.com/MetalSyntax/vita-j2me-emulator) |
 | vitals | nyirish & devnoname120 | v.2.1 | 3.9 MB | [download](https://github.com/nyirsh/vitals/releases/download/2.1/vitals-psv-app.vpk) | [github](https://github.com/nyirsh/vitals) |
 | vitaMania! | lolhop | v.0.1.0a | 1.8 MB | [download](https://github.com/lolhop/vitaMania/releases/download/v0.1.0a/VitaMania.vpk) | [github](https://github.com/lolhop/vitamania) |
@@ -472,7 +472,7 @@ what it was on the day the service went down.
 | VitaScore | diogoasp97 | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/vitascore-1.0.vpk) | [github](https://github.com/diogoasp97/VitaScore) |
 | VitaSDR | hiraethclub | v.0.3.0 | 1.2 MB | [download](https://github.com/hiraethsystems/VitaSDR/releases/download/v0.3.0/VitaSDR.vpk) | [github](https://github.com/hiraethclub/VitaSDR) |
 | VitaSend | trashman | v.1.0.0 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v1.0.0/VitaSend-v100.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
-| VitaSim | Reyanon | v.0.14.37 | 2.7 MB | [download](https://github.com/Reyanon/VitaSim/releases/download/v0.14.37/VitaSim_v0.14.37.vpk) | [github](https://github.com/Reyanon/VitaSim) |
+| VitaSim | Reyanon | v.0.16.4 | 3.1 MB | [download](https://github.com/Reyanon/VitaSim/releases/download/v0.16.4/VitaSim_v0.16.4.vpk) | [github](https://github.com/Reyanon/VitaSim) |
 | VitaSpot | 0oPerryo0 | v.0.0.4 | 16.3 MB | [download](https://github.com/0oPerryo0/VitaSpot/releases/download/v0.0.4/VitaSpot.vpk) | [github](https://github.com/0oPerryo0/VitaSpot) |
 | Vitastremio | gmorb | v.1.3 | 0.4 MB | [download](https://github.com/gmorb/vitastremio/releases/download/v1.3/vitastremio.vpk) | [github](https://github.com/gmorb/vitastremio) |
 | vitaterm | jmverges | v.0.2.0 | 1.2 MB | [download](https://github.com/jmverges/vitaterm/releases/download/v0.2.0/vitaterm.vpk) | [github](https://github.com/jmverges/vitaterm) |
@@ -495,7 +495,7 @@ what it was on the day the service went down.
 | Wesnoth | Nathan Kewley | v.0.1 | 450.0 MB | [download](https://github.com/NathanKewley/wesnoth-vita/releases/download/v0.1/wesnoth-01.18.vpk) | [github](https://github.com/NathanKewley/wesnoth-vita) |
 | WhatsApp | figarocool | v.2.0.4 | 7.7 MB | [download](https://github.com/figarocool/whatsapp-vita/releases/download/v2.0.4/whatsapp-vita.vpk) | [github](https://github.com/figarocool/whatsapp-vita) |
 | Wheel Of The Year | LiEnby | v.1.1 | 4.8 MB | [download](https://github.com/LiEnby/WheelOfTheYearGM/releases/download/v1.1/WOTY.vpk) | [github](https://github.com/lienby/wheeloftheyeargm) |
-| Wolff's Store | WolffsRoom | v.1.1.3 | 7.6 MB | [download](https://github.com/WolffsRoom/WolffsStore/releases/download/v1.1.3/WolffsStore.vpk) | [github](https://github.com/WolffsRoom/WolffsStore) |
+| Wolff's Store | WolffsRoom | v.1.1.4 | 7.6 MB | [download](https://github.com/WolffsRoom/WolffsStore/releases/download/v1.1.4/WolffsStore.vpk) | [github](https://github.com/WolffsRoom/WolffsStore) |
 | Wonder Boy: The Dragon's Trap | Cynostial | v.0.35-rc1 | 9.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/wonder-boy-the-dragon-s-trap-0.35-rc1.vpk) | [github](https://github.com/cynostial/wonderboy-vita) |
 | WoozyLLM | LuckyI13I | v.0.1P-fix1 | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P-fix1/WoozyLLM.vpk) | [github](https://github.com/LuckyI13I/WoozyLLM) |
 | World of Illusion | Ports Collection | v.1.0 | 1.4 MB | [download](https://github.com/LokiDSx/WorldofIllusionStarringMickeyMouseandDonaldDuck-PS-Vita/releases/download/v1.0/WorldOfIllusion.vpk) | [github](https://github.com/LokiDSx/WorldofIllusionStarringMickeyMouseandDonaldDuck-PS-Vita) |
@@ -529,7 +529,7 @@ what it was on the day the service went down.
 | AnalogsEnhancerKai | t0mizwf26 & yakit4k0 & Rinnegatamante | v.1.2.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/AnalogsEnhancerKai.zip) | [github](https://github.com/t0mizwf26/AnalogsEnhancerKai) |
 | AnalogStickDisable | Hack-Usagi | v.1.2 | 0.0 MB | [download](https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable.skprx) | [github](https://github.com/Hack-Usagi/AnalogStickDisable) |
 | BetterTrackPlug | FMudanyali | v.1.1 | 3.7 MB | [download](https://github.com/FMudanyali/BetterTrackPlug/releases/download/1.1/BetterTrackPlug.zip) | [github](https://github.com/FMudanyali/BetterTrackPlug) |
-| Bluetooth Turbo | juanjsebgarcia | v.0.1.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.1.0/bluetoothturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-bluetooth) |
+| Bluetooth Turbo | juanjsebgarcia | v.0.2.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.2.0/bluetoothturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-bluetooth) |
 | CapUnlocker | GrapheneCt | v.1.4 | 0.0 MB | [download](https://github.com/GrapheneCt/CapUnlocker/releases/download/v1.4/CapUnlocker.skprx) | [github](https://github.com/GrapheneCt/CapUnlocker) |
 | DD TouchOnVita | WolffsRoom | v.0.59 | 0.4 MB | [download](https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip) | [github](https://github.com/WolffsRoom/DD-TouchOnVita) |
 | DePlayEnabler | alpakeno | v.1.0 | 0.0 MB | [download](https://github.com/alpakeno/DePlayEnabler/releases/download/1.0/deplayenabler.zip) | [github](https://github.com/alpakeno/DePlayEnabler) |
@@ -3520,7 +3520,7 @@ what it was on the day the service went down.
 | WifiSniffer | Jean-Yves Lamoureux | v.1.0 | 0.4 MB | [download](https://archive.org/download/wi-fi-sniffer-0.1.7z/WifiSniffer.zip) | [archive.org](https://archive.org/details/wi-fi-sniffer-0.1.7z) |
 | Wii Shell | CoDnX | v.0.2 | 4.8 MB | [download](https://archive.org/download/wii-shell-v-0.2.7z/Wii%20Shell%20v0.2.zip) | [archive.org](https://archive.org/details/wii-shell-v-0.2.7z) |
 | Wild Bullet | PEPO | v.1.0 | 1.0 MB | [download](https://archive.org/download/wild-bullet/Wild_Bullet.zip) | [archive.org](https://archive.org/details/wild-bullet) |
-| WiliMini | wilimini | v.2.13 | 13.1 MB | [download](https://github.com/wilimini/WiliMini/releases/download/v2.13/WiliMini-v2.13.zip) | [github](https://github.com/wilimini/WiliMini) |
+| WiliMini | wilimini | v.2.14 | 13.2 MB | [download](https://github.com/wilimini/WiliMini/releases/download/v2.14/WiliMini-v2.14.zip) | [github](https://github.com/wilimini/WiliMini) |
 | Windows 8 RT For PSP | Doga Ozkaraca | v.1.2 | 47.1 MB | [download](https://archive.org/download/projectsmyrna-dogaozkaraca-Win8forpspv1.2/projectsmyrna-dogaozkaraca-Win8forpspv1.2.zip) | [archive.org](https://archive.org/details/projectsmyrna-dogaozkaraca-Win8forpspv1.2) |
 | Windows Minesweeper | SiGi | v.1.0 | 0.6 MB | [download](https://archive.org/download/win-minesweeper-psp.-7z/WinMinesweeperPSP.zip) | [archive.org](https://archive.org/details/win-minesweeper-psp.-7z) |
 | Windows Vista PSP | Fred89 (The-Muse) | v.1.2 | 10.1 MB | [download](https://archive.org/download/windows-vista-version-1.2.7z/Windows_Vista_Version_1.2.zip) | [archive.org](https://archive.org/details/windows-vista-version-1.2.7z) |
@@ -3644,4 +3644,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3620 entries, 25.7 GB in total.
+3620 entries, 25.8 GB in total.

@@ -1162,7 +1162,7 @@
     },
     {
         "name": "vitacompanion",
-        "version": "v.1.10",
+        "version": "v.1.11",
         "author": "devnoname120",
         "description": "Development helper plugin.",
         "id": "488",
@@ -1174,17 +1174,17 @@
         "source": "https://github.com/devnoname120/vitacompanion",
         "release_page": "https://github.com/devnoname120/vitacompanion/releases",
         "trailer": "",
-        "size": "46173",
+        "size": "46116",
         "data_size": "0",
-        "hash": "a890301b5c7d0e69e94c0504a08120cb",
+        "hash": "d0852bc455655bd07a6a991f76248ad4",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/devnoname120/vitacompanion/releases/download/1.10/vitacompanion.suprx",
+        "url": "https://github.com/devnoname120/vitacompanion/releases/download/1.11/vitacompanion.suprx",
         "added": "2026-08-02T18:45:53Z",
-        "updated": "2026-11-18T16:07:23Z"
+        "updated": "2026-11-24T20:51:37Z"
     },
     {
         "name": "pngshot",
@@ -3885,7 +3885,7 @@
     },
     {
         "name": "Bluetooth Turbo",
-        "version": "v.0.1.0",
+        "version": "v.0.2.0",
         "author": "juanjsebgarcia",
         "description": "Plugin that improves Bluetooth audio on PSVITA, with headset battery readout and equalizer presets.",
         "id": "4915",
@@ -3897,17 +3897,17 @@
         "source": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth",
         "release_page": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases",
         "trailer": "",
-        "size": "6772",
+        "size": "7183",
         "data_size": "",
-        "hash": "832ef74719bf2e973ad9ea212f52e8b1",
+        "hash": "26d4958605c8962bde2fc784952c8dee",
         "hash2": "",
         "changelog": "",
         "requirements": "- bluetoothturbo_kernel.skprx from the same release\n- bluetoothturbo_settings.suprx from the same release",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.1.0/bluetoothturbo.suprx",
+        "url": "https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.2.0/bluetoothturbo.suprx",
         "added": "2026-11-22T15:28:56Z",
-        "updated": "2026-11-22T15:28:56Z"
+        "updated": "2026-11-24T20:52:37Z"
     },
     {
         "name": "vitastream",

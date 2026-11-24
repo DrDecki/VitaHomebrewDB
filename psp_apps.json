@@ -62,7 +62,7 @@
     {
         "name": "WiliMini",
         "icon": "0801c0db4281682fa6e7dfc5eadf86d878485e01a383342f7e0e05cb8df450f4.png",
-        "version": "v.2.13",
+        "version": "v.2.14",
         "author": "wilimini",
         "type": "4",
         "description": "Bilibili client for PSP.",
@@ -76,18 +76,18 @@
         "source": "https://github.com/wilimini/WiliMini",
         "release_page": "https://github.com/wilimini/WiliMini/releases",
         "trailer": "",
-        "size": "13787848",
+        "size": "13862384",
         "data_size": "0",
-        "hash": "cf231d2a333d228333ef6515e9b3e05d",
+        "hash": "a4cc5f0e53bfb2acbc6086a743204c97",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/wilimini/WiliMini/releases/download/v2.13/WiliMini-v2.13.zip",
+        "url": "https://github.com/wilimini/WiliMini/releases/download/v2.14/WiliMini-v2.14.zip",
         "data": "",
         "added": "2026-11-24T20:26:19Z",
-        "updated": "2026-11-24T20:26:19Z"
+        "updated": "2026-11-24T20:50:37Z"
     },
     {
         "name": "NovaOS",
