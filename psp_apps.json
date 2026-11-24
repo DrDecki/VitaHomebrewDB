@@ -782,7 +782,7 @@
     {
         "name": "PRO CFW C2B",
         "icon": "6660316454ae9b5c4c6f07076f3c2f60c8052c318a96d043460f927d50b49399.png",
-        "version": "v.2B",
+        "version": "PRO-C2B",
         "author": "kyleatlast",
         "type": "4",
         "description": "PRO custom firmware for PSP.",
@@ -807,7 +807,7 @@
         "url": "https://github.com/kyleatlast/procfw/releases/download/PRO-C2B/pro_c2b.zip",
         "data": "",
         "added": "2026-11-24T20:25:45Z",
-        "updated": "2026-11-24T20:25:45Z"
+        "updated": "2026-11-24T20:27:52Z"
     },
     {
         "name": "PSP ARK Plugins",
@@ -962,7 +962,7 @@
     {
         "name": "Monk Tower PSP",
         "icon": "9d097ce8e3bafc78133a3daf8c0893d6780dbbbd01031d28504d5ff12731c9b5.png",
-        "version": "v.2",
+        "version": "v.RC2",
         "author": "dadcapgamer",
         "type": "2",
         "description": "Port of Monk Tower by Maciej Glowka for PSP.",
@@ -987,7 +987,7 @@
         "url": "https://github.com/dadcapgamer/monktowerPSP/releases/download/rc2/monktowerPSP-rc2.zip",
         "data": "",
         "added": "2026-11-24T20:25:39Z",
-        "updated": "2026-11-24T20:25:39Z"
+        "updated": "2026-11-24T20:27:52Z"
     },
     {
         "name": "Wolfenstein RPG PSP",

@@ -1943,7 +1943,7 @@ what it was on the day the service went down.
 | Modo | Bastian Pflieger (wbb) | v.1.0 | 1.6 MB | [download](https://archive.org/download/modo-3xx-jun-16.7z/Modo%202011.zip) | [archive.org](https://archive.org/details/modo-3xx-jun-16.7z) |
 | ModPlay | Spike_132000 | v.1.0 | 0.9 MB | [download](https://archive.org/download/mod-play.-7z/ModPlay.zip) | [archive.org](https://archive.org/details/mod-play.-7z) |
 | MondayLoaderPSP | yuh0q223 | v.1.0 | 0.2 MB | [download](https://archive.org/download/monday-loader-psp/MondayLoaderPSP.zip) | [archive.org](https://archive.org/details/monday-loader-psp) |
-| Monk Tower PSP | dadcapgamer | v.2 | 1.0 MB | [download](https://github.com/dadcapgamer/monktowerPSP/releases/download/rc2/monktowerPSP-rc2.zip) | [github](https://github.com/dadcapgamer/monktowerPSP) |
+| Monk Tower PSP | dadcapgamer | v.RC2 | 1.0 MB | [download](https://github.com/dadcapgamer/monktowerPSP/releases/download/rc2/monktowerPSP-rc2.zip) | [github](https://github.com/dadcapgamer/monktowerPSP) |
 | Monkey64 | PSmonkey | v.1.0 | 0.3 MB | [download](https://archive.org/download/monkey-64-0311.7z/Monkey%2064.zip) | [archive.org](https://archive.org/details/monkey-64-0311.7z) |
 | Monome like | Antoine Letouzey, Romuald Genevois | v.1.0 | 2.8 MB | [download](https://archive.org/download/monome_15052008.7z/monome_15052008.zip) | [archive.org](https://archive.org/details/monome_15052008.7z) |
 | Monster Space Attack | BigProMan | v.0.4 | 5.8 MB | [download](https://archive.org/download/m-s-a-0.2.7z/M_S_A_0.4.zip) | [archive.org](https://archive.org/details/m-s-a-0.2.7z) |
@@ -2307,7 +2307,7 @@ what it was on the day the service went down.
 | PReSS | Nino van Hooff (The Underminer) | v.1.0 | 1.5 MB | [download](https://archive.org/download/pressv04.7z/press041.zip) | [archive.org](https://archive.org/details/pressv04.7z) |
 | Prime | Mexicouger | v.1.0 | 46.7 MB | [download](https://archive.org/download/prime.-7z/Prime.zip) | [archive.org](https://archive.org/details/prime.-7z) |
 | Prince of Tennis | Naruto93 | v.1.0 | 2.6 MB | [download](https://archive.org/download/naruto-93-s-pong.-7z/Naruto93%27%20s%20Pong.zip) | [archive.org](https://archive.org/details/naruto-93-s-pong.-7z) |
-| PRO CFW C2B | kyleatlast | v.2B | 1.0 MB | [download](https://github.com/kyleatlast/procfw/releases/download/PRO-C2B/pro_c2b.zip) | [github](https://github.com/kyleatlast/procfw) |
+| PRO CFW C2B | kyleatlast | PRO-C2B | 1.0 MB | [download](https://github.com/kyleatlast/procfw/releases/download/PRO-C2B/pro_c2b.zip) | [github](https://github.com/kyleatlast/procfw) |
 | PRO Firmware | Virtuous Flame, Coldbird, qwikrazor87 | v.1.0 | 1.0 MB | [download](https://archive.org/download/660-pro-c-2.7z/661_PRO-C2_14-02-2015.zip) | [archive.org](https://archive.org/details/660-pro-c-2.7z) |
 | Pro Foosball | Madcupid | v.1.0 | 7.0 MB | [download](https://archive.org/download/pro-foosball.-7z/PRO%20FOOSBALL.zip) | [archive.org](https://archive.org/details/pro-foosball.-7z) |
 | Pro Online Hotspot Selector | cryo | v.1.0 | 0.2 MB | [download](https://archive.org/download/prohot.7z/prohot.zip) | [archive.org](https://archive.org/details/prohot.7z) |
