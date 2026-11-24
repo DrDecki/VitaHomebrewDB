@@ -23,14 +23,6 @@ jobs:
           MAX_MB: '150'
         run: python3 tools/update_all.py --write && python3 tools/vitadb_updates.py --write
 
-      - name: Rebuild derived files
-        if: steps.check.outputs.count != '0'
-        run: |
-          python3 build_db.py
-          python3 stats.py
-          python3 mkwanted.py
-          python3 mkindex.py
-
       - name: Open a pull request
         if: steps.check.outputs.count != '0'
         uses: peter-evans/create-pull-request@v6
@@ -40,6 +32,11 @@ jobs:
           body-path: update_report.md
           commit-message: 'Update ${{ steps.check.outputs.count }} entries from upstream releases'
           delete-branch: true
+          add-paths: |
+            apps.json
+            psp_apps.json
+            preserved/*.json
+            icons/*.png
 
       - name: Copy mirrored files to VitaDBtoo
         if: always()
