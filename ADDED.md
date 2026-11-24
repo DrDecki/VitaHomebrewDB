@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (511)
+## PSVITA homebrews (510)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -98,7 +98,6 @@ what it was on the day the service went down.
 | Dodge the Creeps | WolffsRoom | v.0.1.1 | 30.8 MB | [download](https://github.com/WolffsRoom/DodgeTheCreeps-PSVita/releases/download/v0.1.1/dodge_the_creeps_vita.vpk) | [github](https://github.com/WolffsRoom/DodgeTheCreeps-PSVita) |
 | Dolphin Blue Vita | Tobic-99 | v.0.1 | 9.2 MB | [download](https://github.com/Tobic-99/dolphinblue-vita/releases/download/0.1/dolphinblue.vpk) | [github](https://github.com/Tobic-99/dolphinblue-vita) |
 | Doodle Jump | 1theronin | v.10 | 1.9 MB | [download](https://github.com/RONIN0095/doodlejump-vita/releases/download/v.10/doodlejump.vpk) | [github](https://github.com/RONIN0095/doodlejump-vita) |
-| DOOM 3 BFG Edition (Pathz0rum) | Pathz0rum | v.0.9 | 9.8 MB | [download](https://github.com/Pathz0rum/doom3bfg-vita/releases/download/v0.9/Doom3BFG_v0.9.vpk) | [github](https://github.com/Pathz0rum/doom3bfg-vita) |
 | Dragon Ball Tap Battle Vita | VegettoSan | v.1.2 | 2.6 MB | [download](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita/releases/download/1.2/DBTapBattle-1.2.vpk) | [github](https://github.com/VegettoSan/Drag-n-Ball-Tap-Battle-PS-Vita) |
 | Dragon Ball Z: BT3 | arielxflores | v.1.3 | 5.8 MB | [download](https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.3/Tenkaichi3Decomp-Vita.vpk) | [github](https://github.com/arielxflores/Tenkaichi3Decomp-Vita) |
 | Dragon Ball Z: BT4 | manumastro & arielxflores | v.1.5.1 | 12.0 MB | [download](https://github.com/manumastro/DBZ-BT4-Tag-Team-Decomp-Vita/releases/download/v1.5.1/BT4-Vita.vpk) | [github](https://github.com/manumastro/DBZ-BT4-Tag-Team-Decomp-Vita) |
@@ -3573,4 +3572,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3549 entries, 25.6 GB in total.
+3548 entries, 25.6 GB in total.

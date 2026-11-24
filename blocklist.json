@@ -1,26 +1,30 @@
 {
-    "authors": [
-        {
-            "match": "ONElua",
-            "reason": "License violations, banned from VitaDB"
-        },
-        {
-            "match": "source-engine",
-            "reason": "Based on leaked Source Engine code"
-        }
-    ],
-    "names": [
-        {
-            "match": "^pkgj",
-            "reason": "Removed to move the catalog away from piracy"
-        },
-        {
-            "match": "simpsons.*hit",
-            "reason": "Based on leaked source code"
-        },
-        {
-            "match": "link.?s awakening dx hd",
-            "reason": "Needs the fan remake that Nintendo took down by DMCA"
-        }
-    ]
+  "authors": [
+    {
+      "match": "ONElua",
+      "reason": "License violations, banned from VitaDB"
+    },
+    {
+      "match": "source-engine",
+      "reason": "Based on leaked Source Engine code"
+    },
+    {
+      "match": "Pathz0rum",
+      "reason": "Banned, also banned from VitaDB"
+    }
+  ],
+  "names": [
+    {
+      "match": "^pkgj",
+      "reason": "Removed to move the catalog away from piracy"
+    },
+    {
+      "match": "simpsons.*hit",
+      "reason": "Based on leaked source code"
+    },
+    {
+      "match": "link.?s awakening dx hd",
+      "reason": "Needs the fan remake that Nintendo took down by DMCA"
+    }
+  ]
 }

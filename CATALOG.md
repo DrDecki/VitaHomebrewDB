@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1524)
+## PSVITA homebrews (1523)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -306,7 +306,6 @@ Every entry, with the download it currently points at. The ones added since
 | Dolphin Blue Vita | Tobic-99 | v.0.1 | 9.2 MB | [download](https://github.com/Tobic-99/dolphinblue-vita/releases/download/0.1/dolphinblue.vpk) | [github](https://github.com/Tobic-99/dolphinblue-vita) |
 | Dome Romantik Vita | PatnosD | v.1.0 | 37.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1076-Dome_Romantik.vpk) | — |
 | Doodle Jump | 1theronin | v.10 | 1.9 MB | [download](https://github.com/RONIN0095/doodlejump-vita/releases/download/v.10/doodlejump.vpk) | [github](https://github.com/RONIN0095/doodlejump-vita) |
-| DOOM 3 BFG Edition (Pathz0rum) | Pathz0rum | v.0.9 | 9.8 MB | [download](https://github.com/Pathz0rum/doom3bfg-vita/releases/download/v0.9/Doom3BFG_v0.9.vpk) | [github](https://github.com/Pathz0rum/doom3bfg-vita) |
 | Doom II RPG Vita | Rinnegatamante | v.1.0 | 1.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1247-DOOMIIRPG.vpk) | [github](https://github.com/Rinnegatamante/DoomIIRPG-RE) [psx-place.com](https://www.psx-place.com/threads/release-doom-ii-rpg-vita.45825/) |
 | Doom RPG Vita | jakubito | v.1.1.0 | 3.8 MB | [download](https://github.com/jakubito/DoomRPG-RE-vita/releases/download/v1.1.0/DoomRPG_vita_v1.1.0.vpk) | [github](https://github.com/jakubito/DoomRPG-RE-vita) |
 | DooM Vita | gambikules | v.1.0.1 | 121.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/456-DooM_Vita.vpk) | — |
@@ -4861,4 +4860,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4838 entries, 55.3 GB in total.
+4837 entries, 55.3 GB in total.
