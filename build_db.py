@@ -28,7 +28,8 @@ icons = sorted(n for n in os.listdir(icon_dir) if n.endswith('.png'))
 zip_path = os.path.join(ROOT, 'icons.zip')
 with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as z:
     for n in icons:
-        z.write(os.path.join(icon_dir, n), n)
+        zi = zipfile.ZipInfo(n, date_time=(2020, 1, 1, 0, 0, 0)); zi.external_attr = 0o644 << 16; zi.compress_type = zipfile.ZIP_DEFLATED
+        z.writestr(zi, open(os.path.join(icon_dir, n), 'rb').read(), compresslevel=9)
 print('icons.zip: %d icons, %.1f MB' % (len(icons), os.path.getsize(zip_path) / 1048576.0))
 
 needed = set()
