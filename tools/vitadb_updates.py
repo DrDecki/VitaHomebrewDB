@@ -22,13 +22,14 @@ for f, a in uns:
         r = rep(a.get(k))
         if r and 'drdecki/vitahomebrewdb' not in r: by_repo.setdefault(r, (f, a))
     by_name.setdefault(norm(a['name']), (f, a)); by_id[a['id']] = (f, a)
-    if a.get('titleid'): by_tid.setdefault(a['titleid'].upper(), (f, a))
+    if a.get('titleid'): by_tid.setdefault(a['titleid'].upper(), []).append((f, a))
 best = {}
 for ep in ('list_hbs_by_titleid', 'list_plugins_json', 'list_psp_hbs_json', 'list_tools_json'):
     try: lst = json.load(urllib.request.urlopen(urllib.request.Request('https://www.rinnegatamante.eu/vitadb/%s.php' % ep, data=b'', headers={'User-Agent': 'VitaHomebrewDB'}), timeout=90))
     except Exception as e: print('  %s: %s' % (ep, type(e).__name__)); continue
     for v in lst:
-        hit = by_tid.get((v.get('titleid') or '').upper())
+        _c = by_tid.get((v.get('titleid') or '').upper(), [])
+        hit = next((x for x in _c if norm(x[1]['name']) == norm(v['name'])), None) or next((x for x in _c if same_author(x[1].get('author'), v.get('author')) and norm(x[1]['name'])[:6] == norm(v['name'])[:6] and len(_c) == 1), None)
         if not hit:
             r = by_repo.get(rep(v.get('source'))) or by_repo.get(rep(v.get('release_page')))
             if r and norm(r[1]['name'])[:6] == norm(v['name'])[:6]: hit = r
