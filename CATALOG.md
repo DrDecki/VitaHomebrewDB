@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1533)
+## PSVITA homebrews (1535)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -834,6 +834,7 @@ Every entry, with the download it currently points at. The ones added since
 | PeelGallery | AlecksPV1 | v.1.0 | 4.1 MB | [download](https://github.com/AlecksPV1/PeelGallery/releases/download/v1.0/PeelGallery.vpk) | [github](https://github.com/aleckspv1/peelgallery) |
 | Pekka Kana 2 Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/Rinnegatamante/Pekka-Kana-2-Vita/releases/download/v.1.0/Pekka2.vpk) | [github](https://github.com/Rinnegatamante/Pekka-Kana-2-Vita) |
 | Perfect Dark Vita | Rinnegatamante & fgsfdsfgs | v.1.4 | 12.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/pd.armv7.vpk) | [github](https://github.com/Rinnegatamante/perfect_dark) [psx-place.com](https://www.psx-place.com/threads/release-perfect-dark-vita.47561/) |
+| Persona 3 FES | frangarcj | v.0.1.0-beta.2 | 26.3 MB | [download](https://github.com/frangarcj/p3fes-recompiled/releases/download/v0.1.0-beta.2/P3FES-Vita-v0.1.0-beta.2.vpk) | [github](https://github.com/frangarcj/p3fes-recompiled) |
 | PES 2011 | MetalSyntax | v.0.1 | 1.8 MB | [download](https://github.com/MetalSyntax/PES-2011-iOS-vita/releases/download/v0.1/pes2011ios.vpk) | [github](https://github.com/MetalSyntax/PES-2011-iOS-vita) |
 | PES 2012 | MetalSyntax | v.0.1.0 | 1.7 MB | [download](https://github.com/MetalSyntax/PES-2012-iOS-vita/releases/download/v0.1.0/pes2012ios.vpk) | [github](https://github.com/MetalSyntax/PES-2012-iOS-vita) |
 | PES 6 | germanalvarez15 | v.0.0.6-beta | 26.0 MB | [download](https://github.com/germanalvarez15/pes6-vita/releases/download/0.0.6-beta/pes6vita.vpk) | [github](https://github.com/germanalvarez15/pes6-vita) |
@@ -1139,6 +1140,7 @@ Every entry, with the download it currently points at. The ones added since
 | StratagemHeroVita | MEGAgameBoy | v.1.0 | 46.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1205-StratagemHeroVita.vpk) | — |
 | Street Fighter IV CE (frangarcj) | frangarcj | v.1.0-rc3 | 1.2 MB | [download](https://github.com/frangarcj/sf4ce_vita/releases/download/v1.0-rc3/SF4CE.vpk) | [github](https://github.com/frangarcj/sf4ce_vita) |
 | Street Fighter IV CE (John Lay) | john-lay | v.1.0.0 | 2.6 MB | [download](https://github.com/john-lay/sf4-vita/releases/download/v1.0.0/sf4-vita-1.0.vpk) | [github](https://github.com/john-lay/sf4-vita) |
+| STSPSVITA | mmrmagno | v.1.0.0 | 0.1 MB | [download](https://github.com/mmrmagno/stspsvita/releases/download/v1.0.0/STSPSVITA.vpk) | [github](https://github.com/mmrmagno/stspsvita) |
 | SuDokuL | Mode8fx | v.1.5 | 3.3 MB | [download](https://github.com/Mode8fx/SuDokuL/releases/download/v1.5/SuDokuL-v1.5-vita.vpk) | [github](https://github.com/Mode8fx/SuDokuL) |
 | Sudorku | dragaron | v.1.01 | 3.1 MB | [download](https://github.com/dragaron/Sudorku/releases/download/v1.01/Sudorku.vpk) | [github](https://github.com/dragaron/Sudorku) |
 | Sunshine Cat | SpanishFreddy | v.2 | 53.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1026-sunshine.vpk) | [github](https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port) |
@@ -4942,4 +4944,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4919 entries, 55.5 GB in total.
+4921 entries, 55.5 GB in total.

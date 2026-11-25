@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (520)
+## PSVITA homebrews (522)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -270,6 +270,7 @@ what it was on the day the service went down.
 | PCSX AwO | Rinnegatamante | v.0.5.1 | 2.6 MB | [download](https://github.com/Rinnegatamante/PCSX_AwO/releases/download/v.0.5.1/pcsx-awo.vpk) | [github](https://github.com/Rinnegatamante/PCSX_AwO) |
 | PCSX ReArcade | frangarcj | v.0.3 | 7.2 MB | [download](https://github.com/frangarcj/pcsx_rearmed/releases/download/v0.3/pcsx-rearcade.vpk) | [github](https://github.com/frangarcj/pcsx_rearmed) |
 | PeelGallery | AlecksPV1 | v.1.0 | 4.1 MB | [download](https://github.com/AlecksPV1/PeelGallery/releases/download/v1.0/PeelGallery.vpk) | [github](https://github.com/aleckspv1/peelgallery) |
+| Persona 3 FES | frangarcj | v.0.1.0-beta.2 | 26.3 MB | [download](https://github.com/frangarcj/p3fes-recompiled/releases/download/v0.1.0-beta.2/P3FES-Vita-v0.1.0-beta.2.vpk) | [github](https://github.com/frangarcj/p3fes-recompiled) |
 | PES 2011 | MetalSyntax | v.0.1 | 1.8 MB | [download](https://github.com/MetalSyntax/PES-2011-iOS-vita/releases/download/v0.1/pes2011ios.vpk) | [github](https://github.com/MetalSyntax/PES-2011-iOS-vita) |
 | PES 2012 | MetalSyntax | v.0.1.0 | 1.7 MB | [download](https://github.com/MetalSyntax/PES-2012-iOS-vita/releases/download/v0.1.0/pes2012ios.vpk) | [github](https://github.com/MetalSyntax/PES-2012-iOS-vita) |
 | PES 6 | germanalvarez15 | v.0.0.6-beta | 26.0 MB | [download](https://github.com/germanalvarez15/pes6-vita/releases/download/0.0.6-beta/pes6vita.vpk) | [github](https://github.com/germanalvarez15/pes6-vita) |
@@ -375,6 +376,7 @@ what it was on the day the service went down.
 | Storage Manager | StaticLift | v.1.0 | 0.5 MB | [download](https://github.com/StaticLift/vita-storage-manager/releases/download/v1.0/VitaStorageManager.vpk) | [github](https://github.com/StaticLift/vita-storage-manager) |
 | Street Fighter IV CE (frangarcj) | frangarcj | v.1.0-rc3 | 1.2 MB | [download](https://github.com/frangarcj/sf4ce_vita/releases/download/v1.0-rc3/SF4CE.vpk) | [github](https://github.com/frangarcj/sf4ce_vita) |
 | Street Fighter IV CE (John Lay) | john-lay | v.1.0.0 | 2.6 MB | [download](https://github.com/john-lay/sf4-vita/releases/download/v1.0.0/sf4-vita-1.0.vpk) | [github](https://github.com/john-lay/sf4-vita) |
+| STSPSVITA | mmrmagno | v.1.0.0 | 0.1 MB | [download](https://github.com/mmrmagno/stspsvita/releases/download/v1.0.0/STSPSVITA.vpk) | [github](https://github.com/mmrmagno/stspsvita) |
 | Sudorku | dragaron | v.1.01 | 3.1 MB | [download](https://github.com/dragaron/Sudorku/releases/download/v1.01/Sudorku.vpk) | [github](https://github.com/dragaron/Sudorku) |
 | Super Mario Galaxy | CBOC-Vita-Lab | v.2.2.1 | 8.5 MB | [download](https://github.com/CBOC-Vita-Lab/galaxy-vita/releases/download/v2.2.1/Galaxy-Vita.vpk) | [github](https://github.com/cboc-vita-lab/galaxy-vita) |
 | Super Mario Galaxy (Producdevity) | Producdevity | v.2.0 | 8.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Galaxy-Vita.vpk) | [github](https://github.com/Producdevity/SuperMarioGalaxyVita) |
@@ -3654,4 +3656,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3630 entries, 25.8 GB in total.
+3632 entries, 25.8 GB in total.
