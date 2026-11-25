@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1535)
+## PSVITA homebrews (1536)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -401,8 +401,9 @@ Every entry, with the download it currently points at. The ones added since
 | Five Beats at Freddy's | 5PORT5Y | v.1.0 | 47.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1306-five_beats.vpk) | [itch.io](https://5p0rt5y.itch.io/five-beats-at-freddys) |
 | Five Night at Freddy's 2 Lite | AlexDev2 | v.0.3.5 | 81.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/856-fnaf-2-vita.vpk) | [gamejolt.com](https://gamejolt.com/games/FNAF2PSP/680533) |
 | Five Night at Freddy's 4 Lite | AlexDev2 | v.0.1.0 | 68.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/859-fnaf4.vpk) | [gamejolt.com](https://gamejolt.com/games/FNAF4PSP/715812) |
-| Five Nights at Freddy's | noxgp | v.0.1.0-beta.3 | 0.4 MB | [download](https://github.com/noxgp/fnaf1-ps-vita/releases/download/v0.1.0-beta.3/FNAF1-Vita-v0.1.0-beta.3.vpk) | [github](https://github.com/noxgp/fnaf1-ps-vita) |
+| Five Nights at Freddy's | noxgp | v.1.0.4 | 0.1 MB | [download](https://github.com/noxgp/fnaf1-ps-vita/releases/tag/v1.0.4) | [github](https://github.com/noxgp/fnaf1-ps-vita) |
 | Five Nights at Freddy's | Kolbie5874 & WeegeeDEVELOPER | v.1.0 | 69.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/620-FNaFVita.vpk) | — |
+| Five Nights at Freddy's 2 | noxgp | v.1.0 | 0.9 MB | [download](https://github.com/noxgp/fnaf2_ps_vita/releases/download/v1.0/FNaF2_Vita_V1.0.vpk) | [github](https://github.com/noxgp/fnaf2_ps_vita) |
 | Fix User Permissions | endrift | v.1.0 | 0.0 MB | [download](https://github.com/endrift/vita-fix-permissions/releases/download/v1.0/vita-fix-perms.vpk) | [github](https://github.com/endrift/vita-fix-permissions) |
 | Flappy Bird Vita | Moe_Baker | v.1.0 | 18.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/507-birdunity.vpk) | — |
 | Flappy Nyan Vita | Rinnegatamante | v.1.0 | 2.5 MB | [download](https://github.com/Rinnegatamante/flappy-nyan-vita/releases/download/v.1.0/flappy.vpk) | [github](https://github.com/Rinnegatamante/flappy-nyan-vita) |
@@ -745,7 +746,7 @@ Every entry, with the download it currently points at. The ones added since
 | NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Most Wanted (germanalvarez15) | germanalvarez15 | v.1.6.2 | 3.1 MB | [download](https://github.com/germanalvarez15/nfsmw-vita/releases/download/1.6.2/nfsmw.vpk) | [github](https://github.com/germanalvarez15/nfsmw-vita) |
-| NFS Underground 2 (danos-x5) | danos-x5 | v.0.8.5 | 9.9 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.5/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
+| NFS Underground 2 (danos-x5) | danos-x5 | v.0.9.0 | 11.4 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.9.0/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS Underground 2 (elmnt22) | elmnt22 | v.0.2.1-alpha | 4.9 MB | [download](https://github.com/elmnt22/vita-nfsu2/releases/download/v0.2.1-alpha/NFSU2Vita.vpk) | [github](https://github.com/elmnt22/vita-nfsu2) |
 | NFS Underground 2 (PacmanicS) | PacmanicS | v.0.2 | 13.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4876-nfs-underground-2-pacmanics-0.2.vpk) | [pacmanics.com](https://pacmanics.com/ps-vita/nfs-underground-2/) |
 | NFS3VITA | NDRWhun | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
@@ -791,7 +792,7 @@ Every entry, with the download it currently points at. The ones added since
 | OpenMW Vita | TheLostPantheon | v.2.4.1 | 167.1 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.4.1/openmw-2.4.1.vpk) | [github](https://github.com/TheLostPantheon/openmw) |
 | OpenNow Vita | josephinoo | v.0.3.3 | 9.0 MB | [download](https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.3/opennow-vita.vpk) | [github](https://github.com/OpenCloudGaming/OpenNOW-vita) |
 | OpenRCT2-CE Vita | technicaljicama | v.1 | 4.5 MB | [download](https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk) | [github](https://github.com/technicaljicama/OpenRCT2-CE) |
-| OpenRCT2Vita | Paxrisen | v.1.0.2 | 6.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4817-openrct2vita-1.0.2.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
+| OpenRCT2Vita | Paxrisen | v.1.0.3 | 6.6 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav.1.0.3/OpenRCT2Vita_v1.0.3.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenSeason | InquisitionImplied | v.1.0 | 30.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/466-OpenSeason.vpk) | [twitter.com](https://twitter.com/Yoyogames28/status/1120550464121122816) |
 | OpenSKY | danderson57702-collab | v.2 | 1.2 MB | [download](https://github.com/danderson57702-collab/opensky/releases/download/beta-2/opensky.vpk) | [github](https://github.com/danderson57702-collab/opensky) |
 | OpenSonic Vita | KiddRwxSsj | v.1.0.7 | 10.4 MB | [download](https://github.com/KiddRwxSsj/opensonic-vita/releases/download/1.0.7/opensonic-vita.vpk) | [github](https://github.com/KiddRwxSsj/opensonic-vita) |
@@ -4944,4 +4945,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4921 entries, 55.5 GB in total.
+4922 entries, 55.5 GB in total.

@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (522)
+## PSVITA homebrews (523)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -122,7 +122,8 @@ what it was on the day the service went down.
 | File Manager (WolffsRoom) | WolffsRoom | v.0.30-beta | 1.8 MB | [download](https://github.com/WolffsRoom/FileManager/releases/download/v0.30-beta/FileManager-v0.30-beta.vpk) | [github](https://github.com/WolffsRoom/FileManager) |
 | Final Fantasy VI | frangarcj | v.1.0.0 | 16.9 MB | [download](https://github.com/frangarcj/ff6_vita/releases/download/v1.0.0/FF6.vpk) | [github](https://github.com/frangarcj/ff6_vita) |
 | FINAL FANTASY VII | ggdrn | v.1.3.1 | 3.0 MB | [download](https://github.com/ggdrn/METEOR-VII-VITA/releases/download/v1.3.1/ff7_vita_v1.3.1.vpk) | [github](https://github.com/ggdrn/METEOR-VII-VITA) |
-| Five Nights at Freddy's | noxgp | v.0.1.0-beta.3 | 0.4 MB | [download](https://github.com/noxgp/fnaf1-ps-vita/releases/download/v0.1.0-beta.3/FNAF1-Vita-v0.1.0-beta.3.vpk) | [github](https://github.com/noxgp/fnaf1-ps-vita) |
+| Five Nights at Freddy's | noxgp | v.1.0.4 | 0.1 MB | [download](https://github.com/noxgp/fnaf1-ps-vita/releases/tag/v1.0.4) | [github](https://github.com/noxgp/fnaf1-ps-vita) |
+| Five Nights at Freddy's 2 | noxgp | v.1.0 | 0.9 MB | [download](https://github.com/noxgp/fnaf2_ps_vita/releases/download/v1.0/FNaF2_Vita_V1.0.vpk) | [github](https://github.com/noxgp/fnaf2_ps_vita) |
 | Fix User Permissions | endrift | v.1.0 | 0.0 MB | [download](https://github.com/endrift/vita-fix-permissions/releases/download/v1.0/vita-fix-perms.vpk) | [github](https://github.com/endrift/vita-fix-permissions) |
 | FlashVita | robin994 | v.0.15.31-alpha.1 | 4.2 MB | [download](https://github.com/robin994/FlashVita/releases/download/v0.15.31-alpha.1/FlashVita-v0.15.31-alpha.1.vpk) | [github](https://github.com/robin994/FlashVita) |
 | FTP for Vita | M-Essa11 | v.1.0.0 | 0.1 MB | [download](https://github.com/M-Essa11/FTP-for-Vita/releases/download/v1.0.0/FTPForVita.vpk) | [github](https://github.com/M-Essa11/FTP-for-Vita) |
@@ -234,7 +235,7 @@ what it was on the day the service went down.
 | NFS Hot Pursuit 2 (elmnt22) | elmnt22 | v.0.1.1-alpha | 3.3 MB | [download](https://github.com/elmnt22/vita-nfshp2/releases/download/v0.1.1-alpha/NFSHP2.vpk) | [github](https://github.com/elmnt22/vita-nfshp2) |
 | NFS II SE Recompiled | veitorman | v.1.0.0 | 3.4 MB | [download](https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk) | [github](https://github.com/veitorman/nfs2se-vita) |
 | NFS Most Wanted (germanalvarez15) | germanalvarez15 | v.1.6.2 | 3.1 MB | [download](https://github.com/germanalvarez15/nfsmw-vita/releases/download/1.6.2/nfsmw.vpk) | [github](https://github.com/germanalvarez15/nfsmw-vita) |
-| NFS Underground 2 (danos-x5) | danos-x5 | v.0.8.5 | 9.9 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.5/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
+| NFS Underground 2 (danos-x5) | danos-x5 | v.0.9.0 | 11.4 MB | [download](https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.9.0/NFSU2VITA.vpk) | [github](https://github.com/danos-x5/NFSUG2_VITA) |
 | NFS Underground 2 (elmnt22) | elmnt22 | v.0.2.1-alpha | 4.9 MB | [download](https://github.com/elmnt22/vita-nfsu2/releases/download/v0.2.1-alpha/NFSU2Vita.vpk) | [github](https://github.com/elmnt22/vita-nfsu2) |
 | NFS Underground 2 (PacmanicS) | PacmanicS | v.0.2 | 13.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4876-nfs-underground-2-pacmanics-0.2.vpk) | [pacmanics.com](https://pacmanics.com/ps-vita/nfs-underground-2/) |
 | NFS3VITA | NDRWhun | v.release-1.0 | 4.5 MB | [download](https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk) | [github](https://github.com/NDRWhun/NFS3VITA) |
@@ -254,7 +255,7 @@ what it was on the day the service went down.
 | OpenEnroth | gtrias | v.0.1 | 7.7 MB | [download](https://github.com/gtrias/OpenEnroth/releases/download/vita-v0.1/OpenEnroth.vpk) | [github](https://github.com/gtrias/OpenEnroth) |
 | OpenFodder | isage | v.1.6.1 | 2.2 MB | [download](https://github.com/isage/openfodder/releases/download/1.6.1/openfodder-1.6.1.vpk) | [github](https://github.com/isage/openfodder) |
 | OpenMoHAA | ChatProductions \& HenryKun55 | v.0.4 | 10.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/OpenMoHAA.vpk) | [github](https://github.com/ChatProductions/openmohaavita) |
-| OpenRCT2Vita | Paxrisen | v.1.0.2 | 6.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4817-openrct2vita-1.0.2.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
+| OpenRCT2Vita | Paxrisen | v.1.0.3 | 6.6 MB | [download](https://github.com/Paxrisen/OpenRCT2Vita/releases/download/OpenRCT2Vitav.1.0.3/OpenRCT2Vita_v1.0.3.vpk) | [github](https://github.com/Paxrisen/OpenRCT2Vita) |
 | OpenSKY | danderson57702-collab | v.2 | 1.2 MB | [download](https://github.com/danderson57702-collab/opensky/releases/download/beta-2/opensky.vpk) | [github](https://github.com/danderson57702-collab/opensky) |
 | OpenTyrian 2000 Engaged | wlfn1116 | v.1.5.3 | 6.7 MB | [download](https://github.com/wlfn1116/OpenTyrian2000-Engaged/releases/download/1.5.3/OpenTyrian2000-Engaged-Vita.vpk) | [github](https://github.com/wlfn1116/OpenTyrian2000-Engaged) |
 | Orbis Minor | DrakonPL | v.0.2.2 | 11.5 MB | [download](https://github.com/DrakonPL/OrbisMinor/releases/download/0.2.2/OrbisMinor-0.2.2-vita.vpk) | [github](https://github.com/DrakonPL/OrbisMinor) |
@@ -3656,4 +3657,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3632 entries, 25.8 GB in total.
+3633 entries, 25.8 GB in total.
