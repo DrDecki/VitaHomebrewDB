@@ -15104,9 +15104,9 @@
         "source": "https://github.com/isledecomp/isle-portable",
         "release_page": "https://github.com/isledecomp/isle-portable/releases",
         "trailer": "",
-        "size": "7199931",
+        "size": "7200797",
         "data_size": "0",
-        "hash": "5ada1e44b2df97cf4ca305a05ac5f11b",
+        "hash": "249d9e677ee7ca673b74f76c12c69309",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: LEGO Island (1997) in ux0:data/isledecomp",
@@ -15117,7 +15117,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-05T20:25:32Z",
-        "updated": "2026-11-24T05:24:04Z"
+        "updated": "2026-11-25T02:39:22Z"
     },
     {
         "name": "VitaForge",
