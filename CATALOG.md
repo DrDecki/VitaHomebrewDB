@@ -1887,7 +1887,7 @@ Every entry, with the download it currently points at. The ones added since
 | Area 32 | Green Fort | v.1.0 | 1.0 MB | [download](https://archive.org/download/area-32/Area32.zip) | [archive.org](https://archive.org/details/area-32) |
 | Arithmétik | JiiCeii | v.1.0 | 0.9 MB | [download](https://archive.org/download/arithmetique-jii-ceii.-7z/Arithm%C3%A9tique_JiiCeii.zip) | [archive.org](https://archive.org/details/arithmetique-jii-ceii.-7z) |
 | ARK-4 | PSP-Archive | v.42069r206 | 38.3 MB | [download](https://github.com/PSP-Archive/ARK-4/releases/download/v42069r206/ARK4.zip) | [github](https://github.com/PSP-Archive/ARK-4) |
-| ARK-5 | PSP-Arkfive | Nightly 2026-11-24 | 0.3 MB | [download](https://github.com/PSP-Arkfive/ARK-5/releases/download/latest/ARK-5.zip) | [github](https://github.com/PSP-Arkfive/ARK-5) |
+| ARK-5 | PSP-Arkfive | Nightly 2026-11-25 | 0.3 MB | [download](https://github.com/PSP-Arkfive/ARK-5/releases/download/latest/ARK-5.zip) | [github](https://github.com/PSP-Arkfive/ARK-5) |
 | Arkanoid | Qubitz | v.1.0 | 3.4 MB | [download](https://archive.org/download/arkanoid.-7z/Arkanoid.zip) | [archive.org](https://archive.org/details/arkanoid.-7z) |
 | ArkanoidUJI | saulotmalo | v.1.0 | 2.1 MB | [download](https://archive.org/download/arkanoid-uji.-7z/ArkanoidUJI.zip) | [archive.org](https://archive.org/details/arkanoid-uji.-7z) |
 | Arrow | Alexandre Rimbot (Kinow) | v.1.0 | 1.5 MB | [download](https://archive.org/download/arrow.-7z/Arrow.zip) | [archive.org](https://archive.org/details/arrow.-7z) |

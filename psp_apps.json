@@ -332,7 +332,7 @@
     {
         "name": "ARK-5",
         "icon": "69c8d9a67034bd7c494bf68a82d26dfe065782e0ec9b12dced99e314cd62d851.png",
-        "version": "Nightly 2026-11-24",
+        "version": "Nightly 2026-11-25",
         "author": "PSP-Arkfive",
         "type": "4",
         "description": "Custom firmware for PSP and the PSVita ePSP.",
@@ -346,9 +346,9 @@
         "source": "https://github.com/PSP-Arkfive/ARK-5",
         "release_page": "https://github.com/PSP-Arkfive/ARK-5/releases",
         "trailer": "",
-        "size": "345599",
+        "size": "347801",
         "data_size": "0",
-        "hash": "b5712caa7b107881770d8413864b6f1d",
+        "hash": "342c3e5fddc7638c9342c07fd6f4f307",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "",
@@ -357,7 +357,7 @@
         "url": "https://github.com/PSP-Arkfive/ARK-5/releases/download/latest/ARK-5.zip",
         "data": "",
         "added": "2026-11-24T20:26:11Z",
-        "updated": "2026-11-24T20:26:11Z"
+        "updated": "2026-11-25T23:44:05Z"
     },
     {
         "name": "BetterBright",

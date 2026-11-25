@@ -15468,9 +15468,9 @@
         "source": "https://github.com/isledecomp/isle-portable",
         "release_page": "https://github.com/isledecomp/isle-portable/releases",
         "trailer": "",
-        "size": "7200797",
+        "size": "7200726",
         "data_size": "0",
-        "hash": "249d9e677ee7ca673b74f76c12c69309",
+        "hash": "ec9f58e7e094c58fc9199336d95f1b82",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: LEGO Island (1997) in ux0:data/isledecomp",
@@ -15481,7 +15481,7 @@
         "data": "",
         "requirements_checked": "1",
         "added": "2026-08-05T20:25:32Z",
-        "updated": "2026-11-25T02:39:22Z"
+        "updated": "2026-11-25T23:43:05Z"
     },
     {
         "name": "Minecraft: Story Mode",
