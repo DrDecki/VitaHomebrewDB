@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (519)
+## PSVITA homebrews (520)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -89,6 +89,7 @@ what it was on the day the service went down.
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [itch.io](https://drdecki.itch.io/deckis-platformer) |
 | Delta Squad | ianfrombailey | v.release | 6.3 MB | [download](https://github.com/ianfrombailey/deltasquad/releases/download/v.release/deltasquad.vpk) | [github](https://github.com/ianfrombailey/deltasquad) |
 | Deltarune Lightners | WolffsRoom | v.1.0 | 22.8 MB | [download](https://github.com/WolffsRoom/DeltaruneLightnersVita/releases/download/v1.0/deltalightplusvita.vpk) | [github](https://github.com/WolffsRoom/DeltaruneLightnersVita) |
+| DeltaVita | MetalSyntax | v.0.1.0-beta | 12.0 MB | [download](https://github.com/MetalSyntax/DeltaVita/releases/download/v0.1.0-beta/DeltaVita-0.1.0-beta.vpk) | [github](https://github.com/MetalSyntax/DeltaVita) |
 | Demon Front Vita | Tobic-99 | v.0.1 | 2.6 MB | [download](https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk) | [github](https://github.com/Tobic-99/demonfront-vita) |
 | Descent ディセント | KiddRwxSsj | v.1.0.3 | 1.7 MB | [download](https://github.com/KiddRwxSsj/descent-vita/releases/download/1.0.3/Descent1.0.3.vpk) | [github](https://github.com/KiddRwxSsj/descent-vita) |
 | DESTINIA | MetalSyntax | v.1.0 | 1.2 MB | [download](https://github.com/MetalSyntax/Destinia-vita/releases/download/1.0/destinia.vpk) | [github](https://github.com/MetalSyntax/Destinia-vita) |
@@ -3653,4 +3654,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3629 entries, 25.8 GB in total.
+3630 entries, 25.8 GB in total.

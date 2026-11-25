@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1532)
+## PSVITA homebrews (1533)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -282,6 +282,7 @@ Every entry, with the download it currently points at. The ones added since
 | Delta Squad | ianfrombailey | v.release | 6.3 MB | [download](https://github.com/ianfrombailey/deltasquad/releases/download/v.release/deltasquad.vpk) | [github](https://github.com/ianfrombailey/deltasquad) |
 | Deltarune Lightners | WolffsRoom | v.1.0 | 22.8 MB | [download](https://github.com/WolffsRoom/DeltaruneLightnersVita/releases/download/v1.0/deltalightplusvita.vpk) | [github](https://github.com/WolffsRoom/DeltaruneLightnersVita) |
 | Deltarune Vita | WolffsRoom | v.0.81 | 9.7 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.81/Deltarune-v0.81.vpk) | [github](https://github.com/WolffsRoom/DeltaruneVita) |
+| DeltaVita | MetalSyntax | v.0.1.0-beta | 12.0 MB | [download](https://github.com/MetalSyntax/DeltaVita/releases/download/v0.1.0-beta/DeltaVita-0.1.0-beta.vpk) | [github](https://github.com/MetalSyntax/DeltaVita) |
 | Demon Front Vita | Tobic-99 | v.0.1 | 2.6 MB | [download](https://github.com/Tobic-99/demonfront-vita/releases/download/v0.1/demonfront.vpk) | [github](https://github.com/Tobic-99/demonfront-vita) |
 | Demons Down | WIDEGCG | v.1.0 | 45.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/679-DemonsDown.vpk) | [kyuhen.customprotocol.com](https://kyuhen.customprotocol.com/en/submissions/demonsdown/) |
 | Descent ディセント | KiddRwxSsj | v.1.0.3 | 1.7 MB | [download](https://github.com/KiddRwxSsj/descent-vita/releases/download/1.0.3/Descent1.0.3.vpk) | [github](https://github.com/KiddRwxSsj/descent-vita) |
@@ -4941,4 +4942,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4918 entries, 55.5 GB in total.
+4919 entries, 55.5 GB in total.
