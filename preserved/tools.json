@@ -330,7 +330,7 @@
     {
         "name": "Psvimgtools Easy Frontend",
         "version": "v.1.8.7",
-        "author": "MrGhidini",
+        "author": "MRGhidini",
         "description": "GUI for PSVIMGTools.",
         "id": "315",
         "date": "2019-05-05",
@@ -381,7 +381,7 @@
     {
         "name": "psvpfstools",
         "version": "v.2.0",
-        "author": "motoharu",
+        "author": "motoharu-gosuto",
         "description": "PFS layer decrypter for PC.",
         "id": "362",
         "date": "2018-01-27",
@@ -456,7 +456,7 @@
     {
         "name": "NPS Browser",
         "version": "v.0.7.2",
-        "author": "jhonhenry10",
+        "author": "RY0M43CH1Z3N",
         "description": ".pkg files downloader.",
         "id": "346",
         "date": "2017-10-28",

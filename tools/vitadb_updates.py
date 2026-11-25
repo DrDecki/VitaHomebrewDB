@@ -6,6 +6,11 @@ MIRROR = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
 norm = lambda s: re.sub(r'(vita|psvita)$', '', re.sub(r'[^a-z0-9]', '', (s or '').lower()))
 vn = lambda s: [int(x) for x in re.findall(r'\d+', s or '')[:4]]
 rep = lambda s: (re.search(r'github\.com/([^/\s]+/[^/\s?#]+)', s or '') or [None, ''])[1].lower().removesuffix('.git')
+AL = json.load(open(os.path.join(ROOT, 'author_aliases.json'), encoding='utf-8'))
+def _parts(s): return [x.strip() for x in re.split(r'\s*\\?&\s*|\s*,\s*|\s+and\s+', s or '') if x.strip()]
+def same_author(ours, theirs):
+    op = {norm(x)[:4] for x in _parts(ours)}
+    return any(norm(AL.get(x, x))[:4] in op for x in _parts(theirs))
 BL = json.load(open(os.path.join(ROOT, 'blocklist.json'), encoding='utf-8'))
 def blocked(name, author, src=''):
     if any(b['match'].lower() in ((author or '') + ' ' + (src or '')).lower() for b in BL['authors']): return True
@@ -35,7 +40,7 @@ for ep in ('list_hbs_by_titleid', 'list_plugins_json', 'list_psp_hbs_json', 'lis
         if 'nightly' in ver.lower() or re.search(r'\d{4}-\d{2}-\d{2}', ver): continue
         nv, ov = vn(ver), vn(a.get('version'))
         if not (nv and ov and nv > ov) or [x for x in nv if x] == [x for x in ov if x]: continue
-        if norm(a.get('author'))[:4] != norm(v.get('author'))[:4] or blocked(a['name'], a.get('author'), a.get('source')): continue
+        if not same_author(a.get('author'), v.get('author')) or blocked(a['name'], a.get('author'), a.get('source')): continue
         url = v.get('url') or ''
         if not url: continue
         if not url.startswith('http'): url = 'https://www.rinnegatamante.eu/vitadb/' + url.lstrip('/')

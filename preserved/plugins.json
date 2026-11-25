@@ -27,7 +27,7 @@
     {
         "name": "kubridge",
         "version": "v.0.3.1",
-        "author": "TheFloW & Bythos",
+        "author": "TheOfficialFloW & Bythos",
         "description": "DynaRec feature extender plugin for PSVITA.",
         "id": "611",
         "date": "2024-03-05",
@@ -153,7 +153,7 @@
     {
         "name": "psp2wpp",
         "version": "v.1.1.4",
-        "author": "Princess-Of-Sleeping",
+        "author": "Princess-of-Sleeping",
         "description": "Plugin to add a wave effect to Livearea background.",
         "id": "852",
         "date": "2022-08-18",
@@ -204,7 +204,7 @@
     {
         "name": "USBDisable",
         "version": "v.3.03",
-        "author": "M Ibrahim",
+        "author": "Ibrahim778",
         "description": "Plugin that disables USB connection dialog.",
         "id": "712",
         "date": "2021-08-11",
@@ -280,7 +280,7 @@
     {
         "name": "8BitVita",
         "version": "v.1.2",
-        "author": "M Ibrahim",
+        "author": "Ibrahim778",
         "description": "8BitDo Pro 2 controller driver plugin.",
         "id": "709",
         "date": "2021-07-18",
@@ -331,7 +331,7 @@
     {
         "name": "VITABatteryPlus",
         "version": "v.1.8",
-        "author": "Electric & Joel16",
+        "author": "Electric1447 & joel16",
         "description": "Battery info viewer plugin.",
         "id": "570",
         "date": "2021-06-13",
@@ -381,7 +381,7 @@
     {
         "name": "X1Vita",
         "version": "v.3.3",
-        "author": "M Ibrahim",
+        "author": "Ibrahim778",
         "description": "Xbox One controller driver plugin.",
         "id": "667",
         "date": "2021-05-17",
@@ -457,7 +457,7 @@
     {
         "name": "reVita",
         "version": "v.1.0.8",
-        "author": "Mer1e",
+        "author": "MERLev",
         "description": "Remap controls and apply several actions controls related.",
         "id": "592",
         "date": "2021-05-15",
@@ -482,7 +482,7 @@
     {
         "name": "ds34vita",
         "version": "v.1.1",
-        "author": "Mer1e & xerpi & Hydr8gon",
+        "author": "MERLev & xerpi & Hydr8gon",
         "description": "Combination of ds3vita and ds4vita with added features.",
         "id": "593",
         "date": "2021-05-15",
@@ -532,7 +532,7 @@
     {
         "name": "reSavedata",
         "version": "v.1.0",
-        "author": "Princess-Of-Sleeping",
+        "author": "Princess-of-Sleeping",
         "description": "Savedata decrypter and redirector for PSVITA.",
         "id": "659",
         "date": "2021-04-21",
@@ -557,7 +557,7 @@
     {
         "name": "vita3g-disable",
         "version": "v.1.0",
-        "author": "VictorGamer072YT",
+        "author": "of-ravens-claw",
         "description": "Disable 3G features on PSVITA 3G.",
         "id": "697",
         "date": "2021-04-20",
@@ -582,7 +582,7 @@
     {
         "name": "Mac Address Spoofer",
         "version": "v.1.0",
-        "author": "Princess-Of-Sleeping",
+        "author": "Princess-of-Sleeping",
         "description": "Mac spoofer for PSVITA.",
         "id": "656",
         "date": "2021-04-17",
@@ -657,7 +657,7 @@
     {
         "name": "dt2s",
         "version": "v.1.1",
-        "author": "Joel16",
+        "author": "joel16",
         "description": "Double tap screen to put Vita in standby.",
         "id": "590",
         "date": "2020-11-14",
@@ -682,7 +682,7 @@
     {
         "name": "FdFix",
         "version": "v.1.0",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Prevents filehandles invalidation by the OS.",
         "id": "588",
         "date": "2020-10-27",
@@ -732,7 +732,7 @@
     {
         "name": "PSV VSH Menu",
         "version": "v.3.40",
-        "author": "Joel16",
+        "author": "joel16",
         "description": "Multifunction plugin for PSVITA.",
         "id": "293",
         "date": "2020-10-03",
@@ -784,7 +784,7 @@
     {
         "name": "ds4touch",
         "version": "v.1.1.3",
-        "author": "Mer1e",
+        "author": "MERLev",
         "description": "Adds ds4 touchpad support to PSTV/PSVita.",
         "id": "579",
         "date": "2020-09-13",
@@ -810,7 +810,7 @@
     {
         "name": "remaPSV2",
         "version": "v.2.0.2",
-        "author": "Mer1e & Rinnegatamante & S1ngyy",
+        "author": "MERLev & Rinnegatamante & S1ngyy",
         "description": "Remap plugin for PSVita/PSTV.",
         "id": "474",
         "date": "2020-07-19",
@@ -861,7 +861,7 @@
     {
         "name": "MiniVitaTV",
         "version": "beta 4",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Connect up to 4 DS3/DS4 to your PSVITA",
         "id": "388",
         "date": "2020-05-30",
@@ -886,7 +886,7 @@
     {
         "name": "dejavu",
         "version": "v.0.1",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Savestate plugin for PSVITA/PSTV.",
         "id": "538",
         "date": "2020-03-05",
@@ -1138,7 +1138,7 @@
     {
         "name": "ShellSecBat",
         "version": "v.10",
-        "author": "OperationNT",
+        "author": "OperationNT414C",
         "description": "Updated version of LastSeconds and Shellbat.",
         "id": "289",
         "date": "2019-08-18",
@@ -1264,7 +1264,7 @@
     {
         "name": "psvgamesd",
         "version": "v.2.0",
-        "author": "motoharu",
+        "author": "motoharu-gosuto",
         "description": "Drivers for Virtual GC homebrew.",
         "id": "313",
         "date": "2019-02-06",
@@ -1339,7 +1339,7 @@
     {
         "name": "PSP2-CustomBootSplash",
         "version": "v.1.0",
-        "author": "Princess-Of-Sleeping",
+        "author": "Princess-of-Sleeping",
         "description": "Custom boot splash for Henkaku enso.",
         "id": "403",
         "date": "2018-10-06",
@@ -1389,7 +1389,7 @@
     {
         "name": "Custom Warning",
         "version": "v.3",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Customize Warning screen on startup",
         "id": "390",
         "date": "2018-07-27",
@@ -1414,7 +1414,7 @@
     {
         "name": "NoLockscreen",
         "version": "v.2",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Disables lockscreen on PSVita startup/resume",
         "id": "389",
         "date": "2018-07-26",
@@ -1440,7 +1440,7 @@
     {
         "name": "NoTrophyMsg",
         "version": "v.1",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Disabled trophy message on games bootup",
         "id": "391",
         "date": "2018-07-26",
@@ -1516,7 +1516,7 @@
     {
         "name": "vFlux",
         "version": "v.0.5",
-        "author": "AppleIo",
+        "author": "Applelo",
         "description": "Epileptic effect plugin.",
         "id": "42",
         "date": "2018-03-25",
@@ -1592,7 +1592,7 @@
     {
         "name": "usbmc",
         "version": "v.6",
-        "author": "yifanlu & TheFloW",
+        "author": "yifanlu & TheOfficialFloW",
         "description": "Mounts USB storage as ux0:/ partition.",
         "id": "286",
         "date": "2018-03-13",
@@ -1644,7 +1644,7 @@
     {
         "name": "NoNpDrm",
         "version": "v.1.2",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Bypass DRM on PSVITA contents.",
         "id": "309",
         "date": "2018-03-08",
@@ -1669,7 +1669,7 @@
     {
         "name": "Download Enabler",
         "version": "v.4",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "Allows to download any file from webbrowser.",
         "id": "275",
         "date": "2018-03-07",
@@ -1719,7 +1719,7 @@
     {
         "name": "taiHen",
         "version": "v.0.11",
-        "author": "Team Molecule",
+        "author": "yifanlu",
         "description": "Advanced HEN which brings kernel access and plugins support.",
         "id": "143",
         "date": "2018-02-21",
@@ -1794,7 +1794,7 @@
     {
         "name": "FakeCamera",
         "version": "v.1.2.1",
-        "author": "OperationNT",
+        "author": "OperationNT414C",
         "description": "Simulate camera usage on PSTV.",
         "id": "296",
         "date": "2017-10-22",
@@ -1820,7 +1820,7 @@
     {
         "name": "FakeCameraBMP",
         "version": "v.1.2.1",
-        "author": "OperationNT",
+        "author": "OperationNT414C",
         "description": "Simulate camera usage on PSTV.",
         "id": "331",
         "date": "2017-10-22",
@@ -1846,7 +1846,7 @@
     {
         "name": "usbhostfs",
         "version": "v.1.0",
-        "author": "cpasjuste",
+        "author": "Cpasjuste",
         "description": "Mount PC HDD as host0: partition.",
         "id": "335",
         "date": "2017-10-12",
@@ -1946,7 +1946,7 @@
     {
         "name": "DSMotion",
         "version": "v.1.2",
-        "author": "OperationNT",
+        "author": "OperationNT414C",
         "description": "Enabled motion sensors on DS3/DS4.",
         "id": "298",
         "date": "2017-08-25",
@@ -2071,7 +2071,7 @@
     {
         "name": "ShellDateSecBat",
         "version": "v.2",
-        "author": "OperationNT",
+        "author": "OperationNT414C",
         "description": "ShellSecBat with added date display.",
         "id": "302",
         "date": "2017-08-03",
@@ -2196,7 +2196,7 @@
     {
         "name": "noled",
         "version": "v.2.2",
-        "author": "xerpi & reprep",
+        "author": "xerpi & rereprep",
         "description": "Home button light disabler for PSVITA.",
         "id": "233",
         "date": "2017-07-30",
@@ -2322,7 +2322,7 @@
     {
         "name": "psp2shell",
         "version": "v.2022.03.09",
-        "author": "cpasjuste",
+        "author": "Cpasjuste",
         "description": "Debug remote shell for PSVITA.",
         "id": "267",
         "date": "2017-06-06",
@@ -2423,7 +2423,7 @@
     {
         "name": "oclockvitaminimal",
         "version": "v.1.0",
-        "author": "reprep & frangarcj",
+        "author": "rereprep & frangarcj",
         "description": "Automatically increase PSVITA clock.",
         "id": "256",
         "date": "2017-05-07",
@@ -2523,7 +2523,7 @@
     {
         "name": "ArkRightAnalog",
         "version": "v.1.0",
-        "author": "reprep & TheFloW",
+        "author": "rereprep & TheOfficialFloW",
         "description": "Remaps right analog on ARK eCFW.",
         "id": "241",
         "date": "2017-04-22",
@@ -2573,7 +2573,7 @@
     {
         "name": "Freescreenshots Plugin",
         "version": "v.1.0",
-        "author": "reprep",
+        "author": "rereprep",
         "description": "Screenshots enabler plugin for PSVITA.",
         "id": "228",
         "date": "2017-04-04",
@@ -2598,7 +2598,7 @@
     {
         "name": "Watermark Disabler",
         "version": "v.1.0",
-        "author": "reprep",
+        "author": "rereprep",
         "description": "Screenshot watermark disabler plugin.",
         "id": "225",
         "date": "2017-04-03",
@@ -2623,7 +2623,7 @@
     {
         "name": "Screenshot Enabler",
         "version": "v.1.0",
-        "author": "reprep & yifanlu",
+        "author": "rereprep & yifanlu",
         "description": "Screenshot plugin for PSVITA.",
         "id": "220",
         "date": "2017-03-27",
@@ -3073,7 +3073,7 @@
     {
         "name": "amphetamin",
         "version": "v.1.0",
-        "author": "TheFloW",
+        "author": "TheOfficialFloW",
         "description": "First overclock plugin for PSVITA.",
         "id": "199",
         "date": "2016-08-30",
@@ -3575,7 +3575,7 @@
     {
         "id": "1591",
         "name": "Ratchet & Clank: Size Matters Remastered Controls",
-        "author": "Rafitalocotron",
+        "author": "rafitalocotron",
         "version": "v.1.0.0",
         "type": "4",
         "titleid": "",
@@ -3756,7 +3756,7 @@
     {
         "id": "1826",
         "name": "Start Screen Music",
-        "author": "rodi",
+        "author": "rodingley",
         "version": "v.1.1.4",
         "description": "Music controls on the PS Vita's start screen.",
         "long_description": "",
@@ -3808,7 +3808,7 @@
     {
         "id": "1828",
         "name": "Engram",
-        "author": "badmanwazzy37",
+        "author": "chazzarchibald-ops",
         "version": "v.1.6",
         "description": "Tweaks for the PSVita's home screen.",
         "long_description": "",

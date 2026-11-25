@@ -34,6 +34,7 @@ def vernum(s):
 # Bewusst entfernt: nur als Nightly verfuegbar, siehe REMOVED.md
 NIGHTLY_ONLY = {'186', '405', '553', '815', '910', '1028', '1093', '1504'}
 
+AL = json.load(open(os.path.join(ROOT, 'author_aliases.json'), encoding='utf-8'))
 neu_alle, upd_alle = [], []
 for label, ep, datei in ENDPOINTS:
     try:
@@ -76,7 +77,8 @@ for label, ep, datei in ENDPOINTS:
         per_id = uns_id.get(str(a.get('id')))
         if per_id and not (norm(per_id['name']).startswith(n) or n.startswith(norm(per_id['name']))):
             per_id = None
-        au = norm(a.get('author'))[:4]
+        _a0 = re.split(r'\s*\\?&\s*|\s*,\s*', a.get('author') or '')[0].strip()
+        au = norm(AL.get(_a0, _a0))[:4]
         tid = (a.get('titleid') or '').upper()
         # title IDs like ABCD12345 are shared by many homebrews: name or author must fit too
         c = uns_tid.get(tid, []) if tid else []
