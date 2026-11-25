@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (512)
+## PSVITA homebrews (518)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -85,6 +85,7 @@ what it was on the day the service went down.
 | Daytona USA | RetroValou | v.1.0.1 | 2.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/daytona-usa-1.0.1.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
 | Daytona USA Deluxe | MDashK | v.1.0 | 1.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/daytona-usa-deluxe-1.0.vpk) | [github](https://github.com/MDashK/Daytona-USA-Deluxe-Recomp) |
 | Dead or Alive | RetroValou | v.1.0.1 | 4.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/dead-or-alive-1.0.1.vpk) | [github](https://github.com/RetroValou/daytona-arcade-recomp) [archive.org](https://archive.org/details/SegaModel2_PSVITA) |
+| Deathsmiles | nahucirujano | v.1.0 | 9.9 MB | [download](https://github.com/nahucirujano/deathsmiles-vita/releases/download/v1.0/Deathsmiles_1.0.vpk) | [github](https://github.com/nahucirujano/deathsmiles-vita) |
 | Deckis Platformer | DrDecki | v.2.0 | 0.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/DeckisPlatformer.vpk) | [itch.io](https://drdecki.itch.io/deckis-platformer) |
 | Delta Squad | ianfrombailey | v.release | 6.3 MB | [download](https://github.com/ianfrombailey/deltasquad/releases/download/v.release/deltasquad.vpk) | [github](https://github.com/ianfrombailey/deltasquad) |
 | Deltarune Lightners | WolffsRoom | v.1.0 | 22.8 MB | [download](https://github.com/WolffsRoom/DeltaruneLightnersVita/releases/download/v1.0/deltalightplusvita.vpk) | [github](https://github.com/WolffsRoom/DeltaruneLightnersVita) |
@@ -127,15 +128,20 @@ what it was on the day the service went down.
 | FTPzilla Vita | DavisDev | v.0.90 | 2.0 MB | [download](https://github.com/DavisDev/FtpzillaVita/releases/download/0.90/FtpzillaVita.vpk) | [github](https://github.com/DavisDev/FtpzillaVita) |
 | Funky n Frank | SoulTieGames | v.1.0 | 37.3 MB | [download](https://github.com/SoulTieGames/FunkynFrank-Vita/releases/download/psVita/FunkynFrank_Vita1.0.VPK) | [github](https://github.com/SoulTieGames/FunkynFrank-Vita) |
 | Fury3 | StaticLift | v.1.01 | 3.0 MB | [download](https://github.com/StaticLift/fury3/releases/download/v1.01/fury3.vpk) | [github](https://github.com/StaticLift/fury3) |
+| Gateway to the Savage Frontier | beaufortribbons | v.0.1 | 1.6 MB | [download](https://github.com/beaufortribbons/goldbox-vita/releases/download/v0.1/gateway.vpk) | [github](https://github.com/beaufortribbons/goldbox-vita) |
 | GBS | Camzer | v.1.2.0 | 11.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/gbs-1.2.0.vpk) | [gitlab](https://gitlab.com/camzer/gbs) |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [github](https://github.com/oestriot/GcToolKit) |
 | GE007 | kaziema | v.1.0 | 2.1 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/GE007Vita.vpk) | — |
 | GH Vita | irxd | v.0.2.0 alpha | 3.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4818-gh-vita-0.2.0alpha.vpk) | [github](https://github.com/irxd/guitar-hero-vita) |
+| Ghost in the Shell: First Assault | arielxflores | v.1.0 | 2.1 MB | [download](https://github.com/arielxflores/gitsfa-vita/releases/download/v1.0/GITSFA-Vita.vpk) | [github](https://github.com/arielxflores/gitsfa-vita) |
+| Ghost Trick Native | liambsulliva | v.0.9.1-beta | 1.0 MB | [download](https://github.com/liambsulliva/ghost-trick-vita/releases/download/v0.9.1-beta/ghosttrick-v0.9.1-beta.vpk) | [github](https://github.com/liambsulliva/ghost-trick-vita) |
 | Gish | AGTS10k | v.1.6-revibed | 3.6 MB | [download](https://github.com/AGTS10k/Gish-vita-revibed/releases/download/vita-1.6-revibed/Gish.vpk) | [github](https://github.com/AGTS10k/Gish-vita-revibed) |
 | Glitch Blocks | tobipjuk | v.1.1 | 0.1 MB | [download](https://github.com/tobipjuk/glitch-blocks/releases/download/v1.1/GlitchBlocks.vpk) | [github](https://github.com/tobipjuk/glitch-blocks) |
 | GoldenBalloon | zm2283145 | v.1.7.2 | 4.5 MB | [download](https://github.com/zm2283145/goldenballoon-vita-port/releases/download/v1.7.2/GoldenBalloon-Vita-v1.7.2.vpk) | [github](https://github.com/zm2283145/goldenballoon-vita-port) |
 | Gravity Defied | Ports Collection | v.1.5 | 2.1 MB | [download](https://github.com/LokiDSx/Gravity-Defied-Vita/releases/download/1.5/GravityDefied.1.5.vpk) | [github](https://github.com/LokiDSx/Gravity-Defied-Vita) |
+| GreenVita (xconsole) | joaopedr00000 | v.0.3.1 | 13.6 MB | [download](https://github.com/joaopedr00000/green-vita-xconsole/releases/download/v0.3.1/green-vita.vpk) | [github](https://github.com/joaopedr00000/green-vita-xconsole) |
 | GrooveSpeed | smart-pickle | v.1.0 | 2.3 MB | [download](https://github.com/smart-pickle/GrooveSpeed-Vita/releases/download/v1.0/GrooveSpeedVita.vpk) | [github](https://github.com/smart-pickle/GrooveSpeed-Vita) |
+| GT3 Revisited | jib123w | v.0.2 | 7.6 MB | [download](https://github.com/jib123w/GT3-revisited/releases/download/vita-0.2/gt3r.vpk) | [github](https://github.com/jib123w/GT3-revisited) |
 | Gun Bros | Rocroverss | v.1.03 | 3.2 MB | [download](https://github.com/Rocroverss/Gun-Bros-Psvita/releases/download/v1.03/Gun.Bros.v1.03.vpk) | [github](https://github.com/Rocroverss/Gun-Bros-Psvita) |
 | Gunforce 2 | Tobic-99 | v.0.1 | 1.5 MB | [download](https://github.com/Tobic-99/gunforce2-vita/releases/download/0.1/gunforce2.vpk) | [github](https://github.com/Tobic-99/gunforce2-vita) |
 | Halo CE | BirchWoodGod | v.1.1.2 | 6.6 MB | [download](https://github.com/BirchWoodGod/halo-ce-vita/releases/download/v1.1.2/halo-ce-vita-1.1.2-vita.vpk) | [github](https://github.com/BirchWoodGod/halo-ce-vita) |
@@ -459,7 +465,6 @@ what it was on the day the service went down.
 | VitaDeck | josephinoo | v.0.0.1 | 7.3 MB | [download](https://github.com/josephinoo/vitaDeck/releases/download/v0.0.1/vita_deck.vpk) | [github](https://github.com/josephinoo/vitaDeck) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [github](https://github.com/SKGleba/VitaDeploy) |
 | VitAdhoc | CBOC-Vita | v.1.3.1 | 6.0 MB | [download](https://github.com/CBOC-Vita-Lab/vitadhoc/releases/download/v1.3.1/VitAdhoc.vpk) | [github](https://github.com/CBOC-Vita-Lab/vitadhoc) |
-| VitaForge | josephinoo | v.0.1.15 | 6.1 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.15/vitaforge.vpk) | [github](https://github.com/josephinoo/vitaForge) |
 | VitaJ2ME | MetalSyntax | v.1.0.1 | 3.7 MB | [download](https://github.com/MetalSyntax/vita-j2me-emulator/releases/download/v1.0.1/VitaJ2ME-v1.0.1.vpk) | [github](https://github.com/MetalSyntax/vita-j2me-emulator) |
 | vitals | nyirish & devnoname120 | v.2.1 | 3.9 MB | [download](https://github.com/nyirsh/vitals/releases/download/2.1/vitals-psv-app.vpk) | [github](https://github.com/nyirsh/vitals) |
 | vitaMania! | lolhop | v.0.1.0a | 1.8 MB | [download](https://github.com/lolhop/vitaMania/releases/download/v0.1.0a/VitaMania.vpk) | [github](https://github.com/lolhop/vitamania) |
@@ -469,6 +474,7 @@ what it was on the day the service went down.
 | VitaOS | mvizensk | v.1.9.2 | 5.6 MB | [download](https://github.com/hotdog-face/VitaOS/releases/download/v1.9.2/VitaOS.vpk) | [github](https://github.com/mvizensk/VitaOS) |
 | VitaPlane | ing156 | v.0.40.06 | 39.3 MB | [download](https://github.com/ing156/VitaPlane/releases/download/v0.40.06/VitaPlane-0.40.06.vpk) | [github](https://github.com/ing156/VitaGram) |
 | VitaPlex | Breezyslasher | v.1.3.9 | 10.7 MB | [download](https://github.com/Breezyslasher/Vita_plex/releases/download/Beta-1.3.9/VitaPlex.Beta-1.3.9.vpk) | [github](https://github.com/Breezyslasher/Vita_plex) |
+| VitaPlus | joaopedr00000 | v.0.0.3 | 3.5 MB | [download](https://github.com/joaopedr00000/plus-vita/releases/download/v0.0.3/VitaPlus-v0.0.3.vpk) | [github](https://github.com/joaopedr00000/plus-vita) |
 | VitaScore | diogoasp97 | v.1.0 | 1.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/vitascore-1.0.vpk) | [github](https://github.com/diogoasp97/VitaScore) |
 | VitaSDR | hiraethclub | v.0.3.0 | 1.2 MB | [download](https://github.com/hiraethsystems/VitaSDR/releases/download/v0.3.0/VitaSDR.vpk) | [github](https://github.com/hiraethclub/VitaSDR) |
 | VitaSend | trashman | v.1.0.0 | 0.8 MB | [download](https://github.com/Trashman1111/VitaSend/releases/download/v1.0.0/VitaSend-v100.vpk) | [github](https://github.com/Trashman1111/VitaSend) |
@@ -521,7 +527,7 @@ what it was on the day the service went down.
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [github](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [git.silica.codes](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (58)
+## Plugins (59)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -531,6 +537,7 @@ what it was on the day the service went down.
 | BetterTrackPlug | FMudanyali | v.1.1 | 3.7 MB | [download](https://github.com/FMudanyali/BetterTrackPlug/releases/download/1.1/BetterTrackPlug.zip) | [github](https://github.com/FMudanyali/BetterTrackPlug) |
 | Bluetooth Turbo | juanjsebgarcia | v.0.2.0 | 0.0 MB | [download](https://github.com/juanjsebgarcia/vita-turbo-bluetooth/releases/download/v0.2.0/bluetoothturbo.suprx) | [github](https://github.com/juanjsebgarcia/vita-turbo-bluetooth) |
 | CapUnlocker | GrapheneCt | v.1.4 | 0.0 MB | [download](https://github.com/GrapheneCt/CapUnlocker/releases/download/v1.4/CapUnlocker.skprx) | [github](https://github.com/GrapheneCt/CapUnlocker) |
+| CPU Tweaks | devnoname120 | v.2.0.1 | 0.0 MB | [download](https://github.com/devnoname120/vita_cpu_tweaks/releases/download/v2.0.1/cpu_tweaks.skprx) | [github](https://github.com/devnoname120/vita_cpu_tweaks) |
 | DD TouchOnVita | WolffsRoom | v.0.59 | 0.4 MB | [download](https://github.com/WolffsRoom/DD-TouchOnVita/releases/download/v0.59/DDTouchUI-v0.59.zip) | [github](https://github.com/WolffsRoom/DD-TouchOnVita) |
 | DePlayEnabler | alpakeno | v.1.0 | 0.0 MB | [download](https://github.com/alpakeno/DePlayEnabler/releases/download/1.0/deplayenabler.zip) | [github](https://github.com/alpakeno/DePlayEnabler) |
 | DS34Motion | MERLev | v.1.3.1 | 0.0 MB | [download](https://github.com/MERLev/DS34Motion/releases/download/1.3.1/ds34motion.skprx) | [github](https://github.com/MERLev/DS34Motion) |
@@ -3626,7 +3633,7 @@ what it was on the day the service went down.
 | 欺诈女神 Apate | IACG游戏组 | v.1.0 | 25.1 MB | [download](https://archive.org/download/apate_v1/apate_v1.zip) | [archive.org](https://archive.org/details/apate_v1) |
 | ＼(^o^)／ブラウザKSK | k・s・k | v.1.0 | 0.8 MB | [download](https://archive.org/download/2chksk-0036-084r-156/2chksk0036_084r156.zip) | [archive.org](https://archive.org/details/2chksk-0036-084r-156) |
 
-## PC tools (13)
+## PC tools (14)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -3636,6 +3643,7 @@ what it was on the day the service went down.
 | GcNetworkBackup | oestriot | v.1.9 | 0.4 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcNetworkBackup.exe) | [github](https://github.com/oestriot/GcToolKit) |
 | Hungry Shark Evolution Vita Builder | VegettoSan | v.01.00 | 113.4 MB | [download](https://github.com/VegettoSan/Hungry-Shark-Evolution-Ps-Vita/releases/download/01.00/HSEVita_v1.0_Windows.zip) | [github](https://github.com/vegettosan/hungry-shark-evolution-ps-vita) |
 | Huntdown Vita Builder | xob0t | v.1.2.2 | 0.5 MB | [download](https://github.com/xob0t/huntdown-vita/releases/download/v1.2.2/huntdown-vita.zip) | [github](https://github.com/xob0t/huntdown-vita) |
+| Hyper Light Drifter Vita Builder | gmacro7 | v.0.1.0 | 8.9 MB | [download](https://github.com/gmacro7/hld-vita/releases/download/v0.1.0/HLD-Vita-Builder-02.78.zip) | [github](https://github.com/gmacro7/hld-vita) |
 | psse-decrypt | OpenPSS | v.1.0 | 0.3 MB | [download](https://github.com/OpenPSS/psse-decrypt/releases/download/1.0/psse_decrypt.exe) | [github](https://github.com/OpenPSS/psse-decrypt) |
 | sign_pss | OpenPSS | v.1.4 | 0.9 MB | [download](https://github.com/OpenPSS/sign_pss/releases/download/v1.4/sign_pss_win32.exe) | [github](https://github.com/OpenPSS/sign_pss) |
 | Stardew Valley Enhanced Vita Builder | rikujoukoro | v.1.01 | 33.3 MB | [download](https://github.com/rikujoukoro/stardew-valley-enhanced-vita/releases/download/v1.01/StardewVitaBuilder-windows.zip) | [github](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) |
@@ -3644,4 +3652,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3620 entries, 25.8 GB in total.
+3628 entries, 25.8 GB in total.

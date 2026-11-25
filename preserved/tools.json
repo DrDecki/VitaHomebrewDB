@@ -1012,5 +1012,31 @@
         "url": "https://github.com/xob0t/t2d-no-fate-vita/releases/download/v1.1.1/t2d-no-fate-vita.zip",
         "added": "2026-11-23T20:40:03Z",
         "updated": "2026-11-23T20:40:03Z"
+    },
+    {
+        "name": "Hyper Light Drifter Vita Builder",
+        "version": "v.0.1.0",
+        "author": "gmacro7",
+        "description": "Builds a native PSVita version of Hyper Light Drifter from your own Steam copy.",
+        "id": "5092",
+        "date": "",
+        "screenshots": "",
+        "long_description": "",
+        "downloads": "",
+        "status": "",
+        "source": "https://github.com/gmacro7/hld-vita",
+        "release_page": "https://github.com/gmacro7/hld-vita/releases",
+        "trailer": "",
+        "size": "9367750",
+        "data_size": "",
+        "hash": "5df2d4fc8c8638879feb4892d7678fc2",
+        "hash2": "",
+        "changelog": "",
+        "requirements": "",
+        "trophies": "",
+        "tags": "",
+        "url": "https://github.com/gmacro7/hld-vita/releases/download/v0.1.0/HLD-Vita-Builder-02.78.zip",
+        "added": "2026-11-25T20:45:25Z",
+        "updated": "2026-11-25T20:45:25Z"
     }
 ]

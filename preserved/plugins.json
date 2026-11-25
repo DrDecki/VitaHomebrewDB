@@ -4584,5 +4584,31 @@
         "url": "https://github.com/Pucas01/Project-Diva-F2nd-60FPS-patcher/releases/download/1.0.0/f2nd60fps.suprx",
         "added": "2026-11-24T20:40:18Z",
         "updated": "2026-11-24T20:40:18Z"
+    },
+    {
+        "name": "CPU Tweaks",
+        "version": "v.2.0.1",
+        "author": "devnoname120",
+        "description": "Enables the Cortex-A9 and PL310 hardware prefetchers for more speed.",
+        "id": "5091",
+        "date": "2026-11-25",
+        "screenshots": "",
+        "long_description": "Enables the Cortex-A9 and PL310 hardware prefetchers for more speed.",
+        "downloads": "0",
+        "status": "0",
+        "source": "https://github.com/devnoname120/vita_cpu_tweaks",
+        "release_page": "https://github.com/devnoname120/vita_cpu_tweaks/releases",
+        "trailer": "",
+        "size": "35384",
+        "data_size": "0",
+        "hash": "6b70aa8d6db8093c94d621fcae6b80cc",
+        "hash2": "",
+        "changelog": "- First Release",
+        "requirements": "",
+        "trophies": "0",
+        "tags": "",
+        "url": "https://github.com/devnoname120/vita_cpu_tweaks/releases/download/v2.0.1/cpu_tweaks.skprx",
+        "added": "2026-11-25T20:45:23Z",
+        "updated": "2026-11-25T20:45:23Z"
     }
 ]

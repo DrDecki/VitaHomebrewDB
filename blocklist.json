@@ -25,6 +25,10 @@
     {
       "match": "link.?s awakening dx hd",
       "reason": "Needs the fan remake that Nintendo took down by DMCA"
+    },
+    {
+      "match": "^vitaforge",
+      "reason": "Distributes pirated games"
     }
   ]
 }
