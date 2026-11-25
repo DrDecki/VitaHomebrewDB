@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (518)
+## PSVITA homebrews (519)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -269,6 +269,7 @@ what it was on the day the service went down.
 | PCSX AwO | Rinnegatamante | v.0.5.1 | 2.6 MB | [download](https://github.com/Rinnegatamante/PCSX_AwO/releases/download/v.0.5.1/pcsx-awo.vpk) | [github](https://github.com/Rinnegatamante/PCSX_AwO) |
 | PCSX ReArcade | frangarcj | v.0.3 | 7.2 MB | [download](https://github.com/frangarcj/pcsx_rearmed/releases/download/v0.3/pcsx-rearcade.vpk) | [github](https://github.com/frangarcj/pcsx_rearmed) |
 | PeelGallery | AlecksPV1 | v.1.0 | 4.1 MB | [download](https://github.com/AlecksPV1/PeelGallery/releases/download/v1.0/PeelGallery.vpk) | [github](https://github.com/aleckspv1/peelgallery) |
+| PES 2011 | MetalSyntax | v.0.1 | 1.8 MB | [download](https://github.com/MetalSyntax/PES-2011-iOS-vita/releases/download/v0.1/pes2011ios.vpk) | [github](https://github.com/MetalSyntax/PES-2011-iOS-vita) |
 | PES 2012 | MetalSyntax | v.0.1.0 | 1.7 MB | [download](https://github.com/MetalSyntax/PES-2012-iOS-vita/releases/download/v0.1.0/pes2012ios.vpk) | [github](https://github.com/MetalSyntax/PES-2012-iOS-vita) |
 | PES 6 | germanalvarez15 | v.0.0.6-beta | 26.0 MB | [download](https://github.com/germanalvarez15/pes6-vita/releases/download/0.0.6-beta/pes6vita.vpk) | [github](https://github.com/germanalvarez15/pes6-vita) |
 | Pikmin | Brendonm17 | v.0.0.1 | 3.5 MB | [download](https://github.com/Brendonm17/Open-Nectar-Vita/releases/download/v0.0.1/Pikmin-Vita-v0.0.1.vpk) | [github](https://github.com/Brendonm17/Open-Nectar-Vita) |
@@ -3652,4 +3653,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3628 entries, 25.8 GB in total.
+3629 entries, 25.8 GB in total.

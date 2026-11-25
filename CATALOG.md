@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1531)
+## PSVITA homebrews (1532)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -833,6 +833,7 @@ Every entry, with the download it currently points at. The ones added since
 | PeelGallery | AlecksPV1 | v.1.0 | 4.1 MB | [download](https://github.com/AlecksPV1/PeelGallery/releases/download/v1.0/PeelGallery.vpk) | [github](https://github.com/aleckspv1/peelgallery) |
 | Pekka Kana 2 Vita | Rinnegatamante | v.1.0 | 1.7 MB | [download](https://github.com/Rinnegatamante/Pekka-Kana-2-Vita/releases/download/v.1.0/Pekka2.vpk) | [github](https://github.com/Rinnegatamante/Pekka-Kana-2-Vita) |
 | Perfect Dark Vita | Rinnegatamante & fgsfdsfgs | v.1.4 | 12.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/pd.armv7.vpk) | [github](https://github.com/Rinnegatamante/perfect_dark) [psx-place.com](https://www.psx-place.com/threads/release-perfect-dark-vita.47561/) |
+| PES 2011 | MetalSyntax | v.0.1 | 1.8 MB | [download](https://github.com/MetalSyntax/PES-2011-iOS-vita/releases/download/v0.1/pes2011ios.vpk) | [github](https://github.com/MetalSyntax/PES-2011-iOS-vita) |
 | PES 2012 | MetalSyntax | v.0.1.0 | 1.7 MB | [download](https://github.com/MetalSyntax/PES-2012-iOS-vita/releases/download/v0.1.0/pes2012ios.vpk) | [github](https://github.com/MetalSyntax/PES-2012-iOS-vita) |
 | PES 6 | germanalvarez15 | v.0.0.6-beta | 26.0 MB | [download](https://github.com/germanalvarez15/pes6-vita/releases/download/0.0.6-beta/pes6vita.vpk) | [github](https://github.com/germanalvarez15/pes6-vita) |
 | pFBA | Cpasjuste & rsn8887 | v.1.57 | 10.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/20-pfba.vpk) | [github](https://github.com/cpasjuste/pfba) |
@@ -4940,4 +4941,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4917 entries, 55.5 GB in total.
+4918 entries, 55.5 GB in total.
