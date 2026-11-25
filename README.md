@@ -40,7 +40,7 @@ scene; those are listed separately in [ADDED.md](ADDED.md).
 | Asset | Recovered |
 | --- | ---: |
 | Metadata | 100% (1289 entries) |
-| Icons | 100% (3964) |
+| Icons | 100% (3965) |
 | Data files | 0 missing |
 | In-game trophies | 28 sets |
 
