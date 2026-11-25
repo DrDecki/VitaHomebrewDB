@@ -16289,10 +16289,10 @@
         "tags": "",
         "score": "68.8",
         "url": "https://github.com/DrDecki/Aleph-One-PsVita/releases/download/AlephOneVita2.1.1/alephone.vpk",
-        "data": "https://github.com/DrDecki/Aleph-One-PsVita/releases/download/AlephOneVita2.0/AlephOne.zip",
+        "data": "https://github.com/DrDecki/Aleph-One-PsVita/releases/download/2.1.1/AlephOne.zip",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-11T21:10:20Z"
+        "updated": "2026-11-25T21:28:09Z"
     },
     {
         "name": "RetroFlow Launcher",
