@@ -13,7 +13,7 @@ in full weeks later. Nothing was lost in the end, but for a while nobody knew th
 A catalog that exists because one host went away should not depend on one host.
 
 Since November 2026 every file on the mirror, screenshot and nightly releases is copied
-to the private repository DrDecki/VitaDBtoo under the same release names.
+to the private repository DrDecki/VitaHomebrewDB-private-assets under the same release names.
 `tools/copy_mirror.py` runs after each daily update and copies what is new or changed.
 It still lives on the same GitHub account, so a copy somewhere unrelated would be the
 next step. archive.org has suspended bulk uploads before, so it cannot be the only answer.

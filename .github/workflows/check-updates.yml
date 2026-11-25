@@ -38,7 +38,7 @@ jobs:
             preserved/*.json
             icons/*.png
 
-      - name: Copy mirrored files to VitaDBtoo
+      - name: Copy mirrored files to the private assets repository
         if: always()
         continue-on-error: true
         env:

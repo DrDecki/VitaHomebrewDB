@@ -1,5 +1,5 @@
 import json, os, shutil, subprocess, sys, tempfile, time, urllib.request
-SRC, DST = 'DrDecki/VitaHomebrewDB', os.environ.get('MIRROR_COPY_TARGET', 'DrDecki/VitaDBtoo')
+SRC, DST = 'DrDecki/VitaHomebrewDB', os.environ.get('MIRROR_COPY_TARGET', 'DrDecki/VitaHomebrewDB-private-assets')
 def gh(*a, out=True): return subprocess.run(['gh'] + list(a), capture_output=True, text=out)
 def pause():
     rl = json.loads(gh('api', 'rate_limit').stdout or '{}').get('resources', {}).get('core', {})
