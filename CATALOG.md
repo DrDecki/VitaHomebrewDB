@@ -1667,7 +1667,7 @@ Every entry, with the download it currently points at. The ones added since
 | TurboPad | Rinnegatamante | v.0.3 | 0.0 MB | [download](https://drdecki.github.io/VitaHomebrewDB/mirror/TurboPad.zip) | [github](https://github.com/Rinnegatamante/TurboPad/) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48065&p=418081#p418081) |
 | tvikey | isage | v.1.0 | 0.0 MB | [download](https://github.com/isage/tvikey/releases/download/v1.0/tvikey.skprx) | [github](https://github.com/isage/tvikey) |
 | uac-pstv-host | SJK132 | v.1.4 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v1.4/uac_pstv.skprx) | [github](https://github.com/SJK132/uac-pstv-host) |
-| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/devnoname120/vita-udcd-uvc/releases/download/1.8/udcd_uvc.skprx) | [github](https://github.com/xerpi/vita-udcd-uvc) |
+| UDCD UVC | xerpi | v.1.8 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/395-udcd-uvc-1.8.skprx) | [github](https://github.com/xerpi/vita-udcd-uvc) |
 | Ultimate VSH Menu | joel16 | Test Build | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/244-ultimatevshmenuvita.7z) | — |
 | Uncharted Trainer | vosman | v.1.03 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/86-unchartedtrainervita.7z) | — |
 | Unit13 Trainer | vosman | v.1.01 | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/85-unit13trainervita.7z) | — |
