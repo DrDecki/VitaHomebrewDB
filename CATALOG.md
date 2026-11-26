@@ -3,7 +3,7 @@
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
 
-## PSVITA homebrews (1536)
+## PSVITA homebrews (1538)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -134,6 +134,7 @@ Every entry, with the download it currently points at. The ones added since
 | Biplanes Revival | DvaMishkiLapa | v.1.2.1-fix1 | 2.2 MB | [download](https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1-fix1/BiplanesRevival.vpk) | [github](https://github.com/DvaMishkiLapa/biplanes-revival-vita) |
 | Bit Clicker | Ccoolguy | v.1.0 | 2.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/645-BitCliker.vpk) | [github](https://github.com/Ccoolguy/BitClickerVita) |
 | BitBot Runners | LuckTheGamers | v.1.0 | 40.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/519-BitBot-Runners.vpk) | — |
+| Black Ops Zombies | Voyd282 | v.1.00 | 8.3 MB | [download](https://github.com/Voyd282/bo1-zombies-vita/releases/download/Release/bo1zombies.vpk) | [github](https://github.com/Voyd282/bo1-zombies-vita) |
 | Blackout | dragaron | v.1.01 | 2.6 MB | [download](https://github.com/dragaron/Blackout/releases/download/v1.01/Blackout.vpk) | [github](https://github.com/dragaron/Blackout) |
 | Blasphemous Vita | gl00mm | beta.1 | 12.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1209-BlasphemousVita.vpk) | [github](https://github.com/gl00mm/Blasphemous_PSVITA) |
 | Blobby Volley 2 | Sanya-arbuz | v.1.0 | 3.3 MB | [download](https://github.com/Sanya-arbuz/blobbyvolley2/releases/download/v1.0/blobby.vpk) | [github](https://github.com/Sanya-arbuz/blobbyvolley2) |
@@ -677,6 +678,7 @@ Every entry, with the download it currently points at. The ones added since
 | Methane | usineur | v.1.1 | 1.1 MB | [download](https://github.com/usineur/methane/releases/download/1.1/Methane.vpk) | [github](https://github.com/usineur/methane) |
 | mGBA | endrift | v.0.10.5 | 0.8 MB | [download](https://github.com/mgba-emu/mgba/releases/download/0.10.5/mGBA-0.10.5-vita.7z) | [github](https://github.com/mgba-emu/mgba/) [mgba.io](https://mgba.io/) |
 | MGBAVitaEX | Zushikina-kun | v.2.1.6 | 0.8 MB | [download](https://github.com/Zushikina-kun/GBVitaEX/releases/download/v2.1.6/MGBAVitaEX-v2.1.6.vpk) | [github](https://github.com/Zushikina-kun/GBVitaEX) |
+| MGS Mobile | LeithSilver | v.0.1 | 1.7 MB | [download](https://github.com/LeithSilver/mgsm/releases/download/v0.1/MGS_Mobile_0.1_PSVita.vpk) | [github](https://github.com/LeithSilver/mgsm) |
 | MicroCHIP | Rinnegatamante | v.1.0 | 2.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/337-MicroCHIP.vpk) | [github](https://github.com/Rinnegatamante/MicroCHIP) [wololo.net](http://wololo.net/talk/viewtopic.php?f=116&t=48620) |
 | Mighty Mike Vita | Rinnegatamante | v.1.0 | 1.5 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1254-MightyMike.vpk) | [github](https://github.com/Rinnegatamante/MightyMike) [psx-place.com](https://www.psx-place.com/threads/release-mighty-mike-vita.45921/) |
 | MightyNo9 | Sungrand Studios | Demo | 34.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1191-MightyNo9.vpk) | [itch.io](https://homebrewfather.itch.io/mighty-no-9-for-sony-psvita) |
@@ -4945,4 +4947,4 @@ Every entry, with the download it currently points at. The ones added since
 | vita-presence-the-server | TheMightyV | v.0.1 | 3.0 MB | [download](https://github.com/TheMightyV/vita-presence-the-server/releases/download/v.0.1/vita-presence-the-server-win32.exe) | [github](https://github.com/TheMightyV/vita-presence-the-server) |
 | VitaPresence | Electry | v.1.0.0 | 0.7 MB | [download](https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip) | [github](https://github.com/Electry/VitaPresence) |
 
-4922 entries, 55.5 GB in total.
+4924 entries, 55.5 GB in total.

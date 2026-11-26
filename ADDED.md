@@ -4,7 +4,7 @@ Entries added after 31.07.2026. Some came from VitaDB once it was back, some fro
 their authors, some from elsewhere. Kept separate so the preserved catalog stays
 what it was on the day the service went down.
 
-## PSVITA homebrews (523)
+## PSVITA homebrews (525)
 
 | Name | Author | Version | Size | Download | Links |
 | --- | --- | --- | ---: | --- | --- |
@@ -43,6 +43,7 @@ what it was on the day the service went down.
 | BG2V | Calligula87 | v.0-beta | 3.0 MB | [download](https://github.com/Calligula87/BG2V/releases/download/v0-beta/BG2v0_beta.vpk) | [github](https://github.com/Calligula87/BG2V) |
 | BGFTP | GrapheneCt | v.3.24 | 0.0 MB | [download](https://github.com/GrapheneCt/BGFTP/releases/download/v3.24/BGFTP.vpk) | [github](https://github.com/GrapheneCt/BGFTP) |
 | Bike Race | franciscoclou | v.1.1 | 1.1 MB | [download](https://github.com/franciscoclou/bikerace-vita/releases/download/v1.1/BikeRace.vpk) | [github](https://github.com/franciscoclou/bikerace-vita) |
+| Black Ops Zombies | Voyd282 | v.1.00 | 8.3 MB | [download](https://github.com/Voyd282/bo1-zombies-vita/releases/download/Release/bo1zombies.vpk) | [github](https://github.com/Voyd282/bo1-zombies-vita) |
 | Blackout | dragaron | v.1.01 | 2.6 MB | [download](https://github.com/dragaron/Blackout/releases/download/v1.01/Blackout.vpk) | [github](https://github.com/dragaron/Blackout) |
 | Blobby Volley 2 | Sanya-arbuz | v.1.0 | 3.3 MB | [download](https://github.com/Sanya-arbuz/blobbyvolley2/releases/download/v1.0/blobby.vpk) | [github](https://github.com/Sanya-arbuz/blobbyvolley2) |
 | Boiled Corn | dos | v.1.0 | 5.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BoiledCorn.vpk) | [itch.io](https://dos.itch.io/boiledcorn) |
@@ -207,6 +208,7 @@ what it was on the day the service went down.
 | Material Eleven | Perroabuelo & joel16 | v.4.5.0 | 1.7 MB | [download](https://github.com/Perroabuelo/Material-Eleven/releases/download/v4.5.0/Material-Eleven-4.5.0.vpk) | [github](https://github.com/Perroabuelo/Material-Eleven) |
 | McDonalds eCDP KeyGen | LiEnby | v.1.0 | 1.2 MB | [download](https://github.com/LiEnby/eCDP-Serial-Code/releases/download/v1.0-vita/eCDPKeyGen.vpk) | [github](https://github.com/lienby/ecdp-serial-code) |
 | MGBAVitaEX | Zushikina-kun | v.2.1.6 | 0.8 MB | [download](https://github.com/Zushikina-kun/GBVitaEX/releases/download/v2.1.6/MGBAVitaEX-v2.1.6.vpk) | [github](https://github.com/Zushikina-kun/GBVitaEX) |
+| MGS Mobile | LeithSilver | v.0.1 | 1.7 MB | [download](https://github.com/LeithSilver/mgsm/releases/download/v0.1/MGS_Mobile_0.1_PSVita.vpk) | [github](https://github.com/LeithSilver/mgsm) |
 | Mii Maker Vita | karaoke112 | v.1.0.0 | 3.6 MB | [download](https://github.com/karaoke112/mii-maker-vita/releases/download/v1.0.0/mii-maker-vita.vpk) | [github](https://github.com/karaoke112/mii-maker-vita) |
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [github](https://github.com/minecraftpe-vita/minecraftpe-vita) |
 | Minecraft: Story Mode | LeZergan | v.1.19 | 3.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1450-minecraft-story-mode-1.19.vpk) | [github](https://github.com/LeZergan/mcsm-vita) |
@@ -3657,4 +3659,4 @@ what it was on the day the service went down.
 | The Drifter Vita Builder | xob0t | v.1.4.2 | 0.7 MB | [download](https://github.com/xob0t/the-drifter-vita/releases/download/v1.4.2/the-drifter-vita.zip) | [github](https://github.com/xob0t/the-drifter-vita) |
 | VCI-TOOLS | oestriot | v.1.4 | 2.8 MB | [download](https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip) | [github](https://github.com/oestriot/VCI-TOOLS) |
 
-3633 entries, 25.8 GB in total.
+3635 entries, 25.8 GB in total.
