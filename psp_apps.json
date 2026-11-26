@@ -1352,7 +1352,7 @@
     {
         "name": "Ocarina of Time PSP",
         "icon": "0ff68d915351a430876ec1d6b95326f700ffb48df51e5c249dc7dc3f8f67e13a.png",
-        "version": "Nightly 2026-11-24",
+        "version": "Nightly 2026-11-26",
         "author": "z2442",
         "type": "2",
         "description": "Port of the Ocarina of Time decompilation for PSP.",
@@ -1366,9 +1366,9 @@
         "source": "https://github.com/z2442/oot-PSP",
         "release_page": "https://github.com/z2442/oot-PSP/releases",
         "trailer": "",
-        "size": "2791142",
+        "size": "2793033",
         "data_size": "0",
-        "hash": "568be01a18df2e136963b78e0ab7334f",
+        "hash": "ee18d975daf37d4bbf5245f74c7bb66d",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: your own Ocarina of Time NTSC 1.0 ROM",
@@ -1377,7 +1377,7 @@
         "url": "https://github.com/z2442/oot-PSP/releases/download/latest/oot-psp-ntsc-1.0.zip",
         "data": "",
         "added": "2026-11-24T20:24:55Z",
-        "updated": "2026-11-24T20:24:55Z"
+        "updated": "2026-11-26T08:40:33Z"
     },
     {
         "name": "ToadGBA",

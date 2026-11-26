@@ -2110,7 +2110,7 @@ what it was on the day the service went down.
 | OASIS_OS | Andrew Showers (AndrewAltimit) | v.1.0 | 2.8 MB | [download](https://archive.org/download/OASISOS/OASISOS.zip) | [archive.org](https://archive.org/details/OASISOS) |
 | objLoader | Nems | v.1.0 | 0.1 MB | [download](https://archive.org/download/objLoader.7z/objLoader.zip) | [archive.org](https://archive.org/details/objLoader.7z) |
 | Obstacle | fede94boss | v.1.0 | 7.7 MB | [download](https://archive.org/download/obstacle.-7z/OBSTACLE.zip) | [archive.org](https://archive.org/details/obstacle.-7z) |
-| Ocarina of Time PSP | z2442 | Nightly 2026-11-24 | 2.7 MB | [download](https://github.com/z2442/oot-PSP/releases/download/latest/oot-psp-ntsc-1.0.zip) | [github](https://github.com/z2442/oot-PSP) |
+| Ocarina of Time PSP | z2442 | Nightly 2026-11-26 | 2.7 MB | [download](https://github.com/z2442/oot-PSP/releases/download/latest/oot-psp-ntsc-1.0.zip) | [github](https://github.com/z2442/oot-PSP) |
 | ODE Test | Matthew Harris (AnonymousTipster) | v.1.0 | 1.1 MB | [download](https://archive.org/download/ode-test/ODE-test.zip) | [archive.org](https://archive.org/details/ode-test) |
 | Odyssey For Panic | 240-185 | v.1.0 | 2.6 MB | [download](https://archive.org/download/odyssey-for-panic.-7z/OdysseyForPanic.zip) | [archive.org](https://archive.org/details/odyssey-for-panic.-7z) |
 | Ograniser | modsyn | v.1.0 | 1.2 MB | [download](https://archive.org/download/ogranise_v2.7z/ogranise_v2.zip) | [archive.org](https://archive.org/details/ogranise_v2.7z) |
