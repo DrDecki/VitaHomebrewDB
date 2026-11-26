@@ -67418,7 +67418,7 @@
     {
         "name": "Nazi Zombies Portable: Reboot",
         "icon": "a7515907441df9332404750db6b81b1d4fcd5548543c69b68aa0474e569f5a99.png",
-        "version": "Nightly 2026-11-23",
+        "version": "Nightly 2026-11-26",
         "author": "NZP Team",
         "type": "1",
         "description": "3D shooter game for PSP. Created by: Blubswillrule: Coding, Models, GFX, Sounds, Music Ju[s]tice: Maps, Models, GFX Jukki: Coding Biodude: Sounds Dr_Mabuse1981: Sounds Naievil: Coding, NX Maintaining MotoLegacy: Coding, GFX, Music Derped_Crusader: Models, GFX",
@@ -67432,9 +67432,9 @@
         "source": "https://github.com/nzp-team/nzportable",
         "release_page": "https://github.com/nzp-team/nzportable/releases/tag/nightly",
         "trailer": "",
-        "size": "65086918",
+        "size": "65095684",
         "data_size": "",
-        "hash": "b791bb67d9ee6774a8431a27d5615e0c",
+        "hash": "009b30a10da5d8a8a7d3cd9a2e3d968d",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -67443,7 +67443,7 @@
         "url": "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip",
         "data": "",
         "added": "2026-11-14T22:52:41Z",
-        "updated": "2026-11-23T20:33:26Z"
+        "updated": "2026-11-26T19:10:36Z"
     },
     {
         "name": "PSP Quran",

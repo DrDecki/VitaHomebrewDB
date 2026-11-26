@@ -224,7 +224,7 @@ what it was on the day the service went down.
 | Mystic Warriors | Tobic-99 | v.1.0 | 5.7 MB | [download](https://github.com/Tobic-99/mystwarr-vita/releases/download/1.0/mystwarr.vpk) | [github](https://github.com/Tobic-99/mystwarr-vita) |
 | NAOH™: Arcade Collection | KiddRwxSsj | v.2.0.1 | 33.2 MB | [download](https://github.com/KiddRwxSsj/naoh-ac/releases/download/2.0.1/naoh_arcade_collection2.0.1.vpk) | [github](https://github.com/KiddRwxSsj/naoh-ac) |
 | Naruto Shippuden: Ultimate Ninja Storm 2 | Kruvyy | v.1.0 | 18.0 MB | [download](https://github.com/Kruvyy/naruto-storm2-vita/releases/download/storm2vita/storm2_vita.vpk) | [github](https://github.com/Kruvyy/naruto-storm2-vita) |
-| Nazi Zombies: Portable | NZP Team | Nightly 2026-11-23 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/nzportable-vita.vpk) | [github](https://github.com/nzp-team/nzportable) |
+| Nazi Zombies: Portable | NZP Team | Nightly 2026-11-26 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/nzportable-vita.vpk) | [github](https://github.com/nzp-team/nzportable) |
 | NBA2K16 | sexcurrybeats | v.0.2 | 2.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/nba2k16-0.2.vpk) | [gitlab](https://gitlab.com/sexcurrybeats/nba2k16-vita) |
 | Need for Speed Underground | NDRWhun | v.1.0.1 | 6.8 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/4830-need-for-speed-underground-1.0.1.vpk) | [github](https://github.com/ndrwhun/ug1vita) |
 | Neon Drift | ToiletCatGames | v.NeonDriftVRBeta | 51.8 MB | [download](https://github.com/ToiletCatGames/NeonDriftPSVitaPort/releases/download/NeonDriftVRBeta/NeonDrift.vpk) | [github](https://github.com/ToiletCatGames/NeonDriftPSVitaPort) |
@@ -2025,7 +2025,7 @@ what it was on the day the service went down.
 | Native32PSP | wxwxwz | v.1.0 | 5.6 MB | [download](https://archive.org/download/native32psp/Native32PSP-20260920.zip) | [archive.org](https://archive.org/details/native32psp) |
 | Nav'Assault | Clode666 | v.1.0 | 2.8 MB | [download](https://archive.org/download/nav-assault.-7z/NavAssault.zip) | [archive.org](https://archive.org/details/nav-assault.-7z) |
 | Navesound | Kiketoreador | v.1.0 | 6.5 MB | [download](https://archive.org/download/navesound.-7z/Navesound.zip) | [archive.org](https://archive.org/details/navesound.-7z) |
-| Nazi Zombies Portable: Reboot | NZP Team | Nightly 2026-11-23 | 62.1 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip) | [github](https://github.com/nzp-team/nzportable) |
+| Nazi Zombies Portable: Reboot | NZP Team | Nightly 2026-11-26 | 62.1 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-psp.zip) | [github](https://github.com/nzp-team/nzportable) |
 | NCDZPSP | theelf | v.1.0 | 2.2 MB | [download](https://archive.org/download/ngcdz-theelf.7z/ngcdz-theelf.zip) | [archive.org](https://archive.org/details/ngcdz-theelf.7z) |
 | NCDZPSP [Adhoc] | NJ, AhMan | v.2.2.1a | 0.3 MB | [download](https://archive.org/download/ncdzpsp_2.2.1a_adhoc_for_3x/ncdzpsp_2.2.1a_adhoc_for_slim.zip) | [archive.org](https://archive.org/details/ncdzpsp_2.2.1a_adhoc_for_3x) |
 | NCES | MotoLegacy | v.1.0 | 0.6 MB | [download](https://archive.org/download/nces.-7z/NCES.zip) | [archive.org](https://archive.org/details/nces.-7z) |
