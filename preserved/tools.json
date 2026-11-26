@@ -1015,7 +1015,7 @@
     },
     {
         "name": "Hyper Light Drifter Vita Builder",
-        "version": "v.0.1.0",
+        "version": "v.0.3.0",
         "author": "gmacro7",
         "description": "Builds a native PSVita version of Hyper Light Drifter from your own Steam copy.",
         "id": "5092",
@@ -1027,16 +1027,16 @@
         "source": "https://github.com/gmacro7/hld-vita",
         "release_page": "https://github.com/gmacro7/hld-vita/releases",
         "trailer": "",
-        "size": "9367750",
+        "size": "9467418",
         "data_size": "",
-        "hash": "5df2d4fc8c8638879feb4892d7678fc2",
+        "hash": "185a0ee68f9b609beea044cb5e83dea6",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/gmacro7/hld-vita/releases/download/v0.1.0/HLD-Vita-Builder-02.78.zip",
+        "url": "https://github.com/gmacro7/hld-vita/releases/download/v0.3.0/HLD-Vita-Builder-02.83.zip",
         "added": "2026-11-25T20:45:25Z",
-        "updated": "2026-11-25T20:45:25Z"
+        "updated": "2026-11-26T14:07:53Z"
     }
 ]
