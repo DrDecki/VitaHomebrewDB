@@ -1366,9 +1366,9 @@
         "source": "https://github.com/z2442/oot-PSP",
         "release_page": "https://github.com/z2442/oot-PSP/releases",
         "trailer": "",
-        "size": "2793033",
+        "size": "2804497",
         "data_size": "0",
-        "hash": "ee18d975daf37d4bbf5245f74c7bb66d",
+        "hash": "872a370a3f34fd2a554ce038706b7fdf",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: your own Ocarina of Time NTSC 1.0 ROM",
@@ -1377,7 +1377,7 @@
         "url": "https://github.com/z2442/oot-PSP/releases/download/latest/oot-psp-ntsc-1.0.zip",
         "data": "",
         "added": "2026-11-24T20:24:55Z",
-        "updated": "2026-11-26T08:40:33Z"
+        "updated": "2026-11-27T03:41:46Z"
     },
     {
         "name": "ToadGBA",
