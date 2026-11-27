@@ -177,7 +177,7 @@ what it was on the day the service went down.
 | J2Vita | KiddRwxSsj | v.0.9.2 | 36.6 MB | [download](https://github.com/KiddRwxSsj/j2vita/releases/download/v0.9.2/j2vita.vpk) | [github](https://github.com/KiddRwxSsj/j2vita) |
 | JAVITA: Jedi Academy | NDRWhun | v.1.1.0 | 3.7 MB | [download](https://github.com/NDRWhun/JAVITA/releases/download/release-1.1.0/JAVITA.vpk) | [github](https://github.com/NDRWhun/JAVITA) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [github](https://github.com/largepelotas/JaVitaScript-Snake) |
-| Jazz² Resurrection | deathkiller | Nightly 2026-11-27 (20156b5) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
+| Jazz² Resurrection | deathkiller | Nightly 2026-11-27 (4bda538) | 8.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk) | [github](https://github.com/deathkiller/jazz2-native) |
 | JK2VITA: Jedi Outcast | NDRWhun | v.release-1.0.1 | 3.3 MB | [download](https://github.com/NDRWhun/JK2VITA/releases/download/release-1.0.1/JK2VITA_1.0.1.vpk) | [github](https://github.com/NDRWhun/JK2VITA) |
 | Kabuto Park | Brendonm17 | v.1.0.0 | 17.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/KabutoPark_Vita.vpk) | [itch.io](https://brendonm17.itch.io/kabuto-park-vita) |
 | Keen4Vita | Boundish91 | v.1.0 | 1.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Keen4Vita.vpk) | — |
@@ -749,7 +749,7 @@ what it was on the day the service went down.
 | Area 32 | Green Fort | v.1.0 | 1.0 MB | [download](https://archive.org/download/area-32/Area32.zip) | [archive.org](https://archive.org/details/area-32) |
 | Arithmétik | JiiCeii | v.1.0 | 0.9 MB | [download](https://archive.org/download/arithmetique-jii-ceii.-7z/Arithm%C3%A9tique_JiiCeii.zip) | [archive.org](https://archive.org/details/arithmetique-jii-ceii.-7z) |
 | ARK-4 | PSP-Archive | v.42069r206 | 38.3 MB | [download](https://github.com/PSP-Archive/ARK-4/releases/download/v42069r206/ARK4.zip) | [github](https://github.com/PSP-Archive/ARK-4) |
-| ARK-5 | PSP-Arkfive | Nightly 2026-11-25 | 0.3 MB | [download](https://github.com/PSP-Arkfive/ARK-5/releases/download/latest/ARK-5.zip) | [github](https://github.com/PSP-Arkfive/ARK-5) |
+| ARK-5 | PSP-Arkfive | Nightly 2026-11-27 | 0.3 MB | [download](https://github.com/PSP-Arkfive/ARK-5/releases/download/latest/ARK-5.zip) | [github](https://github.com/PSP-Arkfive/ARK-5) |
 | Arkanoid | Qubitz | v.1.0 | 3.4 MB | [download](https://archive.org/download/arkanoid.-7z/Arkanoid.zip) | [archive.org](https://archive.org/details/arkanoid.-7z) |
 | ArkanoidUJI | saulotmalo | v.1.0 | 2.1 MB | [download](https://archive.org/download/arkanoid-uji.-7z/ArkanoidUJI.zip) | [archive.org](https://archive.org/details/arkanoid-uji.-7z) |
 | Arrow | Alexandre Rimbot (Kinow) | v.1.0 | 1.5 MB | [download](https://archive.org/download/arrow.-7z/Arrow.zip) | [archive.org](https://archive.org/details/arrow.-7z) |

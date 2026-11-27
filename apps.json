@@ -2774,7 +2774,7 @@
     {
         "name": "Jazz² Resurrection",
         "icon": "16ecdd2ef720a20c311dc809707dc1e7a655015fbb825e9c283ba514c3ddcc56.png",
-        "version": "Nightly 2026-11-27 (20156b5)",
+        "version": "Nightly 2026-11-27 (4bda538)",
         "author": "deathkiller",
         "type": "2",
         "description": "Open-source reimplementation of Jazz Jackrabbit 2 for PSVITA.",
@@ -2788,9 +2788,9 @@
         "source": "https://github.com/deathkiller/jazz2-native",
         "release_page": "https://github.com/deathkiller/jazz2-native/actions",
         "trailer": "",
-        "size": "9047319",
+        "size": "9047390",
         "data_size": "0",
-        "hash": "17726b2256e6ec3b299112eca0e71f3c",
+        "hash": "871fd9830d47038d069cb87db3348ca4",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: your own copy of Jazz Jackrabbit 2",
@@ -2800,7 +2800,7 @@
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk",
         "data": "",
         "added": "2026-11-21T23:01:09Z",
-        "updated": "2026-11-27T03:42:49Z"
+        "updated": "2026-11-27T16:53:41Z"
     },
     {
         "name": "Engram Installer",
