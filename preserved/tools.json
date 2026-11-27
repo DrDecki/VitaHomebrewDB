@@ -758,14 +758,14 @@
         "id": "1461",
         "name": "VCI-TOOLS",
         "author": "oestriot",
-        "version": "v.1.4",
+        "version": "v.1.4.1",
         "description": "Convert PSVITA game cart dumps between formats.",
         "long_description": "Extracts and converts vci, psv and Vita disk images. A Linux build is in the same release.",
         "changelog": "- First Release",
         "requirements": "",
-        "url": "https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4/vci-tools-windows.zip",
-        "size": "2912858",
-        "hash": "0f785061f120ebe3ab45ba18d3ad7b06",
+        "url": "https://github.com/oestriot/VCI-TOOLS/releases/download/v1.4.1/vci-tools-windows.zip",
+        "size": "2914005",
+        "hash": "049e5b1e6cc51de92099d93d2d717098",
         "hash2": "",
         "data_size": "0",
         "date": "2026-08-05",
@@ -778,7 +778,7 @@
         "trailer": "",
         "trophies": "0",
         "added": "2026-08-05T22:31:52Z",
-        "updated": "2026-11-18T16:11:28Z"
+        "updated": "2026-11-27T14:05:34Z"
     },
     {
         "id": "1462",
@@ -1015,7 +1015,7 @@
     },
     {
         "name": "Hyper Light Drifter Vita Builder",
-        "version": "v.0.3.0",
+        "version": "v.0.3.3",
         "author": "gmacro7",
         "description": "Builds a native PSVita version of Hyper Light Drifter from your own Steam copy.",
         "id": "5092",
@@ -1027,16 +1027,16 @@
         "source": "https://github.com/gmacro7/hld-vita",
         "release_page": "https://github.com/gmacro7/hld-vita/releases",
         "trailer": "",
-        "size": "9467418",
+        "size": "9475627",
         "data_size": "",
-        "hash": "185a0ee68f9b609beea044cb5e83dea6",
+        "hash": "f44a57bc8a0c306a58745e3ea2cf0c42",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "",
         "tags": "",
-        "url": "https://github.com/gmacro7/hld-vita/releases/download/v0.3.0/HLD-Vita-Builder-02.83.zip",
+        "url": "https://github.com/gmacro7/hld-vita/releases/download/v0.3.3/HLD-Vita-Builder-02.86.zip",
         "added": "2026-11-25T20:45:25Z",
-        "updated": "2026-11-26T14:07:53Z"
+        "updated": "2026-11-27T14:06:34Z"
     }
 ]
