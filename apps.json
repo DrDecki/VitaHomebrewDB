@@ -2774,7 +2774,7 @@
     {
         "name": "Jazz² Resurrection",
         "icon": "16ecdd2ef720a20c311dc809707dc1e7a655015fbb825e9c283ba514c3ddcc56.png",
-        "version": "Nightly 2026-11-27 (4bda538)",
+        "version": "Nightly 2026-11-27 (ad2a9c6)",
         "author": "deathkiller",
         "type": "2",
         "description": "Open-source reimplementation of Jazz Jackrabbit 2 for PSVITA.",
@@ -2788,9 +2788,9 @@
         "source": "https://github.com/deathkiller/jazz2-native",
         "release_page": "https://github.com/deathkiller/jazz2-native/actions",
         "trailer": "",
-        "size": "9047390",
+        "size": "9047459",
         "data_size": "0",
-        "hash": "871fd9830d47038d069cb87db3348ca4",
+        "hash": "af30e2b87e3c9722ddea400ff134b1ec",
         "hash2": "",
         "changelog": "- First Release",
         "requirements": "- Game Data Files: your own copy of Jazz Jackrabbit 2",
@@ -2800,7 +2800,7 @@
         "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/nightly/jazz2-resurrection.vpk",
         "data": "",
         "added": "2026-11-21T23:01:09Z",
-        "updated": "2026-11-27T16:53:41Z"
+        "updated": "2026-11-28T01:33:52Z"
     },
     {
         "name": "Engram Installer",
@@ -25733,7 +25733,7 @@
     {
         "name": "Xash3D-FWGS",
         "icon": "ea21c1e094cc19f20ed4e11d671e28f1cee347b2f07d1c64e03c5923d0928aa6.png",
-        "version": "Nightly 2026-11-24",
+        "version": "Nightly 2026-11-27",
         "author": "Xash3D-FWGS Team & fgsfdsfgs",
         "type": "2",
         "description": "Port of Xash3D-FWGS for PSVITA.",
@@ -25747,9 +25747,9 @@
         "source": "https://github.com/FWGS/xash3d-fwgs",
         "release_page": "https://github.com/FWGS/xash3d-fwgs/release",
         "trailer": "",
-        "size": "27896370",
+        "size": "27896426",
         "data_size": "45288926",
-        "hash": "05e20460f96328217e23c0ebb45e795c",
+        "hash": "e931b77a74f4932516bb351a16660b63",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx in ur0:data\n- kubridge.skprx in ur0:tai\n- Game Data Files: PC in ux0:data/xash3d",
@@ -25760,7 +25760,7 @@
         "data": "https://files.coolatoms.org/xash-data.zip",
         "requirements_checked": "1",
         "added": "2026-08-01T19:07:49Z",
-        "updated": "2026-11-24T05:25:05Z"
+        "updated": "2026-11-28T01:32:47Z"
     },
     {
         "name": "NextBot For PSVita",
